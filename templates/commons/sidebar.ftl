@@ -67,7 +67,7 @@
     <!-- Tags List can be show/hide from config-->
     <#if (config.sidebar_tags_show?boolean?? )>
         <section id="tags">
-            <ul class="posts">
+            <ul class="tags">
                 <header>
                     <h3>Tags</h3>
                 </header>
@@ -90,7 +90,7 @@
 
     <!-- License -->
         <section class="blurb">
-            <h2>License</h2>
+            <h2>License of the content</h2>
             <img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>${config.sidebar_intro_license_pic_src}" width="${config.sidebar_intro_license_pic_width}" alt="${config.sidebar_intro_license_pic_alt}" />
             <p>${config.sidebar_intro_license_text}</p>
 

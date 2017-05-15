@@ -2375,6 +2375,17 @@
 
 			}
 
+		ul.tags {
+			list-style: none;
+			padding: 0;
+		}
+
+		ul.tags li {
+			border-top: dotted 1px rgba(160, 160, 160, 0.3);
+			margin: 0.5em 0 0 0;
+			padding: 0.5em 0 0 0;
+		}
+
 		ul.posts {
 			list-style: none;
 			padding: 0;
@@ -2382,8 +2393,8 @@
 
 			ul.posts li {
 				border-top: dotted 1px rgba(160, 160, 160, 0.3);
-				margin: 1.5em 0 0 0;
-				padding: 1.5em 0 0 0;
+				margin: 1em 0 0 0;
+				padding: 1em 0 0 0;
 			}
 
 				ul.posts li:first-child {
