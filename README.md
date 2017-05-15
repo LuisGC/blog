@@ -1,12 +1,16 @@
-# JBake Future Imperfect Template
+# Luiyología
 
-Future Imperfect is based on [HTML5 UP's theme](http://html5up.net/future-imperfect). Julio Pescador [ported](https://github.com/jpescador/hugo-future-imperfect) it for SSG websites. Here, it adapted for [JBake](http://jbake.org/).
+This blog uses [**JBake**](http://jbake.org/), enriched by the great [**Future Imperfect Template**](https://github.com/manikmagar/jbake-future-imperfect-template) by [**@manikmagar**](https://github.com/manikmagar)
 
-![JBake Future Imperfect Blog](jbake_future_imperfect_blog.png)
+## About JBake
 
-Live example can be seen [here](https://manik.magar.me/).
+[**JBake**](http://jbake.org/) is a Java based open source static site/blog generator for developers. Check the code on [Github](https://github.com/jbake-org/jbake)
 
-## Getting Started
+## About JBake Future Imperfect Template
+
+**Future Imperfect** is based on [HTML5 UP's theme](http://html5up.net/future-imperfect). Julio Pescador [ported](https://github.com/jpescador/hugo-future-imperfect) it for SSG websites. It is adapted for [JBake](http://jbake.org/) by [**@manikmagar**](https://github.com/manikmagar)
+
+## Want one? Follow this instructions
 
 First, make sure you install JBake as per instructions [here](http://jbake.org/download.html).
 
@@ -21,7 +25,7 @@ Once you have JBake, assuming you are creating a site called '**awesome-jbake**'
 
 ```
 
-You should see this repo files in there. Check [JBake 2.5.1 Documentation](http://jbake.org/docs/2.5.1/#project_structure) to understand this structure. 
+You should see this repo files in there. Check [JBake 2.5.1 Documentation](http://jbake.org/docs/2.5.1/#project_structure) to understand this structure.
 
 To see in action, while in awesome-jbake folder, run `jbake -b -s`. In few seconds your site should be live on http://localhost:8820/, you can visit it in browser.
 
@@ -70,7 +74,7 @@ You MUST define label, url and icon properties for each menu item in `site.menus
 
 ### Social Links
 
-You can control your social links by adding your social handlers for sidebar.social.* propeties. 
+You can control your social links by adding your social handlers for sidebar.social.* propeties.
 
 ## Adding 404 page not found for GitHub
 
@@ -85,15 +89,8 @@ featuredimage=img/{path to image}
 featuredalt=alternate text for image
 ```
 
-
-
-## About me
-
-Feel free to give a shout on twitter [@manikmagar](https://twitter.com/manikmagar) and [@javabake](https://twitter.com/manikmagar)
-
 ## License
 
-This theme is released under the MIT license. Please read the [license](LICENSE.md) for more information.
+This blog is released under the MIT license, as both **JBake** and the **Future Imperfect Template**.
 
-
-
+Please read the [license](LICENSE.md) for more information.
