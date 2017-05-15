@@ -1,0 +1,41 @@
+/* Custom styles for the blog
+-------------------------------------------------- */
+
+blockquote{
+background: transparent url(../img/blog/mouth_quote.png) no-repeat left top;
+margin: 10px 20px 10px 0px;
+padding: 5px 0px 0px 80px;
+font-style: italic;
+color: #555555;
+  text-align:justify;
+}
+
+blockquote p{
+  padding: 8px;
+  margin: 2px;
+  border: 1px dotted #555555;
+}
+
+.pasaje {
+  background: transparent url(../img/blog/book_bg.jpg) no-repeat left top;
+  margin: 10px 0px;
+  padding: 20px 25px;
+  font-style: italic;
+  color: #555555;
+  text-align:justify;
+}
+
+.imagen {
+  width:300px;
+  margin-left: 30px;
+  float:right;
+}
+
+.imagen-texto {
+  width:300px;
+  text-align:center;
+}
+
+.spacious li {
+  margin: 0 0 1rem 0;
+}
