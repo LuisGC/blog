@@ -6,7 +6,7 @@
 -->
 <html lang="en">
   <head>
-    <base href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>">
+    <base href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>blog">
     <meta charset="utf-8"/>
     <title>${config.site_title}<#if (content.title)??> - <#escape x as x?xml>${content.title}</#escape></#if></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
