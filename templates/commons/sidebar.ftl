@@ -5,18 +5,22 @@
         <section id="intro">
                 <#if (config.sidebar_intro_pic_circle?boolean == true)>
                     <a href="${content.rootpath}" class="logo"><img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>${config.sidebar_intro_pic_src}" class="intro-circle" width="${config.sidebar_intro_pic_width}" alt="${config.sidebar_intro_pic_alt}" /></a>
-               
+
                 <#elseif (config.sidebar_intro_pic_imperfect?boolean == true) >
                     <a href="${content.rootpath}" class="logo"><img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>${config.sidebar_intro_pic_src}" alt="${config.sidebar_intro_pic_alt}" /></a>
                 <#else>
-                    <a href="${content.rootpath}" class="logo"><img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>${config.sidebar_intro_pic_src}" width="${config.sidebar_intro_pic_width}" alt="${config.sidebar_intro_pic_alt}" /></a>
+                    <img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>${config.sidebar_intro_pic_src}" width="${config.sidebar_intro_pic_width}" alt="${config.sidebar_intro_pic_alt}" />
                  </#if>
-                 
+
+<!--
                 <header>
                     <h2>${config.sidebar_intro_header}</h2>
                     <p>${config.sidebar_intro_summary}</p>
                 </header>
-                
+-->
+
+            <br />
+
             <ul class="icons">
                 <#if (config.render_feed?boolean == true) >
                     <li><a href="${config.feed_file}" type="application/rss+xml"
@@ -35,7 +39,7 @@
                     <h3>Recent Posts</h3>
                 </header>
 				<#list published_posts as sideBarPost1>
-					
+
                 	<#if (sideBarPost1?counter > config.sidebar_postAmount?number) ><#break/></#if>
                     <li>
                         <article>
@@ -48,7 +52,7 @@
                         </article>
                     </li>
                 </#list>
-				
+
 				<#if (published_posts?size > config.sidebar_postAmount?number) >
                     <li>
                         <ul class="actions">
@@ -82,12 +86,13 @@
             </ul>
         </section>
     </#if>
-  
 
-    <!-- About -->
+
+    <!-- License -->
         <section class="blurb">
-            <h2>About</h2>
-            <p>${config.sidebar_intro_about}</p>
+            <h2>License</h2>
+            <img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>${config.sidebar_intro_license_pic_src}" width="${config.sidebar_intro_license_pic_width}" alt="${config.sidebar_intro_license_pic_alt}" />
+            <p>${config.sidebar_intro_license_text}</p>
 
             <ul class="actions">
                 <li><a href="${content.rootpath}${config.sidebar_intro_about_learnMore}" class="button">Learn More</a></li>
