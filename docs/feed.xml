@@ -6,8 +6,8 @@
     <atom:link href="https://luisgc.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Mon, 15 May 2017 22:47:54 +0200</pubDate>
-    <lastBuildDate>Mon, 15 May 2017 22:47:54 +0200</lastBuildDate>
+    <pubDate>Mon, 15 May 2017 22:57:53 +0200</pubDate>
+    <lastBuildDate>Mon, 15 May 2017 22:57:53 +0200</lastBuildDate>
 
     <item>
       <title>Greach 2017, the Groovy Spanish Conference</title>
@@ -21,7 +21,7 @@
  &lt;i&gt;I&apos;ll keep my intent to summarize all the important events that I&apos;m attending, and I&apos;ll do it again in English as the audience is international. &lt;b&gt;Please, point me any mistake you may find&lt;/b&gt;&lt;/i&gt;
 &lt;/center&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;div class=&quot;imagen&quot;&gt; 
+&lt;div class=&quot;imagen&quot;&gt;
  &lt;img src=&quot;/img/2017/04/Greach_2017.png&quot; style=&quot;float:right&quot; alt=&quot;Greach 2017&quot; width=&quot;300&quot;&gt;
  &lt;div class=&quot;imagen-texto&quot;&gt;
   &lt;a href=&quot;http://2017.greachconf.com/&quot;&gt;Greach 2017&lt;/a&gt;
@@ -36,7 +36,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/Greach2017?src=hash&quot;&gt;#Greach2017&lt;/a&gt; &lt;a href=&quot;https://twitter.com/alotor&quot;&gt;@alotor&lt;/a&gt; a punto de comenzar su charla sobre Concurrencia en &lt;a href=&quot;https://twitter.com/ApacheGroovy&quot;&gt;@ApacheGroovy&lt;/a&gt; &lt;a href=&quot;https://t.co/u0dnTx5aIp&quot;&gt;pic.twitter.com/u0dnTx5aIp&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo) 
+   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/Greach2017?src=hash&quot;&gt;#Greach2017&lt;/a&gt; &lt;a href=&quot;https://twitter.com/alotor&quot;&gt;@alotor&lt;/a&gt; a punto de comenzar su charla sobre Concurrencia en &lt;a href=&quot;https://twitter.com/ApacheGroovy&quot;&gt;@ApacheGroovy&lt;/a&gt; &lt;a href=&quot;https://t.co/u0dnTx5aIp&quot;&gt;pic.twitter.com/u0dnTx5aIp&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo)
    &lt;a href=&quot;https://twitter.com/luiyo/status/847720451442790402&quot;&gt;31 de marzo de 2017&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -46,7 +46,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Ivan talking about javaslang and groovy! &lt;a href=&quot;https://twitter.com/hashtag/greach?src=hash&quot;&gt;#greach&lt;/a&gt; &lt;a href=&quot;https://t.co/zkxySl6SQu&quot;&gt;pic.twitter.com/zkxySl6SQu&lt;/a&gt;&lt;/p&gt;— Ryan Vanderwerf (@RyanVanderwerf) 
+   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Ivan talking about javaslang and groovy! &lt;a href=&quot;https://twitter.com/hashtag/greach?src=hash&quot;&gt;#greach&lt;/a&gt; &lt;a href=&quot;https://t.co/zkxySl6SQu&quot;&gt;pic.twitter.com/zkxySl6SQu&lt;/a&gt;&lt;/p&gt;— Ryan Vanderwerf (@RyanVanderwerf)
    &lt;a href=&quot;https://twitter.com/RyanVanderwerf/status/847740674719887361&quot;&gt;31 de marzo de 2017&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -56,7 +56,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;HTTPBuilder NG: Back From The Dead as presented at &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; 2017 &lt;a href=&quot;https://t.co/KnYbstLU0Z&quot;&gt;https://t.co/KnYbstLU0Z&lt;/a&gt;&lt;a href=&quot;https://twitter.com/hashtag/greach?src=hash&quot;&gt;#greach&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/groovylang?src=hash&quot;&gt;#groovylang&lt;/a&gt;&lt;/p&gt;— Noam Tenne (@NoamTenne) 
+   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;HTTPBuilder NG: Back From The Dead as presented at &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; 2017 &lt;a href=&quot;https://t.co/KnYbstLU0Z&quot;&gt;https://t.co/KnYbstLU0Z&lt;/a&gt;&lt;a href=&quot;https://twitter.com/hashtag/greach?src=hash&quot;&gt;#greach&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/groovylang?src=hash&quot;&gt;#groovylang&lt;/a&gt;&lt;/p&gt;— Noam Tenne (@NoamTenne)
    &lt;a href=&quot;https://twitter.com/NoamTenne/status/847782732935553024&quot;&gt;31 de marzo de 2017&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -66,7 +66,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/burtbeckwith&quot;&gt;@burtbeckwith&lt;/a&gt; talking about &quot;hasMany considered harmful&quot; at &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; &lt;a href=&quot;https://t.co/gJA7f3HW5X&quot;&gt;pic.twitter.com/gJA7f3HW5X&lt;/a&gt;&lt;/p&gt;— jmiguel rodriguez (@jmiguel) 
+   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/burtbeckwith&quot;&gt;@burtbeckwith&lt;/a&gt; talking about &quot;hasMany considered harmful&quot; at &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; &lt;a href=&quot;https://t.co/gJA7f3HW5X&quot;&gt;pic.twitter.com/gJA7f3HW5X&lt;/a&gt;&lt;/p&gt;— jmiguel rodriguez (@jmiguel)
    &lt;a href=&quot;https://twitter.com/jmiguel/status/847792794542518273&quot;&gt;31 de marzo de 2017&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -76,7 +76,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/Greach?src=hash&quot;&gt;#Greach&lt;/a&gt; and now in &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@GreachConf&lt;/a&gt; we&apos;ll learn about GraphQL and Groovy from the great &lt;a href=&quot;https://twitter.com/marioggar&quot;&gt;@marioggar&lt;/a&gt; &lt;a href=&quot;https://t.co/8PoSK7DoOv&quot;&gt;pic.twitter.com/8PoSK7DoOv&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo) 
+   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/Greach?src=hash&quot;&gt;#Greach&lt;/a&gt; and now in &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@GreachConf&lt;/a&gt; we&apos;ll learn about GraphQL and Groovy from the great &lt;a href=&quot;https://twitter.com/marioggar&quot;&gt;@marioggar&lt;/a&gt; &lt;a href=&quot;https://t.co/8PoSK7DoOv&quot;&gt;pic.twitter.com/8PoSK7DoOv&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo)
    &lt;a href=&quot;https://twitter.com/luiyo/status/847795673521061888&quot;&gt;31 de marzo de 2017&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -86,7 +86,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;It&apos;s time for &lt;a href=&quot;https://twitter.com/hashtag/groovypuzzlers?src=hash&quot;&gt;#groovypuzzlers&lt;/a&gt;! &lt;a href=&quot;https://twitter.com/el_groovyssimo&quot;&gt;@el_groovyssimo&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/NoamTenne&quot;&gt;@NoamTenne&lt;/a&gt; rocking on stage at &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt;! &lt;a href=&quot;https://t.co/mVjhLJ6fhr&quot;&gt;pic.twitter.com/mVjhLJ6fhr&lt;/a&gt;&lt;/p&gt;— Autentia (@autentia) 
+   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;It&apos;s time for &lt;a href=&quot;https://twitter.com/hashtag/groovypuzzlers?src=hash&quot;&gt;#groovypuzzlers&lt;/a&gt;! &lt;a href=&quot;https://twitter.com/el_groovyssimo&quot;&gt;@el_groovyssimo&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/NoamTenne&quot;&gt;@NoamTenne&lt;/a&gt; rocking on stage at &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt;! &lt;a href=&quot;https://t.co/mVjhLJ6fhr&quot;&gt;pic.twitter.com/mVjhLJ6fhr&lt;/a&gt;&lt;/p&gt;— Autentia (@autentia)
    &lt;a href=&quot;https://twitter.com/autentia/status/847834413673181186&quot;&gt;31 de marzo de 2017&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -96,7 +96,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Alexa can do GREAT stuff! &lt;a href=&quot;https://twitter.com/RyanVanderwerf&quot;&gt;@RyanVanderwerf&lt;/a&gt; has her tell &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@Greachconf&lt;/a&gt; we&apos;re all &lt;a href=&quot;https://twitter.com/hashtag/Groovy?src=hash&quot;&gt;#Groovy&lt;/a&gt; 😎 &lt;a href=&quot;https://twitter.com/amazon&quot;&gt;@amazon&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/grailsfw?src=hash&quot;&gt;#grailsfw&lt;/a&gt; &lt;a href=&quot;https://twitter.com/groovypodcast&quot;&gt;@groovypodcast&lt;/a&gt; &lt;a href=&quot;https://t.co/c2KfK0A7u2&quot;&gt;pic.twitter.com/c2KfK0A7u2&lt;/a&gt;&lt;/p&gt;— Ted Vinke (@tvinke) 
+   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Alexa can do GREAT stuff! &lt;a href=&quot;https://twitter.com/RyanVanderwerf&quot;&gt;@RyanVanderwerf&lt;/a&gt; has her tell &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@Greachconf&lt;/a&gt; we&apos;re all &lt;a href=&quot;https://twitter.com/hashtag/Groovy?src=hash&quot;&gt;#Groovy&lt;/a&gt; 😎 &lt;a href=&quot;https://twitter.com/amazon&quot;&gt;@amazon&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/grailsfw?src=hash&quot;&gt;#grailsfw&lt;/a&gt; &lt;a href=&quot;https://twitter.com/groovypodcast&quot;&gt;@groovypodcast&lt;/a&gt; &lt;a href=&quot;https://t.co/c2KfK0A7u2&quot;&gt;pic.twitter.com/c2KfK0A7u2&lt;/a&gt;&lt;/p&gt;— Ted Vinke (@tvinke)
    &lt;a href=&quot;https://twitter.com/tvinke/status/848082157734068224&quot;&gt;1 de abril de 2017&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -106,7 +106,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;What&apos;s new with &lt;a href=&quot;https://twitter.com/hashtag/grailsfw?src=hash&quot;&gt;#grailsfw&lt;/a&gt;?&lt;a href=&quot;https://twitter.com/graemerocher&quot;&gt;@graemerocher&lt;/a&gt; delivers keynote &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; and fills us in! &lt;a href=&quot;https://t.co/RJ029GnXGN&quot;&gt;pic.twitter.com/RJ029GnXGN&lt;/a&gt;&lt;/p&gt;— OCI (@ObjectComputing) 
+   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;What&apos;s new with &lt;a href=&quot;https://twitter.com/hashtag/grailsfw?src=hash&quot;&gt;#grailsfw&lt;/a&gt;?&lt;a href=&quot;https://twitter.com/graemerocher&quot;&gt;@graemerocher&lt;/a&gt; delivers keynote &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; and fills us in! &lt;a href=&quot;https://t.co/RJ029GnXGN&quot;&gt;pic.twitter.com/RJ029GnXGN&lt;/a&gt;&lt;/p&gt;— OCI (@ObjectComputing)
    &lt;a href=&quot;https://twitter.com/ObjectComputing/status/848103571509956610&quot;&gt;1 de abril de 2017&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -116,7 +116,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/Greach?src=hash&quot;&gt;#Greach&lt;/a&gt; my &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; continues with &lt;a href=&quot;https://twitter.com/marcinerdmann&quot;&gt;@MarcinErdmann&lt;/a&gt; (Geb project lead since 2014) about Geb best practices &lt;a href=&quot;https://t.co/YCQ3Whor9W&quot;&gt;pic.twitter.com/YCQ3Whor9W&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo) 
+   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/Greach?src=hash&quot;&gt;#Greach&lt;/a&gt; my &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; continues with &lt;a href=&quot;https://twitter.com/marcinerdmann&quot;&gt;@MarcinErdmann&lt;/a&gt; (Geb project lead since 2014) about Geb best practices &lt;a href=&quot;https://t.co/YCQ3Whor9W&quot;&gt;pic.twitter.com/YCQ3Whor9W&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo)
    &lt;a href=&quot;https://twitter.com/luiyo/status/848109990938386432&quot;&gt;1 de abril de 2017&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -126,7 +126,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Notes for Rapid Ratpack Web app development &lt;a href=&quot;https://t.co/XPKWNA3dg1&quot;&gt;https://t.co/XPKWNA3dg1&lt;/a&gt;&lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/greach?src=hash&quot;&gt;#greach&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/groovylang?src=hash&quot;&gt;#groovylang&lt;/a&gt;&lt;/p&gt;— Danny Bo Banny (@Lspacewalker) 
+   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Notes for Rapid Ratpack Web app development &lt;a href=&quot;https://t.co/XPKWNA3dg1&quot;&gt;https://t.co/XPKWNA3dg1&lt;/a&gt;&lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/greach?src=hash&quot;&gt;#greach&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/groovylang?src=hash&quot;&gt;#groovylang&lt;/a&gt;&lt;/p&gt;— Danny Bo Banny (@Lspacewalker)
    &lt;a href=&quot;https://twitter.com/Lspacewalker/status/847814994548936704&quot;&gt;31 de marzo de 2017&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
