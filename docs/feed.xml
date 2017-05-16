@@ -6,8 +6,8 @@
     <atom:link href="https://luisgc.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Mon, 15 May 2017 22:57:53 +0200</pubDate>
-    <lastBuildDate>Mon, 15 May 2017 22:57:53 +0200</lastBuildDate>
+    <pubDate>Tue, 16 May 2017 22:51:04 +0200</pubDate>
+    <lastBuildDate>Tue, 16 May 2017 22:51:04 +0200</lastBuildDate>
 
     <item>
       <title>Greach 2017, the Groovy Spanish Conference</title>
@@ -16,17 +16,10 @@
       <guid isPermaLink="false">blog/2017/04/greach-2017-groovy-spanish-conference.html</guid>
       	<description>
 	
-&lt;p&gt;&lt;/p&gt;
 &lt;center&gt;
  &lt;i&gt;I&apos;ll keep my intent to summarize all the important events that I&apos;m attending, and I&apos;ll do it again in English as the audience is international. &lt;b&gt;Please, point me any mistake you may find&lt;/b&gt;&lt;/i&gt;
 &lt;/center&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;div class=&quot;imagen&quot;&gt;
- &lt;img src=&quot;/img/2017/04/Greach_2017.png&quot; style=&quot;float:right&quot; alt=&quot;Greach 2017&quot; width=&quot;300&quot;&gt;
- &lt;div class=&quot;imagen-texto&quot;&gt;
-  &lt;a href=&quot;http://2017.greachconf.com/&quot;&gt;Greach 2017&lt;/a&gt;
- &lt;/div&gt;
-&lt;/div&gt;
 &lt;p&gt;This week I attended, as usual since I don&apos;t remember when, to &lt;a href=&quot;http://2017.greachconf.com/&quot;&gt;Greach 2017&lt;/a&gt;, an international conference about the &lt;a href=&quot;http://www.groovy-lang.org/&quot;&gt;Apache Groovy language&lt;/a&gt; and &lt;a href=&quot;http://www.groovy-lang.org/ecosystem.html&quot;&gt;ecosystem&lt;/a&gt;. Greach is held each year in Madrid but everything is in English, and nowadays it&apos;s probably one of the Top3 worldwide events about this technology.&lt;/p&gt;
 &lt;p&gt;The event is organized mainly by &lt;a href=&quot;http://redirect.viglink.com/?format=go&amp;amp;jsonp=vglnk_149113158632914&amp;amp;key=fc09da8d2ec4b1af80281370066f19b1&amp;amp;libId=j10kgw3v01012xfw000DLef6729tbp6er&amp;amp;loc=http%3A%2F%2Fluiyo.blogspot.com.es%2F2016%2F04%2Fgreach-2016-groovy-spanish-conference.html&amp;amp;v=1&amp;amp;out=https%3A%2F%2Ftwitter.com%2Filopmar&amp;amp;title=Luiyolog%C3%ADa%3A%20Greach%202016%2C%20the%20Groovy%20Spanish%20conference&amp;amp;txt=%3Cb%3EIv%C3%A1n%20L%C3%B3pez%3C%2Fb%3E%20(%40ilopar)&quot;&gt;&lt;b&gt;Iván López&lt;/b&gt; (@ilopar)&lt;/a&gt; and &lt;a href=&quot;http://redirect.viglink.com/?format=go&amp;amp;jsonp=vglnk_149113160190015&amp;amp;key=fc09da8d2ec4b1af80281370066f19b1&amp;amp;libId=j10kgw3v01012xfw000DLef6729tbp6er&amp;amp;loc=http%3A%2F%2Fluiyo.blogspot.com.es%2F2016%2F04%2Fgreach-2016-groovy-spanish-conference.html&amp;amp;v=1&amp;amp;out=https%3A%2F%2Ftwitter.com%2Falbertovilches&amp;amp;title=Luiyolog%C3%ADa%3A%20Greach%202016%2C%20the%20Groovy%20Spanish%20conference&amp;amp;txt=%3Cb%3EAlberto%20Vilches%3C%2Fb%3E%20(%40albertovilches)&quot;&gt;&lt;b&gt;Alberto Vilches&lt;/b&gt; (@albertovilches)&lt;/a&gt;, with some help from other colleagues and &lt;a href=&quot;http://2017.greachconf.com/#tile_sponsors&quot;&gt;a lot of Sponsors&lt;/a&gt;. Everything was perfect: the location is great, the spaces were confortable, the wifi more or less worked fine, cafeteria in-place, free wardrobe,... the lunch boxes were far from perfect, but that&apos;s another story more related to the venue.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;TLDR;&lt;/b&gt; The conference content and speakers were great, in addition to the logistics. I missed the workshop day, but everyone told me it was also fantastic (both venue and contents). I learned a lot, not only about Groovy or Grails, but also about GraphQL, Ratpack and concurrence in general.&lt;/p&gt;
@@ -146,114 +139,112 @@
 	
 &lt;p&gt;Como cada arranque de año toca revisar los datos sobre las partidas que he jugado durante el año anterior (enlace a los datos de &lt;a href=&quot;/blog/2016/01/mi-2015-ludico.html&quot;&gt;2015&lt;/a&gt;, &lt;a href=&quot;/blog/2015/01/mi-2014-ludico.html&quot;&gt;2014&lt;/a&gt;, &lt;a href=&quot;/blog/2014/01/partidas-jugadas-en-2013.html&quot;&gt;2013&lt;/a&gt;, &lt;a href=&quot;/blog/2013/01/partidas-jugadas-en-2012.html&quot;&gt;2012&lt;/a&gt; y &lt;a href=&quot;/blog/2012/01/juegos-los-que-mas-he-jugado-en-2011.html&quot;&gt;2011&lt;/a&gt;). Vuelvo a insistir en la comparación con los años anteriores, y mantendré el apartado de análisis y retrospectiva, que quizá sea la parte más interesante.&lt;/p&gt;
 &lt;br&gt;
-&lt;p&gt;Y todo, como ya sabéis, gracias a 
+&lt;p&gt;Y todo, como ya sabéis, gracias a
  &lt;strike&gt;
   la manía
  &lt;/strike&gt; mi hábito de registrar en &lt;a href=&quot;http://www.boardgamegeek.com/&quot;&gt;&lt;b&gt;Board Game Geek&lt;/b&gt;&lt;/a&gt; todas las partidas según las estoy jugando mediante su fantástica (aunque aún mejorable) &lt;a href=&quot;https://market.android.com/details?id=com.boardgamegeek&amp;amp;hl=es&quot;&gt;aplicación para &lt;b&gt;Android&lt;/b&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;br&gt; 
-&lt;img align=&quot;right&quot; border=&quot;0&quot; width=&quot;300&quot; src=&quot;/img/2017/01/gamesTagCloud2016.png&quot;&gt;
 &lt;br&gt;
 &lt;dl&gt;
  &lt;dt&gt;
   2016
  &lt;/dt&gt;
  &lt;dd&gt;
-  Total de partidas jugadas: 
+  Total de partidas jugadas:
   &lt;b&gt;98&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos diferentes jugados: 
+  Juegos diferentes jugados:
   &lt;b&gt;55&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos con dos o más partidas: 
+  Juegos con dos o más partidas:
   &lt;b&gt;15&lt;/b&gt;
  &lt;/dd&gt;
  &lt;dt&gt;
   2015
  &lt;/dt&gt;
  &lt;dd&gt;
-  Total de partidas jugadas: 
+  Total de partidas jugadas:
   &lt;b&gt;84&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos diferentes jugados: 
+  Juegos diferentes jugados:
   &lt;b&gt;71&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos con dos o más partidas: 
+  Juegos con dos o más partidas:
   &lt;b&gt;13&lt;/b&gt;
  &lt;/dd&gt;
  &lt;dt&gt;
   2014
  &lt;/dt&gt;
  &lt;dd&gt;
-  Total de partidas jugadas: 
+  Total de partidas jugadas:
   &lt;b&gt;81&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos diferentes jugados: 
+  Juegos diferentes jugados:
   &lt;b&gt;52&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos con dos o más partidas: 
+  Juegos con dos o más partidas:
   &lt;b&gt;14&lt;/b&gt;
  &lt;/dd&gt;
  &lt;dt&gt;
   2013
  &lt;/dt&gt;
  &lt;dd&gt;
-  Total de partidas jugadas: 
+  Total de partidas jugadas:
   &lt;b&gt;117&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos diferentes jugados: 
+  Juegos diferentes jugados:
   &lt;b&gt;81&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos con dos o más partidas: 
+  Juegos con dos o más partidas:
   &lt;b&gt;19&lt;/b&gt;
  &lt;/dd&gt;
  &lt;dt&gt;
   2012
  &lt;/dt&gt;
  &lt;dd&gt;
-  Total de partidas jugadas: 
+  Total de partidas jugadas:
   &lt;b&gt;161&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos diferentes jugados: 
+  Juegos diferentes jugados:
   &lt;b&gt;80&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos con dos o más partidas: 
+  Juegos con dos o más partidas:
   &lt;b&gt;40&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
  &lt;dt&gt;
   TOTALES HASTA 31/12/2016
  &lt;/dt&gt;
  &lt;dd&gt;
-  Total de partidas jugadas: 
+  Total de partidas jugadas:
   &lt;b&gt;862&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos diferentes jugados: 
+  Juegos diferentes jugados:
   &lt;b&gt;313&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos con 
-  &lt;b&gt;cinco&lt;/b&gt; o más partidas: 
+  Juegos con
+  &lt;b&gt;cinco&lt;/b&gt; o más partidas:
   &lt;b&gt;45&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
 &lt;/dl&gt;
-&lt;br&gt; 
+&lt;br&gt;
 &lt;center&gt;
  &lt;img src=&quot;/img/2017/01/2016_partidas_jugadas_por_mes.png&quot; alt=&quot;Partidas jugadas por mes hasta 2015&quot; title=&quot;Partidas jugadas por mes hasta 2016&quot; width=&quot;600&quot;&gt;
  &lt;div class=&quot;imagen-texto&quot;&gt;
   Partidas Jugadas por Mes desde 2011
  &lt;/div&gt;
 &lt;/center&gt;
-&lt;br&gt; 
+&lt;br&gt;
 &lt;h3&gt;Análisis:&lt;/h3&gt;
 &lt;br&gt;
 &lt;ul&gt;
@@ -267,7 +258,7 @@
  &lt;br&gt;
  &lt;li&gt;Como dato nuevo en este análisis, mi &lt;a href=&quot;https://en.wikipedia.org/wiki/H-index&quot;&gt;&lt;b&gt;&lt;i&gt;h-index&lt;/i&gt;&lt;/b&gt;&lt;/a&gt; como jugador ha subido a &lt;b&gt;11&lt;/b&gt; después de unos años estancado en 10. Dato curioso, aunque poco útil :-P&lt;/li&gt;
 &lt;/ul&gt;
-&lt;br&gt; 
+&lt;br&gt;
 &lt;h3&gt;Retrospectiva:&lt;/h3&gt;
 &lt;br&gt;
 &lt;ul&gt;
@@ -287,13 +278,7 @@
       <guid isPermaLink="false">blog/2016/11/codemotion-2016.html</guid>
       	<description>
 	
-&lt;div class=&quot;imagen&quot;&gt; 
- &lt;img src=&quot;/img/2016/11/codemotion_2016.png&quot; style=&quot;float:right&quot; alt=&quot;Codemotion 2016&quot; width=&quot;300&quot;&gt;
- &lt;div class=&quot;imagen-texto&quot;&gt;
-  &lt;a href=&quot;https://2016.codemotion.es/&quot;&gt;Codemotion 2016&lt;/a&gt;
- &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Para mantener la &lt;i&gt;buena costumbre&lt;/i&gt; (ya, lo sé, no siempre cumplo), voy a relatar brevemente mi experiencia durante &lt;a href=&quot;https://2016.codemotion.es/&quot;&gt;&lt;b&gt;Codemotion 2016&lt;/b&gt;&lt;/a&gt;, uno de los eventos sobre informática y programación más importantes del país. No hay números oficiales definitivos pero en la clausura la organización comentó que hubo &lt;b&gt;más de 2.000 asistentes&lt;/b&gt; y &lt;b&gt;más de 150 charlas/talleres&lt;/b&gt;. Suelo asistir todos los años, hay otros eventos más potentes e interesantes para tecnologías concretas pero como evento generalista donde puedes ver y oír de todo creo que Codemotion hoy en día no tiene rival (al menos en España).&lt;/p&gt; 
+&lt;p&gt;Para mantener la &lt;i&gt;buena costumbre&lt;/i&gt; (ya, lo sé, no siempre cumplo), voy a relatar brevemente mi experiencia durante &lt;a href=&quot;https://2016.codemotion.es/&quot;&gt;&lt;b&gt;Codemotion 2016&lt;/b&gt;&lt;/a&gt;, uno de los eventos sobre informática y programación más importantes del país. No hay números oficiales definitivos pero en la clausura la organización comentó que hubo &lt;b&gt;más de 2.000 asistentes&lt;/b&gt; y &lt;b&gt;más de 150 charlas/talleres&lt;/b&gt;. Suelo asistir todos los años, hay otros eventos más potentes e interesantes para tecnologías concretas pero como evento generalista donde puedes ver y oír de todo creo que Codemotion hoy en día no tiene rival (al menos en España).&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;TLDR;&lt;/b&gt; Después de haber dado &lt;b&gt;dos&lt;/b&gt; charlas el año pasado en &lt;a href=&quot;https://2015.codemotion.es/&quot;&gt;Codemotion 2015&lt;/a&gt; este año me lo tomé con mucha tranquilidad. Disfruté de muy buenas charlas (otras no tanto, lo normal) y en general me fui con buen sabor de boca. &lt;b&gt;Nota positiva&lt;/b&gt; para la organización: hubo menos atascos en los pasillos y menos problemas de aforo en las salas. &lt;b&gt;Nota negativa&lt;/b&gt;: sigue sin haber suficiente presencia de mujeres ponentes en el evento y la gestión del tema sigue dejando bastante que desear.&lt;/p&gt;
 &lt;p&gt;Leyendo las crónicas de otros asistentes (&lt;a href=&quot;https://codeurjc.wordpress.com/2016/11/21/mi-experiencia-en-codemotion-2016/&quot;&gt;la de &lt;b&gt;Micael Gallego&lt;/b&gt;&lt;/a&gt;, por ejemplo) me doy cuenta una vez más de que no hago suficiente networking en estos eventos. Es una pena no aprovechar la ocasión, me crucé con mucha gente conocida: antiguos compañeros, conocidos virtuales, amigos de amigos, etc. Una buena conversación con algunos de ellos bien vale perderse una charla.&lt;/p&gt;
 &lt;p&gt;Vamos con mi resumen, aprovechando el feedback que he dejado a cada ponente sobre su charla:&lt;/p&gt;
@@ -302,7 +287,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;&quot;Los androides no sueñan con ovejas eléctricas; sueñan con conciliar&quot; &lt;a href=&quot;https://twitter.com/hashtag/Codemotion2016?src=hash&quot;&gt;#Codemotion2016&lt;/a&gt; &lt;a href=&quot;https://t.co/TDwxwMI8bk&quot;&gt;pic.twitter.com/TDwxwMI8bk&lt;/a&gt;&lt;/p&gt;— Womenalia (@womenalia) 
+   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;&quot;Los androides no sueñan con ovejas eléctricas; sueñan con conciliar&quot; &lt;a href=&quot;https://twitter.com/hashtag/Codemotion2016?src=hash&quot;&gt;#Codemotion2016&lt;/a&gt; &lt;a href=&quot;https://t.co/TDwxwMI8bk&quot;&gt;pic.twitter.com/TDwxwMI8bk&lt;/a&gt;&lt;/p&gt;— Womenalia (@womenalia)
    &lt;a href=&quot;https://twitter.com/womenalia/status/799539094279884801&quot;&gt;18 de noviembre de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -312,7 +297,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Pues parece que hay gente interesada en el teletrabajo en &lt;a href=&quot;https://twitter.com/hashtag/Codemotion2016?src=hash&quot;&gt;#Codemotion2016&lt;/a&gt; ! &lt;a href=&quot;https://t.co/jF7aiZqpPY&quot;&gt;pic.twitter.com/jF7aiZqpPY&lt;/a&gt;&lt;/p&gt;— Pablo Alba (@_pabloalba_) 
+   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Pues parece que hay gente interesada en el teletrabajo en &lt;a href=&quot;https://twitter.com/hashtag/Codemotion2016?src=hash&quot;&gt;#Codemotion2016&lt;/a&gt; ! &lt;a href=&quot;https://t.co/jF7aiZqpPY&quot;&gt;pic.twitter.com/jF7aiZqpPY&lt;/a&gt;&lt;/p&gt;— Pablo Alba (@_pabloalba_)
    &lt;a href=&quot;https://twitter.com/_pabloalba_/status/799550108601909249&quot;&gt;18 de noviembre de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -322,7 +307,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Aprendiendo 8 formas de mejorar tu vida gracias a los logs con &lt;a href=&quot;https://twitter.com/joaquindiez&quot;&gt;@joaquindiez&lt;/a&gt; y &lt;a href=&quot;https://twitter.com/fjrodriguez2&quot;&gt;@fjrodriguez2&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/Codemotion2016?src=hash&quot;&gt;#Codemotion2016&lt;/a&gt; &lt;a href=&quot;https://t.co/CXn1wYLknf&quot;&gt;pic.twitter.com/CXn1wYLknf&lt;/a&gt;&lt;/p&gt;— esloho (@esloho) 
+   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Aprendiendo 8 formas de mejorar tu vida gracias a los logs con &lt;a href=&quot;https://twitter.com/joaquindiez&quot;&gt;@joaquindiez&lt;/a&gt; y &lt;a href=&quot;https://twitter.com/fjrodriguez2&quot;&gt;@fjrodriguez2&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/Codemotion2016?src=hash&quot;&gt;#Codemotion2016&lt;/a&gt; &lt;a href=&quot;https://t.co/CXn1wYLknf&quot;&gt;pic.twitter.com/CXn1wYLknf&lt;/a&gt;&lt;/p&gt;— esloho (@esloho)
    &lt;a href=&quot;https://twitter.com/esloho/status/799589657214205954&quot;&gt;18 de noviembre de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -332,7 +317,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Comienza &lt;a href=&quot;https://twitter.com/fvena&quot;&gt;@fvena&lt;/a&gt; su charla en &lt;a href=&quot;https://twitter.com/hashtag/Codemotion2016?src=hash&quot;&gt;#Codemotion2016&lt;/a&gt; sobre diseño modular de aplicaciones web &lt;a href=&quot;https://t.co/QCdIhg9qfh&quot;&gt;pic.twitter.com/QCdIhg9qfh&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo) 
+   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Comienza &lt;a href=&quot;https://twitter.com/fvena&quot;&gt;@fvena&lt;/a&gt; su charla en &lt;a href=&quot;https://twitter.com/hashtag/Codemotion2016?src=hash&quot;&gt;#Codemotion2016&lt;/a&gt; sobre diseño modular de aplicaciones web &lt;a href=&quot;https://t.co/QCdIhg9qfh&quot;&gt;pic.twitter.com/QCdIhg9qfh&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo)
    &lt;a href=&quot;https://twitter.com/luiyo/status/799594086801936385&quot;&gt;18 de noviembre de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -342,7 +327,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Y ahora &lt;a href=&quot;https://twitter.com/ilopmar&quot;&gt;@ilopmar&lt;/a&gt; muestra como diferencias entre producción y desarrollo pueden ser como &quot;Jesus Mono&quot;... &lt;a href=&quot;https://t.co/xlbJ9oFvkN&quot;&gt;pic.twitter.com/xlbJ9oFvkN&lt;/a&gt;&lt;/p&gt;— Mark Heckler (@MkHeck) 
+   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Y ahora &lt;a href=&quot;https://twitter.com/ilopmar&quot;&gt;@ilopmar&lt;/a&gt; muestra como diferencias entre producción y desarrollo pueden ser como &quot;Jesus Mono&quot;... &lt;a href=&quot;https://t.co/xlbJ9oFvkN&quot;&gt;pic.twitter.com/xlbJ9oFvkN&lt;/a&gt;&lt;/p&gt;— Mark Heckler (@MkHeck)
    &lt;a href=&quot;https://twitter.com/MkHeck/status/799632082205024256&quot;&gt;18 de noviembre de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -356,7 +341,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Hay teras de conocimiento sobre orquestadores de Docker volcados en 40 min. Enhorabuena &lt;a href=&quot;https://twitter.com/lekum&quot;&gt;@lekum&lt;/a&gt; !! &lt;a href=&quot;https://twitter.com/hashtag/Codemotion2016?src=hash&quot;&gt;#Codemotion2016&lt;/a&gt; &lt;a href=&quot;https://t.co/JOCyS8V6y7&quot;&gt;pic.twitter.com/JOCyS8V6y7&lt;/a&gt;&lt;/p&gt;— Antonio de la Torre (@adelatorrefoss) 
+   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Hay teras de conocimiento sobre orquestadores de Docker volcados en 40 min. Enhorabuena &lt;a href=&quot;https://twitter.com/lekum&quot;&gt;@lekum&lt;/a&gt; !! &lt;a href=&quot;https://twitter.com/hashtag/Codemotion2016?src=hash&quot;&gt;#Codemotion2016&lt;/a&gt; &lt;a href=&quot;https://t.co/JOCyS8V6y7&quot;&gt;pic.twitter.com/JOCyS8V6y7&lt;/a&gt;&lt;/p&gt;— Antonio de la Torre (@adelatorrefoss)
    &lt;a href=&quot;https://twitter.com/adelatorrefoss/status/799669001836064768&quot;&gt;18 de noviembre de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -374,7 +359,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Sigo en &lt;a href=&quot;https://twitter.com/hashtag/Codemotion2016?src=hash&quot;&gt;#Codemotion2016&lt;/a&gt; fuera de mi zona de confort con una charla sobre Programación cuántica a cargo de FJ Gálvez &lt;a href=&quot;https://t.co/t6sL2TJyNv&quot;&gt;pic.twitter.com/t6sL2TJyNv&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo) 
+   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Sigo en &lt;a href=&quot;https://twitter.com/hashtag/Codemotion2016?src=hash&quot;&gt;#Codemotion2016&lt;/a&gt; fuera de mi zona de confort con una charla sobre Programación cuántica a cargo de FJ Gálvez &lt;a href=&quot;https://t.co/t6sL2TJyNv&quot;&gt;pic.twitter.com/t6sL2TJyNv&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo)
    &lt;a href=&quot;https://twitter.com/luiyo/status/799950212395597828&quot;&gt;19 de noviembre de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -384,7 +369,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Sigo en &lt;a href=&quot;https://twitter.com/hashtag/Codemotion2016?src=hash&quot;&gt;#Codemotion2016&lt;/a&gt; con &lt;a href=&quot;https://twitter.com/mcuadros_&quot;&gt;@mcuadros_&lt;/a&gt; y &apos;Analyzing 900 million commits with Go&apos;, tengo que ver más &lt;a href=&quot;https://twitter.com/golang&quot;&gt;@golang&lt;/a&gt; :-) &lt;a href=&quot;https://t.co/dLSf625gPU&quot;&gt;pic.twitter.com/dLSf625gPU&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo) 
+   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Sigo en &lt;a href=&quot;https://twitter.com/hashtag/Codemotion2016?src=hash&quot;&gt;#Codemotion2016&lt;/a&gt; con &lt;a href=&quot;https://twitter.com/mcuadros_&quot;&gt;@mcuadros_&lt;/a&gt; y &apos;Analyzing 900 million commits with Go&apos;, tengo que ver más &lt;a href=&quot;https://twitter.com/golang&quot;&gt;@golang&lt;/a&gt; :-) &lt;a href=&quot;https://t.co/dLSf625gPU&quot;&gt;pic.twitter.com/dLSf625gPU&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo)
    &lt;a href=&quot;https://twitter.com/luiyo/status/799950264425811968&quot;&gt;19 de noviembre de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -394,7 +379,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Redux + Event Sourcing + CQRS &lt;a href=&quot;https://twitter.com/codemotion_es&quot;&gt;@codemotion_es&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/Codemotion2016?src=hash&quot;&gt;#Codemotion2016&lt;/a&gt; &lt;a href=&quot;https://t.co/LZLkQXf5pd&quot;&gt;pic.twitter.com/LZLkQXf5pd&lt;/a&gt;&lt;/p&gt;— Andrea Zucchini (@ZucchiniDev) 
+   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Redux + Event Sourcing + CQRS &lt;a href=&quot;https://twitter.com/codemotion_es&quot;&gt;@codemotion_es&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/Codemotion2016?src=hash&quot;&gt;#Codemotion2016&lt;/a&gt; &lt;a href=&quot;https://t.co/LZLkQXf5pd&quot;&gt;pic.twitter.com/LZLkQXf5pd&lt;/a&gt;&lt;/p&gt;— Andrea Zucchini (@ZucchiniDev)
    &lt;a href=&quot;https://twitter.com/ZucchiniDev/status/799991655512375297&quot;&gt;19 de noviembre de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -404,7 +389,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Cambio de tercio, ahora me meto a aprender sobre &apos;multiplayer social games&apos; por &lt;a href=&quot;https://twitter.com/hyperandroid&quot;&gt;@hyperandroid&lt;/a&gt; en &lt;a href=&quot;https://twitter.com/hashtag/Codemotion2016?src=hash&quot;&gt;#Codemotion2016&lt;/a&gt; &lt;a href=&quot;https://t.co/Vk4siitlH0&quot;&gt;pic.twitter.com/Vk4siitlH0&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo) 
+   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Cambio de tercio, ahora me meto a aprender sobre &apos;multiplayer social games&apos; por &lt;a href=&quot;https://twitter.com/hyperandroid&quot;&gt;@hyperandroid&lt;/a&gt; en &lt;a href=&quot;https://twitter.com/hashtag/Codemotion2016?src=hash&quot;&gt;#Codemotion2016&lt;/a&gt; &lt;a href=&quot;https://t.co/Vk4siitlH0&quot;&gt;pic.twitter.com/Vk4siitlH0&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo)
    &lt;a href=&quot;https://twitter.com/luiyo/status/799996952955916288&quot;&gt;19 de noviembre de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -414,7 +399,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;El abuelo &lt;a href=&quot;https://twitter.com/greeneyed_dlj&quot;&gt;@greeneyed_dlj&lt;/a&gt; contando lo que es ser programador con más de 40 años en una sala hasta los topes! &lt;a href=&quot;https://t.co/C772N41XQR&quot;&gt;pic.twitter.com/C772N41XQR&lt;/a&gt;&lt;/p&gt;— Jerónimo López (@jerolba) 
+   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;El abuelo &lt;a href=&quot;https://twitter.com/greeneyed_dlj&quot;&gt;@greeneyed_dlj&lt;/a&gt; contando lo que es ser programador con más de 40 años en una sala hasta los topes! &lt;a href=&quot;https://t.co/C772N41XQR&quot;&gt;pic.twitter.com/C772N41XQR&lt;/a&gt;&lt;/p&gt;— Jerónimo López (@jerolba)
    &lt;a href=&quot;https://twitter.com/jerolba/status/800014623378288640&quot;&gt;19 de noviembre de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -423,7 +408,7 @@
  &lt;li&gt;&lt;a href=&quot;https://2016.codemotion.es/agenda.html#5716304078045184/83544008&quot;&gt;Data! Data! Data!&lt;/a&gt;, por &lt;a href=&quot;https://twitter.com/david_bonilla&quot;&gt;&lt;b&gt;David Bonilla&lt;/b&gt;&lt;/a&gt;. Me gustó bastante, creo que es la charla más técnica que le he escuchado a Bonilla y como es habitual algunas slides fueron brillantes. Creo que consiguió su objetivo: que nos cuestionemos si concedemos a las Bases de Datos la importancia que realmente tienen.&lt;/li&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Llega el fin de &lt;a href=&quot;https://twitter.com/hashtag/Codemotion2016?src=hash&quot;&gt;#Codemotion2016&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/david_bonilla&quot;&gt;@david_bonilla&lt;/a&gt; nos hablará de &lt;a href=&quot;https://twitter.com/hashtag/DataDataData?src=hash&quot;&gt;#DataDataData&lt;/a&gt; con el auditorio lleno &lt;a href=&quot;https://t.co/wGUWbl7lLK&quot;&gt;pic.twitter.com/wGUWbl7lLK&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo) 
+   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Llega el fin de &lt;a href=&quot;https://twitter.com/hashtag/Codemotion2016?src=hash&quot;&gt;#Codemotion2016&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/david_bonilla&quot;&gt;@david_bonilla&lt;/a&gt; nos hablará de &lt;a href=&quot;https://twitter.com/hashtag/DataDataData?src=hash&quot;&gt;#DataDataData&lt;/a&gt; con el auditorio lleno &lt;a href=&quot;https://t.co/wGUWbl7lLK&quot;&gt;pic.twitter.com/wGUWbl7lLK&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo)
    &lt;a href=&quot;https://twitter.com/luiyo/status/800029213881466881&quot;&gt;19 de noviembre de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -442,15 +427,9 @@
 &lt;center&gt;
  &lt;i&gt;I&apos;ll keep my intent to summarize all the important events that I&apos;m attending, and I&apos;ll do it again in English as the audience is international. &lt;b&gt;Please, point me any mistake you may find&lt;/b&gt;&lt;/i&gt;
 &lt;/center&gt;
-&lt;br&gt; 
-&lt;div class=&quot;imagen&quot;&gt; 
- &lt;img src=&quot;/img/2016/04/Greach_2016.png&quot; style=&quot;float:right&quot; alt=&quot;Greach Conference 2016&quot; width=&quot;300&quot;&gt;
- &lt;div class=&quot;imagen-texto&quot;&gt;
-  &lt;a href=&quot;http://greachconf.com/&quot;&gt;Greach Conference 2016&lt;/a&gt;
- &lt;/div&gt;
-&lt;/div&gt;
+&lt;br&gt;
 &lt;p&gt;This last weekend I had the opportunity to attend &lt;a href=&quot;http://greachconf.com/&quot;&gt;&lt;b&gt;Greach 2016&lt;/b&gt;&lt;/a&gt;. &lt;b&gt;Greach&lt;/b&gt; is an international conference about the &lt;a href=&quot;http://www.groovy-lang.org/&quot;&gt;&lt;b&gt;Groovy&lt;/b&gt; language&lt;/a&gt; and &lt;a href=&quot;http://www.groovy-lang.org/ecosystem.html&quot;&gt;ecosystem&lt;/a&gt;, it&apos;s hosted here in Madrid but the conference is 100% in English to successfully attract top speakers and attendees. This was the &lt;b&gt;5th edition&lt;/b&gt; of the conference, consolidated as one of the biggest events worldwide about Groovy.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;TLDR;&lt;/b&gt; You shouldn&apos;t miss this gathering if you have a minimum interest in this technology. Top speakers and high quality content are guaranteed in a confortable and thought provoking environment. &lt;b&gt;Totally worth it&lt;/b&gt;.&lt;/p&gt; 
+&lt;p&gt;&lt;b&gt;TLDR;&lt;/b&gt; You shouldn&apos;t miss this gathering if you have a minimum interest in this technology. Top speakers and high quality content are guaranteed in a confortable and thought provoking environment. &lt;b&gt;Totally worth it&lt;/b&gt;.&lt;/p&gt;
 &lt;p&gt;Everything was (as expected) brilliantly organized thanks to &lt;a href=&quot;https://twitter.com/ilopmar&quot;&gt;&lt;b&gt;Iván López&lt;/b&gt; (@ilopar)&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/albertovilches&quot;&gt;&lt;b&gt;Alberto Vilches&lt;/b&gt; (@albertovilches)&lt;/a&gt; and &lt;a href=&quot;http://greachconf.com/#sponsors&quot;&gt;a lot of Sponsors&lt;/a&gt;. The venue changed from previous years, and &lt;a href=&quot;http://www.teatrosluchana.es/&quot;&gt;&lt;b&gt;Teatros Luchana&lt;/b&gt;&lt;/a&gt; was also a success. Both auditoriums and networking space had the proper dimensions, very good location, a very handy cafeteria, free wardrobe, more than decent food,... Maybe the sponsors area could have been larger, but everything else was more than correct.&lt;/p&gt;
 &lt;p&gt;Let me summarize:&lt;/p&gt;
 &lt;ul&gt;
@@ -458,7 +437,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;My presentation from &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; &lt;br&gt;«&amp;nbsp;a Groovy journey in Open Source&amp;nbsp;» &lt;a href=&quot;https://t.co/gqibxBLdak&quot;&gt;https://t.co/gqibxBLdak&lt;/a&gt;&lt;/p&gt;— Guillaume Laforge (@glaforge) 
+   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;My presentation from &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; &lt;br&gt;«&amp;nbsp;a Groovy journey in Open Source&amp;nbsp;» &lt;a href=&quot;https://t.co/gqibxBLdak&quot;&gt;https://t.co/gqibxBLdak&lt;/a&gt;&lt;/p&gt;— Guillaume Laforge (@glaforge)
    &lt;a href=&quot;https://twitter.com/glaforge/status/719135455749500928&quot;&gt;10 de abril de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -468,7 +447,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;. &lt;a href=&quot;https://twitter.com/sbglasius&quot;&gt;@sbglasius&lt;/a&gt;, about the advantages of Grails FWK, theory and practice &lt;a href=&quot;https://twitter.com/hashtag/Greach?src=hash&quot;&gt;#Greach&lt;/a&gt; &lt;a href=&quot;https://t.co/MMmgOhK1e5&quot;&gt;pic.twitter.com/MMmgOhK1e5&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo) 
+   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;. &lt;a href=&quot;https://twitter.com/sbglasius&quot;&gt;@sbglasius&lt;/a&gt;, about the advantages of Grails FWK, theory and practice &lt;a href=&quot;https://twitter.com/hashtag/Greach?src=hash&quot;&gt;#Greach&lt;/a&gt; &lt;a href=&quot;https://t.co/MMmgOhK1e5&quot;&gt;pic.twitter.com/MMmgOhK1e5&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo)
    &lt;a href=&quot;https://twitter.com/luiyo/status/718348934469578752&quot;&gt;8 de abril de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -478,7 +457,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-cards=&quot;hidden&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Slides for my Geb talk: &lt;a href=&quot;https://t.co/qU8YiSpZp2&quot;&gt;https://t.co/qU8YiSpZp2&lt;/a&gt; code (presentation and application): &lt;a href=&quot;https://t.co/PNOmj7UQ7b&quot;&gt;https://t.co/PNOmj7UQ7b&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/greach?src=hash&quot;&gt;#greach&lt;/a&gt;&lt;/p&gt;— Jacob Aae Mikkelsen (@JacobAae) 
+   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Slides for my Geb talk: &lt;a href=&quot;https://t.co/qU8YiSpZp2&quot;&gt;https://t.co/qU8YiSpZp2&lt;/a&gt; code (presentation and application): &lt;a href=&quot;https://t.co/PNOmj7UQ7b&quot;&gt;https://t.co/PNOmj7UQ7b&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/greach?src=hash&quot;&gt;#greach&lt;/a&gt;&lt;/p&gt;— Jacob Aae Mikkelsen (@JacobAae)
    &lt;a href=&quot;https://twitter.com/JacobAae/status/718426171432693761&quot;&gt;8 de abril de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -488,7 +467,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; was a great success, I can&apos;t believe it took me this long to attend. Thanks &lt;a href=&quot;https://twitter.com/ilopmar&quot;&gt;@ilopmar&lt;/a&gt; &lt;a href=&quot;https://twitter.com/albertovilches&quot;&gt;@albertovilches&lt;/a&gt; !&lt;/p&gt;— Noam Tenne (@NoamTenne) 
+   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; was a great success, I can&apos;t believe it took me this long to attend. Thanks &lt;a href=&quot;https://twitter.com/ilopmar&quot;&gt;@ilopmar&lt;/a&gt; &lt;a href=&quot;https://twitter.com/albertovilches&quot;&gt;@albertovilches&lt;/a&gt; !&lt;/p&gt;— Noam Tenne (@NoamTenne)
    &lt;a href=&quot;https://twitter.com/NoamTenne/status/719065589927538690&quot;&gt;10 de abril de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -498,7 +477,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;.&lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@GreachConf&lt;/a&gt; continues with &lt;a href=&quot;https://twitter.com/burtbeckwith&quot;&gt;@BurtBeckwith&lt;/a&gt; and Dynamic GORM. A great speaker will always deliver a great talk &lt;a href=&quot;https://twitter.com/hashtag/Greach?src=hash&quot;&gt;#Greach&lt;/a&gt; &lt;a href=&quot;https://t.co/ZbN1FNuspH&quot;&gt;pic.twitter.com/ZbN1FNuspH&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo) 
+   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;.&lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@GreachConf&lt;/a&gt; continues with &lt;a href=&quot;https://twitter.com/burtbeckwith&quot;&gt;@BurtBeckwith&lt;/a&gt; and Dynamic GORM. A great speaker will always deliver a great talk &lt;a href=&quot;https://twitter.com/hashtag/Greach?src=hash&quot;&gt;#Greach&lt;/a&gt; &lt;a href=&quot;https://t.co/ZbN1FNuspH&quot;&gt;pic.twitter.com/ZbN1FNuspH&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo)
    &lt;a href=&quot;https://twitter.com/luiyo/status/718410809551020033&quot;&gt;8 de abril de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -510,7 +489,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Some jenkins plugins. &lt;a href=&quot;https://twitter.com/alexsotob&quot;&gt;@alexsotob&lt;/a&gt; at &lt;a href=&quot;https://twitter.com/hashtag/greach?src=hash&quot;&gt;#greach&lt;/a&gt; &lt;a href=&quot;https://t.co/69ernpLQhN&quot;&gt;pic.twitter.com/69ernpLQhN&lt;/a&gt;&lt;/p&gt;— jmiguel rodriguez (@jmiguel) 
+   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Some jenkins plugins. &lt;a href=&quot;https://twitter.com/alexsotob&quot;&gt;@alexsotob&lt;/a&gt; at &lt;a href=&quot;https://twitter.com/hashtag/greach?src=hash&quot;&gt;#greach&lt;/a&gt; &lt;a href=&quot;https://t.co/69ernpLQhN&quot;&gt;pic.twitter.com/69ernpLQhN&lt;/a&gt;&lt;/p&gt;— jmiguel rodriguez (@jmiguel)
    &lt;a href=&quot;https://twitter.com/jmiguel/status/718446225066995714&quot;&gt;8 de abril de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -520,7 +499,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/greach?src=hash&quot;&gt;#greach&lt;/a&gt; you can check the slides of my talk &quot;Down The RabbitMQ Hole&quot; here &lt;a href=&quot;https://t.co/7UVnOP5tjY&quot;&gt;https://t.co/7UVnOP5tjY&lt;/a&gt; I hope you enjoyed it :)&lt;/p&gt;— Alonso Torres (@alotor) 
+   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/greach?src=hash&quot;&gt;#greach&lt;/a&gt; you can check the slides of my talk &quot;Down The RabbitMQ Hole&quot; here &lt;a href=&quot;https://t.co/7UVnOP5tjY&quot;&gt;https://t.co/7UVnOP5tjY&lt;/a&gt; I hope you enjoyed it :)&lt;/p&gt;— Alonso Torres (@alotor)
    &lt;a href=&quot;https://twitter.com/alotor/status/718487460649545728&quot;&gt;8 de abril de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -530,7 +509,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Our friendly troll &lt;a href=&quot;https://twitter.com/andres_viedma&quot;&gt;@andres_viedma&lt;/a&gt; talks about testing microservices Using &lt;a href=&quot;https://twitter.com/ApacheGroovy&quot;&gt;@ApacheGroovy&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/greach?src=hash&quot;&gt;#greach&lt;/a&gt; &lt;a href=&quot;https://t.co/TGGlx7O3Cd&quot;&gt;pic.twitter.com/TGGlx7O3Cd&lt;/a&gt;&lt;/p&gt;— Greach (@greachconf) 
+   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Our friendly troll &lt;a href=&quot;https://twitter.com/andres_viedma&quot;&gt;@andres_viedma&lt;/a&gt; talks about testing microservices Using &lt;a href=&quot;https://twitter.com/ApacheGroovy&quot;&gt;@ApacheGroovy&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/greach?src=hash&quot;&gt;#greach&lt;/a&gt; &lt;a href=&quot;https://t.co/TGGlx7O3Cd&quot;&gt;pic.twitter.com/TGGlx7O3Cd&lt;/a&gt;&lt;/p&gt;— Greach (@greachconf)
    &lt;a href=&quot;https://twitter.com/greachconf/status/718465232478289920&quot;&gt;8 de abril de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -540,7 +519,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;.&lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; keynote: &lt;a href=&quot;https://twitter.com/graemerocher&quot;&gt;@graemerocher&lt;/a&gt;, the only person on earth with +10 years experience with &lt;a href=&quot;https://twitter.com/grailsframework&quot;&gt;@grailsframework&lt;/a&gt;&lt;/p&gt;— Søren Berg Glasius (@sbglasius) 
+   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;.&lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; keynote: &lt;a href=&quot;https://twitter.com/graemerocher&quot;&gt;@graemerocher&lt;/a&gt;, the only person on earth with +10 years experience with &lt;a href=&quot;https://twitter.com/grailsframework&quot;&gt;@grailsframework&lt;/a&gt;&lt;/p&gt;— Søren Berg Glasius (@sbglasius)
    &lt;a href=&quot;https://twitter.com/sbglasius/status/718680393944326144&quot;&gt;9 de abril de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -554,7 +533,7 @@
  &lt;br&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Logró conseguido por &lt;a href=&quot;https://twitter.com/marioggar&quot;&gt;@marioggar&lt;/a&gt; : dar una charla sobre un tema con el Dios de ese tema entre los asistentes :) &lt;a href=&quot;https://t.co/DjtorAdDqS&quot;&gt;pic.twitter.com/DjtorAdDqS&lt;/a&gt;&lt;/p&gt;— Jerónimo López (@jerolba) 
+   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Logró conseguido por &lt;a href=&quot;https://twitter.com/marioggar&quot;&gt;@marioggar&lt;/a&gt; : dar una charla sobre un tema con el Dios de ese tema entre los asistentes :) &lt;a href=&quot;https://t.co/DjtorAdDqS&quot;&gt;pic.twitter.com/DjtorAdDqS&lt;/a&gt;&lt;/p&gt;— Jerónimo López (@jerolba)
    &lt;a href=&quot;https://twitter.com/jerolba/status/718740341671796736&quot;&gt;9 de abril de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -562,13 +541,13 @@
  &lt;br&gt;
  &lt;li&gt;&lt;a href=&quot;http://greachconf.com/speakers/stephan-classen-make-your-asciidoctor-groovy/&quot;&gt;Make your Asciidoctor Groovy&lt;/a&gt;, by &lt;a href=&quot;https://github.com/sclassen&quot;&gt;&lt;b&gt;Stephan Classen&lt;/b&gt;&lt;/a&gt; (Software Engineer at &lt;a href=&quot;http://www.canoo.com/&quot;&gt;Canoo&lt;/a&gt;). Stephan explained &lt;a href=&quot;https://github.com/sclassen/asciidoctorj-screenshot&quot;&gt;Asciidoctor&apos;s screenshot extension&lt;/a&gt;, and how easy it may be used with &lt;b&gt;Geb&lt;/b&gt; to improve your documentation updating automatically every capture in your manuals after each build. Stephan also explained how the conversion process of &lt;a href=&quot;http://asciidoctor.org/&quot;&gt;AsciiDoctor&lt;/a&gt; works, in order to hack any step to adapt the resulting document. Very useful info :-)&lt;/li&gt;
  &lt;br&gt;
- &lt;li&gt;&lt;a href=&quot;http://greachconf.com/agenda/&quot;&gt;Groovy Puzzlers S03 – The Unstoppable Puzzlers Hit Again!&lt;/a&gt;, by &lt;a href=&quot;http://www.10ne.org/&quot;&gt;&lt;b&gt;Noam Tenne&lt;/b&gt;&lt;/a&gt; (&lt;a href=&quot;https://twitter.com/noamtenne&quot;&gt;@NoamTenne&lt;/a&gt;) and 
+ &lt;li&gt;&lt;a href=&quot;http://greachconf.com/agenda/&quot;&gt;Groovy Puzzlers S03 – The Unstoppable Puzzlers Hit Again!&lt;/a&gt;, by &lt;a href=&quot;http://www.10ne.org/&quot;&gt;&lt;b&gt;Noam Tenne&lt;/b&gt;&lt;/a&gt; (&lt;a href=&quot;https://twitter.com/noamtenne&quot;&gt;@NoamTenne&lt;/a&gt;) and
   &lt;strike&gt;
    Andrés Almiray
   &lt;/strike&gt;&lt;b&gt;El Groovyssimo&lt;/b&gt; (&lt;a href=&quot;https://twitter.com/el_groovyssimo&quot;&gt;@el_groovyssimo&lt;/a&gt;). I loved this contest, entertainment at its finest and very very educational. It&apos;s based on the mythic &lt;a href=&quot;http://www.javapuzzlers.com/&quot;&gt;&lt;b&gt;Java Puzzlers&lt;/b&gt;&lt;/a&gt; tradition created by &lt;a href=&quot;http://www.javapuzzlers.com/bios.html&quot;&gt;&lt;b&gt;Joshua Bloch&lt;/b&gt; and &lt;b&gt;Neal Gafter&lt;/b&gt;&lt;/a&gt;, but migrated to Groovy mainly by &lt;a href=&quot;https://twitter.com/jbaruch&quot;&gt;&lt;b&gt;JBaruch&lt;/b&gt;&lt;/a&gt;. Some intriguing blocks of Groovy code are shown and the audience needs to choose between 4 possible outputs. Obviously it&apos;s easy to miss, but hard not to laugh and learn afterwards. Hilarious.&lt;/li&gt;
  &lt;center&gt;
   &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Having so much fun trying to solve the &lt;a href=&quot;https://twitter.com/hashtag/groovypuzzlers?src=hash&quot;&gt;#groovypuzzlers&lt;/a&gt; at the &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; &lt;a href=&quot;https://t.co/oujCaepcHA&quot;&gt;pic.twitter.com/oujCaepcHA&lt;/a&gt;&lt;/p&gt;— Andrés Viedma (@andres_viedma) 
+   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Having so much fun trying to solve the &lt;a href=&quot;https://twitter.com/hashtag/groovypuzzlers?src=hash&quot;&gt;#groovypuzzlers&lt;/a&gt; at the &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; &lt;a href=&quot;https://t.co/oujCaepcHA&quot;&gt;pic.twitter.com/oujCaepcHA&lt;/a&gt;&lt;/p&gt;— Andrés Viedma (@andres_viedma)
    &lt;a href=&quot;https://twitter.com/andres_viedma/status/718782613536772096&quot;&gt;9 de abril de 2016&lt;/a&gt;
   &lt;/blockquote&gt;
   &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -10649,7 +10628,7 @@
       <guid isPermaLink="false">blog/2004/05/reflexiones-acerca-de-las-dos.html</guid>
       	<description>
 	
-&lt;img src=&quot;/img/2004/05/stallman.JPG&quot; align=&quot;right&quot; border=&quot;0&quot;&gt;Entre ayer y hoy he asistido, como os anuncié, a dos conferencias de 
+&lt;img src=&quot;/img/2004/12/Richard-Stallman.jpg&quot; align=&quot;right&quot; border=&quot;0&quot;&gt;Entre ayer y hoy he asistido, como os anuncié, a dos conferencias de
 &lt;a href=&quot;http://www.stallman.org/&quot;&gt;Richard Stallman&lt;/a&gt;, uno de las pocas personas a las que puedo considerar mis idolos. Por su personalidad, por su trabajo en estos más de veinte últimos años pero sobre todo por su dedicación a todo lo que hace.
 &lt;br&gt;
 &lt;br&gt;Esto sólo pretende ser una mala crónica de todo lo que ha dicho. Y digo mala porque no tomé notas ni nada, siempre necesario para relatar algo con un mínimo de fidelidad, olvidaré comentar el 90 % de lo que se dijo, y el 10 % que comento lo hare por encima.
@@ -10659,9 +10638,7 @@
 &lt;br&gt;
 &lt;br&gt;Nada nuevo en esta conferencia sobre temas que algunos ya hemos visto, oído o leído varias veces. No por ello menos memorable. Mr Stallman lleva años dedicandose a dar conferencias, y esta en concreto es de las más repetidas, con lo que sabe explicarse a la perfección, a pesar de su peculiar (aunque impecable) castellano y su cansancio, que le obligó a dar la conferencia en pie porque &quot;si me siento, dormiré&quot;.
 &lt;br&gt;
-&lt;br&gt;Nos contó los conocidos inicios del movimiento 
-&lt;a href=&quot;http://www.gnu.org/&quot;&gt;GNU&lt;/a&gt; en los años 80, la filosofía de la 
-&lt;a href=&quot;http://www.fsfeurope.org/&quot;&gt;Fundación del Software Libre&lt;/a&gt;, el significado y uso de la licencia GPL, la putada que se avecina con las Patentes de Software si no hacemos nada, etc. Como ejemplo, expondré sus ya famosas cuatro libertades necesarias del software.
+&lt;br&gt;Nos contó los conocidos inicios del movimiento &lt;a href=&quot;http://www.gnu.org/&quot;&gt;GNU&lt;/a&gt; en los años 80, la filosofía de la &lt;a href=&quot;http://www.fsfeurope.org/&quot;&gt;Fundación del Software Libre&lt;/a&gt;, el significado y uso de la licencia GPL, la putada que se avecina con las Patentes de Software si no hacemos nada, etc. Como ejemplo, expondré sus ya famosas cuatro libertades necesarias del software.
 &lt;br&gt;
 &lt;br&gt;1 - &quot;
 &lt;em&gt;Libertad de uso, libertad para el usuario&lt;/em&gt;&quot;. El usuario debe ser capaz de usar el programa bajo cualquier circunstancia, sin clausulas o condiciones.
@@ -10684,8 +10661,7 @@
 &lt;br&gt;
 &lt;br&gt;Y a la salida de la charla (que terminó tras una larga ronda de preguntas porque Mr Stallman tuvo que salir corriendo al servicio) he podido acercarme y hacerme una foto con él (Jodete de envidia Jose).
 &lt;br&gt;
-&lt;br&gt;He colgado las demás 
-&lt;a href=&quot;http://www.atlantis-sl.com/perso/luiyo/fotos/040505stallman/&quot;&gt;fotos&lt;/a&gt; en calidad enorme, bajadlas rápido porque la semana que viene las quitaré o al menos las pondré en calidad media-baja.
+&lt;br&gt;He colgado las demás &lt;a href=&quot;http://www.atlantis-sl.com/perso/luiyo/fotos/040505stallman/&quot;&gt;fotos&lt;/a&gt; en calidad enorme, bajadlas rápido porque la semana que viene las quitaré o al menos las pondré en calidad media-baja.
 
 	</description>
     </item>
