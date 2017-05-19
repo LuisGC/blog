@@ -34,9 +34,15 @@ I was tempted to use [Hugo](http://gohugo.io/) but I selected [**JBake**](http:/
 
 The [documentation of JBake](http://jbake.org/docs/) could be improved, but it's good enough.
 
+To install JBake, you can execute [the last binary distribution](http://jbake.org/download.html) but I recommend that you simply use [**SDKMAN**](http://sdkman.io/). If you don't know what SDKMAN is, you are missing something special. After you have SDKMAN installed, enter the following command:
+
+```shell
+>> sdk install jbake
+```
+
 **Thanks Jonathan !!**
 
-## Step 2 - Choose your theme/style (if possible)
+## Step 2 - Choose your theme/style
 
 Some static generators support themes better than others, that's for sure. This was important to me, and I checked that in *JBake* the code responsible of the presentation is isolated enough from the content, so it's more or less simple to change entirely the theme or style of your site.
 
