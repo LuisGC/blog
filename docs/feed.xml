@@ -6,8 +6,8 @@
     <atom:link href="https://luisgc.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Wed, 24 May 2017 21:15:29 +0200</pubDate>
-    <lastBuildDate>Wed, 24 May 2017 21:15:29 +0200</lastBuildDate>
+    <pubDate>Wed, 24 May 2017 21:21:52 +0200</pubDate>
+    <lastBuildDate>Wed, 24 May 2017 21:21:52 +0200</lastBuildDate>
 
     <item>
       <title>Baking my Blog with JBake and GitHub</title>
@@ -307,9 +307,9 @@
 &lt;/dl&gt;
 &lt;br&gt;
 &lt;center&gt;
- &lt;img src=&quot;/img/2017/01/2016_partidas_jugadas_por_mes.png&quot; alt=&quot;Partidas jugadas por mes hasta 2015&quot; title=&quot;Partidas jugadas por mes hasta 2016&quot; width=&quot;600&quot;&gt;
+ &lt;img src=&quot;/img/2017/01/2016_partidas_jugadas_por_mes.png&quot; alt=&quot;Partidas jugadas por mes hasta 2016&quot; title=&quot;Partidas jugadas por mes hasta 2016&quot; width=&quot;600&quot;&gt;
  &lt;div class=&quot;imagen-texto&quot;&gt;
-  Partidas Jugadas por Mes desde 2011
+  Partidas Jugadas por Mes hasta 2016
  &lt;/div&gt;
 &lt;/center&gt;
 &lt;br&gt;
@@ -1023,9 +1023,9 @@
 &lt;p&gt;Este año ni siquiera mencionaré los juegos a los que más he jugado. Salvo el &lt;a href=&quot;http://www.boardgamegeek.com/boardgame/6866/mus&quot;&gt;&lt;b&gt;Mus&lt;/b&gt;&lt;/a&gt;, ninguno supera las 2-3 partidas. Es lógico considerando que las 84 partidas jugadas han sido a 71 juegos diferentes.&lt;/p&gt;
 &lt;br&gt;
 &lt;center&gt;
- &lt;img src=&quot;/img/2016/01/2015_partidas_jugadas_por_mes.png&quot; alt=&quot;Partidas jugadas por mes desde 2011&quot; title=&quot;Partidas jugadas por mes hasta 2015&quot; width=&quot;600&quot;&gt;
+ &lt;img src=&quot;/img/2016/01/2015_partidas_jugadas_por_mes.png&quot; alt=&quot;Partidas jugadas por mes hasta 2015&quot; title=&quot;Partidas jugadas por mes hasta 2015&quot; width=&quot;600&quot;&gt;
  &lt;div class=&quot;imagen-texto&quot;&gt;
-  Partidas Jugadas por Mes desde 2011
+  Partidas Jugadas por Mes hasta 2015
  &lt;/div&gt;
 &lt;/center&gt;
 &lt;br&gt;
