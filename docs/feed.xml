@@ -6,8 +6,8 @@
     <atom:link href="https://luisgc.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Fri, 19 May 2017 17:50:37 +0200</pubDate>
-    <lastBuildDate>Fri, 19 May 2017 17:50:37 +0200</lastBuildDate>
+    <pubDate>Wed, 24 May 2017 20:26:15 +0200</pubDate>
+    <lastBuildDate>Wed, 24 May 2017 20:26:15 +0200</lastBuildDate>
 
     <item>
       <title>Baking my Blog with JBake and GitHub</title>
@@ -5202,7 +5202,6 @@
       <guid isPermaLink="false">blog/2011/10/los-prestamos-de-kiva-en-movimiento.html</guid>
       	<description>
 	
-&lt;a href=&quot;/img/2011/10/kiva.png&quot;&gt;&lt;img src=&quot;/img/2011/10/kiva.png&quot; align=&quot;right&quot; alt=&quot;Kiva&quot; title=&quot;Kiva&quot;&gt;&lt;/a&gt;
 &lt;p&gt;Aprovechando que acabo de realizar &lt;a href=&quot;http://kiva.org/invitedby/luiyo&quot;&gt;mi undécimo préstamo a través de &lt;b&gt;Kiva&lt;/b&gt;&lt;/a&gt; vuelvo a hablaros un poco de este servicio. &lt;a href=&quot;/blog/2010/10/kiva-prestamos-que-cambian-vidas.html&quot;&gt;Hace ahora poco más de un año que os hablé de ello por primera vez&lt;/a&gt;, fue más o menos entonces cuando realicé mi primer préstamo a través de esta web. Luego han llegado 10 préstamos más, con los que llevo prestados exactamente 275 dólares (incluyendo todo lo que me han ido devolviendo) a gente que los necesita mucho más que yo.&lt;/p&gt;
 &lt;p&gt;No puedo dejar pasar el post para incluir una bellísima visualización. En ella se representa con un punto que viaja por el planeta tanto el dinero desde el origen al destino, como el retorno posterior del mismo. Cada tipo de préstamo se representa con un color distinto. Una forma curiosa de ver la historia y evolución de este maravilloso servicio.&lt;/p&gt;
 &lt;center&gt;
@@ -5213,72 +5212,72 @@
 &lt;table&gt;
  &lt;tbody&gt;
   &lt;tr&gt;
-   &lt;td&gt;&lt;/td&gt; 
-   &lt;td&gt;08/10/2010&lt;/td&gt; 
+   &lt;td&gt;&lt;/td&gt;
+   &lt;td&gt;08/10/2010&lt;/td&gt;
    &lt;td&gt;16/10/2011&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Valor total de todos los préstamos hechos a través de Kiva:&lt;/td&gt; 
+   &lt;td&gt;Valor total de todos los préstamos hechos a través de Kiva:&lt;/td&gt;
    &lt;td&gt;164.549.800 $&lt;/td&gt;
    &lt;td&gt;249.275.050 $&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Número de usuarios de Kiva:&lt;/td&gt; 
+   &lt;td&gt;Número de usuarios de Kiva:&lt;/td&gt;
    &lt;td&gt;765,848&lt;/td&gt;
    &lt;td&gt;1.001.533&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Número de usuarios de Kiva que han hecho un préstamo:&lt;/td&gt; 
+   &lt;td&gt;Número de usuarios de Kiva que han hecho un préstamo:&lt;/td&gt;
    &lt;td&gt;486.122&lt;/td&gt;
    &lt;td&gt;631.382&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Número de países representados por prestadores de Kiva:&lt;/td&gt; 
+   &lt;td&gt;Número de países representados por prestadores de Kiva:&lt;/td&gt;
    &lt;td&gt;207&lt;/td&gt;
    &lt;td&gt;216&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Número de emprendedores que han recibido un préstamo a través de Kiva:&lt;/td&gt; 
+   &lt;td&gt;Número de emprendedores que han recibido un préstamo a través de Kiva:&lt;/td&gt;
    &lt;td&gt;426.719&lt;/td&gt;
    &lt;td&gt;643.382&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Número de préstamos que se han financiado a través de Kiva:&lt;/td&gt; 
+   &lt;td&gt;Número de préstamos que se han financiado a través de Kiva:&lt;/td&gt;
    &lt;td&gt;225.429&lt;/td&gt;
    &lt;td&gt;328.770&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Porcentaje de préstamos en Kiva que se han hecho a mujeres emprendedoras:&lt;/td&gt; 
+   &lt;td&gt;Porcentaje de préstamos en Kiva que se han hecho a mujeres emprendedoras:&lt;/td&gt;
    &lt;td&gt;82,00 %&lt;/td&gt;
    &lt;td&gt;80,85 %&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Número de Colaboradores Locales de Kiva (instituciones de microcréditos con quienes Kiva colabora):&lt;/td&gt; 
+   &lt;td&gt;Número de Colaboradores Locales de Kiva (instituciones de microcréditos con quienes Kiva colabora):&lt;/td&gt;
    &lt;td&gt;120&lt;/td&gt;
    &lt;td&gt;143&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Número de países en los que se encuentran Colaboradores Locales de Kiva:&lt;/td&gt; 
+   &lt;td&gt;Número de países en los que se encuentran Colaboradores Locales de Kiva:&lt;/td&gt;
    &lt;td&gt;54&lt;/td&gt;
    &lt;td&gt;60&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Tasa actual de devolución (de todos los Colaboradores Locales):&lt;/td&gt; 
+   &lt;td&gt;Tasa actual de devolución (de todos los Colaboradores Locales):&lt;/td&gt;
    &lt;td&gt;98,91 %&lt;/td&gt;
    &lt;td&gt;98,89 %&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Tamaño medio de un préstamo (es la cantidad media prestada a un emprendedor único. Algunos préstamos -de grupo- se dividen entre un conjunto de personas):&lt;/td&gt; 
+   &lt;td&gt;Tamaño medio de un préstamo (es la cantidad media prestada a un emprendedor único. Algunos préstamos -de grupo- se dividen entre un conjunto de personas):&lt;/td&gt;
    &lt;td&gt;382,28 $&lt;/td&gt;
    &lt;td&gt;385,72 $&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Tamaño medio prestado por un usuario prestador de Kiva (incluye capital devuelto):&lt;/td&gt; 
+   &lt;td&gt;Tamaño medio prestado por un usuario prestador de Kiva (incluye capital devuelto):&lt;/td&gt;
    &lt;td&gt;214,69 $&lt;/td&gt;
    &lt;td&gt;249,10 $&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Cantidad media de préstamos por cada usuario prestador de Kiva:&lt;/td&gt; 
+   &lt;td&gt;Cantidad media de préstamos por cada usuario prestador de Kiva:&lt;/td&gt;
    &lt;td&gt;6,33&lt;/td&gt;
    &lt;td&gt;7,53&lt;/td&gt;
   &lt;/tr&gt;
@@ -6512,16 +6511,10 @@
 &lt;p&gt;Al que sepa inglés le aconsejo ver sin falta el vídeo original (en mayor calidad) &lt;a href=&quot;http://www.youtube.com/watch?v=r6w2M50_Xdk&amp;amp;NR=1&quot;&gt;&lt;i&gt;Science saved my soul&lt;/i&gt;&lt;/a&gt;, para los demás aquí está la versión subtitulada:&lt;/p&gt;
 &lt;br&gt;
 &lt;center&gt;
- &lt;object width=&quot;640&quot; height=&quot;505&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/vETBLE6uS0s?fs=1&amp;amp;hl=es_ES&amp;amp;rel=0&amp;amp;hd=1&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot;&gt;&lt;embed src=&quot;http://www.youtube.com/v/vETBLE6uS0s?fs=1&amp;amp;hl=es_ES&amp;amp;rel=0&amp;amp;hd=1&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;640&quot; height=&quot;505&quot;&gt;&lt;/object&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vETBLE6uS0s?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/center&gt;
 &lt;br&gt;
 &lt;p&gt;Si les gustó, les recomiendo seguir a su autor &lt;a href=&quot;http://www.youtube.com/user/philhellenes&quot;&gt;&lt;b&gt;philhellenes&lt;/b&gt;&lt;/a&gt;. Tiene una gran cantidad de vídeos en &lt;a href=&quot;http://www.youtube.com/&quot;&gt;&lt;b&gt;youtube&lt;/b&gt;&lt;/a&gt; y casi todos son de gran calidad e interés.&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;&lt;b&gt;Actualización 22/11/2010&lt;/b&gt;: Me dejan en los comentarios el enlace al vídeo con doblaje en castellano, en bastante buena calidad:&lt;/p&gt;
-&lt;br&gt;
-&lt;center&gt;
- &lt;object width=&quot;640&quot; height=&quot;505&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/tEKmiXiyeq4?fs=1&amp;amp;hl=es_ES&amp;amp;rel=0&amp;amp;hd=1&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot;&gt;&lt;embed src=&quot;http://www.youtube.com/v/tEKmiXiyeq4?fs=1&amp;amp;hl=es_ES&amp;amp;rel=0&amp;amp;hd=1&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;640&quot; height=&quot;505&quot;&gt;&lt;/object&gt;
-&lt;/center&gt;
 
 	</description>
     </item>
@@ -6598,15 +6591,12 @@
       	<description>
 	
 &lt;p&gt;Mañana, se puede decir que en cuestión de horas, salgo hacia Londres. Por tercera vez en menos de dos años aunque esta vez no es por motivos turísticos.&lt;/p&gt;
-&lt;br&gt;
 &lt;p&gt;El motivo de este viaje es asistir a la &lt;a href=&quot;http://www.tamlondon.org/&quot;&gt;&lt;b&gt;TAM London 2010&lt;/b&gt;&lt;/a&gt;, un evento único y muy especial. TAM viene de ‘&lt;a href=&quot;http://www.randi.org/site/index.php/amazing-meeting.html&quot;&gt;&lt;b&gt;The Amaz!ng Meeting&lt;/b&gt;&lt;/a&gt;’, unas jornadas de eventos y conferencias organizadas por la &lt;b&gt;JREF&lt;/b&gt; (&lt;a href=&quot;http://www.randi.org/&quot;&gt;&lt;b&gt;James Randi Educational Foundation&lt;/b&gt;&lt;/a&gt;) habitualmente en Las Vegas aunque desde 2009 se vienen desdoblando aquí en Europa, en Londres hasta ahora.&lt;/p&gt;
-&lt;br&gt;
 &lt;p&gt;Durante dos días (espero que con sus tres noches) conoceré, charlaré, escucharé y aprenderé de más de mil asistentes, entre ellos grandes genios como:&lt;/p&gt;
 &lt;br&gt;
 &lt;ul&gt;
  &lt;li&gt;&lt;a href=&quot;http://richarddawkins.net/&quot;&gt;&lt;b&gt;Richard Dawkins&lt;/b&gt;&lt;/a&gt; (&lt;a href=&quot;http://en.wikipedia.org/wiki/Richard_Dawkins&quot;&gt;Wikipedia&lt;/a&gt;)&lt;/li&gt;
  &lt;br&gt;
- &lt;img src=&quot;/img/2010/10/TAM-London-2010.jpg&quot; align=&quot;right&quot; alt=&quot;Tam London 2010&quot; title=&quot;Tam London 2010&quot;&gt;
  &lt;li&gt;&lt;a href=&quot;http://www.randi.org/&quot;&gt;&lt;b&gt;James Randi&lt;/b&gt;&lt;/a&gt; (&lt;a href=&quot;http://en.wikipedia.org/wiki/James_Randi&quot;&gt;Wikipedia&lt;/a&gt;)&lt;/li&gt;
  &lt;br&gt;
  &lt;li&gt;&lt;b&gt;Alan Moore&lt;/b&gt; (&lt;a href=&quot;http://en.wikipedia.org/wiki/Alan_Moore&quot;&gt;Wikipedia&lt;/a&gt;)&lt;/li&gt;
@@ -6657,17 +6647,16 @@
 &lt;p&gt;Las charlas estarán disponibles en vídeo después del evento, pero creo que merece la pena disfrutar en vivo tanto de las conferencias como del tiempo entre ellas. Vean un resumen del evento del año pasado:&lt;/p&gt;
 &lt;br&gt;
 &lt;center&gt;
- &lt;object width=&quot;640&quot; height=&quot;385&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/CjFSrdvANdM?fs=1&amp;amp;hl=es_ES&amp;amp;rel=0&amp;amp;hd=1&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot;&gt;&lt;embed src=&quot;http://www.youtube.com/v/CjFSrdvANdM?fs=1&amp;amp;hl=es_ES&amp;amp;rel=0&amp;amp;hd=1&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;640&quot; height=&quot;385&quot;&gt;&lt;/object&gt;
+ &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/CjFSrdvANdM?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/center&gt;
 &lt;br&gt;
 &lt;p&gt;Como plato fuerte del sábado noche disfrutaremos del inagotable &lt;a href=&quot;http://www.timminchin.com/&quot;&gt;Tim Minchin&lt;/a&gt;, y la premiere mundial de su poema animado &lt;a href=&quot;http://www.stormmovie.net/blog&quot;&gt;&lt;i&gt;Storm&lt;/i&gt;&lt;/a&gt; (&lt;a href=&quot;http://twitter.com/#!/storm_movie&quot;&gt;twitter de Storm&lt;/a&gt;), en formato película. Os dejo con el trailer:&lt;/p&gt;
 &lt;br&gt;
 &lt;center&gt;
- &lt;object width=&quot;640&quot; height=&quot;385&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/V9bT73BM2Ic?fs=1&amp;amp;hl=es_ES&amp;amp;rel=0&amp;amp;hd=1&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot;&gt;&lt;embed src=&quot;http://www.youtube.com/v/V9bT73BM2Ic?fs=1&amp;amp;hl=es_ES&amp;amp;rel=0&amp;amp;hd=1&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;640&quot; height=&quot;385&quot;&gt;&lt;/object&gt;
-&lt;/center&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/V9bT73BM2Ic?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/center&gt;
 &lt;br&gt;
 &lt;p&gt;Para aquellos que queráis saber más del evento durante el mismo: el podcast oficial de la TAM London es &lt;a href=&quot;http://www.littleatoms.com/&quot;&gt;&lt;b&gt;Little Atoms&lt;/b&gt;&lt;/a&gt;; el blogger oficial será &lt;b&gt;Martin Robbins&lt;/b&gt; de &lt;a href=&quot;http://www.layscience.net/&quot;&gt;&lt;b&gt;Lay Science&lt;/b&gt;&lt;/a&gt;, que irá retransmitiendo el evento en directo; la Fotógrafo oficial es &lt;a href=&quot;http://www.kemaha.co.uk/&quot;&gt;&lt;b&gt;Kelly Haddow&lt;/b&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;br&gt;
 &lt;p&gt;Si las condiciones técnicas lo permiten, tengo intención de ir publicando fotos y comentarios durante el fin de semana, trataré de escribir bastante sobre ello a la vuelta. La ocasión lo merece.&lt;/p&gt;
 
 	</description>
@@ -6753,77 +6742,65 @@
  &lt;object width=&quot;400&quot; height=&quot;302&quot;&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot;&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://vimeo.com/moogaloop.swf?clip_id=2769845&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=1&amp;amp;color=&amp;amp;fullscreen=1&amp;amp;autoplay=0&amp;amp;loop=0&quot;&gt;&lt;embed src=&quot;http://vimeo.com/moogaloop.swf?clip_id=2769845&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=1&amp;amp;color=&amp;amp;fullscreen=1&amp;amp;autoplay=0&amp;amp;loop=0&quot; type=&quot;application/x-shockwave-flash&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; width=&quot;400&quot; height=&quot;302&quot;&gt;&lt;/object&gt;
 &lt;/center&gt;
 &lt;center&gt;
- &lt;a href=&quot;http://vimeo.com/2769845&quot;&gt;A Fistful Of Dollars: The Story of a Kiva.org Loan&lt;/a&gt; from 
- &lt;a href=&quot;http://vimeo.com/user1120177&quot;&gt;Kieran Ball&lt;/a&gt; on 
+ &lt;a href=&quot;http://vimeo.com/2769845&quot;&gt;A Fistful Of Dollars: The Story of a Kiva.org Loan&lt;/a&gt; from
+ &lt;a href=&quot;http://vimeo.com/user1120177&quot;&gt;Kieran Ball&lt;/a&gt; on
  &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.
 &lt;/center&gt;
 &lt;br&gt;
 &lt;p&gt;Miles de personas necesitadas consiguen mejorar o sacar adelante sus vidas, sus negocios, sus familias, etc. de una forma rentable. Del mismo modo, muchos otros miles de personas del primer mundo consiguen ayudar de una forma digna y transparente. Os dejo las cifras (actualizadas anoche):&lt;/p&gt;
 &lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
 &lt;table&gt;
  &lt;tbody&gt;
   &lt;tr&gt;
-   &lt;td&gt;Total value of all loans made through Kiva:&lt;/td&gt; 
+   &lt;td&gt;Total value of all loans made through Kiva:&lt;/td&gt;
    &lt;td&gt;$164,549,800&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Number of Kiva Users:&lt;/td&gt; 
+   &lt;td&gt;Number of Kiva Users:&lt;/td&gt;
    &lt;td&gt;765,848&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Number of Kiva Users who have funded a loan:&lt;/td&gt; 
+   &lt;td&gt;Number of Kiva Users who have funded a loan:&lt;/td&gt;
    &lt;td&gt;486,122&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Number of countries represented by Kiva Lenders:&lt;/td&gt; 
+   &lt;td&gt;Number of countries represented by Kiva Lenders:&lt;/td&gt;
    &lt;td&gt;207&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Number of entrepreneurs that have received a loan through Kiva:&lt;/td&gt; 
+   &lt;td&gt;Number of entrepreneurs that have received a loan through Kiva:&lt;/td&gt;
    &lt;td&gt;426,719&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Number of loans that have been funded through Kiva:&lt;/td&gt; 
+   &lt;td&gt;Number of loans that have been funded through Kiva:&lt;/td&gt;
    &lt;td&gt;225,429&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Percentage of Kiva loans which have been made to women entrepreneurs:&lt;/td&gt; 
+   &lt;td&gt;Percentage of Kiva loans which have been made to women entrepreneurs:&lt;/td&gt;
    &lt;td&gt;82.00%&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Number of Kiva Field Partners (microfinance institutions Kiva partners with):&lt;/td&gt; 
+   &lt;td&gt;Number of Kiva Field Partners (microfinance institutions Kiva partners with):&lt;/td&gt;
    &lt;td&gt;120&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Number of countries Kiva Field Partners are located in:&lt;/td&gt; 
+   &lt;td&gt;Number of countries Kiva Field Partners are located in:&lt;/td&gt;
    &lt;td&gt;54&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Current repayment rate (all partners):&lt;/td&gt; 
+   &lt;td&gt;Current repayment rate (all partners):&lt;/td&gt;
    &lt;td&gt;98.91%&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Average loan size (This is the average amount loaned to an individual Kiva Entrepreneur. Some loans - group loans - are divided between a group of borrowers.):&lt;/td&gt; 
+   &lt;td&gt;Average loan size (This is the average amount loaned to an individual Kiva Entrepreneur. Some loans - group loans - are divided between a group of borrowers.):&lt;/td&gt;
    &lt;td&gt;$382.28 &lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Average total amount loaned per Kiva Lender (includes reloaned funds):&lt;/td&gt; 
+   &lt;td&gt;Average total amount loaned per Kiva Lender (includes reloaned funds):&lt;/td&gt;
    &lt;td&gt;$214.69&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-   &lt;td&gt;Average number of loans per Kiva Lender:&lt;/td&gt; 
+   &lt;td&gt;Average number of loans per Kiva Lender:&lt;/td&gt;
    &lt;td&gt;6.33&lt;/td&gt;
   &lt;/tr&gt;
  &lt;/tbody&gt;
@@ -7252,7 +7229,7 @@
 &lt;br&gt;
 &lt;br&gt;
 &lt;center&gt;
- &lt;object width=&quot;500&quot; height=&quot;405&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/HPkXkZZsPGw&amp;amp;hl=es_ES&amp;amp;fs=1&amp;amp;rel=0&amp;amp;border=1&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot;&gt;&lt;embed src=&quot;http://www.youtube.com/v/HPkXkZZsPGw&amp;amp;hl=es_ES&amp;amp;fs=1&amp;amp;rel=0&amp;amp;border=1&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;500&quot; height=&quot;405&quot;&gt;&lt;/object&gt;
+ &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/HPkXkZZsPGw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/center&gt;
 &lt;br&gt;
 &lt;br&gt;
@@ -7542,25 +7519,6 @@
 &lt;div class=&quot;pasaje&quot;&gt;
  &lt;p&gt;For reasons that are not entirely clear to me, Darwinism seems more in need of advocacy than similarly established truths in other branches of science. Many of us have no grasp of quantum theory, or Einstein&apos;s theories of special and general relativity, but this does not in itself lead us to oppose these theories! Darwinism, unlike &apos;Einsteinism&apos;, seems to be regarded as fair game for critics with any degree of ignorance. I suppose one trouble with Darwinism is that, as Jacques Monod perceptively remarked, everybody thinks he understand it. It is, indeed, a remarkably simple theory, childish so, one would have thought, in comparison with almost all of physics and mathematics. In essence, it amounts simply to the idea that non-random reproduction, where there is hereditary variation, has consequences that are far-reaching if there is time for them to be cumulative. But we have good grounds for believing that this simplicity is deceptive. Never forget that, simple as the theory may seem, nobody thought of it until Darwin and Walace in the mid nineteenth century, nearly 200 years after Newton&apos;s Principia, and more than 2,000 years after Erastothenes measured the Earth. How could such a simple idea go so long undiscovered by thinkers of the calibre of Newton, Galileo, Descartes, Leibnitz, Hume and Aristotle? Why did it have to wait for two Victorian naturalists? What was wrong with philosophers and mathematicians that they overlooked it? And how can such a powerful idea go still largely unabsorbed into popular consciousness?&lt;/p&gt;
 &lt;/div&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Project Natal en Smallville</title>
-      <link>https://luisgc.github.io/blog/blog/2010/02/project-natal-en-smallville.html</link>
-      <pubDate>Sun, 21 Feb 2010 00:00:00 +0100</pubDate>
-      <guid isPermaLink="false">blog/2010/02/project-natal-en-smallville.html</guid>
-      	<description>
-	
-&lt;p&gt;Cuando vi el (en ese momento último) capítulo de &lt;a href=&quot;http://www.cwtv.com/shows/smallville&quot;&gt;&lt;span style=&quot;font-weight:bold;&quot;&gt;Smallville&lt;/span&gt;&lt;/a&gt;, &lt;span style=&quot;font-style:italic;&quot;&gt;Warrior&lt;/span&gt;, el otro día pensé que jugaban a la &lt;a href=&quot;http://www.nintendo.com/wii&quot;&gt;&lt;span style=&quot;font-weight:bold;&quot;&gt;Wii&lt;/span&gt;&lt;/a&gt;, pero en realidad se trataba de un &lt;a href=&quot;http://en.wikipedia.org/wiki/Product_placement&quot;&gt;&lt;span style=&quot;font-style:italic;&quot;&gt;product placement&lt;/span&gt;&lt;/a&gt; (previo al lanzamiento) de &lt;a href=&quot;http://www.xbox.com/en-US/live/projectnatal/&quot;&gt;&lt;span style=&quot;font-weight:bold;&quot;&gt;Project Natal&lt;/span&gt;&lt;/a&gt;, revolución inminente en la plataforma &lt;a href=&quot;http://www.xbox.com/&quot;&gt;&lt;span style=&quot;font-weight:bold;&quot;&gt;Xbox 360&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;center&gt;
- &lt;object width=&quot;560&quot; height=&quot;340&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/R4HomEnDzXI&amp;amp;hl=es_ES&amp;amp;fs=1&amp;amp;rel=0&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot;&gt;&lt;embed src=&quot;http://www.youtube.com/v/R4HomEnDzXI&amp;amp;hl=es_ES&amp;amp;fs=1&amp;amp;rel=0&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;560&quot; height=&quot;340&quot;&gt;&lt;/object&gt;
-&lt;/center&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;p&gt;(Via &lt;a href=&quot;http://www.vidaextra.com/hardware/tres-nuevos-videos-de-project-natal&quot;&gt;&lt;span style=&quot;font-weight:bold;&quot;&gt;VidaExtra&lt;/span&gt;&lt;/a&gt;)&lt;/p&gt;
 
 	</description>
     </item>
@@ -8205,14 +8163,14 @@
 	
 &lt;p&gt;El &quot;humorista&quot; &lt;a href=&quot;http://www.youtube.com/watch?v=fOIM1_xOSro&amp;amp;eurl&quot;&gt;&lt;span style=&quot;font-weight:bold;&quot;&gt;Ali G&lt;/span&gt; entrevista a &lt;span style=&quot;font-weight:bold;&quot;&gt;Noam Chomsky&lt;/span&gt;&lt;/a&gt;, que por cierto aguanta como un campeón.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;center&gt;
- &lt;object width=&quot;425&quot; height=&quot;350&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/fOIM1_xOSro&quot;&gt;&lt;embed src=&quot;http://www.youtube.com/v/fOIM1_xOSro&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;425&quot; height=&quot;350&quot;&gt;&lt;/object&gt;
+ &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fOIM1_xOSro&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/center&gt;
 &lt;br&gt;
-&lt;br&gt;Dedicado a 
+&lt;br&gt;Dedicado a
 &lt;a href=&quot;http://minyatur.blogia.com/&quot;&gt;&lt;span style=&quot;font-weight:bold;&quot;&gt;Minyatur&lt;/span&gt;&lt;/a&gt;, ya que comento con él las cosas que dice Chomsky.
 &lt;br&gt;
 &lt;br&gt;
-&lt;br&gt;(Via 
+&lt;br&gt;(Via
 &lt;a href=&quot;http://pjorge.com/archivo/2006/4/26/15:48:40/&quot;&gt;&lt;span style=&quot;font-weight:bold;&quot;&gt;Pedro Jorge&lt;/span&gt;&lt;/a&gt;)
 &lt;p&gt;&lt;/p&gt;
 

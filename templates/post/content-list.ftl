@@ -1,8 +1,8 @@
 <article class="post" data-file="${content.rootpath}${post.noExtensionUri!post.uri}" data-target="article">
      <#include "header.ftl">
 
-    <#include "../commons/featured.ftl">
-    
+    <#include "../commons/featured_nolink.ftl">
+
     <p>${post.summary!''}</p>
 
     <footer>
