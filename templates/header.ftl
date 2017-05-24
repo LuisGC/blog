@@ -9,10 +9,21 @@
     <meta charset="utf-8"/>
     <title>${config.site_title}<#if (content.title)??> - <#escape x as x?xml>${content.title}</#escape></#if></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
+    <meta name="description" content="${config.site_title} - ${content.description!content.title!config.sidebar_intro_summary}">
     <meta name="author" content="${content.author!config.site_author}">
     <meta name="keywords" content="">
     <meta name="generator" content="JBake">
+
+    <link href="${config.site_host}" rel="canonical">
+    <link rel="alternate" type="application/atom+xml" title="${config.site_title} - Atom" href="${config.site_host}/blog/feed.xml">
+    <link rel="alternate" type="application/rss+xml" title="${config.site_title} - RSS" href="${config.site_host}/blog/feed.xml">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@${config.sidebar_social_twitter}">
+    <meta name="twitter:creator" content="@${config.sidebar_social_twitter}">
+    <meta name="twitter:title" content="${content.title!config.site_title}">
+    <meta name="twitter:description" content="${content.description!content.title!config.sidebar_intro_summary}">
+    <meta name="twitter:image" content="${config.site_host}/${content.image!'img/main/avatar.png' }">
 
     <link rel="stylesheet" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>css/google-font.css" />
     <link rel="stylesheet" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>css/font-awesome.min.css" />
