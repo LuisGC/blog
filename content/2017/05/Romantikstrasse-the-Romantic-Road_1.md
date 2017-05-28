@@ -1,11 +1,11 @@
-title=Romantikstraße, the Romantic Road
-date=2017-05-26
+title=Romantikstraße, the Romantic Road (1 of 5)
+date=2017-05-28
 type=post
 tags=personal,turismo,vacaciones
 status=draft
 featuredimage=img/2017/05/Hallstatt_panoramic.jpg
 featuredalt=Hallstatt panoramic
-featuredcaption=<a href="http://creativecommons.org/licenses/by-nc-sa/2.0/"><i>CC BY-NC-SA</i></a>
+featuredcaption=Hallstatt panoramic - <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/"><i>CC BY-NC-SA</i></a>
 summary=A couple ...
 ~~~~~~
 A couple of weeks ago I had the immense pleasure of making a road trip through Austria following what they call the [**Romantikstraße**](http://www.romantikstrasse.at/es/), *Romantic Road* or *Romantic Trail* in English. Interestingly, ours was a **singles** trip initially planned for three friends but sadly in the end we were only two because at the last minute Roberto had to cancel. I shared this great adventure only with Agatha and it was great (as expected). I suppose that in the eyes of any innkeeper or bartender we were a happy couple celebrating something.
@@ -37,6 +37,11 @@ The castle also hosts temporal exibitions and a very nice restaurant in the cour
 
 The first funny anecdote of the trip arrived soon. From the parking to the castle we saw two different roads, both very steep. Ignoring a medium-sized sign in german we followed the nearest of them, because in [**OSMAnd**](http://osmand.net/) I could see that it was more direct to the gardens and the castle. After visiting the garden, the courtyard of the castle, the restaurant and most of the open rooms (and some closed ones), we noticed that we had paid nothing to be there. We went back to the parking lot using the other way and confirmed that we'd skipped the ticket office. I leave to your imagination if we warned them of our mistake and paid the entrance.
 
+<div class="image">
+  <img src="/img/2017/05/Schallaburg_castle_courtyard.jpg" alt="Schallaburg castle's courtyard">
+  <div class="caption">Schallaburg castle's courtyard - <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/"><i>CC BY-NC-SA</i></a></div>
+</div>
+
 Before leaving, we found [our first cache of the trip](https://www.geocaching.com/seek/cache_details.aspx?guid=dc7d5446-009c-4332-8fde-2881d06a4882), less than 5 meters from our car :-)
 
 ## Melk
@@ -53,34 +58,12 @@ Don't forget to find [this awesome cache](https://www.geocaching.com/geocache/GC
 
 ## Steyr
 
-# Day 2
+Our last stop for the first day was Steyr, where (as they say) _Gothic, Renaissance, Baroque and Rococo meet each other in harmony_. Steyr is in the confluence of the rivers Enns and Steyr, and therefore features more than 100 bridges. I confess that I expected to hear the comment _The Venice of Austria_ but it didn't happen. The old town is nice, all around the huge Stadtplatz (market square) that was, saldy, partially ocuppied with parked cars and even some tents for private events. Disgusting for the visitors and I'd bet that also for the locals.
 
-## Kremsmünster
+Our main goal in this city was to follow the **Nachtwächtern Tour**, a walking tour through the old town guided by a historian disguised as medieval watchman. Unluckily the tour was only in german, and we struggled to get the guide to understand that we wanted to follow him without understanding anything at all. The guide took pity on us, letting us follow him paying _only_ half the price. As expected we didn't understand anything, but we crossed the same streets and alleys, we looked where they looked, we analyzed in detail whatever they commented in detail, and we laughed when they laughed (maybe even some joke about Spanish tourists, who knows).
 
-## Scharnstein
+The Night Watchman Tour is also the only way for a tourist to climb the 228 steps of the **Stadtpfarrkirche Steyr** tower, a roman catholic Church dedicated to Saint Aegidius (I toast him!) and Saint Koloman. Even at night, the views are wonderful.
 
-## Traunkirchen
+We had a delicious dinner with local specialities at [**Mader**](http://www.openstreetmap.org/node/270488531) and returned to our guest house ([**Gasthof Bauer**](http://www.openstreetmap.org/node/3119352500)). I recommend both places but especially the second one, the guest house ocuppied several low buildings and houses in a small island near the old town, the rooms were almost small apartments and the attention we received was exquisite.
 
-## Gmunden
-
-# Day 3
-
-## Sankt Wolfgang im Salzkammergut
-
-## Bad Ischl
-
-## Mondsee
-
-# Day 4
-
-## Postalm
-
-## Gosau
-
-## Hallstatt
-
-## Obertraun
-
-# Day 5
-
-## Mauthausen
+Keep tuned for next episodes!
