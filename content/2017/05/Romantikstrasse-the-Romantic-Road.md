@@ -41,6 +41,16 @@ Before leaving, we found [our first cache of the trip](https://www.geocaching.co
 
 ## Melk
 
+Our next visit was to Melk and his famous [Melk Abbey](https://en.wikipedia.org/wiki/Melk_Abbey). [Umberto Eco](https://en.wikipedia.org/wiki/Umberto_Eco) named _Adso de Melk_ as a tribute to this abbey, and we were curious about it and the fact that the Austrians talk about this place as one of the most important monasteries in Europe. The place did not dissapoint us at all.
+
+We did a quick tour through the main elements of this baroque Abbey. The exhibition, the Marble Hall and the church are quite beautiful but what really impressed us was the Library, with about 100.000 volumes (1.888 manuscripts, 750 incunabula, a unique 13th century copy of [The Song of the Nibelungs](https://en.wikipedia.org/wiki/Nibelungenlied), ...). In one room of the Library the fresco portrays an allegory of Scientia (Science), just like churches in Spain, right?
+
+The Abbey was also wisely located, on top of a hill and clearly standing out from the town of Melk. The visit is worth it just for the views from the balcony connecting the Marble Hall and the Library with Melk, the Danube river and forests everywhere.
+
+The visit to the Abbey includes a nice English landscape garden with an interesting baroque pavilion and a small park full of works of art and fabulous hidden corners.
+
+Don't forget to find [this awesome cache](https://www.geocaching.com/geocache/GC5X2KR_tb-hotel-der-kescherinnen?guid=7e33fa4c-f4a2-4ac9-b11a-ee13d2db9a03) in the surrounding area. One of my all time favorites.
+
 ## Steyr
 
 # Day 2
