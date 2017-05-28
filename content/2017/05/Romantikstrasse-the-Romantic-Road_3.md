@@ -5,7 +5,7 @@ tags=personal,turismo,vacaciones
 status=draft
 featuredimage=img/2017/05/Hallstatt_panoramic.jpg
 featuredalt=Hallstatt panoramic
-featuredcaption=Hallstatt panoramic - <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/"><i>CC BY-NC-SA</i></a>
+featuredcaption=Hallstatt panoramic - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a>
 summary=A couple ...
 ~~~~~~
 

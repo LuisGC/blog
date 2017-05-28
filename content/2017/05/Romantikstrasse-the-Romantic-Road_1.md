@@ -3,23 +3,23 @@ date=2017-05-28
 type=post
 tags=personal,turismo,vacaciones
 status=draft
-featuredimage=img/2017/05/Hallstatt_panoramic.jpg
-featuredalt=Hallstatt panoramic
-featuredcaption=Hallstatt panoramic - <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/"><i>CC BY-NC-SA</i></a>
+featuredimage=img/2017/05/Schallaburg_castle_garden.jpg
+featuredalt=Schallaburg Castle and garden
+featuredcaption=Schallaburg Castle and garden - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a>
 summary=A couple ...
 ~~~~~~
-A couple of weeks ago I had the immense pleasure of making a road trip through Austria following what they call the [**Romantikstraße**](http://www.romantikstrasse.at/es/), *Romantic Road* or *Romantic Trail* in English. Interestingly, ours was a **singles** trip initially planned for three friends but sadly in the end we were only two because at the last minute Roberto had to cancel. I shared this great adventure only with Agatha and it was great (as expected). I suppose that in the eyes of any innkeeper or bartender we were a happy couple celebrating something.
+A couple of weeks ago I had the immense pleasure of making a road trip through Austria following what they call the [**Romantikstraße**](http://www.romantikstrasse.at/es/), *Romantic Road* or *Romantic Trail* in English. Interestingly, ours was a **singles** trip initially planned for three friends but sadly in the end we were only two because at the last minute Roberto had to cancel. I shared this great adventure only with **Agatha** and it was great (as expected). I suppose that in the eyes of any innkeeper or bartender we were a happy couple celebrating something.
 
 Having said that, I didn't notice any special _romantic atmosphere_ beyond the surrounding beautiful landscapes, fantastic lakes and awesome mountains. Some might say that my sense of romanticism is broken, and it may be possible, but for me Nature is not romantic by itself. Luckily the shops, restaurants and villages in general didn't focus on selling this concept to the visitors. In fact it was very unlikely to find a sign about the Romantikstraße off the main roads of the route. But enough talking about the commercial name of the route.
 
-Let me summarize our experience, mainly anecdotes and tips. Prices, timetables and other General tourist information is easy to find and sometimes expires soon. I'll love to read it in the future and it could be useful for anyone planning a similar trip. You can also read [Agatha's review in her blog](https://detintasuelta.blogspot.com.es/2017/05/romantikstrasse-por-austria.html) (in Spanish). She [prepared the route perfectly in advance](https://detintasuelta.blogspot.com.es/2017/02/preparando-la-romantikstrasse-por.html) and we mainly followed her plan, we only needed a couple of improvised detours.
+Let me summarize our experience, mainly anecdotes and tips. Prices, timetables and other General tourist information are easy to find and that info sometimes expires soon. I'll love to read it in the future and it could be useful for anyone planning a similar trip. You can also read [Agatha's review in her blog](https://detintasuelta.blogspot.com.es/2017/05/romantikstrasse-por-austria.html) (in Spanish). She [prepared the route perfectly in advance](https://detintasuelta.blogspot.com.es/2017/02/preparando-la-romantikstrasse-por.html) and we mainly followed her plan, we only needed a couple of improvised detours.
 
 # TL;DR
 
-* The area covered by the Romantikstraße is totally amazing. Everything is beautiful, looks shiny, deserves a zillion pictures or to sit for a while to admire the landscape. Especially the latter
-* It's not a cheap trip, but it's not as expensive as Switzerland
-* We spent 4,5 days there and it was enough but the trip deserves at least a couple days more
-* Hallstatt is very beautiful, but it's not the most beautiful village in the world. Covarrubias is (of course)
+* The area covered by the Romantikstraße is totally amazing. **Everything is beautiful**, looks shiny, deserves a zillion pictures or to sit for a while to admire the landscape. Especially the latter
+* It's **not a cheap trip**, but it's not as expensive as Switzerland
+* We spent 4,5 days there and it was enough but the trip **deserves at least a couple days more**
+* Hallstatt is very beautiful, but it's not (as they claim) the **most beautiful village in the world**. Covarrubias is (of course)
 
 # Preparing the Romantikstraße
 
@@ -39,7 +39,7 @@ The first funny anecdote of the trip arrived soon. From the parking to the castl
 
 <div class="image">
   <img src="/img/2017/05/Schallaburg_castle_courtyard.jpg" alt="Schallaburg castle's courtyard">
-  <div class="caption">Schallaburg castle's courtyard - <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/"><i>CC BY-NC-SA</i></a></div>
+  <div class="caption">Schallaburg castle's courtyard - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
 Before leaving, we found [our first cache of the trip](https://www.geocaching.com/seek/cache_details.aspx?guid=dc7d5446-009c-4332-8fde-2881d06a4882), less than 5 meters from our car :-)
@@ -49,6 +49,12 @@ Before leaving, we found [our first cache of the trip](https://www.geocaching.co
 Our next visit was to Melk and his famous [Melk Abbey](https://en.wikipedia.org/wiki/Melk_Abbey). [Umberto Eco](https://en.wikipedia.org/wiki/Umberto_Eco) named _Adso de Melk_ as a tribute to this abbey, and we were curious about it and the fact that the Austrians talk about this place as one of the most important monasteries in Europe. The place did not dissapoint us at all.
 
 We did a quick tour through the main elements of this baroque Abbey. The exhibition, the Marble Hall and the church are quite beautiful but what really impressed us was the Library, with about 100.000 volumes (1.888 manuscripts, 750 incunabula, a unique 13th century copy of [The Song of the Nibelungs](https://en.wikipedia.org/wiki/Nibelungenlied), ...). In one room of the Library the fresco portrays an allegory of Scientia (Science), just like churches in Spain, right?
+
+<div class="image">
+  <img src="/img/2017/05/Melk_Abbey_Library.jpg" alt="Melk Abbey Library">
+  <div class="caption">Melk Abbey Library, by [Jorge Royan](http://www.royan.com.ar/)
+  Source Wikimedia - <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>CC BY-SA</i></a></div>
+</div>
 
 The Abbey was also wisely located, on top of a hill and clearly standing out from the town of Melk. The visit is worth it just for the views from the balcony connecting the Marble Hall and the Library with Melk, the Danube river and forests everywhere.
 
@@ -60,10 +66,15 @@ Don't forget to find [this awesome cache](https://www.geocaching.com/geocache/GC
 
 Our last stop for the first day was Steyr, where (as they say) _Gothic, Renaissance, Baroque and Rococo meet each other in harmony_. Steyr is in the confluence of the rivers Enns and Steyr, and therefore features more than 100 bridges. I confess that I expected to hear the comment _The Venice of Austria_ but it didn't happen. The old town is nice, all around the huge Stadtplatz (market square) that was, saldy, partially ocuppied with parked cars and even some tents for private events. Disgusting for the visitors and I'd bet that also for the locals.
 
+<div class="image lateral">
+  <img src="/img/2017/05/Steyr_Nachtwachtern.jpg" alt="Steyr's Nachtwachtern">
+  <div class="caption">Steyr's Nachtwachtern - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
+</div>
+
 Our main goal in this city was to follow the **Nachtwächtern Tour**, a walking tour through the old town guided by a historian disguised as medieval watchman. Unluckily the tour was only in german, and we struggled to get the guide to understand that we wanted to follow him without understanding anything at all. The guide took pity on us, letting us follow him paying _only_ half the price. As expected we didn't understand anything, but we crossed the same streets and alleys, we looked where they looked, we analyzed in detail whatever they commented in detail, and we laughed when they laughed (maybe even some joke about Spanish tourists, who knows).
 
 The Night Watchman Tour is also the only way for a tourist to climb the 228 steps of the **Stadtpfarrkirche Steyr** tower, a roman catholic Church dedicated to Saint Aegidius (I toast him!) and Saint Koloman. Even at night, the views are wonderful.
 
 We had a delicious dinner with local specialities at [**Mader**](http://www.openstreetmap.org/node/270488531) and returned to our guest house ([**Gasthof Bauer**](http://www.openstreetmap.org/node/3119352500)). I recommend both places but especially the second one, the guest house ocuppied several low buildings and houses in a small island near the old town, the rooms were almost small apartments and the attention we received was exquisite.
 
-Keep tuned for next episodes!
+**Keep tuned for next episodes!**
