@@ -10,7 +10,6 @@
     <lastBuildDate>${published_date?string("EEE, d MMM yyyy HH:mm:ss Z")}</lastBuildDate>
 
     <#list published_posts as post>
-    <#if (post?counter > 5) ><#break/></#if>
     <item>
       <title><#escape x as x?xml>${post.title}</#escape></title>
       <link>${config.site_host}/${post.noExtensionUri!post.uri}</link>
