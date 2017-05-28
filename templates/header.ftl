@@ -22,7 +22,7 @@
     <meta name="twitter:site" content="@${config.sidebar_social_twitter}">
     <meta name="twitter:creator" content="@${config.sidebar_social_twitter}">
     <meta name="twitter:title" content="${content.title!config.site_title}">
-    <meta name="twitter:description" content="${content.description!content.title!config.sidebar_intro_summary}">
+    <meta name="twitter:description" content="${content.summary!config.sidebar_intro_summary}">
     <meta name="twitter:image" content="${config.site_host}/${content.featuredimage!'img/main/avatar.png' }">
 
     <link rel="stylesheet" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>css/google-font.css" />
