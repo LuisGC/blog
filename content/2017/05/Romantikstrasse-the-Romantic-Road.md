@@ -5,6 +5,7 @@ tags=personal,turismo,vacaciones
 status=draft
 featuredimage=img/2017/05/Hallstatt_panoramic.jpg
 featuredalt=Hallstatt panoramic
+featuredcaption=<a href="http://creativecommons.org/licenses/by-nc-sa/2.0/"><i>CC BY-NC-SA</i></a>
 summary=A couple ...
 ~~~~~~
 A couple of weeks ago I had the immense pleasure of making a road trip through Austria following what they call the [**Romantikstraße**](http://www.romantikstrasse.at/es/), *Romantic Road* or *Romantic Trail* in English. Interestingly, ours was a **singles** trip initially planned for three friends but sadly in the end we were only two because at the last minute Roberto had to cancel. I shared this great adventure only with Agatha and it was great (as expected). I suppose that in the eyes of any innkeeper or bartender we were a happy couple celebrating something.
