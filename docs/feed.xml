@@ -6,8 +6,8 @@
     <atom:link href="https://luisgc.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Fri, 26 May 2017 22:26:37 +0200</pubDate>
-    <lastBuildDate>Fri, 26 May 2017 22:26:37 +0200</lastBuildDate>
+    <pubDate>Sun, 28 May 2017 13:48:07 +0200</pubDate>
+    <lastBuildDate>Sun, 28 May 2017 13:48:07 +0200</lastBuildDate>
 
     <item>
       <title>Baking my Blog with JBake and GitHub</title>
@@ -82,9 +82,9 @@
  &lt;i&gt;I&apos;ll keep my intent to summarize all the important events that I&apos;m attending, and I&apos;ll do it again in English as the audience is international. &lt;b&gt;Please, point me any mistake you may find&lt;/b&gt;&lt;/i&gt;
 &lt;/center&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;div class=&quot;imagen&quot;&gt;
-  &lt;img src=&quot;/blog/img/2017/04/Greach_2017.png&quot; style=&quot;float:right&quot; alt=&quot;Greach 2017&quot; width=&quot;300&quot;&gt;
-  &lt;div class=&quot;imagen-texto&quot;&gt;
+&lt;div class=&quot;image lateral&quot;&gt;
+  &lt;img src=&quot;/img/2017/04/Greach_2017.png&quot; alt=&quot;Greach 2017&quot;&gt;
+  &lt;div class=&quot;caption&quot;&gt;
    &lt;a href=&quot;http://2017.greachconf.com/&quot;&gt;Greach 2017&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -308,7 +308,7 @@
 &lt;br&gt;
 &lt;center&gt;
  &lt;img src=&quot;/img/2017/01/2016_partidas_jugadas_por_mes.png&quot; alt=&quot;Partidas jugadas por mes hasta 2016&quot; title=&quot;Partidas jugadas por mes hasta 2016&quot; width=&quot;600&quot;&gt;
- &lt;div class=&quot;imagen-texto&quot;&gt;
+ &lt;div class=&quot;caption&quot;&gt;
   Partidas Jugadas por Mes hasta 2016
  &lt;/div&gt;
 &lt;/center&gt;
@@ -634,9 +634,9 @@
       	<description>
 	
 &lt;p&gt;&lt;i&gt;Disclaimer: I attended FOSDEM in Brussels last January. I should have written this weeks ago but better late than ever, right?&lt;/i&gt;&lt;/p&gt;
-&lt;div class=&quot;imagen&quot;&gt;
- &lt;img src=&quot;/blog/img/2016/03/fosdem-2016.jpg&quot; style=&quot;float:right&quot; alt=&quot;FOSDEM 2016&quot; width=&quot;300&quot;&gt;
- &lt;div class=&quot;imagen-texto&quot;&gt;
+&lt;div class=&quot;image lateral&quot;&gt;
+ &lt;img src=&quot;/img/2016/03/fosdem-2016.jpg&quot; alt=&quot;FOSDEM 2016&quot;&gt;
+ &lt;div class=&quot;caption&quot;&gt;
   FOSDEM 2016
  &lt;/div&gt;
 &lt;/div&gt;
@@ -743,9 +743,9 @@
 	
 &lt;p&gt;&lt;i&gt;Disclaimer: I attended FOSDEM in Brussels last January. I should have written this weeks ago but better late than ever, right?&lt;/i&gt;&lt;/p&gt;
 &lt;br&gt;
-&lt;div class=&quot;imagen&quot;&gt;
- &lt;img src=&quot;/blog/img/2016/03/fosdem-2016.jpg&quot; style=&quot;float:right&quot; alt=&quot;FOSDEM 2016&quot; width=&quot;300&quot;&gt;
- &lt;div class=&quot;imagen-texto&quot;&gt;
+&lt;div class=&quot;image lateral&quot;&gt;
+ &lt;img src=&quot;/img/2016/03/fosdem-2016.jpg&quot; alt=&quot;FOSDEM 2016&quot;&gt;
+ &lt;div class=&quot;caption&quot;&gt;
   FOSDEM 2016
  &lt;/div&gt;
 &lt;/div&gt;
@@ -851,9 +851,9 @@
 	
 &lt;p&gt;&lt;i&gt;Disclaimer: I attended FOSDEM in Brussels last January. I should have written this weeks ago but better late than ever, right?&lt;/i&gt;&lt;/p&gt;
 &lt;br&gt;
-&lt;div class=&quot;imagen&quot;&gt;
- &lt;img src=&quot;/blog/img/2016/03/fosdem-2016.jpg&quot; style=&quot;float:right&quot; alt=&quot;FOSDEM 2016&quot; width=&quot;300&quot;&gt;
- &lt;div class=&quot;imagen-texto&quot;&gt;
+&lt;div class=&quot;image lateral&quot;&gt;
+ &lt;img src=&quot;/img/2016/03/fosdem-2016.jpg&quot; alt=&quot;FOSDEM 2016&quot;&gt;
+ &lt;div class=&quot;caption&quot;&gt;
   FOSDEM 2016
  &lt;/div&gt;
 &lt;/div&gt;
@@ -1024,7 +1024,7 @@
 &lt;br&gt;
 &lt;center&gt;
  &lt;img src=&quot;/img/2016/01/2015_partidas_jugadas_por_mes.png&quot; alt=&quot;Partidas jugadas por mes hasta 2015&quot; title=&quot;Partidas jugadas por mes hasta 2015&quot; width=&quot;600&quot;&gt;
- &lt;div class=&quot;imagen-texto&quot;&gt;
+ &lt;div class=&quot;caption&quot;&gt;
   Partidas Jugadas por Mes hasta 2015
  &lt;/div&gt;
 &lt;/center&gt;
@@ -1168,7 +1168,7 @@
       	<description>
 	
 &lt;p&gt;Como cada arranque de año (aunque esta vez lo hago muy tarde) toca revisar los datos sobre las partidas que he jugado durante el año anterior (enlace a los datos de &lt;a href=&quot;/blog/2014/01/partidas-jugadas-en-2013.html&quot;&gt;2013&lt;/a&gt;, &lt;a href=&quot;/blog/2013/01/partidas-jugadas-en-2012.html&quot;&gt;2012&lt;/a&gt; y &lt;a href=&quot;/blog/2012/01/juegos-los-que-mas-he-jugado-en-2011.html&quot;&gt;2011&lt;/a&gt;). Vuelvo a insistir en la comparación con los años anteriores, y este año como bonus trataré de reforzar el apartado de análisis y retrospectiva.&lt;/p&gt;
-&lt;p&gt;Y todo, como ya sabéis, gracias a 
+&lt;p&gt;Y todo, como ya sabéis, gracias a
  &lt;strike&gt;
   la manía
  &lt;/strike&gt; mi hábito de registrar en &lt;a href=&quot;http://www.boardgamegeek.com/&quot;&gt;&lt;b&gt;Board Game Geek&lt;/b&gt;&lt;/a&gt; todas las partidas según las estoy jugando mediante su fantástica (aunque muy mejorable) &lt;a href=&quot;https://market.android.com/details?id=com.boardgamegeek&amp;amp;hl=es&quot;&gt;aplicación para &lt;b&gt;Android&lt;/b&gt;&lt;/a&gt;.&lt;/p&gt;
@@ -1180,63 +1180,63 @@
   2014
  &lt;/dt&gt;
  &lt;dd&gt;
-  Total de partidas jugadas: 
+  Total de partidas jugadas:
   &lt;b&gt;88&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos diferentes jugados: 
+  Juegos diferentes jugados:
   &lt;b&gt;52&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos con dos o más partidas: 
+  Juegos con dos o más partidas:
   &lt;b&gt;14&lt;/b&gt;
  &lt;/dd&gt;
  &lt;dt&gt;
   2013
  &lt;/dt&gt;
  &lt;dd&gt;
-  Total de partidas jugadas: 
+  Total de partidas jugadas:
   &lt;b&gt;117&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos diferentes jugados: 
+  Juegos diferentes jugados:
   &lt;b&gt;81&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos con dos o más partidas: 
+  Juegos con dos o más partidas:
   &lt;b&gt;19&lt;/b&gt;
  &lt;/dd&gt;
  &lt;dt&gt;
   2012
  &lt;/dt&gt;
  &lt;dd&gt;
-  Total de partidas jugadas: 
+  Total de partidas jugadas:
   &lt;b&gt;161&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos diferentes jugados: 
+  Juegos diferentes jugados:
   &lt;b&gt;80&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos con dos o más partidas: 
+  Juegos con dos o más partidas:
   &lt;b&gt;40&lt;/b&gt;
  &lt;/dd&gt;
  &lt;dt&gt;
   TOTALES HASTA 31/12/2014
  &lt;/dt&gt;
  &lt;dd&gt;
-  Total de partidas jugadas: 
+  Total de partidas jugadas:
   &lt;b&gt;680&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos diferentes jugados: 
+  Juegos diferentes jugados:
   &lt;b&gt;242&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos con 
-  &lt;b&gt;cinco&lt;/b&gt; o más partidas: 
+  Juegos con
+  &lt;b&gt;cinco&lt;/b&gt; o más partidas:
   &lt;b&gt;39&lt;/b&gt;
- &lt;/dd&gt; 
+ &lt;/dd&gt;
 &lt;/dl&gt;
 &lt;br&gt;
 &lt;p&gt;Los 10 juegos a los que más he jugado en 2014 (ordenados de más a menos partidas) son:&lt;/p&gt;
@@ -1255,7 +1255,7 @@
 &lt;br&gt;
 &lt;center&gt;
  &lt;img src=&quot;/img/2015/01/2014_partidas_jugadas_por_mes.png&quot; alt=&quot;Partidas jugadas por mes hasta 2014&quot; title=&quot;Partidas jugadas por mes hasta 2014&quot; width=&quot;600&quot;&gt;
- &lt;div class=&quot;imagen-texto&quot;&gt;
+ &lt;div class=&quot;caption&quot;&gt;
   Partidas Jugadas por Mes en 2011, 2012, 2013 y 2014
  &lt;/div&gt;
 &lt;/center&gt;
@@ -1347,17 +1347,17 @@
  &lt;i&gt;Disclaimer: Apenas dispongo de tiempo para preparar (en condiciones) reseñas, pero no quiero dejar la costumbre de poner pequeños pasajes con la esperanza de conseguir atrapar nuevos lectores.&lt;/i&gt;
 &lt;/center&gt;
 &lt;br&gt;
-&lt;p&gt;Espero que disfruten tanto como yo del siguiente fragmento de &lt;a href=&quot;https://en.wikipedia.org/wiki/A_Feast_for_Crows&quot;&gt;A Feast for Crows&lt;/a&gt; de &lt;a href=&quot;https://en.wikipedia.org/wiki/George_R._R._Martin&quot;&gt;&lt;b&gt;George R.R. Martin&lt;/b&gt;&lt;/a&gt;. No contiene spoilers, pero sí da una buena idea del ambiente que se respira en la novela, el tono de este tomo me ha parecido especialmente pesimista y desolador (que ya es decir para &lt;a href=&quot;https://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire&quot;&gt;Canción de Hielo y Fuego&lt;/a&gt;).&lt;/p&gt; 
-&lt;div class=&quot;imagen&quot; style=&quot;padding-left:20px&quot;&gt; 
- &lt;img src=&quot;/img/2014/09/6923970049_6155bdbbbd_n.jpg&quot; width=&quot;319&quot; height=&quot;320&quot; alt=&quot;Crow-Black (and white)&quot; style=&quot;float:right&quot;&gt;
- &lt;div class=&quot;imagen-texto&quot; style=&quot;padding-right:40px&quot;&gt;
-  &lt;a href=&quot;https://www.flickr.com/photos/topaz-mcnumpty/6923970049/&quot;&gt;Crow-Black (and white)&lt;/a&gt; by 
+&lt;p&gt;Espero que disfruten tanto como yo del siguiente fragmento de &lt;a href=&quot;https://en.wikipedia.org/wiki/A_Feast_for_Crows&quot;&gt;A Feast for Crows&lt;/a&gt; de &lt;a href=&quot;https://en.wikipedia.org/wiki/George_R._R._Martin&quot;&gt;&lt;b&gt;George R.R. Martin&lt;/b&gt;&lt;/a&gt;. No contiene spoilers, pero sí da una buena idea del ambiente que se respira en la novela, el tono de este tomo me ha parecido especialmente pesimista y desolador (que ya es decir para &lt;a href=&quot;https://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire&quot;&gt;Canción de Hielo y Fuego&lt;/a&gt;).&lt;/p&gt;
+&lt;div class=&quot;image lateral&quot;&gt;
+ &lt;img src=&quot;/img/2014/09/6923970049_6155bdbbbd_n.jpg&quot; alt=&quot;Crow-Black (and white)&quot;&gt;
+ &lt;div class=&quot;caption&quot;&gt;
+  &lt;a href=&quot;https://www.flickr.com/photos/topaz-mcnumpty/6923970049/&quot;&gt;Crow-Black (and white)&lt;/a&gt; by
   &lt;a href=&quot;https://www.flickr.com/photos/topaz-mcnumpty/&quot;&gt;Hamish Irvine&lt;/a&gt;,
-  &lt;br&gt; from 
-  &lt;a href=&quot;https://www.flickr.com/&quot;&gt;Flickr&lt;/a&gt; — 
+  &lt;br&gt; from
+  &lt;a href=&quot;https://www.flickr.com/&quot;&gt;Flickr&lt;/a&gt; —
   &lt;a href=&quot;https://creativecommons.org/licenses/by-nc/2.0/&quot;&gt;&lt;i&gt;CC BY-NC&lt;/i&gt;&lt;/a&gt;
  &lt;/div&gt;
-&lt;/div&gt; 
+&lt;/div&gt;
 &lt;div class=&quot;pasaje&quot;&gt;
  Back on the road, the septon said, “We would do well to keep a watch tonight, my friends. The villagers say they’ve seen three broken men skulking round the dunes, west of the old watchtower.”
  &lt;br&gt;
@@ -1387,7 +1387,7 @@
  &lt;br&gt;
  &lt;br&gt;“And the man breaks.
  &lt;br&gt;
- &lt;br&gt;“He turns and runs, or crawls off afterward over the corpses of the slain, or steals away in the black of night, and he finds someplace to hide. All thought of home is gone by then, and kings and lords and gods mean less to him than a haunch of spoiled meat that will let him live another day, or a skin of bad wine that might drown his fear for a few hours. The broken man lives from day to day, from meal to meal, more beast than man. Lady Brienne is not wrong. In times like these, the traveler must beware of broken men, and fear them. but he should pity them as well.” 
+ &lt;br&gt;“He turns and runs, or crawls off afterward over the corpses of the slain, or steals away in the black of night, and he finds someplace to hide. All thought of home is gone by then, and kings and lords and gods mean less to him than a haunch of spoiled meat that will let him live another day, or a skin of bad wine that might drown his fear for a few hours. The broken man lives from day to day, from meal to meal, more beast than man. Lady Brienne is not wrong. In times like these, the traveler must beware of broken men, and fear them. but he should pity them as well.”
 &lt;/div&gt;
 
 	</description>
@@ -1399,26 +1399,26 @@
       <guid isPermaLink="false">2014/01/partidas-jugadas-en-2013.html</guid>
       	<description>
 	
-&lt;p&gt;Llega el momento de la entrada que publico cada año con datos sobre las partidas que he jugado durante el año (enlace a los datos de &lt;a href=&quot;/blog/2013/01/partidas-jugadas-en-2012.html&quot;&gt;2012&lt;/a&gt; y &lt;a href=&quot;/blog/2012/01/juegos-los-que-mas-he-jugado-en-2011.html&quot;&gt;2011&lt;/a&gt;). Siendo el tercer año, cada vez es más útil e interesante la comparación con los años anteriores.&lt;/p&gt; 
-&lt;p&gt;Como ya sabéis, tengo 
+&lt;p&gt;Llega el momento de la entrada que publico cada año con datos sobre las partidas que he jugado durante el año (enlace a los datos de &lt;a href=&quot;/blog/2013/01/partidas-jugadas-en-2012.html&quot;&gt;2012&lt;/a&gt; y &lt;a href=&quot;/blog/2012/01/juegos-los-que-mas-he-jugado-en-2011.html&quot;&gt;2011&lt;/a&gt;). Siendo el tercer año, cada vez es más útil e interesante la comparación con los años anteriores.&lt;/p&gt;
+&lt;p&gt;Como ya sabéis, tengo
  &lt;strike&gt;
   la manía
- &lt;/strike&gt; el hábito de registrar en &lt;a href=&quot;http://www.boardgamegeek.com/&quot;&gt;&lt;b&gt;Board Game Geek&lt;/b&gt;&lt;/a&gt; todas las partidas según las estoy jugando, resulta muy cómodo y rápido con su &lt;a href=&quot;https://market.android.com/details?id=com.boardgamegeek&amp;amp;hl=es&quot;&gt;aplicación para &lt;b&gt;Android&lt;/b&gt;&lt;/a&gt;.&lt;/p&gt; 
+ &lt;/strike&gt; el hábito de registrar en &lt;a href=&quot;http://www.boardgamegeek.com/&quot;&gt;&lt;b&gt;Board Game Geek&lt;/b&gt;&lt;/a&gt; todas las partidas según las estoy jugando, resulta muy cómodo y rápido con su &lt;a href=&quot;https://market.android.com/details?id=com.boardgamegeek&amp;amp;hl=es&quot;&gt;aplicación para &lt;b&gt;Android&lt;/b&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;img align=&quot;right&quot; border=&quot;0&quot; width=&quot;300&quot; src=&quot;/img/2014/01/gamesTagCloud2013.png&quot;&gt;
 &lt;dl&gt;
  &lt;dt&gt;
   2013
  &lt;/dt&gt;
  &lt;dd&gt;
-  Total de partidas jugadas: 
+  Total de partidas jugadas:
   &lt;b&gt;117&lt;/b&gt;
  &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos diferentes jugados: 
+  Juegos diferentes jugados:
   &lt;b&gt;81&lt;/b&gt;
  &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos con dos o más partidas: 
+  Juegos con dos o más partidas:
   &lt;b&gt;19&lt;/b&gt;
  &lt;/dd&gt;
  &lt;br&gt;
@@ -1426,15 +1426,15 @@
   2012
  &lt;/dt&gt;
  &lt;dd&gt;
-  Total de partidas jugadas: 
+  Total de partidas jugadas:
   &lt;b&gt;161&lt;/b&gt;
  &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos diferentes jugados: 
+  Juegos diferentes jugados:
   &lt;b&gt;80&lt;/b&gt;
  &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos con dos o más partidas: 
+  Juegos con dos o más partidas:
   &lt;b&gt;40&lt;/b&gt;
  &lt;/dd&gt;
  &lt;br&gt;
@@ -1442,15 +1442,15 @@
   2011
  &lt;/dt&gt;
  &lt;dd&gt;
-  Total de partidas jugadas: 
+  Total de partidas jugadas:
   &lt;b&gt;164&lt;/b&gt;
  &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos diferentes jugados: 
+  Juegos diferentes jugados:
   &lt;b&gt;71&lt;/b&gt;
  &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos con dos o más partidas: 
+  Juegos con dos o más partidas:
   &lt;b&gt;32&lt;/b&gt;
  &lt;/dd&gt;
  &lt;br&gt;
@@ -1458,20 +1458,20 @@
   TOTALES HASTA 31/12/2013
  &lt;/dt&gt;
  &lt;dd&gt;
-  Total de partidas jugadas: 
+  Total de partidas jugadas:
   &lt;b&gt;590&lt;/b&gt;
  &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos diferentes jugados: 
+  Juegos diferentes jugados:
   &lt;b&gt;208&lt;/b&gt;
  &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos con 
-  &lt;b&gt;cinco&lt;/b&gt; o más partidas: 
+  Juegos con
+  &lt;b&gt;cinco&lt;/b&gt; o más partidas:
   &lt;b&gt;34&lt;/b&gt;
  &lt;/dd&gt;
 &lt;/dl&gt;
-&lt;br&gt; 
+&lt;br&gt;
 &lt;p&gt;Los 13 juegos a los que más he jugado en 2013 (ordenados de más a menos partidas) son:&lt;/p&gt;
 &lt;ol&gt;
  &lt;li&gt;&lt;a href=&quot;http://www.boardgamegeek.com/boardgame/41114/the-resistance&quot;&gt;&lt;b&gt;La Resistencia&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
@@ -1491,11 +1491,11 @@
 &lt;br&gt;
 &lt;center&gt;
  &lt;img src=&quot;/img/2014/01/Partidas+jugadas+por+mes+hasta+2013.png&quot; alt=&quot;Partidas jugadas por mes hasta 2013&quot; title=&quot;Partidas jugadas por mes hasta 2013&quot; width=&quot;600&quot;&gt;
- &lt;div class=&quot;imagen-texto&quot;&gt;
+ &lt;div class=&quot;caption&quot;&gt;
   Partidas Jugadas por Mes en 2011, 2012 y 2013
  &lt;/div&gt;
-&lt;/center&gt; 
-&lt;br&gt; 
+&lt;/center&gt;
+&lt;br&gt;
 &lt;h3&gt;Conclusiones&lt;/h3&gt;
 &lt;ul&gt;
  &lt;li&gt;Durante 2013 he jugado mucho menos que en años anteriores. En parte por un gran descenso en las sesiones (¿dónde quedaron los Viernes Ludopáticos?) y en parte porque cada vez juego menos a juegos ligeros y los juegos algo más interesantes/intensos tienden a ser más largos.&lt;/li&gt;
@@ -1507,8 +1507,8 @@
  &lt;li&gt;El descenso de partidas de 2013 se observa perfectamente en casi todos los meses. Es asombrosa la diferencia de 2012 a 2013 en Agosto y Diciembre.&lt;/li&gt;
  &lt;br&gt;
  &lt;li&gt;Cada vez hay más prototipos... ¡aunque varios de ellos ya han sido publicados!&lt;/li&gt;
-&lt;/ul&gt; 
-&lt;br&gt; 
+&lt;/ul&gt;
+&lt;br&gt;
 &lt;h3&gt;Propósito para 2014&lt;/h3&gt;
 &lt;p&gt;Jugar más, jugar mejor... pero sobre todo volver a dedicarle tiempo al rol. Me he dado cuenta de que lo echo mucho de menos.&lt;/p&gt;
 
@@ -1528,24 +1528,25 @@
 &lt;/center&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;br&gt;
-&lt;div style=&quot;width:250px; font-size:80%; text-align:center; float:right;&quot;&gt;
- &lt;img src=&quot;/img/2013/12/avatar.png&quot; alt=&quot;Iniciativa #NoSinEvidencia&quot; title=&quot;Iniciativa #NoSinEvidencia&quot; style=&quot;width:250px; padding-bottom:0.5em;&quot;&gt;Logo de la iniciativa 
- &lt;b&gt;#NoSinEvidencia&lt;/b&gt; (
- &lt;a href=&quot;http://nosinevidencia.wordpress.com/2013/12/06/imagenes-promocionales/&quot;&gt;fuente&lt;/a&gt;)
+&lt;div class=&quot;image lateral&quot;&gt;
+ &lt;img src=&quot;/img/2013/12/NoSinEvidencia.png&quot; alt=&quot;Iniciativa #NoSinEvidencia&quot; title=&quot;Iniciativa #NoSinEvidencia&quot;&gt;
+ &lt;div class=&quot;caption&quot;&gt;
+   Logo de la iniciativa &lt;b&gt;#NoSinEvidencia&lt;/b&gt; (&lt;a href=&quot;http://nosinevidencia.wordpress.com/2013/12/06/imagenes-promocionales/&quot;&gt;fuente&lt;/a&gt;)
+ &lt;/div&gt;
 &lt;/div&gt;
 &lt;blockquote&gt;
  &lt;center&gt;
   &lt;h2&gt;MANIFIESTO&lt;/h2&gt;
  &lt;/center&gt;
- &lt;br&gt;La 
- &lt;b&gt;evidencia científica&lt;/b&gt; es uno de los pilares sobre los que se asienta la medicina moderna. Esto no siempre ha sido así: durante años, se aplicaron tratamientos médicos sin comprobar previamente su eficacia y seguridad. Algunos fueron efectivos, aunque muchos tuvieron 
+ &lt;br&gt;La
+ &lt;b&gt;evidencia científica&lt;/b&gt; es uno de los pilares sobre los que se asienta la medicina moderna. Esto no siempre ha sido así: durante años, se aplicaron tratamientos médicos sin comprobar previamente su eficacia y seguridad. Algunos fueron efectivos, aunque muchos tuvieron
  &lt;b&gt;resultados desastrosos&lt;/b&gt;.
  &lt;br&gt;
- &lt;br&gt;Sin embargo, en la época en la que más conocimientos científicos se acumulan de la historia de la humanidad, existen todavía 
+ &lt;br&gt;Sin embargo, en la época en la que más conocimientos científicos se acumulan de la historia de la humanidad, existen todavía
  &lt;b&gt;pseudo-ciencias&lt;/b&gt; que pretenden, sin demostrar ninguna efectividad ni seguridad, pasar por disciplinas cercanas a la medicina y llegar a los pacientes.
  &lt;br&gt;
- &lt;br&gt;Los firmantes de este manifiesto, profesionales sanitarios y de otras ramas de la ciencia, periodistas y otros, somos conscientes de que nuestra responsabilidad, tanto legal como ética, consiste en aportar el mejor tratamiento posible a los pacientes y velar por su salud. Por ello, la aparición en los medios de comunicación de noticias sobre la apertura de un proceso de regulación y aprobación de medicamentos homeopáticos nos preocupa como sanitarios, científicos y ciudadanos, y creemos que debemos actuar al respecto. 
- &lt;a href=&quot;http://www.elmundo.es/salud/2013/12/03/529e0579684341f76e8b4570.html&quot;&gt;Las declaraciones de la directora&lt;/a&gt; de la 
+ &lt;br&gt;Los firmantes de este manifiesto, profesionales sanitarios y de otras ramas de la ciencia, periodistas y otros, somos conscientes de que nuestra responsabilidad, tanto legal como ética, consiste en aportar el mejor tratamiento posible a los pacientes y velar por su salud. Por ello, la aparición en los medios de comunicación de noticias sobre la apertura de un proceso de regulación y aprobación de medicamentos homeopáticos nos preocupa como sanitarios, científicos y ciudadanos, y creemos que debemos actuar al respecto.
+ &lt;a href=&quot;http://www.elmundo.es/salud/2013/12/03/529e0579684341f76e8b4570.html&quot;&gt;Las declaraciones de la directora&lt;/a&gt; de la
  &lt;a href=&quot;http://www.aemps.gob.es/&quot;&gt;&lt;b&gt;Agencia Española de Medicamentos y Productos Sanitarios&lt;/b&gt; (&lt;b&gt;AEMPS&lt;/b&gt;)&lt;/a&gt; asegurando que “no todos los medicamentos homeopáticos tienen que demostrar su eficacia” y que “la seguridad no se tiene que demostrar con ensayos clínicos específicos” no hacen sino aumentar nuestra preocupación.
  &lt;br&gt;
  &lt;br&gt;Por lo tanto, solicitamos:
@@ -1577,15 +1578,17 @@
 &lt;p&gt;Apenas dispongo de tiempo para preparar (en condiciones) reseñas, pero no quiero dejar la costumbre de poner pequeños pasajes con la esperanza de conseguir atrapar nuevos lectores.&lt;/p&gt;
 &lt;p&gt;Bastaría decir que &lt;a href=&quot;http://en.wikipedia.org/wiki/The_Demon-Haunted_World&quot;&gt;&lt;b&gt;The Demon-Haunted World&lt;/b&gt;&lt;/a&gt; (&lt;a href=&quot;http://es.wikipedia.org/wiki/El_mundo_y_sus_demonios&quot;&gt;El Mundo y sus Demonios&lt;/a&gt; en castellano) pasa por ser una de las obras de divulgación más influyentes de uno de los autores más influyentes. &lt;a href=&quot;http://en.wikipedia.org/wiki/Carl_Sagan&quot;&gt;&lt;b&gt;Carl Sagan&lt;/b&gt;&lt;/a&gt; publicó esta obra con más de 60 años (falleció un año más tarde, en 1996), tras una vida dedicada a divulgar e investigar al más alto nivel. Parece que quiso despedirse con un gran compendio de ejemplos, herramientas y consejos, condensados para mostrar las bases del &lt;a href=&quot;http://en.wikipedia.org/wiki/Scientific_method&quot;&gt;método científico&lt;/a&gt; y los fundamentos del &lt;a href=&quot;http://en.wikipedia.org/wiki/Scientific_skepticism&quot;&gt;pensamiento crítico&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Uno de los ejemplos más conocidos es el que incluyo a continuación, en su insuperable versión original. Unas pocas líneas sirven de abrumadora crítica para un buen conjunto de pseudociencias y religiones:&lt;/p&gt;
-&lt;div style=&quot;width:320px; font-size:80%; text-align:center; float:right;&quot;&gt;
- &lt;img src=&quot;/img/2013/12/Demon-Haunted_World.jpg&quot; alt=&quot;The Demon-Haunted World by Carl Sagan&quot; title=&quot;The Demon-Haunted World by Carl Sagan&quot; style=&quot;width:320px; padding-bottom:0.5em;&quot;&gt;The Demon-Haunted World por Carl Sagan — 
- &lt;a href=&quot;http://en.wikipedia.org/wiki/File:Demon-Haunted_World.jpg&quot;&gt;&lt;i&gt;Wikipedia&lt;/i&gt;&lt;/a&gt;
-&lt;/div&gt;
 &lt;div class=&quot;pasaje&quot;&gt;
  &quot;A fire-breathing dragon lives in my garage&quot;
  &lt;br&gt;
  &lt;br&gt;Suppose (I&apos;m following a group therapy approach by the psychologist Richard Franklin) I seriously make such an assertion to you. Surely you&apos;d want to check it out, see for yourself. There have been innumerable stories of dragons over the centuries, but no real evidence. What an opportunity!
  &lt;br&gt;
+ &lt;div class=&quot;image lateral&quot;&gt;
+  &lt;img src=&quot;/img/2013/12/Demon-Haunted_World.jpg&quot; alt=&quot;The Demon-Haunted World by Carl Sagan&quot; title=&quot;The Demon-Haunted World by Carl Sagan&quot; &gt;
+  &lt;div class=&quot;caption&quot;&gt;
+    The Demon-Haunted World por Carl Sagan — &lt;a href=&quot;http://en.wikipedia.org/wiki/File:Demon-Haunted_World.jpg&quot;&gt;&lt;i&gt;Wikipedia&lt;/i&gt;&lt;/a&gt;
+  &lt;/div&gt;
+ &lt;/div&gt;
  &lt;br&gt;&quot;Show me,&quot; you say. I lead you to my garage. You look inside and see a ladder, empty paint cans, an old tricycle--but no dragon.
  &lt;br&gt;
  &lt;br&gt;&quot;Where&apos;s the dragon?&quot; you ask.
@@ -1823,7 +1826,10 @@
  Apreciado comunicante:
  &lt;br&gt;
  &lt;br&gt;
- &lt;img src=&quot;/img/2013/04/rtve-es_rgb_pequeno-copia.png&quot; style=&quot;float:right&quot; alt=&quot;RTVE Responde&quot; width=&quot;300&quot;&gt;Gracias por dirigirse a la oficina de la defensora con sus observaciones.
+ &lt;div class=&quot;image lateral&quot;&gt;
+   &lt;img src=&quot;/img/2013/04/rtve-es_rgb_pequeno-copia.png&quot; alt=&quot;RTVE Responde&quot;&gt;
+ &lt;/div&gt;
+ Gracias por dirigirse a la oficina de la defensora con sus observaciones.
  &lt;br&gt;
  &lt;br&gt;La Constitución Española en el Artículo 16, punto 3 dice: “Ninguna confesión tendrá carácter estatal. Los poderes públicos tendrán en cuenta las creencias religiosas de la sociedad española y mantendrán las consiguientes relaciones de cooperación con la Iglesia Católica y las demás confesiones”.
  &lt;br&gt;
@@ -1833,10 +1839,10 @@
  &lt;br&gt;
  &lt;br&gt;La defensora no puede solicitar a dirección de la empresa el incumplimiento de las decisiones adoptadas por el Consejo de Administración. Mi tarea es velar por el derecho ciudadano a recibir una información veraz, plural e independiente y un entretenimiento digno.
  &lt;br&gt;
- &lt;br&gt;Con respecto a lo que indica el Manual de Estilo de RTVE en su apartado 5.15 acerca de la Información sobre confesiones religiosas, desde el punto de vista legal, de igualdad, conocimiento, cobertura de las celebraciones, libertad de opinión y crítica, lo relativo a la Iglesia Católica o la exigencia de que no se haga proselitismo, los profesionales se ajustan a la norma. Y cuando no ha sido así y la Oficina de la defensora ha tenido conocimiento de que algún periodista en su ejercicio profesional se ha desviado de estos principios, se ha reflejado en los Informes trimestrales que realiza y que están colgados en la web 
+ &lt;br&gt;Con respecto a lo que indica el Manual de Estilo de RTVE en su apartado 5.15 acerca de la Información sobre confesiones religiosas, desde el punto de vista legal, de igualdad, conocimiento, cobertura de las celebraciones, libertad de opinión y crítica, lo relativo a la Iglesia Católica o la exigencia de que no se haga proselitismo, los profesionales se ajustan a la norma. Y cuando no ha sido así y la Oficina de la defensora ha tenido conocimiento de que algún periodista en su ejercicio profesional se ha desviado de estos principios, se ha reflejado en los Informes trimestrales que realiza y que están colgados en la web
  &lt;a href=&quot;http://www.rtve.es/defensora&quot;&gt;www.rtve.es/defensora&lt;/a&gt;.
  &lt;br&gt;
- &lt;br&gt;Las decisiones de programación y contenidos no están entre las competencias de la defensora del espectador de acuerdo a lo establecido en el Estatuto que rige su tarea y que enlazamos por si fuera de su interés: 
+ &lt;br&gt;Las decisiones de programación y contenidos no están entre las competencias de la defensora del espectador de acuerdo a lo establecido en el Estatuto que rige su tarea y que enlazamos por si fuera de su interés:
  &lt;a href=&quot;http://www.rtve.es/contenidos/documentos/Estatuto_defensora.pdf&quot;&gt;http://www.rtve.es/contenidos/documentos/Estatuto_defensora.pdf&lt;/a&gt;.
  &lt;br&gt;
  &lt;br&gt;Este asunto ha sido tratado en varias ocasiones en RTVE Responde, el programa de la defensora. En él, distintos responsables de RTVE han explicado el porqué de la emisión de programas religiosos en nuestros canales. Así mismo, han comparecido en el programa distintos responsables de programación y contenidos para explicar el criterio con el que se deciden las coberturas informativas de ciertos acontecimientos de carácter religioso.
@@ -2032,9 +2038,9 @@
 &lt;p&gt;Tras una introducción para despistados (muy despistados) entraré al propósito de esta entrada, una guía rápida y fácil para visitar el CERN, dado que es mucho más sencillo y asequible de lo que la gente cree.&lt;/p&gt;
 &lt;h1&gt;¿Qué es el CERN?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;http://public.web.cern.ch/public/en/About/History54-en.html&quot;&gt;Fundado en 1954 por 12 países, fue en su día uno de los primeros proyectos conjuntos a nivel europeo&lt;/a&gt;. Actualmente son 20 los países europeos que son miembros y se mantienen acuerdos de colaboración con centros y países de todo el mundo.&lt;/p&gt;
-&lt;div style=&quot;width:240px; float:right;&quot;&gt;
- &lt;img src=&quot;/img/2013/01/150625548_f5654b55ca_m.jpg&quot; alt=&quot;CERN logo&quot; title=&quot;CERN logo&quot; style=&quot;padding-bottom:0.5em;&quot;&gt;
- &lt;div style=&quot;width:240; font-size:80%; text-align:center&quot;&gt;
+&lt;div class=&quot;image lateral&quot;&gt;
+ &lt;img src=&quot;/img/2013/01/150625548_f5654b55ca_m.jpg&quot; alt=&quot;CERN logo&quot; title=&quot;CERN logo&quot;&gt;
+ &lt;div class=&quot;caption&quot;&gt;
   &lt;a href=&quot;http://www.flickr.com/photos/l0b0/150625548/&quot;&gt;CERN logo&lt;/a&gt; by
   &lt;a href=&quot;http://www.flickr.com/photos/l0b0/&quot;&gt;&lt;b&gt;l0b0&lt;/b&gt;&lt;/a&gt; —
   &lt;a href=&quot;http://creativecommons.org/licenses/by-nc-sa/2.0/&quot;&gt;&lt;i&gt;CC BY-NC-SA&lt;/i&gt;&lt;/a&gt;
@@ -2193,33 +2199,33 @@
 &lt;img src=&quot;/img/2013/01/NECSS-2013.jpeg&quot; alt=&quot;NECSS 2013&quot; title=&quot;NECSS 2013&quot; align=&quot;right&quot;&gt;
 &lt;p&gt;En Diciembre &lt;a href=&quot;https://twitter.com/NECSS/status/275595953229144064&quot;&gt;se abrió el registro&lt;/a&gt; para la edición 2013 de la &lt;a href=&quot;http://necss.org/&quot;&gt;&lt;b&gt;Northeast Conference on Science &amp;amp; Skepticism&lt;/b&gt;&lt;/a&gt; (&lt;a href=&quot;https://twitter.com/necss&quot;&gt;@NECSS&lt;/a&gt;), que este año se llevará a cabo &lt;b&gt;del 5 al 7 de Abril&lt;/b&gt; en la magnífica ciudad de &lt;b&gt;Nueva York&lt;/b&gt;. No quería dejar pasar la oportunidad de recordarlo, no quedarán muchas entradas disponibles pero siguen quedando.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;/blog/2012/04/necss-2012-northeast-conference-on.html&quot;&gt;Tuve la gran suerte de asistir a NECSS 2012&lt;/a&gt;. Allí pude conocer a gente fantástica y escuchar charlas muy interesantes e inspiradoras. Soy un desastre y nunca llegué a publicar el resumen en el blog, y la crónica para la revista &lt;a href=&quot;http://www.escepticos.es/?q=node/78&quot;&gt;&lt;b&gt;El Escéptico&lt;/b&gt;&lt;/a&gt; aún no se ha publicado (por mi culpa). Al menos ya llegué a colgar &lt;a href=&quot;http://www.flickr.com/photos/luiyo/sets/72157631520869732/&quot;&gt; mis fotos de NECSS 2012 en flickr&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Viendo que se acerca la edición 2013, no puedo dejar pasar la ocasión de recomendarles el evento, verán mucho más cerca (en el amplio sentido de la palabra) a gente muy interesante. Yo por desgracia este año tendré que declinar la invitación, otros viajes parece que se llevarán el presupuesto.&lt;/p&gt; 
+&lt;p&gt;Viendo que se acerca la edición 2013, no puedo dejar pasar la ocasión de recomendarles el evento, verán mucho más cerca (en el amplio sentido de la palabra) a gente muy interesante. Yo por desgracia este año tendré que declinar la invitación, otros viajes parece que se llevarán el presupuesto.&lt;/p&gt;
 &lt;center&gt;
  &lt;a href=&quot;/img/2013/01/7980168295_0461fba2b3.jpg&quot; title=&quot;2012-04-21 USA Trip 1626 - NECSS (New York) by Luiyo, on Flickr&quot;&gt;&lt;img src=&quot;/img/2013/01/7980168295_0461fba2b3.jpg&quot; width=&quot;375&quot; height=&quot;500&quot; alt=&quot;2012-04-21 USA Trip 1626 - NECSS (New York)&quot;&gt;&lt;/a&gt;
- &lt;div class=&quot;imagen-texto&quot;&gt;
-  &lt;a href=&quot;http://en.wikipedia.org/wiki/James_Randi&quot;&gt;James Randi&lt;/a&gt; en NECSS 2012 — 
+ &lt;div class=&quot;caption&quot;&gt;
+  &lt;a href=&quot;http://en.wikipedia.org/wiki/James_Randi&quot;&gt;James Randi&lt;/a&gt; en NECSS 2012 —
   &lt;a href=&quot;http://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;&lt;i&gt;CC BY-NC-SA&lt;/i&gt;&lt;/a&gt;
  &lt;/div&gt;
 &lt;/center&gt;
 &lt;br&gt;
-&lt;p&gt;Pude escuchar a varios iconos (para mi) vivientes: &lt;a href=&quot;http://en.wikipedia.org/wiki/James_Randi&quot;&gt;&lt;b&gt;James Randi&lt;/b&gt;&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Dj_grothe&quot;&gt;&lt;b&gt;D.J. Grothe&lt;/b&gt;&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Steven_Novella&quot;&gt;&lt;b&gt;Steven Novella&lt;/b&gt;&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Rebecca_Watson&quot;&gt;&lt;b&gt;Rebecca Watson&lt;/b&gt;&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/PZ_Myers&quot;&gt;&lt;b&gt;PZ Myers&lt;/b&gt;&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Massimo_Pigliucci&quot;&gt;&lt;b&gt;Massimo Pigliucci&lt;/b&gt;&lt;/a&gt;, &lt;a href=&quot;http://necss.org/speakers/julia-galef/&quot;&gt;&lt;b&gt;Julia Galef&lt;/b&gt;&lt;/a&gt;,... y con varios de ellos tuve la suerte de poder conversar.&lt;/p&gt; 
+&lt;p&gt;Pude escuchar a varios iconos (para mi) vivientes: &lt;a href=&quot;http://en.wikipedia.org/wiki/James_Randi&quot;&gt;&lt;b&gt;James Randi&lt;/b&gt;&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Dj_grothe&quot;&gt;&lt;b&gt;D.J. Grothe&lt;/b&gt;&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Steven_Novella&quot;&gt;&lt;b&gt;Steven Novella&lt;/b&gt;&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Rebecca_Watson&quot;&gt;&lt;b&gt;Rebecca Watson&lt;/b&gt;&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/PZ_Myers&quot;&gt;&lt;b&gt;PZ Myers&lt;/b&gt;&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Massimo_Pigliucci&quot;&gt;&lt;b&gt;Massimo Pigliucci&lt;/b&gt;&lt;/a&gt;, &lt;a href=&quot;http://necss.org/speakers/julia-galef/&quot;&gt;&lt;b&gt;Julia Galef&lt;/b&gt;&lt;/a&gt;,... y con varios de ellos tuve la suerte de poder conversar.&lt;/p&gt;
 &lt;center&gt;
  &lt;a href=&quot;/img/2013/01/7980236274_3fc78ffa55.jpg&quot; title=&quot;2012-04-22 USA Trip 1712 - NECSS (New York) by Luiyo, on Flickr&quot;&gt;&lt;img src=&quot;/img/2013/01/7980236274_3fc78ffa55.jpg&quot; width=&quot;500&quot; height=&quot;375&quot; alt=&quot;2012-04-22 USA Trip 1712 - NECSS (New York)&quot;&gt;&lt;/a&gt;
- &lt;div class=&quot;imagen-texto&quot;&gt;
-  Con 
-  &lt;a href=&quot;http://en.wikipedia.org/wiki/Dj_grothe&quot;&gt;D.J. Grothe&lt;/a&gt; en el stand de la 
-  &lt;a href=&quot;http://en.wikipedia.org/wiki/JREF&quot;&gt;JREF&lt;/a&gt; durante NECSS 2012 — 
+ &lt;div class=&quot;caption&quot;&gt;
+  Con
+  &lt;a href=&quot;http://en.wikipedia.org/wiki/Dj_grothe&quot;&gt;D.J. Grothe&lt;/a&gt; en el stand de la
+  &lt;a href=&quot;http://en.wikipedia.org/wiki/JREF&quot;&gt;JREF&lt;/a&gt; durante NECSS 2012 —
   &lt;a href=&quot;http://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;&lt;i&gt;CC BY-NC-SA&lt;/i&gt;&lt;/a&gt;
  &lt;/div&gt;
 &lt;/center&gt;
 &lt;br&gt;
-&lt;p&gt;Además, me encantaron y quiero destacar a otros no tan conocidos: &lt;a href=&quot;http://es.wikipedia.org/wiki/Deborah_Berebichez&quot;&gt;&lt;b&gt;Debbie Berebichez&lt;/b&gt;&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/John_Bohannon&quot;&gt;&lt;b&gt;John Bohannon&lt;/b&gt;&lt;/a&gt;, &lt;a href=&quot;http://necss.org/speakers/ethan-brown/&quot;&gt;&lt;b&gt;Ehan Brown&lt;/b&gt;&lt;/a&gt;, &lt;a href=&quot;http://necss.org/speakers/david-kyle-johnson/&quot;&gt;&lt;b&gt;David Kyle Johnson&lt;/b&gt;&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Seth_Shostak&quot;&gt;&lt;b&gt;Seth Shostak&lt;/b&gt;&lt;/a&gt; y &lt;a href=&quot;http://necss.org/speakers/brian-wecht/&quot;&gt;&lt;b&gt;Brian Wecht&lt;/b&gt;&lt;/a&gt;.&lt;/p&gt; 
+&lt;p&gt;Además, me encantaron y quiero destacar a otros no tan conocidos: &lt;a href=&quot;http://es.wikipedia.org/wiki/Deborah_Berebichez&quot;&gt;&lt;b&gt;Debbie Berebichez&lt;/b&gt;&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/John_Bohannon&quot;&gt;&lt;b&gt;John Bohannon&lt;/b&gt;&lt;/a&gt;, &lt;a href=&quot;http://necss.org/speakers/ethan-brown/&quot;&gt;&lt;b&gt;Ehan Brown&lt;/b&gt;&lt;/a&gt;, &lt;a href=&quot;http://necss.org/speakers/david-kyle-johnson/&quot;&gt;&lt;b&gt;David Kyle Johnson&lt;/b&gt;&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Seth_Shostak&quot;&gt;&lt;b&gt;Seth Shostak&lt;/b&gt;&lt;/a&gt; y &lt;a href=&quot;http://necss.org/speakers/brian-wecht/&quot;&gt;&lt;b&gt;Brian Wecht&lt;/b&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;center&gt;
  &lt;a href=&quot;/img/2013/01/7980170027_870a37df91.jpg&quot; title=&quot;2012-04-21 USA Trip 1620 - NECSS (New York) by Luiyo, on Flickr&quot;&gt;&lt;img src=&quot;/img/2013/01/7980170027_870a37df91.jpg&quot; width=&quot;500&quot; height=&quot;375&quot; alt=&quot;2012-04-21 USA Trip 1620 - NECSS (New York)&quot;&gt;&lt;/a&gt;
- &lt;div class=&quot;imagen-texto&quot;&gt;
-  &lt;a href=&quot;http://necss.org/speakers/ethan-brown/&quot;&gt;Ehan Brown&lt;/a&gt; y su genial 
-  &lt;a href=&quot;http://en.wikipedia.org/wiki/Magic_square&quot;&gt;Cuadrado Mágico&lt;/a&gt; junto a 
-  &lt;a href=&quot;http://en.wikipedia.org/wiki/Jamy_Ian_Swiss&quot;&gt;Jamy Ian Swiss&lt;/a&gt; — 
+ &lt;div class=&quot;caption&quot;&gt;
+  &lt;a href=&quot;http://necss.org/speakers/ethan-brown/&quot;&gt;Ehan Brown&lt;/a&gt; y su genial
+  &lt;a href=&quot;http://en.wikipedia.org/wiki/Magic_square&quot;&gt;Cuadrado Mágico&lt;/a&gt; junto a
+  &lt;a href=&quot;http://en.wikipedia.org/wiki/Jamy_Ian_Swiss&quot;&gt;Jamy Ian Swiss&lt;/a&gt; —
   &lt;a href=&quot;http://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;&lt;i&gt;CC BY-NC-SA&lt;/i&gt;&lt;/a&gt;
  &lt;/div&gt;
 &lt;/center&gt;
@@ -2228,15 +2234,15 @@
 &lt;br&gt;
 &lt;center&gt;
  &lt;a href=&quot;/img/2013/01/7980163629_8891e217ba.jpg&quot; title=&quot;2012-04-21 USA Trip 1644 - NECSS (New York) by Luiyo, on Flickr&quot;&gt;&lt;img src=&quot;/img/2013/01/7980163629_8891e217ba.jpg&quot; width=&quot;500&quot; height=&quot;375&quot; alt=&quot;2012-04-21 USA Trip 1644 - NECSS (New York)&quot;&gt;&lt;/a&gt;
- &lt;div class=&quot;imagen-texto&quot;&gt;
-  De izquiera a derecha: la rodilla de 
-  &lt;a href=&quot;http://en.wikipedia.org/wiki/Seth_Shostak&quot;&gt;Seth Shostak&lt;/a&gt;, la zapatilla de 
-  &lt;a href=&quot;http://necss.org/speakers/jay-novella&quot;&gt;Jay Novella&lt;/a&gt;, medio 
-  &lt;a href=&quot;http://necss.org/speakers/evan-bernstein&quot;&gt;Evan Bernstein&lt;/a&gt;, 
-  &lt;a href=&quot;http://en.wikipedia.org/wiki/Rebecca_Watson&quot;&gt;Rebecca Watson&lt;/a&gt;, 
-  &lt;a href=&quot;http://en.wikipedia.org/wiki/Steven_Novella&quot;&gt;Steven Novella&lt;/a&gt;, 
-  &lt;a href=&quot;http://necss.org/speakers/bob-novella&quot;&gt;Bob Novella&lt;/a&gt; y 
-  &lt;a href=&quot;http://en.wikipedia.org/wiki/James_Randi&quot;&gt;James Randi&lt;/a&gt; — 
+ &lt;div class=&quot;caption&quot;&gt;
+  De izquiera a derecha: la rodilla de
+  &lt;a href=&quot;http://en.wikipedia.org/wiki/Seth_Shostak&quot;&gt;Seth Shostak&lt;/a&gt;, la zapatilla de
+  &lt;a href=&quot;http://necss.org/speakers/jay-novella&quot;&gt;Jay Novella&lt;/a&gt;, medio
+  &lt;a href=&quot;http://necss.org/speakers/evan-bernstein&quot;&gt;Evan Bernstein&lt;/a&gt;,
+  &lt;a href=&quot;http://en.wikipedia.org/wiki/Rebecca_Watson&quot;&gt;Rebecca Watson&lt;/a&gt;,
+  &lt;a href=&quot;http://en.wikipedia.org/wiki/Steven_Novella&quot;&gt;Steven Novella&lt;/a&gt;,
+  &lt;a href=&quot;http://necss.org/speakers/bob-novella&quot;&gt;Bob Novella&lt;/a&gt; y
+  &lt;a href=&quot;http://en.wikipedia.org/wiki/James_Randi&quot;&gt;James Randi&lt;/a&gt; —
   &lt;a href=&quot;http://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;&lt;i&gt;CC BY-NC-SA&lt;/i&gt;&lt;/a&gt;
  &lt;/div&gt;
 &lt;/center&gt;
@@ -2254,23 +2260,23 @@
       <guid isPermaLink="false">2013/01/partidas-jugadas-en-2012.html</guid>
       	<description>
 	
-&lt;p&gt;Repito la entrada que publiqué hace ahora un año con &lt;a href=&quot;/blog/2012/01/juegos-los-que-mas-he-jugado-en-2011.html&quot;&gt;datos sobre las partidas que jugué en 2011&lt;/a&gt;. Generó entre bastantes lectores comentarios y mucha curiosidad por algunos juegos. En esta ocasión puedo además comparar con los datos del año anterior, y no he podido resistir la tentación de crear una nueva nube ponderada de tags.&lt;/p&gt; 
-&lt;p&gt;Me he acostumbrado perfectamente a registrar en &lt;a href=&quot;http://www.boardgamegeek.com/&quot;&gt;&lt;b&gt;Board Game Geek&lt;/b&gt;&lt;/a&gt; todas las partidas según las estoy jugando, resulta muy cómodo y rápido con su &lt;a href=&quot;https://market.android.com/details?id=com.boardgamegeek&amp;amp;hl=es&quot;&gt;aplicación para &lt;b&gt;Android&lt;/b&gt;&lt;/a&gt;.&lt;/p&gt; 
+&lt;p&gt;Repito la entrada que publiqué hace ahora un año con &lt;a href=&quot;/blog/2012/01/juegos-los-que-mas-he-jugado-en-2011.html&quot;&gt;datos sobre las partidas que jugué en 2011&lt;/a&gt;. Generó entre bastantes lectores comentarios y mucha curiosidad por algunos juegos. En esta ocasión puedo además comparar con los datos del año anterior, y no he podido resistir la tentación de crear una nueva nube ponderada de tags.&lt;/p&gt;
+&lt;p&gt;Me he acostumbrado perfectamente a registrar en &lt;a href=&quot;http://www.boardgamegeek.com/&quot;&gt;&lt;b&gt;Board Game Geek&lt;/b&gt;&lt;/a&gt; todas las partidas según las estoy jugando, resulta muy cómodo y rápido con su &lt;a href=&quot;https://market.android.com/details?id=com.boardgamegeek&amp;amp;hl=es&quot;&gt;aplicación para &lt;b&gt;Android&lt;/b&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;img align=&quot;right&quot; border=&quot;0&quot; height=&quot;600&quot; width=&quot;206&quot; src=&quot;/img/2013/01/gamesTagCloud2012.png&quot;&gt;
 &lt;dl&gt;
  &lt;dt&gt;
   2012
  &lt;/dt&gt;
  &lt;dd&gt;
-  Total de partidas jugadas: 
+  Total de partidas jugadas:
   &lt;b&gt;161&lt;/b&gt;
  &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos diferentes jugados: 
+  Juegos diferentes jugados:
   &lt;b&gt;80&lt;/b&gt;
  &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos con dos o más partidas: 
+  Juegos con dos o más partidas:
   &lt;b&gt;40&lt;/b&gt;
  &lt;/dd&gt;
  &lt;br&gt;
@@ -2278,15 +2284,15 @@
   2011
  &lt;/dt&gt;
  &lt;dd&gt;
-  Total de partidas jugadas: 
+  Total de partidas jugadas:
   &lt;b&gt;164&lt;/b&gt;
  &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos diferentes jugados: 
+  Juegos diferentes jugados:
   &lt;b&gt;71&lt;/b&gt;
  &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos con dos o más partidas: 
+  Juegos con dos o más partidas:
   &lt;b&gt;32&lt;/b&gt;
  &lt;/dd&gt;
  &lt;br&gt;
@@ -2294,20 +2300,20 @@
   TOTALES HASTA 31/12/2012
  &lt;/dt&gt;
  &lt;dd&gt;
-  Total de partidas jugadas: 
+  Total de partidas jugadas:
   &lt;b&gt;473&lt;/b&gt;
  &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos diferentes jugados: 
+  Juegos diferentes jugados:
   &lt;b&gt;154&lt;/b&gt;
  &lt;/dd&gt;
  &lt;dd&gt;
-  Juegos con dos o más partidas: 
+  Juegos con dos o más partidas:
   &lt;b&gt;89&lt;/b&gt;
  &lt;/dd&gt;
 &lt;/dl&gt;
 &lt;br&gt;
-&lt;p&gt;Durante 2012 he jugado más o menos las mismas partidas que en 2011 aunque mi impresión era que había jugado más. Creo que se explica porque cada vez consigo jugar a juegos más largos (habitualmente más interesantes). La cifra de juegos diferentes también es equivalente a los del año anterior.&lt;/p&gt; 
+&lt;p&gt;Durante 2012 he jugado más o menos las mismas partidas que en 2011 aunque mi impresión era que había jugado más. Creo que se explica porque cada vez consigo jugar a juegos más largos (habitualmente más interesantes). La cifra de juegos diferentes también es equivalente a los del año anterior.&lt;/p&gt;
 &lt;p&gt;Eliminando los juegos con una cantidad desproporcionada de partidas por su corta duración (ejemplos: &lt;a href=&quot;http://www.boardgamegeek.com/boardgame/521/crokinole&quot;&gt;&lt;b&gt;Crokinole&lt;/b&gt;&lt;/a&gt; o &lt;a href=&quot;http://www.boardgamegeek.com/boardgame/1198/set&quot;&gt;&lt;b&gt;Set&lt;/b&gt;&lt;/a&gt;), los 15 juegos a los que más he jugado en 2012 (ordenados de más a menos partidas) son:&lt;/p&gt;
 &lt;ol&gt;
  &lt;li&gt;&lt;a href=&quot;http://www.boardgamegeek.com/boardgame/41114/the-resistance&quot;&gt;&lt;b&gt;La Resistencia&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
@@ -2325,17 +2331,17 @@
  &lt;li&gt;&lt;a href=&quot;http://www.boardgamegeek.com/boardgame/30380/cuba&quot;&gt;&lt;b&gt;Cuba&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
  &lt;li&gt;&lt;a href=&quot;http://www.boardgamegeek.com/boardgame/45315/dungeon-lords&quot;&gt;&lt;b&gt;Dungeon Lords&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
  &lt;li&gt;&lt;a href=&quot;http://www.boardgamegeek.com/boardgame/6249/alhambra&quot;&gt;&lt;b&gt;Alhambra&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt; 
+&lt;/ol&gt;
 &lt;br&gt;
 &lt;p&gt;Si analizamos la distribución por meses es bastante equivalente, destacando como siempre Agosto por las &lt;a href=&quot;http://www.jornadas-tdn.org/&quot;&gt;&lt;b&gt;Jornadas TdN&lt;/b&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;br&gt;
 &lt;center&gt;
  &lt;img src=&quot;/img/2013/01/Partidas%2Bjugadas%2Bpor%2Bmes.png&quot; alt=&quot;Partidas jugadas por mes&quot; title=&quot;Partidas jugadas por mes&quot;&gt;
- &lt;div class=&quot;imagen-texto&quot;&gt;
+ &lt;div class=&quot;caption&quot;&gt;
   Partidas Jugadas por Mes en 2011 y 2012
  &lt;/div&gt;
 &lt;/center&gt;
-&lt;br&gt; 
+&lt;br&gt;
 &lt;br&gt;
 &lt;p&gt;Sería interesante sacar tiempo para analizar a qué autores he jugado más, o a qué tipo de juego suelo jugar...&lt;/p&gt;
 
@@ -2467,10 +2473,12 @@
 	
 &lt;p&gt;Hoy, &lt;b&gt;24 de noviembre&lt;/b&gt;, muchas personas en todo el mundo celebramos el &quot;&lt;b&gt;&lt;i&gt;Día del Orgullo Primate&lt;/i&gt;&lt;/b&gt;&quot; para reivindicar nuestro origen &lt;a href=&quot;http://en.wikipedia.org/wiki/Evolution&quot;&gt;evolutivo&lt;/a&gt; y por tanto nuestro parentesco con el resto de especies del mundo animal.&lt;/p&gt;
 &lt;p&gt;El Día del Orgullo Primate se celebra cada 24 de Noviembre porque en esta fecha sucedieron dos hechos relevantes muy relacionados. En 1859 &lt;a href=&quot;http://en.wikipedia.org/wiki/Charles_Darwin&quot;&gt;&lt;b&gt;Charles Darwin&lt;/b&gt;&lt;/a&gt; publicó &lt;a href=&quot;http://en.wikipedia.org/wiki/On_the_Origin_of_Species&quot;&gt;El Origen de las Especies&lt;/a&gt;, y en 1974 se descubrió el fósil de &lt;a href=&quot;http://en.wikipedia.org/wiki/Lucy_%28Australopithecus%29&quot;&gt;&lt;b&gt;Lucy&lt;/b&gt;&lt;/a&gt;, el más completo de un &lt;a href=&quot;http://en.wikipedia.org/wiki/Australopithecus_afarensis&quot;&gt;&lt;b&gt;Australopithecus afarensis&lt;/b&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Me sumo al &lt;a href=&quot;http://blog-sin-dioses.blogspot.co.uk/2012/11/se-acerca-el-dia-del-orgullo-primate.html&quot;&gt;manifiesto que promueve el blog &lt;b&gt;Sin Dioses&lt;/b&gt;&lt;/a&gt;, promotor original de esta celebración:&lt;/p&gt; 
-&lt;div style=&quot;width:282px; font-size:80%; text-align:center; float:right;&quot;&gt;
- &lt;img src=&quot;/img/2012/11/282px-Darwin_tree.png&quot; alt=&quot;The Darwin Tree&quot; title=&quot;The Darwin Tree&quot; style=&quot;padding-bottom:0.5em;&quot;&gt;El fantástico primer 
- &lt;a href=&quot;http://en.wikipedia.org/wiki/Tree_of_life_%28biology%29&quot;&gt;&lt;i&gt;Árbol de la Vida&lt;/i&gt;&lt;/a&gt;, obra de Darwin
+&lt;p&gt;Me sumo al &lt;a href=&quot;http://blog-sin-dioses.blogspot.co.uk/2012/11/se-acerca-el-dia-del-orgullo-primate.html&quot;&gt;manifiesto que promueve el blog &lt;b&gt;Sin Dioses&lt;/b&gt;&lt;/a&gt;, promotor original de esta celebración:&lt;/p&gt;
+&lt;div class=&quot;image lateral&quot;&gt;
+ &lt;img src=&quot;/img/2012/11/282px-Darwin_tree.png&quot; alt=&quot;The Darwin Tree&quot; title=&quot;The Darwin Tree&quot;&gt;
+ &lt;div class=&quot;caption&quot;&gt;
+   El fantástico primer &lt;a href=&quot;http://en.wikipedia.org/wiki/Tree_of_life_%28biology%29&quot;&gt;&lt;i&gt;Árbol de la Vida&lt;/i&gt;&lt;/a&gt;, obra de Darwin
+ &lt;/div&gt;
 &lt;/div&gt;
 &lt;ol&gt;
  &lt;li&gt;Nos sentimos orgullosos de ser miembros del orden de los primates. La inclusión en el grupo de los primates no es solo un aspecto taxonómico sino que revela también el parentesco evolutivo que tenemos con los demás primates.&lt;/li&gt;
@@ -5854,11 +5862,11 @@
       <guid isPermaLink="false">2011/05/escepticos-en-el-pub-mayo-2011.html</guid>
       	<description>
 	
-&lt;div class=&quot;imagen&quot;&gt; 
- &lt;a href=&quot;/img/2011/05/Archivo:S%C3%ADmbolo_radiaci%C3%B3n.png&quot;&gt;&lt;img src=&quot;/img/2011/05/Archivo:S%C3%ADmbolo_radiaci%C3%B3n.png&quot; style=&quot;float:right&quot; alt=&quot;Radiación&quot; width=&quot;250&quot; height=&quot;250&quot;&gt;&lt;/a&gt;
- &lt;div class=&quot;imagen-texto&quot;&gt;
+&lt;div class=&quot;image lateral&quot;&gt;
+ &lt;a href=&quot;/img/2011/05/Archivo:S%C3%ADmbolo_radiaci%C3%B3n.png&quot;&gt;&lt;img src=&quot;/img/2011/05/Archivo:S%C3%ADmbolo_radiaci%C3%B3n.png&quot; alt=&quot;Radiación&quot;&gt;&lt;/a&gt;
+ &lt;div class=&quot;caption&quot;&gt;
   Radiación.
-  &lt;br&gt;Mr. Tamagotchi bajo licencia 
+  &lt;br&gt;Mr. Tamagotchi bajo licencia
   &lt;a href=&quot;http://creativecommons.org/licenses/by/3.0/deed.es&quot;&gt;CC-by-3.0&lt;/a&gt;
  &lt;/div&gt;
 &lt;/div&gt;
@@ -5902,9 +5910,9 @@
 &lt;br&gt;
 &lt;p&gt;Fue además conocido por la ciudadanía británica y por los escépticos de todo el mundo tras ganar su juicio contra la &lt;a href=&quot;http://en.wikipedia.org/wiki/British_Chiropractic_Association&quot;&gt;&lt;b&gt;British Chiropractic Association&lt;/b&gt;&lt;/a&gt; (Asociación Quiropráctica Británica), que le demandó por difamación por una columna de Singh en &lt;a href=&quot;http://www.guardian.co.uk/&quot;&gt;&lt;b&gt;The Guardian&lt;/b&gt;&lt;/a&gt; en la que éste indicaba que dicha asociación &quot;&lt;i&gt;promovía alegremente tratamientos falsos&lt;/i&gt;&quot; (&quot;&lt;i&gt;happily promote bogus treatments&lt;/i&gt;&quot;, me encanta la frase original). La sentencia absolvió a Singh y además desembocó en una oleada de demandas ciudadanas por publicidad engañosa contra más de 500 quiroprácticos, y en la obligatoriedad a la asociación de retirar de todas las webs y clínicas de sus asociados cualquier referencia a tratamientos curativos que no tuvieran eficacia demostrada. Es decir, todos ellos.&lt;/p&gt;
 &lt;br&gt;
-&lt;div class=&quot;imagen&quot;&gt; 
- &lt;a href=&quot;/img/2011/04/File:Andrew_wiles1.jpg&quot;&gt;&lt;img src=&quot;/img/2011/04/File:Andrew_wiles1.jpg&quot; style=&quot;float:right&quot; alt=&quot;Google Logo&quot; width=&quot;300&quot; height=&quot;400&quot;&gt;&lt;/a&gt;
- &lt;div class=&quot;imagen-texto&quot;&gt;
+&lt;div class=&quot;image lateral&quot;&gt;
+ &lt;img src=&quot;/img/2011/04/File:Andrew_wiles1.jpg&quot; alt=&quot;Google Logo&quot;&gt;&lt;/a&gt;
+ &lt;div class=&quot;caption&quot;&gt;
   Andrew Wiles.
   &lt;br&gt;copyright C. J. Mozzochi, Princeton N.J
  &lt;/div&gt;
@@ -8337,7 +8345,9 @@
       <guid isPermaLink="false">2005/08/casi-humano.html</guid>
       	<description>
 	
-&lt;a onblur=&quot;try {parent.deselectBloggerImageGracefully();} catch(e) {}&quot; href=&quot;/img/2005/08/rdaneel.jpg&quot;&gt;&lt;img style=&quot;float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;&quot; src=&quot;/img/2005/08/rdaneel.jpg&quot; border=&quot;0&quot; alt=&quot;&quot;&gt;&lt;/a&gt;
+&lt;div class=&quot;image lateral&quot;&gt;
+  &lt;img src=&quot;/img/2005/08/rdaneel.jpg&quot; border=&quot;0&quot; alt=&quot;&quot;&gt;
+&lt;/div&gt;
 &lt;p&gt;Hemos visto robots que hablan, que andan, que corren, que suben escaleras, que juegan al fútbol, al baloncesto, etc.&lt;br&gt;&lt;br&gt;Después de ver todo esto, me ha maravillado enormemente &lt;span style=&quot;font-weight:bold;&quot;&gt;R Daneel&lt;/span&gt; (inspirado en el robot &lt;a href=&quot;http://en.wikipedia.org/wiki/R._Daneel_Olivaw&quot;&gt;&lt;span style=&quot;font-weight:bold;&quot;&gt;R Daneel Olivaw&lt;/span&gt;&lt;/a&gt; creado por &lt;span style=&quot;font-weight:bold;&quot;&gt;Isaac Asimov&lt;/span&gt;), un robot capaz de levantarse estando tumbado. El &lt;a href=&quot;http://www.isi.imi.i.u-tokyo.ac.jp/projects/humanoid/daneel_html/movie/success_v2.mpg&quot;&gt;video&lt;/a&gt; es alucinante, no tiene desperdicio.&lt;br&gt;&lt;br&gt;Podría decir que es el movimiento más &lt;span style=&quot;font-style:italic;&quot;&gt;asombrosamente humano&lt;/span&gt; que he visto, aunque sólo los &lt;span style=&quot;font-weight:bold;&quot;&gt;breakdancers&lt;/span&gt; y los pandilleros del &lt;span style=&quot;font-weight:bold;&quot;&gt;Bronx&lt;/span&gt; se levanten así.&lt;br&gt;&lt;br&gt;Como no podría ser de otra forma, &lt;a href=&quot;http://www.isi.imi.i.u-tokyo.ac.jp/projects/humanoid/daneel_html/daneel-j.html&quot;&gt;sus padres son japoneses&lt;/a&gt;.&lt;br&gt;&lt;br&gt;(Via &lt;a href=&quot;http://www.boingboing.net/2005/08/22/robot_can_get_back_o.html&quot;&gt;&lt;span style=&quot;font-weight:bold;&quot;&gt;BoingBoing&lt;/span&gt;&lt;/a&gt; y &lt;a href=&quot;http://www.newscientist.com/article.ns?id=dn7875&quot;&gt;&lt;span style=&quot;font-weight:bold;&quot;&gt;New Scientist&lt;/span&gt;&lt;/a&gt;)&lt;/p&gt;
 
 	</description>
@@ -8349,45 +8359,48 @@
       <guid isPermaLink="false">2005/08/land-of-free.html</guid>
       	<description>
 	
-&lt;a onblur=&quot;try {parent.deselectBloggerImageGracefully();} catch(e) {}&quot; href=&quot;/img/2005/08/SWATUtahRave.jpg&quot;&gt;&lt;img style=&quot;float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;&quot; src=&quot;/img/2005/08/SWATUtahRave.jpg&quot; border=&quot;0&quot; alt=&quot;&quot;&gt;&lt;/a&gt;
+&lt;div class=&quot;image lateral&quot;&gt;
+  &lt;img src=&quot;/img/2005/08/SWATUtahRave.jpg&quot; border=&quot;0&quot; alt=&quot;&quot;&gt;
+&lt;/div&gt;
+
 &lt;p&gt;Mirad como se termina, en el estado de los mormones, en el país de las libertades, con &lt;a href=&quot;http://en.wikinews.org/wiki/Dance_party_broken_up_by_police_in_Utah%2C_USA&quot;&gt;una fiesta &lt;span style=&quot;font-weight:bold;&quot;&gt;Rave&lt;/span&gt; de dudosa legalidad&lt;/a&gt;. Brutales los videos (son similares, unos con más calidad, otros con sonido, pero lo mismo) que aparecen al final.&lt;br&gt;&lt;br&gt;Hecho público a través de &lt;a href=&quot;http://en.wikinews.org/wiki/Main_Page&quot;&gt;&lt;span style=&quot;font-weight:bold;&quot;&gt;WikiNews&lt;/span&gt;&lt;/a&gt; (o &lt;a href=&quot;http://es.wikinews.org/wiki/Portada&quot;&gt;&lt;span style=&quot;font-weight:bold;&quot;&gt;WikiNoticias&lt;/span&gt;&lt;/a&gt;), &quot;periodismo de primera mano&quot;, una fuente de noticias de contenido libre, tan libre que cualquiera puede escribir, con lo que eso conlleva a veces.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;blockquote&gt;
  [...]
- &lt;br&gt;Several partygoers felt they should have the right to attend a rave where drugs are being used, so long as they don&apos;t personally use them. &quot;While it may be true that some individuals choose to take drugs at said events like this, myself as well as many others choose to go for the music. Just like anything, 
+ &lt;br&gt;Several partygoers felt they should have the right to attend a rave where drugs are being used, so long as they don&apos;t personally use them. &quot;While it may be true that some individuals choose to take drugs at said events like this, myself as well as many others choose to go for the music. Just like anything,
  &lt;span style=&quot;font-weight:bold;&quot;&gt;you have bad apples, but you shouldn&apos;t cut down the tree&lt;/span&gt;,&quot; said one attendee. &quot;Raves are not the only musical gatherings where drugs are used and distributed,&quot; said another.
  &lt;br&gt;
- &lt;br&gt;Other partygoers felt that the use of force in the shutdown was excessive - numerous eyewitness accounts by concertgoers describe people being beaten, tasered, or attacked with dogs. One account from an attendee, identified as &quot;Colby&quot;, states: &quot;I saw at least two people being beaten on the ground while barking, snarling dogs are held just a few feet from them. Weapons were being pointed at unarmed, peaceful civilians. 
+ &lt;br&gt;Other partygoers felt that the use of force in the shutdown was excessive - numerous eyewitness accounts by concertgoers describe people being beaten, tasered, or attacked with dogs. One account from an attendee, identified as &quot;Colby&quot;, states: &quot;I saw at least two people being beaten on the ground while barking, snarling dogs are held just a few feet from them. Weapons were being pointed at unarmed, peaceful civilians.
  &lt;span style=&quot;font-weight:bold;&quot;&gt;A friend of mine was forced at gunpoint to put his hands on his head and turn around&lt;/span&gt;, because he asked if he could get his things from the tent.&quot;
  &lt;br&gt;[...]
 &lt;/blockquote&gt;
 &lt;br&gt;
-&lt;br&gt;La fiesta se celebraba en el rancho privado de 
-&lt;span style=&quot;font-weight:bold;&quot;&gt;Child&apos;s Ranch&lt;/span&gt;, en el 
-&lt;span style=&quot;font-weight:bold;&quot;&gt;Spanish Fork Canyon&lt;/span&gt;, en 
-&lt;span style=&quot;font-weight:bold;&quot;&gt;Utah&lt;/span&gt;. Ojo a estos detalles que aparecen en el 
+&lt;br&gt;La fiesta se celebraba en el rancho privado de
+&lt;span style=&quot;font-weight:bold;&quot;&gt;Child&apos;s Ranch&lt;/span&gt;, en el
+&lt;span style=&quot;font-weight:bold;&quot;&gt;Spanish Fork Canyon&lt;/span&gt;, en
+&lt;span style=&quot;font-weight:bold;&quot;&gt;Utah&lt;/span&gt;. Ojo a estos detalles que aparecen en el
 &lt;a href=&quot;http://www.co.utah.ut.us/News/DeptNewsDetails.asp?ID=17759&amp;amp;WN_System=SHERIFF&quot;&gt;comunicado de la web del &lt;span style=&quot;font-weight:bold;&quot;&gt;Gobierno del Condado&lt;/span&gt; de Utah&lt;/a&gt;:
 &lt;br&gt;
 &lt;br&gt;
 &lt;blockquote&gt;
  [...]
- &lt;br&gt;From several previous experiences with Rave parties of this size, a large amount of drug use and underage consumption of alcohol occur. In addition reports of sexual assaults, overdoses, firearm violations, vehicle burglaries, and numerous individuals drive from the party under the influence of alcohol and or drugs. 
+ &lt;br&gt;From several previous experiences with Rave parties of this size, a large amount of drug use and underage consumption of alcohol occur. In addition reports of sexual assaults, overdoses, firearm violations, vehicle burglaries, and numerous individuals drive from the party under the influence of alcohol and or drugs.
  &lt;br&gt;
- &lt;br&gt;Utah County Sheriff&apos;s Office Detectives interviewed several females that had attended a prior rave party in the Utah county area in the past month that had been sexual assaulted. These females stated that the combination of drugs and alcohol made them fear for their safety due to 
- &lt;span style=&quot;font-weight:bold;&quot;&gt;the groping and sexual assaults that occurred during the Rave party&lt;/span&gt;. In the last year alone one near fatal shooting was investigated by Utah County Sheriff&apos;s Office at a similar party. 
+ &lt;br&gt;Utah County Sheriff&apos;s Office Detectives interviewed several females that had attended a prior rave party in the Utah county area in the past month that had been sexual assaulted. These females stated that the combination of drugs and alcohol made them fear for their safety due to
+ &lt;span style=&quot;font-weight:bold;&quot;&gt;the groping and sexual assaults that occurred during the Rave party&lt;/span&gt;. In the last year alone one near fatal shooting was investigated by Utah County Sheriff&apos;s Office at a similar party.
  &lt;br&gt;[...]
- &lt;br&gt;It was verified that more than 250 individuals were at the party, in violation or county statutes and by 11:30 pm law enforcement personnel moved in to curtail and disburse the party. During this process at least 60 arrests were made for 
- &lt;span style=&quot;font-weight:bold;&quot;&gt;weapons offenses, DUI, illegal underage consumption of alcohol, possession of marijuana, possession of cocaine, possession of methamphetamine, possession of ecstasy, distribution of ecstasy, resisting arrest, assault on a police officer, and disorderly conduct&lt;/span&gt;. 
+ &lt;br&gt;It was verified that more than 250 individuals were at the party, in violation or county statutes and by 11:30 pm law enforcement personnel moved in to curtail and disburse the party. During this process at least 60 arrests were made for
+ &lt;span style=&quot;font-weight:bold;&quot;&gt;weapons offenses, DUI, illegal underage consumption of alcohol, possession of marijuana, possession of cocaine, possession of methamphetamine, possession of ecstasy, distribution of ecstasy, resisting arrest, assault on a police officer, and disorderly conduct&lt;/span&gt;.
  &lt;br&gt;
- &lt;br&gt;A safety sweep was conducted after the crowd was ordered to disburse and numerous narcotic items were located scattered on the ground which included: 
- &lt;span style=&quot;font-weight:bold;&quot;&gt;cocaine, ecstasy, marijuana, mushrooms, alcohol and large amounts of drug paraphernalia&lt;/span&gt;. 
+ &lt;br&gt;A safety sweep was conducted after the crowd was ordered to disburse and numerous narcotic items were located scattered on the ground which included:
+ &lt;span style=&quot;font-weight:bold;&quot;&gt;cocaine, ecstasy, marijuana, mushrooms, alcohol and large amounts of drug paraphernalia&lt;/span&gt;.
  &lt;br&gt;
- &lt;br&gt;A 17 year old female from West Jordan, found by officers, had overdosed on ecstasy. She was treated and released to her parents. 
+ &lt;br&gt;A 17 year old female from West Jordan, found by officers, had overdosed on ecstasy. She was treated and released to her parents.
  &lt;br&gt;[...]
- &lt;br&gt;Parents need to be aware of the type of illegal activities that occurs at these type of gathering. Sexual assaults, rapes, overdoses, drugs, alcohol abuse, thefts, and firearms violations. The sale of drugs at these parties is so prevalent that at this particular Rave party drugs were offered to a local off duty emergency medical service personnel who were contracted to be there. In addition 
+ &lt;br&gt;Parents need to be aware of the type of illegal activities that occurs at these type of gathering. Sexual assaults, rapes, overdoses, drugs, alcohol abuse, thefts, and firearms violations. The sale of drugs at these parties is so prevalent that at this particular Rave party drugs were offered to a local off duty emergency medical service personnel who were contracted to be there. In addition
  &lt;span style=&quot;font-weight:bold;&quot;&gt;two security personnel hired by the promoter were arrested for possession of cocaine and ecstasy&lt;/span&gt;
 &lt;/blockquote&gt;
 &lt;br&gt;
-&lt;br&gt;(Via 
+&lt;br&gt;(Via
 &lt;a href=&quot;http://www.boingboing.net/2005/08/23/armed_swat_team_atta.html&quot;&gt;&lt;span style=&quot;font-weight:bold;&quot;&gt;BoingBoing&lt;/span&gt;&lt;/a&gt;)
 &lt;p&gt;&lt;/p&gt;
 
@@ -8400,7 +8413,12 @@
       <guid isPermaLink="false">2005/08/mi-prximo-mvil.html</guid>
       	<description>
 	
-&lt;p&gt;Leo en &lt;a href=&quot;http://www.engadget.com/entry/1234000410054125/&quot;&gt;&lt;span style=&quot;font-weight:bold;&quot;&gt;Engadget&lt;/span&gt;&lt;/a&gt; que &lt;a href=&quot;http://www.sonamobile.com/default.asp&quot;&gt;&lt;span style=&quot;font-weight:bold;&quot;&gt;Sona Mobile&lt;/span&gt;&lt;/a&gt; y &lt;a href=&quot;http://www.viacom.com/&quot;&gt;&lt;span style=&quot;font-weight:bold;&quot;&gt;Viacom&lt;/span&gt;&lt;/a&gt; van a sacar al mercado &lt;a href=&quot;http://www.sonamobile.com/newsrelease.asp?article=2005-08-10&quot;&gt;un teléfono móvil simulando el Communicator de la serie Star Trek&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;a onblur=&quot;try {parent.deselectBloggerImageGracefully();} catch(e) {}&quot; href=&quot;/img/2005/08/StarTrekCommunicator.jpg&quot;&gt;&lt;img style=&quot;float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;&quot; src=&quot;/img/2005/08/StarTrekCommunicator.jpg&quot; border=&quot;0&quot; alt=&quot;Star Trek Communicator Replica&quot; title=&quot;Star Trek Communicator Replica&quot;&gt;&lt;/a&gt;Una lástima que no encuentre una foto o boceto, pero debería ser parecido a &lt;a href=&quot;http://www.engadget.com/entry/7288642430896165/&quot;&gt;esta réplica&lt;/a&gt; que veis en la imagen, que ya sacaron hace un tiempo.&lt;br&gt;&lt;br&gt;Esta vez no se tratará de una simple réplica, tanto el aspecto como el contenido irán acordes. Imagenes, temas, videos, sonidos, un juego on-line multi-jugador basado en Star Trek &lt;span style=&quot;font-weight:bold;&quot;&gt;e incluso noticias e información para fans&lt;/span&gt;.&lt;br&gt;&lt;br&gt;Estará disponible a partir del 30 de septiembre de 2005. Habrá que ver si además de todas estas cosas es capaz de llamar y recibir llamadas.&lt;/p&gt;
+&lt;p&gt;Leo en &lt;a href=&quot;http://www.engadget.com/entry/1234000410054125/&quot;&gt;&lt;span style=&quot;font-weight:bold;&quot;&gt;Engadget&lt;/span&gt;&lt;/a&gt; que &lt;a href=&quot;http://www.sonamobile.com/default.asp&quot;&gt;&lt;span style=&quot;font-weight:bold;&quot;&gt;Sona Mobile&lt;/span&gt;&lt;/a&gt; y &lt;a href=&quot;http://www.viacom.com/&quot;&gt;&lt;span style=&quot;font-weight:bold;&quot;&gt;Viacom&lt;/span&gt;&lt;/a&gt; van a sacar al mercado &lt;a href=&quot;http://www.sonamobile.com/newsrelease.asp?article=2005-08-10&quot;&gt;un teléfono móvil simulando el Communicator de la serie Star Trek&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;image lateral&quot;&gt;
+  &lt;img src=&quot;/img/2005/08/StarTrekCommunicator.jpg&quot; border=&quot;0&quot; alt=&quot;Star Trek Communicator Replica&quot; title=&quot;Star Trek Communicator Replica&quot;&gt;
+&lt;/div&gt;
+&lt;p&gt;Una lástima que no encuentre una foto o boceto, pero debería ser parecido a &lt;a href=&quot;http://www.engadget.com/entry/7288642430896165/&quot;&gt;esta réplica&lt;/a&gt; que veis en la imagen, que ya sacaron hace un tiempo.&lt;br&gt;&lt;br&gt;Esta vez no se tratará de una simple réplica, tanto el aspecto como el contenido irán acordes. Imagenes, temas, videos, sonidos, un juego on-line multi-jugador basado en Star Trek &lt;span style=&quot;font-weight:bold;&quot;&gt;e incluso noticias e información para fans&lt;/span&gt;.&lt;br&gt;&lt;br&gt;Estará disponible a partir del 30 de septiembre de 2005. Habrá que ver si además de todas estas cosas es capaz de llamar y recibir llamadas.&lt;/p&gt;
 
 	</description>
     </item>
@@ -8429,9 +8447,17 @@
       <guid isPermaLink="false">2005/07/de-la-tierra-la-luna.html</guid>
       	<description>
 	
-&lt;p&gt;Hace unos días terminé uno de los mayores éxitos de &lt;span style=&quot;font-weight:bold;&quot;&gt;Julio Verne&lt;/span&gt;, &lt;span style=&quot;font-style:italic;&quot;&gt;De la Tierra a la Luna&lt;/span&gt;, y a pesar de mi falta de tiempo, no quería dejar de comentarlo.&lt;br&gt;&lt;br&gt;Publicada por primera vez el 25 de noviembre de 1864, tiene en este dato su mayor valía. Esta novela es una clara demostración de la capacidad de inventar el futuro que tenía Verne. Escrito muy ordenadamente (quizá demasiado), contiene múltiples ingenuidades, que se perdonan fácilmente por haberse escrito hace casi 150 años.&lt;br&gt;&lt;br&gt;Son los orígenes de la Ciencia Ficción, y hay que conocerlos. Ahora pretendo descubrir el Capitán Nemo que creó Verne en &lt;span style=&quot;font-style:italic;&quot;&gt;Veinte Mil Leguas de Viaje Submarino&lt;/span&gt;.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p class=&quot;pasaje&quot;&gt;De la Tierra a la Luna&lt;br&gt;Julio Verne&lt;br&gt;&lt;br&gt;&lt;a onblur=&quot;try {parent.deselectBloggerImageGracefully();} catch(e) {}&quot; href=&quot;/img/2005/07/TierraLuna.gif&quot;&gt;&lt;img style=&quot;float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;&quot; src=&quot;/img/2005/07/TierraLuna.gif&quot; border=&quot;0&quot; alt=&quot;&quot;&gt;&lt;/a&gt;[...]&lt;br&gt;Sin embargo, Barbicane no perdió un solo instante en medio de las ovaciones de que era objeto. Lo primero que hizo fue reunir a sus colegas en el salón de conferencias del Gun-Club, donde después de una concienzuda discusión, se convino en consultar a los astrónomos sobre la parte astronómica de la empresa. Conocida la respuesta, se debían discutir los medios mecánicos, no descuidando ni lo más insignificante para asegurar el buen éxito de tan grande experimento.&lt;br&gt;&lt;br&gt;Se redactó, pues, y se dirigió al observatorio de Cambridge, en el estado de Massachusetts, una nota muy precisa que contenía preguntas especiales. La ciudad de Cambridge, en la que se fundó la primera Universidad de los Estados Unidos, es justamente célebre por su observatorio astronómico. Allí se encuentran reunidos sabios del mayor mérito, y allí funciona el poderoso anteojo que permitió a Bond descomponer en estrellas la nebulosas de Andrómeda, y a Clarke descubrir el satélite de Sirio. Aquel establecimiento célebre tenía, por consiguiente, adquiridos muchos títulos honrosos que justificaban la consulta del Gun-Club.&lt;br&gt;&lt;br&gt;Dos días después, la respuesta, tan impacientemente esperada, llegó a manos del presidente Barbicane.&lt;br&gt;&lt;br&gt;Estaba concebida en los siguientes términos:&lt;br&gt;&lt;br&gt;El director del observatorio de Cambridge al presidente del Gun-Club en Baltimore&lt;br&gt;&lt;br&gt;&quot;&lt;span style=&quot;font-style:italic;&quot;&gt;Cambridge, 7 de octubre&lt;br&gt;&lt;br&gt;Al recibir su atenta comunicación del 6 del corriente, dirigida al observatorio de Cambridge en nombre de los miembros del Gun-Club de Baltimore, nuestra junta directiva se ha reunido en el acto y ha resuelto responder lo que sigue:&lt;br&gt;&lt;br&gt;Las preguntas que se le dirigen son:&lt;br&gt;&lt;br&gt;1ª ¿Es posible enviar un proyectil a la Luna?&lt;br&gt;&lt;br&gt;2ª ¿Cuál es la distancia exacta que separa a la Tierra de su satélite?&lt;br&gt;&lt;br&gt;3ª ¿Cuál será la duración del viaje del proyectil, dándole una velocidad inicial suficiente y, por consiguiente, en qué momento preciso deberá dispararse para que encuentre a la Luna en un punto determinado?&lt;br&gt;&lt;br&gt;4ª ¿En qué momento preciso se presentará la Luna en la posición más favorable para que la alcance el proyectil?&lt;br&gt;&lt;br&gt;5ª ¿A qué punto del cielo se deberá dirigir la puntería del cañón destinado a lanzar el proyectil?&lt;br&gt;&lt;br&gt;6ª ¿Qué sitio ocupará la Luna en el cielo en el momento de partir el proyectil?&lt;br&gt;&lt;br&gt;Contestación a la primera pregunta: ¿Es posible enviar un proyectil a la Luna?&lt;br&gt;&lt;br&gt;Sí, es posible enviar un proyectil a la Luna, siempre que se consiga dar a este proyectil una velocidad inicial de doce mil yardas por segundo. El cálculo demuestra que esta velocidad es suficiente. A medida que se aleja de la Tierra, la acción del peso disminuirá en razón inversa del cuadrado de las distancias, es decir, que para una distancia tres veces mayor esta acción será nueve veces menos fuerte. En consecuencia, el peso de la bala disminuirá rápidamente, y se anulará completamente en el momento de quedar equilibrada la atracción de la Luna con la de la Tierra, es decir, a los 47/52 del recorrido total. En ese momento el proyectil no tendrá peso alguno, y si salva aquel punto, caerá sobre la Luna por el solo efecto de la atracción lunar. La posibilidad teórica del experimento queda, pues, absolutamente demostrada, dependiendo únicamente su éxito de la potencia de la máquina empleada.&lt;br&gt;&lt;br&gt;A la segunda pregunta: ¿Cuál es la distancia exacta que separa a la Tierra de su satélite?&lt;br&gt;&lt;br&gt;La Luna no describe alrededor de la Tierra una circunferencia, sino una elipse, de la cual nuestro globo ocupa uno de los focos, y, por consiguiente la Luna se encuentra a veces más cerca y a veces más lejos de la Tierra, o hablando en términos técnicos, a veces en su apogeo y a veces en su perigeo. La diferencia en el espacio entre su mayor y menor distancia es bastante considerable para que se le deba tener en cuenta. La Luna en su apogeo se halla a doscientas cuarenta y siete mil quinientas cincuenta y dos millas (noventa y nueve mil seiscientos cuarenta leguas de cuatro kilómetros), y en su perigeo, a doscientas dieciocho mil ochocientas noventa y cinco millas (ochenta y ocho mil diez leguas), lo que da una diferencia de veintiocho mil seiscientas cincuenta y siete mil millas (once mil seiscientas treinta leguas), que son más de una novena parte del trayecto que el proyectil ha de recorrer. La distancia de perigeo de la Luna, es, pues, la que debe servir de base a los cálculos.&lt;br&gt;&lt;br&gt;A la tercera pregunta: ¿Cuál será la duración del viaje del proyectil, dándole una velocidad inicial suficiente y, por consiguiente, en qué momento preciso se deberá disparar para que encuentre a la Luna en un punto determinado?&lt;br&gt;&lt;br&gt;Si el proyectil conservase indefinidamente la velocidad inicial de doce mil yardas por segundo no tardaría más que unas nueve horas en llegar a su destino; pero como esta velocidad inicial va disminuyendo progresivamente, resulta por un cálculo riguroso, que el proyectil tardará trescientos mil segundos, o sea ochenta y tres horas y veinte minutos en alcanzar el punto en que se hallan equilibradas las atracciones terrestres y lunares, y desde dicho punto caerá sobre la Luna en cincuenta mil segundos, o sea trece horas, cincuenta y tres minutos y veinte segundos. Convendrá, pues, dispararlo noventa y siete horas, trece minutos y veinte segundos antes de la llegada de la Luna al punto a que se haya dirigido el disparo.&lt;br&gt;&lt;br&gt;A la cuarta pregunta: ¿En qué momento preciso se presentará la Luna en la posición más favorable para que la alcance el proyectil?&lt;br&gt;&lt;br&gt;Después de lo que se ha dicho, es evidente que debe escogerse la época en que se halle la Luna en su perigeo, y al mismo tiempo el momento en que pase por el cenit, lo que disminuirá el trayecto en una distancia igual al radio terrestre o sea tres mil novecientas diecinueve millas, de manera que el trayecto definitivo será de doscientas catorce mil novecientas sesenta y seis millas (ochenta y seis mil cuatrocientas diez leguas). Pero si bien la Luna pasa todos los meses por su perigeo, no siempre en aquel momento se encuentra en su cenit. No se presenta en estas dos condiciones sino a muy largos intervalos. Será, pues, preciso aguardar la coincidencia del paso al perigeo y al cenit. Por una feliz circunstancia, el 4 de diciembre del año próximo la Luna ofrecerá estas dos condiciones: a las doce de la noche se hallará en su perigeo, es decir, a la menor distancia de la Tierra, y, al mismo tiempo, pasará por el cenit.&lt;br&gt;&lt;br&gt;A la quinta pregunta: ¿A qué punto del cielo se deberá dirigir la puntería del cañón destinado a lanzar el proyectil?&lt;br&gt;&lt;br&gt;Admitidas las observaciones precedentes, el cañón deberá apuntarse al cenit del lugar en que se haga el experimento, de manera que el tiro sea perpendicular al plano del horizonte, y así el proyectil se librará más pronto de los efectos de la atracción terrestre. Pero para que la Luna suba al cenit de un sitio, preciso es que la latitud de este sitio no sea más alta que la declinación del astro, o, en otros términos, que el sitio no se halle comprendido entre los cero y veintiocho grados de latitud norte o sur. En cualquier otro punto, el tiro tendría que ser necesariamente oblicuo, lo que perjudicaría el buen resultado del experimento.&lt;br&gt;&lt;br&gt;A la sexta pregunta: ¿Qué sitio ocupará la Luna en el cielo en el momento de partir el proyectil?&lt;br&gt;&lt;br&gt;En el acto de lanzar la bala al espacio, la Luna, que avanza diariamente trece grados, diez minutos y treinta y cinco segundos, deberá encontrarse alejada del punto cenital cuatro veces esta distancia, o sea cincuenta y dos grados, cuarenta y dos minutos y veinte segundos, espacio que corresponde al trayecto que ella recorrerá mientras dure el avance del proyectil. Pero como es preciso tener también en cuenta el desvío que hará sufrir a la bala el movimiento de rotación de la Tierra, y como la bala no llegará a la Luna sino después de haber sufrido una desviación igual a dieciséis radios terrestres, los cuales, contados en la órbita de la Luna, son unos once grados, deberán sumarse estos once grados a los computados para el avance de la Luna del que ya hemos hecho mención, lo que arroja un total de sesenta y cuatro grados. Así, pues, en el momento del tiro, el rayo visual dirigido a la Luna formará con la vertical del sitio del experimento un ángulo de 64°.&lt;br&gt;&lt;br&gt;Tales son las respuestas que da el observatorio de Cambridge a las preguntas de los miembros del Gun-Club.&lt;br&gt;&lt;br&gt;Resumiendo:&lt;br&gt;&lt;br&gt;1. El cañón deberá colocarse en un país situado entre los cero y veintiocho grados de latitud norte o sur.&lt;br&gt;&lt;br&gt;2. Deberá apuntar al cenit del sitio del experimento.&lt;br&gt;&lt;br&gt;3. El proyectil deberá estar dotado de una velocidad inicial de doce mil yardas por segundo.&lt;br&gt;&lt;br&gt;4. Deberá hacerse el disparo el día primero de diciembre del año próximo a las once menos trece minutos y veinte segundos.&lt;br&gt;&lt;br&gt;5. Encontrará a la Luna cuatro días después de su partida, el día cuatro de diciembre, a las doce en punto de la noche en el momento de pasar aquella por el cenit.&lt;br&gt;&lt;br&gt;Los miembros del Gun-Club deben, por tanto, emprender sin pérdida de tiempo los trabajos necesarios para la realización de su empresa y hallarse prestos a actuar en el momento señalado, pues, porque si dejan pasar el día cuatro de diciembre, no hallarán la Luna en las mismas condiciones de perigeo y de cenit hasta que hayan transcurrido dieciocho años y once días.&lt;br&gt;&lt;br&gt;El observatorio de Cambridge se pone enteramente a disposición del Gun-Club para todo cuanto concierna a astronomía teórica, y se suma por la presente a las felicitaciones que la América entera le ha enviado.&lt;br&gt;&lt;br&gt;Por el observatorio,&lt;br&gt;&lt;br&gt;J. BELFAST&lt;br&gt;Director del observatorio de Cambridge&lt;/span&gt;&lt;br&gt;[...]&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Hace unos días terminé uno de los mayores éxitos de &lt;span style=&quot;font-weight:bold;&quot;&gt;Julio Verne&lt;/span&gt;, &lt;span style=&quot;font-style:italic;&quot;&gt;De la Tierra a la Luna&lt;/span&gt;, y a pesar de mi falta de tiempo, no quería dejar de comentarlo.&lt;br&gt;&lt;br&gt;Publicada por primera vez el 25 de noviembre de 1864, tiene en este dato su mayor valía. Esta novela es una clara demostración de la capacidad de inventar el futuro que tenía Verne. Escrito muy ordenadamente (quizá demasiado), contiene múltiples ingenuidades, que se perdonan fácilmente por haberse escrito hace casi 150 años.&lt;br&gt;&lt;br&gt;Son los orígenes de la Ciencia Ficción, y hay que conocerlos. Ahora pretendo descubrir el Capitán Nemo que creó Verne en &lt;span style=&quot;font-style:italic;&quot;&gt;Veinte Mil Leguas de Viaje Submarino&lt;/span&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;pasaje&quot;&gt;
+  De la Tierra a la Luna&lt;br&gt;Julio Verne
+  &lt;br&gt;&lt;br&gt;
+  &lt;div class=&quot;image lateral&quot;&gt;
+    &lt;img src=&quot;/img/2005/07/TierraLuna.gif&quot; border=&quot;0&quot; alt=&quot;&quot;&gt;
+  &lt;/div&gt;
+  [...]
+  &lt;br&gt;Sin embargo, Barbicane no perdió un solo instante en medio de las ovaciones de que era objeto. Lo primero que hizo fue reunir a sus colegas en el salón de conferencias del Gun-Club, donde después de una concienzuda discusión, se convino en consultar a los astrónomos sobre la parte astronómica de la empresa. Conocida la respuesta, se debían discutir los medios mecánicos, no descuidando ni lo más insignificante para asegurar el buen éxito de tan grande experimento.&lt;br&gt;&lt;br&gt;Se redactó, pues, y se dirigió al observatorio de Cambridge, en el estado de Massachusetts, una nota muy precisa que contenía preguntas especiales. La ciudad de Cambridge, en la que se fundó la primera Universidad de los Estados Unidos, es justamente célebre por su observatorio astronómico. Allí se encuentran reunidos sabios del mayor mérito, y allí funciona el poderoso anteojo que permitió a Bond descomponer en estrellas la nebulosas de Andrómeda, y a Clarke descubrir el satélite de Sirio. Aquel establecimiento célebre tenía, por consiguiente, adquiridos muchos títulos honrosos que justificaban la consulta del Gun-Club.&lt;br&gt;&lt;br&gt;Dos días después, la respuesta, tan impacientemente esperada, llegó a manos del presidente Barbicane.&lt;br&gt;&lt;br&gt;Estaba concebida en los siguientes términos:&lt;br&gt;&lt;br&gt;El director del observatorio de Cambridge al presidente del Gun-Club en Baltimore&lt;br&gt;&lt;br&gt;&quot;&lt;span style=&quot;font-style:italic;&quot;&gt;Cambridge, 7 de octubre&lt;br&gt;&lt;br&gt;Al recibir su atenta comunicación del 6 del corriente, dirigida al observatorio de Cambridge en nombre de los miembros del Gun-Club de Baltimore, nuestra junta directiva se ha reunido en el acto y ha resuelto responder lo que sigue:&lt;br&gt;&lt;br&gt;Las preguntas que se le dirigen son:&lt;br&gt;&lt;br&gt;1ª ¿Es posible enviar un proyectil a la Luna?&lt;br&gt;&lt;br&gt;2ª ¿Cuál es la distancia exacta que separa a la Tierra de su satélite?&lt;br&gt;&lt;br&gt;3ª ¿Cuál será la duración del viaje del proyectil, dándole una velocidad inicial suficiente y, por consiguiente, en qué momento preciso deberá dispararse para que encuentre a la Luna en un punto determinado?&lt;br&gt;&lt;br&gt;4ª ¿En qué momento preciso se presentará la Luna en la posición más favorable para que la alcance el proyectil?&lt;br&gt;&lt;br&gt;5ª ¿A qué punto del cielo se deberá dirigir la puntería del cañón destinado a lanzar el proyectil?&lt;br&gt;&lt;br&gt;6ª ¿Qué sitio ocupará la Luna en el cielo en el momento de partir el proyectil?&lt;br&gt;&lt;br&gt;Contestación a la primera pregunta: ¿Es posible enviar un proyectil a la Luna?&lt;br&gt;&lt;br&gt;Sí, es posible enviar un proyectil a la Luna, siempre que se consiga dar a este proyectil una velocidad inicial de doce mil yardas por segundo. El cálculo demuestra que esta velocidad es suficiente. A medida que se aleja de la Tierra, la acción del peso disminuirá en razón inversa del cuadrado de las distancias, es decir, que para una distancia tres veces mayor esta acción será nueve veces menos fuerte. En consecuencia, el peso de la bala disminuirá rápidamente, y se anulará completamente en el momento de quedar equilibrada la atracción de la Luna con la de la Tierra, es decir, a los 47/52 del recorrido total. En ese momento el proyectil no tendrá peso alguno, y si salva aquel punto, caerá sobre la Luna por el solo efecto de la atracción lunar. La posibilidad teórica del experimento queda, pues, absolutamente demostrada, dependiendo únicamente su éxito de la potencia de la máquina empleada.&lt;br&gt;&lt;br&gt;A la segunda pregunta: ¿Cuál es la distancia exacta que separa a la Tierra de su satélite?&lt;br&gt;&lt;br&gt;La Luna no describe alrededor de la Tierra una circunferencia, sino una elipse, de la cual nuestro globo ocupa uno de los focos, y, por consiguiente la Luna se encuentra a veces más cerca y a veces más lejos de la Tierra, o hablando en términos técnicos, a veces en su apogeo y a veces en su perigeo. La diferencia en el espacio entre su mayor y menor distancia es bastante considerable para que se le deba tener en cuenta. La Luna en su apogeo se halla a doscientas cuarenta y siete mil quinientas cincuenta y dos millas (noventa y nueve mil seiscientos cuarenta leguas de cuatro kilómetros), y en su perigeo, a doscientas dieciocho mil ochocientas noventa y cinco millas (ochenta y ocho mil diez leguas), lo que da una diferencia de veintiocho mil seiscientas cincuenta y siete mil millas (once mil seiscientas treinta leguas), que son más de una novena parte del trayecto que el proyectil ha de recorrer. La distancia de perigeo de la Luna, es, pues, la que debe servir de base a los cálculos.&lt;br&gt;&lt;br&gt;A la tercera pregunta: ¿Cuál será la duración del viaje del proyectil, dándole una velocidad inicial suficiente y, por consiguiente, en qué momento preciso se deberá disparar para que encuentre a la Luna en un punto determinado?&lt;br&gt;&lt;br&gt;Si el proyectil conservase indefinidamente la velocidad inicial de doce mil yardas por segundo no tardaría más que unas nueve horas en llegar a su destino; pero como esta velocidad inicial va disminuyendo progresivamente, resulta por un cálculo riguroso, que el proyectil tardará trescientos mil segundos, o sea ochenta y tres horas y veinte minutos en alcanzar el punto en que se hallan equilibradas las atracciones terrestres y lunares, y desde dicho punto caerá sobre la Luna en cincuenta mil segundos, o sea trece horas, cincuenta y tres minutos y veinte segundos. Convendrá, pues, dispararlo noventa y siete horas, trece minutos y veinte segundos antes de la llegada de la Luna al punto a que se haya dirigido el disparo.&lt;br&gt;&lt;br&gt;A la cuarta pregunta: ¿En qué momento preciso se presentará la Luna en la posición más favorable para que la alcance el proyectil?&lt;br&gt;&lt;br&gt;Después de lo que se ha dicho, es evidente que debe escogerse la época en que se halle la Luna en su perigeo, y al mismo tiempo el momento en que pase por el cenit, lo que disminuirá el trayecto en una distancia igual al radio terrestre o sea tres mil novecientas diecinueve millas, de manera que el trayecto definitivo será de doscientas catorce mil novecientas sesenta y seis millas (ochenta y seis mil cuatrocientas diez leguas). Pero si bien la Luna pasa todos los meses por su perigeo, no siempre en aquel momento se encuentra en su cenit. No se presenta en estas dos condiciones sino a muy largos intervalos. Será, pues, preciso aguardar la coincidencia del paso al perigeo y al cenit. Por una feliz circunstancia, el 4 de diciembre del año próximo la Luna ofrecerá estas dos condiciones: a las doce de la noche se hallará en su perigeo, es decir, a la menor distancia de la Tierra, y, al mismo tiempo, pasará por el cenit.&lt;br&gt;&lt;br&gt;A la quinta pregunta: ¿A qué punto del cielo se deberá dirigir la puntería del cañón destinado a lanzar el proyectil?&lt;br&gt;&lt;br&gt;Admitidas las observaciones precedentes, el cañón deberá apuntarse al cenit del lugar en que se haga el experimento, de manera que el tiro sea perpendicular al plano del horizonte, y así el proyectil se librará más pronto de los efectos de la atracción terrestre. Pero para que la Luna suba al cenit de un sitio, preciso es que la latitud de este sitio no sea más alta que la declinación del astro, o, en otros términos, que el sitio no se halle comprendido entre los cero y veintiocho grados de latitud norte o sur. En cualquier otro punto, el tiro tendría que ser necesariamente oblicuo, lo que perjudicaría el buen resultado del experimento.&lt;br&gt;&lt;br&gt;A la sexta pregunta: ¿Qué sitio ocupará la Luna en el cielo en el momento de partir el proyectil?&lt;br&gt;&lt;br&gt;En el acto de lanzar la bala al espacio, la Luna, que avanza diariamente trece grados, diez minutos y treinta y cinco segundos, deberá encontrarse alejada del punto cenital cuatro veces esta distancia, o sea cincuenta y dos grados, cuarenta y dos minutos y veinte segundos, espacio que corresponde al trayecto que ella recorrerá mientras dure el avance del proyectil. Pero como es preciso tener también en cuenta el desvío que hará sufrir a la bala el movimiento de rotación de la Tierra, y como la bala no llegará a la Luna sino después de haber sufrido una desviación igual a dieciséis radios terrestres, los cuales, contados en la órbita de la Luna, son unos once grados, deberán sumarse estos once grados a los computados para el avance de la Luna del que ya hemos hecho mención, lo que arroja un total de sesenta y cuatro grados. Así, pues, en el momento del tiro, el rayo visual dirigido a la Luna formará con la vertical del sitio del experimento un ángulo de 64°.&lt;br&gt;&lt;br&gt;Tales son las respuestas que da el observatorio de Cambridge a las preguntas de los miembros del Gun-Club.&lt;br&gt;&lt;br&gt;Resumiendo:&lt;br&gt;&lt;br&gt;1. El cañón deberá colocarse en un país situado entre los cero y veintiocho grados de latitud norte o sur.&lt;br&gt;&lt;br&gt;2. Deberá apuntar al cenit del sitio del experimento.&lt;br&gt;&lt;br&gt;3. El proyectil deberá estar dotado de una velocidad inicial de doce mil yardas por segundo.&lt;br&gt;&lt;br&gt;4. Deberá hacerse el disparo el día primero de diciembre del año próximo a las once menos trece minutos y veinte segundos.&lt;br&gt;&lt;br&gt;5. Encontrará a la Luna cuatro días después de su partida, el día cuatro de diciembre, a las doce en punto de la noche en el momento de pasar aquella por el cenit.&lt;br&gt;&lt;br&gt;Los miembros del Gun-Club deben, por tanto, emprender sin pérdida de tiempo los trabajos necesarios para la realización de su empresa y hallarse prestos a actuar en el momento señalado, pues, porque si dejan pasar el día cuatro de diciembre, no hallarán la Luna en las mismas condiciones de perigeo y de cenit hasta que hayan transcurrido dieciocho años y once días.&lt;br&gt;&lt;br&gt;El observatorio de Cambridge se pone enteramente a disposición del Gun-Club para todo cuanto concierna a astronomía teórica, y se suma por la presente a las felicitaciones que la América entera le ha enviado.&lt;br&gt;&lt;br&gt;Por el observatorio,&lt;br&gt;&lt;br&gt;J. BELFAST&lt;br&gt;Director del observatorio de Cambridge&lt;/span&gt;&lt;br&gt;[...]
+&lt;/div&gt;
 
 	</description>
     </item>
@@ -10825,7 +10851,13 @@
       <guid isPermaLink="false">2004/03/el-esperado-comentario-de-cats.html</guid>
       	<description>
 	
-&lt;img src=&quot;/img/2004/03/munkustrap.jpg&quot; align=&quot;right&quot; border=&quot;0&quot;&gt;Ha pasado mucho tiempo desde que fui a ver Cats. No debí dejar pasar tanto porque no recuerdo algunas de las cosas que quería comentar. Bueno, empezamos.
+&lt;div class=&quot;image lateral&quot;&gt;
+  &lt;img src=&quot;/img/2004/03/Munkustrap.jpg&quot; alt=&quot;Sean Michael Palmer acting as Munkustrap&quot;&gt;
+  &lt;div class=&quot;caption&quot;&gt;
+    Sean Michael Palmer acting as Munkustrap - Photo Credit: Michael Benedict
+  &lt;/div&gt;
+&lt;/div&gt;
+Ha pasado mucho tiempo desde que fui a ver Cats. No debí dejar pasar tanto porque no recuerdo algunas de las cosas que quería comentar. Bueno, empezamos.
 &lt;br&gt;
 &lt;br&gt;Así como El Fantasma de la Opera me parece una gran obra, pero no me pareció una gran adaptación, en el caso de Cats no tengo dudas. El Musical de Cats no me gustó. El argumento me parece malo, no encontré ni una gran canción, y sólo puede entenderse cómo una gran obra desde el punto de vista estético o visual. No imagino cual es el motivo para que tenga tantos records de permanencia en Londres o Broadway.
 &lt;br&gt;
@@ -10850,11 +10882,11 @@
       <guid isPermaLink="false">2004/02/conferencia-internacional-de-software.html</guid>
       	<description>
 	
-&lt;img src=&quot;/img/2004/02/congreso.jpg&quot; align=&quot;right&quot; border=&quot;0&quot;&gt;Estos días se celebra en Málaga la 
+Estos días se celebra en Málaga la 
 &lt;a href=&quot;http://www.opensourceworldconference.com&quot;&gt;Conferencia Internacional de Software Libre&lt;/a&gt;. No he podido ir (en parte porque me voy a Logroño) y Eru sabe que tenía muchas ganas. Tengo &apos;demasiado&apos; olvidado todo este tema.
 &lt;br&gt;
-&lt;br&gt;El caso es que un amigo mío, 
-&lt;a href=&quot;http://elenya.net&quot;&gt;Pablo&lt;/a&gt;, si que ha ido y nos mantiene a todos al tanto a través una 
+&lt;br&gt;El caso es que un amigo mío,
+&lt;a href=&quot;http://elenya.net&quot;&gt;Pablo&lt;/a&gt;, si que ha ido y nos mantiene a todos al tanto a través una
 &lt;a href=&quot;http://elenya.net/congreso&quot;&gt;página&lt;/a&gt; en la que podemos leer sus comentarios y ver cada 10 segundos lo que capta su webcam (mientras tenga el portátil encendido). Si ahora está encendido, podréis verlo aquí a la derecha (en su página se recarga automáticamente)
 &lt;br&gt;
 &lt;br&gt;Así tendremos todos un poco más cerca el Congreso. Gracias Pablo.

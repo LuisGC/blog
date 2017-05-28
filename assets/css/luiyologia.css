@@ -25,19 +25,24 @@ blockquote p{
   text-align:justify;
 }
 
-.imagen {
+.image.lateral {
   width:300px;
   margin-left: 30px;
   float:right;
 }
 
-.imagen-texto {
-  width:300px;
-  text-align:center;
+.image.lateral img {
+  margin-bottom: 10px;
 }
 
 .spacious li {
   margin: 0 0 1rem 0;
+}
+
+.caption {
+  font-size: 80%;
+  text-align: center;
+  color: #646464;
 }
 
 article.post h2,
