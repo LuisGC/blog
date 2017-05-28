@@ -1,7 +1,7 @@
 title=Romantikstraße, the Romantic Road (4 of 5)
 date=2017-05-26
 type=post
-tags=personal,turismo,vacaciones
+tags=personal,tourism,holidays
 status=draft
 featuredimage=img/2017/05/Hallstatt_panoramic.jpg
 featuredalt=Hallstatt panoramic

@@ -1,7 +1,7 @@
 title=Baking my Blog with JBake and GitHub
 date=2017-05-19
 type=post
-tags=blog,tecnología,diseño,programación
+tags=blog,technology,design,programming
 status=published
 featuredimage=img/2017/05/Bake_your_own_site.png
 featuredalt=JBake

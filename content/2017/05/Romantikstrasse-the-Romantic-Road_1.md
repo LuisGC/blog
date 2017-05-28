@@ -1,7 +1,7 @@
 title=Romantikstraße, the Romantic Road (1 of 5)
 date=2017-05-28
 type=post
-tags=personal,turismo,vacaciones
+tags=personal,tourism,holidays
 status=published
 featuredimage=img/2017/05/Schallaburg_castle_garden.jpg
 featuredalt=Schallaburg Castle and garden
