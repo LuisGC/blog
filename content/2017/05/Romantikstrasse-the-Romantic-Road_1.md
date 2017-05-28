@@ -2,11 +2,11 @@ title=Romantikstraße, the Romantic Road (1 of 5)
 date=2017-05-28
 type=post
 tags=personal,turismo,vacaciones
-status=draft
+status=published
 featuredimage=img/2017/05/Schallaburg_castle_garden.jpg
 featuredalt=Schallaburg Castle and garden
 featuredcaption=Schallaburg Castle and garden - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a>
-summary=A couple ...
+summary=A couple of weeks ago I had the immense pleasure of making a road trip through Austria following what they call the [**Romantikstraße**](http://www.romantikstrasse.at/es/), *Romantic Road* or *Romantic Trail* in English. Interestingly, ours was a **singles** trip initially planned for three friends but sadly in the end we were only two because at the last minute Roberto had to cancel. I shared this great adventure only with **Agatha** and it was great (as expected). I suppose that in the eyes of any innkeeper or bartender we were a happy couple celebrating something.
 ~~~~~~
 A couple of weeks ago I had the immense pleasure of making a road trip through Austria following what they call the [**Romantikstraße**](http://www.romantikstrasse.at/es/), *Romantic Road* or *Romantic Trail* in English. Interestingly, ours was a **singles** trip initially planned for three friends but sadly in the end we were only two because at the last minute Roberto had to cancel. I shared this great adventure only with **Agatha** and it was great (as expected). I suppose that in the eyes of any innkeeper or bartender we were a happy couple celebrating something.
 
@@ -52,8 +52,10 @@ We did a quick tour through the main elements of this baroque Abbey. The exhibit
 
 <div class="image">
   <img src="/img/2017/05/Melk_Abbey_Library.jpg" alt="Melk Abbey Library">
-  <div class="caption">Melk Abbey Library, by [Jorge Royan](http://www.royan.com.ar/)
-  Source Wikimedia - <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>CC BY-SA</i></a></div>
+  <div class="caption">
+    Melk Abbey Library, by <a href="http://www.royan.com.ar/">Jorge Royan</a><br />
+    Source: <a href="https://es.wikipedia.org/wiki/Archivo:Austria_-_Melk_Abbey_Library_-_1884.jpg">Wikimedia</a> - <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>CC BY-SA</i></a>
+  </div>
 </div>
 
 The Abbey was also wisely located, on top of a hill and clearly standing out from the town of Melk. The visit is worth it just for the views from the balcony connecting the Marble Hall and the Library with Melk, the Danube river and forests everywhere.
