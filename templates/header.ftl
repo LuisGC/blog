@@ -15,8 +15,8 @@
     <meta name="generator" content="JBake">
 
     <link href="${config.site_host}" rel="canonical">
-    <link rel="alternate" type="application/atom+xml" title="${config.site_title} - Atom" href="${config.site_host}/blog/feed.xml">
-    <link rel="alternate" type="application/rss+xml" title="${config.site_title} - RSS" href="${config.site_host}/blog/feed.xml">
+    <link rel="alternate" type="application/atom+xml" title="${config.site_title} - Atom" href="${config.site_host}/feed.xml">
+    <link rel="alternate" type="application/rss+xml" title="${config.site_title} - RSS" href="${config.site_host}/feed.xml">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@${config.sidebar_social_twitter}">
