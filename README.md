@@ -2,6 +2,8 @@
 
 This blog uses [**JBake**](http://jbake.org/), enriched by the great [**Future Imperfect Template**](https://github.com/manikmagar/jbake-future-imperfect-template) by [**@manikmagar**](https://github.com/manikmagar)
 
+[![Build Status](https://circleci.com/gh/LuisGC/blog.svg?style=shield&circle-token=84b0c3abe4224e336ee9d92c7e04204e9a2b2767)](https://circleci.com/gh/LuisGC/blog)
+
 ## About JBake
 
 [**JBake**](http://jbake.org/) is a Java based open source static site/blog generator for developers. Check the code on [Github](https://github.com/jbake-org/jbake)
