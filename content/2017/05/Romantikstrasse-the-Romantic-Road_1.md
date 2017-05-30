@@ -5,7 +5,7 @@ tags=personal,tourism,holidays
 status=published
 featuredimage=img/2017/05/Schallaburg_castle_garden.jpg
 featuredalt=Schallaburg Castle and garden
-featuredcaption=Schallaburg Castle and garden - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a>
+featuredcaption=Schallaburg Castle and garden<br />Source: My own pictures - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a>
 summary=A couple of weeks ago I had the immense pleasure of making a road trip through Austria following what they call the <b>Romantikstraße</b>, <i>Romantic Road</i> or <i>Romantic Trail</i> in English. Interestingly, ours was a <b>singles</b> trip initially planned for three friends but sadly in the end we were only two because at the last minute Roberto had to cancel. I shared this great adventure only with <b>Agatha</b> and it was great (as expected). I suppose that in the eyes of any innkeeper or bartender we were a happy couple celebrating something.
 ~~~~~~
 A couple of weeks ago I had the immense pleasure of making a road trip through Austria following what they call the [**Romantikstraße**](http://www.romantikstrasse.at/es/), *Romantic Road* or *Romantic Trail* in English. Interestingly, ours was a **singles** trip initially planned for three friends but sadly in the end we were only two because at the last minute Roberto had to cancel. I shared this great adventure only with **Agatha** and it was great (as expected). I suppose that in the eyes of any innkeeper or bartender we were a happy couple celebrating something.
@@ -39,7 +39,7 @@ The first funny anecdote of the trip arrived soon. From the parking to the castl
 
 <div class="image">
   <img src="/img/2017/05/Schallaburg_castle_courtyard.jpg" alt="Schallaburg castle's courtyard">
-  <div class="caption">Schallaburg castle's courtyard - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
+  <div class="caption">Schallaburg castle's courtyard<br />Source: My own pictures - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
 Before leaving, we found [our first cache of the trip](https://www.geocaching.com/seek/cache_details.aspx?guid=dc7d5446-009c-4332-8fde-2881d06a4882), less than 5 meters from our car :-)
@@ -53,8 +53,7 @@ We did a quick tour through the main elements of this baroque Abbey. The exhibit
 <div class="image">
   <img src="/img/2017/05/Melk_Abbey_Library.jpg" alt="Melk Abbey Library">
   <div class="caption">
-    Melk Abbey Library, by <a href="http://www.royan.com.ar/">Jorge Royan</a><br />
-    Source: <a href="https://es.wikipedia.org/wiki/Archivo:Austria_-_Melk_Abbey_Library_-_1884.jpg">Wikimedia</a> - <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>CC BY-SA</i></a>
+    Melk Abbey Library<br />Source: <a href="http://www.royan.com.ar/">Jorge Royan</a> @ <a href="https://es.wikipedia.org/wiki/Archivo:Austria_-_Melk_Abbey_Library_-_1884.jpg">Wikimedia</a> - <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>CC BY-SA</i></a>
   </div>
 </div>
 
@@ -70,7 +69,7 @@ Our last stop for the first day was Steyr, where (as they say) _Gothic, Renaissa
 
 <div class="image lateral">
   <img src="/img/2017/05/Steyr_Nachtwachtern.jpg" alt="Steyr's Nachtwachtern">
-  <div class="caption">Steyr's Nachtwachtern - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
+  <div class="caption">Steyr's Nachtwachtern<br />Source: My own pictures - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
 Our main goal in this city was to follow the **Nachtwächtern Tour**, a walking tour through the old town guided by a historian disguised as medieval watchman. Unluckily the tour was only in german, and we struggled to get the guide to understand that we wanted to follow him without understanding anything at all. The guide took pity on us, letting us follow him paying _only_ half the price. As expected we didn't understand anything, but we crossed the same streets and alleys, we looked where they looked, we analyzed in detail whatever they commented in detail, and we laughed when they laughed (maybe even some joke about Spanish tourists, who knows).
