@@ -46,9 +46,13 @@ Anna's infinite friendliness did not end there. On our way down she offered to n
   <div class="caption">Kremsmünster Library<br />Source: My own pictures - <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
-We've planned to expend a couple of hours there, but finally we were there all morning so we had lunch just there, in a traditional restaurant inside the Abbey grounds: [Stiftsschank](http://www.stiftsschank-kremsmuenster.or.at/). It was great so we recommend it as well.
+We've planned to be in Kremsmünster just a couple of hours , but finally we were there all morning so we had to lunch just there, in a traditional restaurant inside the Abbey grounds: [Stiftsschank](http://www.stiftsschank-kremsmuenster.or.at/). It was great so we recommend it as well.
 
 ## Scharnstein
+
+**Scharnstein** stands out for its variety of hiking trails, since it's surrounded by forests and mountains. It's also near [Totes Gebirge](https://en.wikipedia.org/wiki/Totes_Gebirge), a picturesque mountain range part of the Limestone Alps.
+
+Our extended visit to the Kremsmünster Abbey forced us to expend less time here, but at least we could do some light hiking. We made one of the short but typical routes, climbing from the town to the **ruins of the Scharnstein Castle**. Both the ascent and the exploration of the ruins were fantastic. We were lucky enough to be completely alone, so it was a relaxing experience and a total immersion in the Nature that surrounded us. The views were excellent, with the remains of the castle with the huge Almtal valley behind.
 
 ## Traunkirchen
 
