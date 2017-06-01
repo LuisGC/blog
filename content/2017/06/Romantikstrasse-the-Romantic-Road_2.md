@@ -9,7 +9,7 @@ featuredcaption=views from the Mathemical Tower terrace in Kremsmünster Abbey<b
 summary=A couple ...
 ~~~~~~
 
-Yes, this is the second part. You can read about the rest of our [**Romantikstraße**](http://www.romantikstrasse.at/es/) here:
+This is the second part of my chronicle about our trip through the [**Romantikstraße**](http://www.romantikstrasse.at/es/), you can read the rest here:
 
 * [Romantikstraße, the Romantic Road (1 of 5)](/blog/2017/05/Romantikstrasse-the-Romantic-Road_1.html)
 
@@ -19,12 +19,12 @@ Yes, this is the second part. You can read about the rest of our [**Romantikstra
 
 For me, [**Kremsmünster Abbey**](https://stift-kremsmuenster.net/tourismus/information-in-english/english/) was the most positive surprise of the entire trip. A priori it looked like _yet another_ abbey, and our first hour there not only was confirming that suspicion but also made us feel somewhat deceived. We paid a considerable amount of money to find out that the ticket didn't include the visit of what we particularly wanted to see in there: The **Tassilo Chalice**, the **Library** and the **Mathematical Tower**. We could enter only the public areas and the inner gardens where they temporaly hosted a floral exhibition. The information was confusing, mostly in german only, and the variety of ticket options was the most complex that I've ever seen in a place like this.
 
-After visiting the gardens and the Abbey Church we followed some unclear signs to the Tassilo, and when we were almost there a couple of exhibition guides insisted us that our tickets didn't include this area, so they charged us again (without any kind of ticket) to enter the Treasure Chamber and a couple more rooms with minor interest. The Tassilo is an interesting piece of art and history, but the extra price to see it seemed disproportionate.
-
 <div class="image lateral">
   <img src="/img/2017/06/Kremsmunster_Mathematical_Tower.jpg" alt="Kremsmünster Mathematical Tower">
   <div class="caption">Kremsmünster Mathematical Tower<br />Source: My own pictures - <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
+
+After visiting the gardens and the Abbey Church we followed some unclear signs to the Tassilo, and when we were almost there a couple of exhibition guides insisted us that our tickets didn't include this area, so they charged us again (without any kind of ticket) to enter the Treasure Chamber and a couple more rooms with minor interest. The Tassilo is an interesting piece of art and history, but the extra price to see it seemed disproportionate.
 
 We were about to leave, almost angry, but finally we bought another additional ticket to visit the _panorama terrace_ on top of the [Mathematical Tower](http://www.specula.at/). The panorama terrace visit only included climbing up the stairs and going out on the terrace to see the views from there. The rest of the building was not included in our handful of tickets but at least we'd see some of what we initially wanted.
 
@@ -58,6 +58,8 @@ Our extended visit to the Kremsmünster Abbey forced us to expend less time here
   <img src="/img/2017/06/Scharnstein_Castle.jpg" alt="Relaxing at Scharnstein Castle">
   <div class="caption">Relaxing at Scharnstein Castle<br />Source: My own pictures - <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
+
+In Scharnstein you can also find an interesting [Criminological Museum](http://kriminalmuseum.at/krimscharn.html). We went there but it was closed, so we settled for a beer in a tavern located in the same Scharnstein Castle that hosts the Museum about Crime and another about the [Austrian Federal Gendarmerie](https://en.wikipedia.org/wiki/Gendarmerie_(Austria)). The tavern was promising but they'll have to admit that it has seen better days.
 
 ## Traunkirchen
 
