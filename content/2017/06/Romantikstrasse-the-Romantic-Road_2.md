@@ -1,9 +1,9 @@
 title=Romantikstraße, the Romantic Road (2 of 5)
-date=2017-05-26
+date=2017-06-01
 type=post
 tags=personal,tourism,holidays
 status=draft
-featuredimage=img/2017/05/Kremsmunster_panoramic.jpg
+featuredimage=img/2017/06/Kremsmunster_panoramic.jpg
 featuredalt=views from the Mathemical Tower terrace in Kremsmünster Abbey
 featuredcaption=views from the Mathemical Tower terrace in Kremsmünster Abbey<br />Source: My own pictures - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a>
 summary=A couple ...
@@ -22,7 +22,7 @@ For me, [**Kremsmünster Abbey**](https://stift-kremsmuenster.net/tourismus/info
 After visiting the gardens and the Abbey Church we followed some unclear signs to the Tassilo, and when we were almost there a couple of exhibition guides insisted us that our tickets didn't include this area, so they charged us again (without any kind of ticket) to enter the Treasure Chamber and a couple more rooms with minor interest. The Tassilo is an interesting piece of art and history, but the extra price to see it seemed disproportionate.
 
 <div class="image lateral">
-  <img src="/img/2017/05/Kremsmunster_Mathematical_Tower.jpg" alt="Kremsmünster Mathematical Tower">
+  <img src="/img/2017/06/Kremsmunster_Mathematical_Tower.jpg" alt="Kremsmünster Mathematical Tower">
   <div class="caption">Kremsmünster Mathematical Tower<br />Source: My own pictures - <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
@@ -33,7 +33,7 @@ And there, waiting at the entrance of the tower, our luck changed with the stell
 The incredible kindness of Anna, her desire to practice spoken English and the fact that there were no more tourists in the visit, made our day radically better. Waiting to see if anyone else was joining the visit we told her about our bad luck and poor understanding of the information for tourists, and she emphatized and wanted to compensate us in some way. She couldn't realize that we'd bought like three different tickets to leave without seeing what we expected to see (the main attractions, by the way).
 
 <div class="image lateral">
-  <img src="/img/2017/05/Xylothek-Sternwarte_Kremsmunster.jpg" alt="Xylotheque - Sternwarte Kremsmünster">
+  <img src="/img/2017/06/Xylothek-Sternwarte_Kremsmunster.jpg" alt="Xylotheque - Sternwarte Kremsmünster">
   <div class="caption">Xylotheque - Sternwarte Kremsmünster<br />Source: <a href="https://commons.wikimedia.org/wiki/File:Xylothek-Sternwarte_Kremsm%C3%BCnster.JPG"> by Reinhard Stiksel in Wikimedia</a> - <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>CC BY-SA</i></a></div>
 </div>
 
@@ -42,7 +42,7 @@ We climbed the Tower, but instead of going directly to the top we stopped at eac
 Anna's infinite friendliness did not end there. On our way down she offered to negotiate for us a private visit to the Library, guided by herself. She managed to convince her boss, and paying an additional ticket at a reduced price we got to see the rest of the art collections and the impressive Library. We visited the Imperial Hall, several rooms with a nice art collection (mainly paintings) and finally the Library. We could've spent hours there...
 
 <div class="image">
-  <img src="/img/2017/05/Kremsmunster_Library.jpg" alt="Kremsmünster Library">
+  <img src="/img/2017/06/Kremsmunster_Library.jpg" alt="Kremsmünster Library">
   <div class="caption">Kremsmünster Library<br />Source: My own pictures - <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
@@ -53,6 +53,11 @@ We've planned to be in Kremsmünster just a couple of hours , but finally we wer
 **Scharnstein** stands out for its variety of hiking trails, since it's surrounded by forests and mountains. It's also near [Totes Gebirge](https://en.wikipedia.org/wiki/Totes_Gebirge), a picturesque mountain range part of the Limestone Alps.
 
 Our extended visit to the Kremsmünster Abbey forced us to expend less time here, but at least we could do some light hiking. We made one of the short but typical routes, climbing from the town to the **ruins of the Scharnstein Castle**. Both the ascent and the exploration of the ruins were fantastic. We were lucky enough to be completely alone, so it was a relaxing experience and a total immersion in the Nature that surrounded us. The views were excellent, with the remains of the castle with the huge Almtal valley behind.
+
+<div class="image">
+  <img src="/img/2017/06/Scharnstein_Castle.jpg" alt="Relaxing at Scharnstein Castle">
+  <div class="caption">Relaxing at Scharnstein Castle<br />Source: My own pictures - <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
+</div>
 
 ## Traunkirchen
 
