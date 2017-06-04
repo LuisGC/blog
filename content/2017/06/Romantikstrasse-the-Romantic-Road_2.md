@@ -1,5 +1,5 @@
 title=Romantikstraße, the Romantic Road (2 of 5)
-date=2017-06-01
+date=2017-06-05
 type=post
 tags=personal,tourism,holidays
 status=draft
@@ -63,7 +63,28 @@ In Scharnstein you can also find an interesting [Criminological Museum](http://k
 
 ## Traunkirchen
 
+Our next stop was [**Traunkirchen**](https://en.wikipedia.org/wiki/Traunkirchen), a small village known for its idyllic location on a small peninsula overlooking the Traunsee Lake. It's probably the place where we took more pictures per minute, and that's considering that the best pictures of the village are made from the lake itself. It was a short walk, but it was totally worth it.
+
+On our way there we booked with our mobile a guest house in other village. If we had seen the [Das Traunsee Seehotel](http://www.dastraunsee.at/en/) before... we'd have spent the night there regardless of how much we were charged, and it didn't seem cheap. The views and the back terrace of the hotel were incredible.
+
+<div class="image">
+  <img src="/img/2017/06/Traunkirchen.jpg" alt="A pier in Traunkirchen with the Traunstein mountain behind">
+  <div class="caption">A pier in Traunkirchen with the Traunstein mountain behind<br />Source: My own pictures - <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
+</div>
+
 ## Gmunden
 
+We planned to end second day in [**Gmunden**](https://en.wikipedia.org/wiki/Gmunden), the most important town of the region and where the _Traun River_ empties into the _Traunsee Lake_, at the foot of the _Traunstein mountain_ and near the beautiful village of _Traunkirchen_. Yes, it's easy to see the pattern.
+
+Gmunden is a very lively town with a lot of summer resorts, shops, art galleries and restaurants. Curiosly, most of the fashion boutiques had austrian regional constumes on display on the storefronts, I left there with a real desire to buy one, they were splendid. During our visit it was very peaceful, but it was clear that it's a popular tourist destination. The old town is surrounded by countless houses of all sizes from modest chalets to small palaces.
+
+In the western lakeside in front of the mouth of the Traun River, connected with the downtown through the Esplananade (a long nice promenade) and accesible from the beautiful **Toscana Park**, is located the biggest attraction of the town: the [**Schloss Ort Castle**](https://en.wikipedia.org/wiki/Schloss_Ort). This singular Austrian Castle is set on a small island offshore, so it can only be reached by a long timber bridge. We also took a walk around the green peninsula that forms the Toscana park, walking on the water's edge where each stop seemed a special viewpoint and provided a unique perspective.
+
+<div class="image">
+  <img src="/img/2017/06/Gmunden_Schloss_Ort.jpg" alt="Gmunden's Schloss Ort Castle">
+  <div class="caption">Gmunden's Schloss Ort Castle<br />Source: My own pictures - <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
+</div>
+
+We had dinner at the _Weinhaus Spiesberger_, conceivably the best tavern in town where Agatha dined, guess what, _Traun Fische_! We did not quite understand what kind of fish it was, as in the UK when you order _Fish & chips_ and almost nobody is capable of telling you the specific type of fish. Anyway, it was a seasonal fish from the Lake (or so the said) and it was good so I also recommend this place at least for a beer.
 
 **Keep tuned for next episodes!**

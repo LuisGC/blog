@@ -78,4 +78,8 @@ The Night Watchman Tour is also the only way for a tourist to climb the 228 step
 
 We had a delicious dinner with local specialities at [**Mader**](http://www.openstreetmap.org/node/270488531) and returned to our guest house ([**Gasthof Bauer**](http://www.openstreetmap.org/node/3119352500)). I recommend both places but especially the second one, the guest house ocuppied several low buildings and houses in a small island near the old town, the rooms were almost small apartments and the attention we received was exquisite.
 
+This is the first part of my chronicle about our trip through the [**Romantikstraße**](http://www.romantikstrasse.at/es/), you can read the rest here:
+
+* [Romantikstraße, the Romantic Road (2 of 5)](/blog/2017/06/Romantikstrasse-the-Romantic-Road_2.html)
+
 **Keep tuned for next episodes!**
