@@ -82,4 +82,4 @@ This is the first part of my chronicle about our trip through the [**Romantikstr
 
 * [Romantikstraße, the Romantic Road (2 of 5)](/blog/2017/06/Romantikstrasse-the-Romantic-Road_2.html)
 
-**Keep tuned for next episodes!**
+**Stay tuned for next episodes!**
