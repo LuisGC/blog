@@ -34,7 +34,7 @@ The incredible kindness of Anna, her desire to practice spoken English and the f
 
 <div class="image lateral">
   <img src="/img/2017/06/Xylothek-Sternwarte_Kremsmunster.jpg" alt="Xylotheque - Sternwarte Kremsmünster">
-  <div class="caption">Xylotheque - Sternwarte Kremsmünster<br />Source: <a href="https://commons.wikimedia.org/wiki/File:Xylothek-Sternwarte_Kremsm%C3%BCnster.JPG"> by Reinhard Stiksel in Wikimedia</a> - <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>CC BY-SA</i></a></div>
+  <div class="caption">Xylotheque - Sternwarte Kremsmünster<br />Source: <a href="https://commons.wikimedia.org/wiki/File:Xylothek-Sternwarte_Kremsm%C3%BCnster.JPG">Reinhard Stiksel in Wikimedia</a> - <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>CC BY-SA</i></a></div>
 </div>
 
 We climbed the Tower, but instead of going directly to the top we stopped at each floor and briefly visited the exhibition rooms. One room was a small Natural History collection with several stuffed animals, minerals, all kind of insects, other contained an interesting collection of vintage astronomical devices and globes, another presented diverse regional folklore, ethnology and popular costumes,... We didn't make any picture acknowledging that the visit was unofficial, but I can still remember an amazing cabinet with a curious [**Xylotheque**](https://en.wikipedia.org/wiki/Xylotheque), pieces of different types of wood carved as books that contained their characteristic leaf, fruit or flower. I'd found a picture in Wikimedia, take a look right here.
