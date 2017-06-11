@@ -1,5 +1,5 @@
 title=Romantikstraße, the Romantic Road (5 of 5)
-date=2017-05-26
+date=2017-06-05
 type=post
 tags=personal,tourism,holidays
 status=draft
