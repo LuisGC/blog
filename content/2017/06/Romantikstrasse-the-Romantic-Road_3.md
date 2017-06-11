@@ -3,10 +3,10 @@ date=2017-06-11
 type=post
 tags=personal,tourism,holidays
 status=draft
-featuredimage=img/2017/05/Hallstatt_panoramic.jpg
-featuredalt=Hallstatt panoramic
-featuredcaption=Hallstatt panoramic - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a>
-summary=A couple ...
+featuredimage=img/2017/06/Schafbergalpe_panoramic.jpg
+featuredalt=Schafbergalpe panoramic
+featuredcaption=Schafbergalpe panoramic - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a>
+summary=After two days visiting splendid places with invaluable surprises, we finally decided to discard a short visit to Salzburg in order to spend more time on each stage of our trip. We wanted to take advantage of our rental car and Salzbug deserves to be visited more calmly (and you don't need a car to go there). For similar reasons, we also ruled out going to the Hohenwerfen Castle.<br />I think it was the right decision, because it allowed us to make the most of the remaining of our road trip.
 ~~~~~~
 
 This is the third part of my chronicle about our trip through the [**Romantikstraße**](http://www.romantikstrasse.at/es/), you can read the rest here:
@@ -16,9 +16,9 @@ This is the third part of my chronicle about our trip through the [**Romantikstr
 
 # Day 3
 
-After two days visiting splendid places with invaluable surprises, we finally decided to discard a short visit to [**Salzburg**](https://en.wikipedia.org/wiki/Salzburg) in order to spend more time on each stage of our trip. We wanted to take advantage of our rental car and Salzbug deserves to be visited more calmly (and you don't need a car to go). For similar reasons, we also ruled out going to the [**Hohenwerfen Castle**](https://en.wikipedia.org/wiki/Hohenwerfen_Castle).
+After two days visiting splendid places with invaluable surprises, we finally decided to discard a short visit to [**Salzburg**](https://en.wikipedia.org/wiki/Salzburg) in order to spend more time on each stage of our trip. We wanted to take advantage of our rental car and Salzbug deserves to be visited more calmly (and you don't need a car to go there). For similar reasons, we also ruled out going to the [**Hohenwerfen Castle**](https://en.wikipedia.org/wiki/Hohenwerfen_Castle).
 
-I think it was the right decision, because it allowed us to make the most of our road trip.
+I think it was the right decision, because it allowed us to make the most of the remaining of our road trip.
 
 ## Sankt Wolfgang im Salzkammergut
 
@@ -31,11 +31,11 @@ I think it was the right decision, because it allowed us to make the most of our
 
 But still we had a great time there.
 
-We started the day by climbing on the [**Schafbergbahn**](https://en.wikipedia.org/wiki/Schafberg_Railway), a rack railway leading in the warmer half of the year from almost the lakeshore of the _Wolfgangsee_ lake to the summit of the [_Schafberg_ mountain](http://tinyurl.com/yc6umwwp) (1,783 m). From the viewpoints of Schafberg it is possible to see 9 of the main lakes of Austria, countless mountains and an infinite 360º landscape.
+We started the day by climbing on the [**Schafbergbahn**](https://en.wikipedia.org/wiki/Schafberg_Railway), a rack railway leading in the warmer half of the year from almost the lakeshore of the _Wolfgangsee_ lake to the summit of the [**Schafberg** mountain](http://tinyurl.com/yc6umwwp) (1,783 m). From the viewpoints of Schafberg it is possible to see 9 of the main lakes of Austria, countless mountains and an infinite 360º landscape.
 
 Initially it reminded me to a small version of the [**Jungfraubahn**](https://en.wikipedia.org/wiki/Jungfrau_Railway), which I visited in 2013. Saving the differences because the [_Jungfraujoch_](https://en.wikipedia.org/wiki/Jungfraujoch) station is the highest station in Europe (3,454 m), the line is more than twice as long and the amount of visitors is probably exponentially greater in the Jungfrau.
 
-Unfortunately, due to some construction works in the railway, the train only reached the _Schafbergalpe_ (1,363 m), an intermediate railway halt with a big guest house, a couple of private houses and traces of many hiking trails.
+Unfortunately, due to some construction works in the railway, the train only reached the **Schafbergalpe** (1,363 m), an intermediate railway halt with a big guest house, a couple of private houses and traces of many hiking trails.
 
 Despite not being on the mountaintop, the views were overwhelming. We wandered around the area, taking lots of pictures but as you can imagine they don't capture the feeling of being up there surrounded by such a wonderful environment. For my next visit I promise to bring adequate equipment to do some hiking route.
 
@@ -53,7 +53,7 @@ Note to my wise readers: What translation to English do you suggest for _"hacer 
   <div class="caption"><i>Sailing</i> on the Wolfgangsee<br />Source: My own pictures - <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
-Apart from amusing ourselves stupidly, from the boat we could contemplate the town from its best perspective. In the next picture you can perfectly see what I mean, a _postcard_ picture of the main landmarks: the catholic Church of Sainkt Wolfgang and the [**Im Weißen Rößl** (The White Horse Inn)](https://en.wikipedia.org/wiki/The_White_Horse_Inn). The inn (now an expensive hotel with a couple of fine restaurants) is very popular for a successful operetta of the same name in which the protagonist is a bartender of the inn desperately in love with the owner of The White Horse. The show has been performed several times mainly across Germany and Austria, but in the 1930s it was even featured on Broadway and the West End of London.
+Apart from amusing ourselves stupidly, from the boat we could contemplate the town from its best perspective. In the next picture you can perfectly see what I mean, a _postcard_ view with the main landmarks: the catholic Church of Sainkt Wolfgang and the [**Im Weißen Rößl** (The White Horse Inn)](https://en.wikipedia.org/wiki/The_White_Horse_Inn). The inn (now an expensive hotel with a couple of fine restaurants) is very popular for a successful operetta of the same name in which the protagonist is a bartender of the inn desperately in love with the owner of The White Horse. The show has been performed several times mainly across Germany and Austria, but in the 1930s it was even featured on Broadway and the West End of London. There are also several movie and TV series adaptations.
 
 <div class="image">
   <img src="/img/2017/06/Sainkt_Wolfgang_postcard_picture.jpg" alt="Postcard picture of Sainkt Wolfgang im Salzkammergut">
@@ -75,6 +75,17 @@ The center of Bad Ischl is very beautyful and it's very well maintained, but the
 
 ## Mondsee
 
+[**Mondsee**](http://tinyurl.com/y93dqhp2) is famous for the [_Mondsee Abbey_](https://en.wikipedia.org/wiki/Mondsee_Abbey) and the _Basilica of Saint Michael_, inside which it was filmed the wedding scene of the film [_The Sound of Music_](http://tinyurl.com/y9dphtp9). We did not arrive in time to visit the church but at least we managed to quietly stroll around the village.
 
+Following a recommendation we tasted a local variety of wine and an assortment of local cheeses, and they were good but nothing special. We enjoyed particularly the Strandpromenade, from which we could see the sunset falling on the [_Mondsee_ lake](http://tinyurl.com/yd5c2h4a). I've just discovered in Wikipedia that Mondsee is one of Austria's last privately owned lakes. In August 2008, the owner announced it was up for sale. WTF! **Fucking Private Property!!**
+
+Except for some detail, Mondsee is similar to other towns we had already visited in our trip, but surely it is worth spending more time here.
+
+<div class="image">
+  <img src="/img/2017/06/Mondsee_sunset.jpg" alt="Waiting for the sunset at the Mondsee lakeshore">
+  <div class="caption">Waiting for the sunset at the Mondsee lakeshore<br />Source: My own pictures - <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
+</div>
+
+We were not able to find a reasonably priced accommodation here so we booked something about 20 km away and off our route, and surprisingly there we met the most incredible host in the world. But this story belongs to our next day...
 
 **Stay tuned for next episodes!**

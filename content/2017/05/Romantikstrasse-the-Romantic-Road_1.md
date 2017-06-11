@@ -81,5 +81,6 @@ We had a delicious dinner with local specialities at [**Mader**](http://www.open
 This is the first part of my chronicle about our trip through the [**Romantikstraße**](http://www.romantikstrasse.at/es/), you can read the rest here:
 
 * [Romantikstraße, the Romantic Road (2 of 5)](/blog/2017/06/Romantikstrasse-the-Romantic-Road_2.html)
+* [Romantikstraße, the Romantic Road (3 of 5)](/blog/2017/06/Romantikstrasse-the-Romantic-Road_3.html)
 
 **Stay tuned for next episodes!**
