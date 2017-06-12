@@ -66,7 +66,7 @@ We tried to escape from the tourist traps as much as we could, but in Sainkt Wol
 
 For the afternoon we improvised a visit to [**Bad Ischl**](https://en.wikipedia.org/wiki/Bad_Ischl) and it was our main mistake of the trip, but it was our fault and not because the city is not interesting.
 
-The center of Bad Ischl is very beautyful and it's very well maintained, but the main attraction is the [**Kaiservilla**](https://en.wikipedia.org/wiki/Kaiservilla), summer residence of the Austrian Imperial family, and we couldn't see it because it was closed. The town is also famous for it's salt mines and offers several health spas, but we dind't have time to enjoy them. We walked throught the center, we searched for a couple of cachés and we left to reach Mondsee before sunset.
+The center of Bad Ischl is very beautyful and it's very well maintained, but the main attraction is the [**Kaiservilla**](https://en.wikipedia.org/wiki/Kaiservilla), summer residence of the Austrian Imperial family, and we couldn't see it because it was closed. The town is also famous for it's salt mines and offers several health spas, but we didn't have time to enjoy them. We walked throught the center, we searched for a couple of cachés and we left to reach Mondsee before sunset.
 
 <div class="image">
   <img src="/img/2017/06/Bad_Ischl.jpg" alt="Post Office and the Trinkhalle in Bad Ischl">
