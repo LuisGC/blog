@@ -6,7 +6,7 @@ status=published
 featuredimage=img/2017/06/Schafbergalpe_panoramic.jpg
 featuredalt=Schafbergalpe panoramic
 featuredcaption=Schafbergalpe panoramic - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a>
-summary=After two days visiting splendid places with invaluable surprises, we finally decided to discard a short visit to Salzburg in order to spend more time on each stage of our trip. We wanted to take advantage of our rental car and Salzbug deserves to be visited more calmly (and you don't need a car to go there). For similar reasons, we also ruled out going to the Hohenwerfen Castle.<br />I think it was the right decision, because it allowed us to make the most of the remaining of our road trip.
+summary=After two days visiting splendid places with invaluable surprises, we finally decided to discard a short visit to <b>Salzburg</b> in order to spend more time on each stage of our trip. We wanted to take advantage of our rental car and Salzbug deserves to be visited more calmly (and you don't need a car to go there). For similar reasons, we also ruled out going to the <b>Hohenwerfen Castle</b>.<br />I think it was the right decision, because it allowed us to make the most of the remaining of our road trip.
 ~~~~~~
 
 This is the third part of my chronicle about our trip through the [**Romantikstraße**](http://www.romantikstrasse.at/es/), you can read the rest here:
