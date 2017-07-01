@@ -8,7 +8,7 @@ featuredalt=Hallstatt panoramic
 featuredcaption=Hallstatt panoramic - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a>
 summary=Our fourth stage started in Gästehaus Lauterbacher, a splendid guesthouse in Neumarkt am Wallersee. Quite off our route because we couldn't find anything affordable in Mondsee. We wanted a good place to rest after a hard day 3, and Lauterbacher was more than good. The place itself was nice and the owners were marvellous with us. I'll seriously consider returning to this place if I ever come back to the region.<br />And thus it began the most awaited stage.
 ~~~~~~
-
+ 
 This is the fourth part of my chronicle about our trip through the [**Romantikstraße**](http://www.romantikstrasse.at/es/), you can read the rest here:
 
 * [Romantikstraße, the Romantic Road (1 of 5)](/blog/2017/05/Romantikstrasse-the-Romantic-Road_1.html)
