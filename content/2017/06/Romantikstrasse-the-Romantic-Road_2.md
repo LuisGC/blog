@@ -13,6 +13,7 @@ This is the second part of my chronicle about our trip through the [**Romantikst
 
 * [Romantikstraße, the Romantic Road (1 of 5)](/blog/2017/05/Romantikstrasse-the-Romantic-Road_1.html)
 * [Romantikstraße, the Romantic Road (3 of 5)](/blog/2017/06/Romantikstrasse-the-Romantic-Road_3.html)
+* [Romantikstraße, the Romantic Road (4 of 5)](/blog/2017/07/Romantikstrasse-the-Romantic-Road_4.html)
 
 # Day 2
 
