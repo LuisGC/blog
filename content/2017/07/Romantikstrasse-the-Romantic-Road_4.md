@@ -3,7 +3,7 @@ date=2017-07-01
 type=post
 tags=personal,tourism,holidays
 status=published
-featuredimage=img/2017/05/Hallstatt_panoramic.jpg
+featuredimage=img/2017/07/Hallstatt_panoramic.jpg
 featuredalt=Hallstatt panoramic
 featuredcaption=Hallstatt panoramic - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a>
 summary=Our fourth stage started in Gästehaus Lauterbacher, a splendid guesthouse in <b>Neumarkt am Wallersee</b>. Quite off our route because we couldn't find anything affordable in <b>Mondsee</b>. We wanted a good place to rest after a hard day 3, and Lauterbacher was more than good. The place itself was nice and the owners were marvellous with us. I'll seriously consider returning to this place if I ever come back to the region.<br />And thus it began the most awaited stage.
