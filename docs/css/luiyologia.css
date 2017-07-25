@@ -5,18 +5,11 @@
 }
 
 blockquote{
-background: transparent url(../img/blog/mouth_quote.png) no-repeat left top;
-margin: 10px 20px 10px 0px;
-padding: 5px 0px 0px 80px;
-font-style: italic;
-color: #555555;
+  background: transparent url(../img/blog/mouth_quote.png) no-repeat left top;
+  margin: 10px 20px 10px 0px;
+  padding: 5px 0px 0px 80px;
+  font-style: italic;
   text-align:justify;
-}
-
-blockquote p{
-  padding: 8px;
-  margin: 2px;
-  border: 1px dotted #555555;
 }
 
 .excerpt {
