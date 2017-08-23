@@ -1,7 +1,7 @@
 title=Romantikstraße, the Romantic Road (5 of 5)
 date=2017-07-28
 type=post
-tags=personal,tourism,holidays
+tags=personal,tourism,holidays,history,politics
 status=published
 featuredimage=img/2017/07/Mauthausen_Spanish_memorial.jpg
 featuredalt=Mauthausen Spanish memorial
