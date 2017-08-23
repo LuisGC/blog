@@ -2,11 +2,11 @@ title=Romantikstraße, the Romantic Road (5 of 5)
 date=2017-07-28
 type=post
 tags=personal,tourism,holidays
-status=draft
+status=published
 featuredimage=img/2017/07/Mauthausen_Spanish_memorial.jpg
 featuredalt=Mauthausen Spanish memorial
 featuredcaption=Mauthausen Spanish memorial - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a>
-summary=A couple ...
+summary=Our last stage started in <b>Obertraun</b> and ended in <b>Madrid</b>. After a fabulous trip around <b>Austria</b>, we decided to spent our last morning in a quite different environment, visiting the <b>Mauthausen memorial</b>
 ~~~~~~
 
 This is the fifth and last part of my chronicle about our trip through the [**Romantikstraße**](http://www.romantikstrasse.at/es/), you can read the rest here:
@@ -30,27 +30,29 @@ The main complex in Mauthausen was declared national memorial site in 1949 and i
 
 The [visit is completely free](https://www.mauthausen-memorial.org/en/Visit/Visitor-Information/Opening-times-and-prices) and you only need to pay for the [guided tours and workshops](https://www.mauthausen-memorial.org/en/Visit/Visitor-Information/Educational-services), although there is a [free audioguide app](https://play.google.com/store/apps/details?id=at.whi.mauthausenaudioguide&hl=es) for the complete memorial and museum. We chose the latter option and it was very useful and interesting.
 
-Several weeks have passed since our visit and I still remember perfectly the sensations that I experienced there. In addition, we had the bad luck that it started raining when we arrived and halfway through the visit it started to rain very very hard. I have seldom seen so much rain. Maybe it was good luck, because it forced us to stay inside the barracks and prevented us to hear anything else but rain despite being surrounded by groups of visitors in other buildings. The climate was aligned with the sad and withered spirit of the place.
+Several weeks have passed since our visit and I still remember perfectly the sensations that I experienced there. In addition, we had the bad luck that it started raining when we arrived and halfway through the visit it started to rain very very hard. I have seldom seen so much rain. Maybe it was good luck, because it forced us to stay inside the barracks and prevented us to hear anything else but rain and thunders despite being surrounded by groups of visitors in other buildings. The climate was aligned with the sad and withered spirit of the place.
 
 <div class="image">
   <img src="/img/2017/07/Mauthausen_wreaths.jpg" alt="Mauthausen wreaths">
   <div class="caption">Mauthausen wreaths<br />Source: My own pictures - <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
-Before entering the remains of the concentration camp, the visitor has to cross a couple of dozen memorials, erected by various countries and colectives that lost their citizens in Mauthausen. Curiously, some of these countries no longer exist (like Yugoslavia), others did not exist at that time (like Ukraine) and most striking of all, one of the most visited memorials is the one dedicated to the Spanish Republicans (as you can see in the featured image), since several thousand political prisoners from the Republican side were taken there. Some memorials were large and epic, others small and humble, but all were breathtaking.
+Before entering the remains of the concentration camp, the visitor has to cross a couple of dozen memorials, erected by various countries and colectives that lost their citizens in Mauthausen. Curiously, some of these countries no longer exist (like [Yugoslavia](https://www.mauthausen-memorial.org/en/Visit/Virtual-Tour#map||62)), others did not exist at that time (like [Ukraine](https://www.mauthausen-memorial.org/en/Visit/Virtual-Tour#map||72)) and most striking of all, one of the memorials is dedicated directly to the [Spanish Republicans](https://www.mauthausen-memorial.org/en/Visit/Virtual-Tour#map||71) (as you can see in the featured image), since several thousand political prisoners from the Republican side were taken there. Some memorials were [large and epic](https://www.mauthausen-memorial.org/en/Visit/Virtual-Tour#map||53), others [small and humble](https://www.mauthausen-memorial.org/en/Visit/Virtual-Tour#map||65), but all were breathtaking.
 
-Even now in 2017, there was not a single flag of Spain in the whole camp other than the [**Second Spanish Republic** (1931-1939)](https://en.wikipedia.org/wiki/Second_Spanish_Republic) one, even inside a pavilion where the flags from all the victims waved. I think it is a lovely and wise gesture.
+Even now in 2017, there was not a single flag of Spain in the whole camp other than the [**Second Spanish Republic** (1931-1939)](https://en.wikipedia.org/wiki/Second_Spanish_Republic) one, even inside the [secular chapel](https://www.mauthausen-memorial.org/en/Visit/Virtual-Tour#map||78) where the flags from all the victims waved. I think it is a lovely and wise gesture.
 
 <div class="image">
   <img src="/img/2017/07/Mauthausen_flags_pavillion.jpg" alt="Spanish Second Republic flag in Mauthausen">
   <div class="caption">Spanish Second Republic flag in Mauthausen<br />Source: My own pictures - <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
-Thanks to the deluge, the last part of the visit we had the camp practically empty for us.
+Thanks to the deluge, during the last part of the visit we had the camp practically empty for us.
 
 <div class="image">
   <img src="/img/2017/07/Mauthausen_panoramic.jpg" alt="Mauthausen panoramic">
   <div class="caption">Mauthausen panoramic<br />Source: My own pictures - <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
-After having visited Auschwitz last year, the visit to the rest of the concentration camp inflicted less impression on me. Some anecdotes and brutal events of Mauthausen are unique, but both the figures and how to show what happened at Auschwitz are much more overwhelming. In any case, Mauthausen is an essential visit whether you have visited other concentration camps or not.
+After having visited [**Auschwitz**](https://en.wikipedia.org/wiki/Auschwitz_concentration_camp) last year, the visit to the rest of the concentration camp inflicted less impression on me. Some anecdotes and brutal events of Mauthausen are unique, but both the figures and how to show what happened at Auschwitz are much more overwhelming.
+
+I won't go into more details about the camp itself to avoid any spoiler. Mauthausen is an essential visit whether you have visited other concentration camps or not. **Please go**.
