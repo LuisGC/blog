@@ -6,7 +6,7 @@ status=published
 featuredimage=img/2017/09/Susan_Gerbic_at_SJC.jpg
 featuredalt=Susan Gerbic April 2015 at SJC
 featuredcaption=Susan Gerbic April 2015 at SJC<br /> Source: <a href="https://commons.wikimedia.org/wiki/User:Sgerbic">Susan Gerbic</a> @ <a href="https://commons.wikimedia.org/wiki/File:Gerbic_at_SJC.jpg">Wikimedia Commons</a> - <a href="http://creativecommons.org/licenses/by-sa/4.0/"><i>CC BY-SA</i></a>
-summary=
+summary=As you probably know, we are celebrating the <b>XXX Anniversary of ARP-SAPC</b> with a special event this next Saturday (Sep 30th) with <b>Alfonso López Borgoñoz</b> (@lopezborgonoz). As an addition to this celebration, a week later we'll be honoured to host a Skeptics in the Pub Madrid special event with <b>Susan Gerbic</b>.
 ~~~~~~
 
 <center><i>This entry is also published in Spanish in <a href="http://www.escepticos.es/node/5374">the website of ARP-SAPC</a></i></center><br />
