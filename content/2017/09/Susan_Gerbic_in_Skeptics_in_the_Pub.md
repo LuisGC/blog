@@ -1,13 +1,15 @@
-title=Susan Gerbic in Skeptics in the Pub
+title=Susan Gerbic in Skeptics in the Pub Madrid
 date=2017-09-24
 type=post
 tags=skeptics-in-the-pub,outreach,event,technology,skepticism,science
-status=draft
+status=published
 featuredimage=img/2017/09/Susan_Gerbic_at_SJC.jpg
 featuredalt=Susan Gerbic April 2015 at SJC
 featuredcaption=Susan Gerbic April 2015 at SJC<br /> Source: <a href="https://commons.wikimedia.org/wiki/User:Sgerbic">Susan Gerbic</a> @ <a href="https://commons.wikimedia.org/wiki/File:Gerbic_at_SJC.jpg">Wikimedia Commons</a> - <a href="http://creativecommons.org/licenses/by-sa/4.0/"><i>CC BY-SA</i></a>
 summary=
 ~~~~~~
+
+<center><i>This entry is also published in Spanish in <a href="http://www.escepticos.es/node/5374">the website of ARP-SAPC</a></i></center><br />
 
 As you probably know, we are celebrating the **XXX Anniversary** of [**ARP-SAPC**](http://escepticos.es) with a [special event this next Saturday (Sep 30th)](http://www.escepticos.es/escepticos-en-el-pub) with **Alfonso López Borgoñoz** ([@lopezborgonoz](https://www.twitter.com/lopezborgonoz)). As an addition to this celebration, a week later we'll be honoured to host a **Skeptics in the Pub Madrid** special event with **Susan Gerbic**.
 
@@ -20,6 +22,13 @@ One important thing. **The talk that Susan has prepared for us will be in Englis
 <blockquote>You supported the March for Science. Now what?  Susan Gerbic will be explaining why the answer is to join her project, Guerrilla Skepticism on Wikipedia (GSoW). She will explain why improving the pages for Science and Scientific Skepticism on the 10th most popular website improves education world-wide. GSoW works to support the people and organizations that do the research, write the books, organize the conferences and take the heat from the anti-science and paranormal world.  GSoW gives them the best possible Wikipedia pages possible, while following all the rules of Wikipedia. The GSoW has had a large impact on education around the world since 2010. The GSoW has written and rewritten over 400 Wikipedia pages in many languages. All training is done online, self-paced and with a personal trainer. All GSoW members join the Secret Cabal hidden away on Facebook where new recruits learn the secret handshake. Previous pages include; Spontaneous Human Combustion, Facilitated Communication, Catherine de Jong, Cornelis de Jager, Massimo Polidoro, Massimo Pigliucci, Leo Igwe, Gábor Hraskó, VoF, ARP-SAPC, Klub Sceptyków Polskich, Chupacabras, CICAP, CSICOP, Association française pour l'information scientifique, GWUP, and many many more.</blockquote>
 
 The poster, masterfully designed by Emilio Molina ([@ej_molina_c](https://twitter.com/ej_molina_c)):
+
+<center>
+<div class="image">
+    <img src="/img/2017/09/EeeP_Madrid_8_Octubre_2017.jpg" alt="Susan Gerbic in Skeptics in the Pub Madrid">
+    <div class="caption">Susan Gerbic in Skeptics in the Pub Madrid</div>
+</div>
+</center>
 
 As usual, the entrance is free. During the realization of this cultural activity is allowed the presence of minors under 18, provided they do not consume alcoholic beverages, and children under 16 if accompanied by a parent or guardian.
 
