@@ -6,9 +6,36 @@
     <atom:link href="https://luisgc.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>Luiyolog&iacute;a - The Science that studies my interests and concerns</description>
     <language>en-gb</language>
-    <pubDate>Sun, 24 Sep 2017 11:26:27 +0000</pubDate>
-    <lastBuildDate>Sun, 24 Sep 2017 11:26:27 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Sep 2017 22:41:18 +0000</pubDate>
+    <lastBuildDate>Thu, 28 Sep 2017 22:41:18 +0000</lastBuildDate>
 
+    <item>
+      <title>On being a Senior Software Engineer</title>
+      <link>https://luisgc.github.io/blog/2017/09/On_being_a_senior_software_engineer.html</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2017/09/On_being_a_senior_software_engineer.html</guid>
+      	<description>
+	&lt;p&gt;For many different reasons I have had to discuss quite a lot recently about the professionalism of some people, technical and non-technical. Sometimes, because a person feels that she (I will use the feminine as neutral gender) is not being treated fairly with respect of her category, or because her performance is disappointing for others, sometimes after unfair comparisons between colleagues, ... As a common element, a diabolical concept was almost always being misused in these situations: &lt;strong&gt;Seniority&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Having several years of experience does not make you a better engineer &lt;em&gt;per se&lt;/em&gt;. A very common case is that someone has experience with something but knows nothing (or knows little) about everything else. Worse than that, in some organizations the &lt;em&gt;senior&lt;/em&gt; label is even used almost automatically to justify a promotion or a salary raise after a certain amount of years in the same job.&lt;/p&gt;
+&lt;p&gt;About 5 years ago &lt;a href=&quot;https://www.kitchensoap.com/about-me/&quot;&gt;&lt;strong&gt;John Allspaw&lt;/strong&gt;&lt;/a&gt; (former CTO at &lt;a href=&quot;http://etsy.com/&quot;&gt;Etsy&lt;/a&gt;) wrote an article called &lt;a href=&quot;http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/&quot;&gt;&lt;em&gt;On Being a Senior Engineer&lt;/em&gt;&lt;/a&gt; that has aged very well. I would sign that article today, as it details perfectly what could be the differences between a &lt;em&gt;senior&lt;/em&gt; engineer and a &lt;strong&gt;mature engineer&lt;/strong&gt;. As the author says, you can expect a senior engineer to be a mature engineer, but sadly it&apos;s not always like this.&lt;/p&gt;
+&lt;p&gt;In his article (I recommend its complete reading) Allspaw describes a list of traits or characteristics of mature engineers:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mature engineers seek out constructive criticism of their designs&lt;/li&gt;
+  &lt;li&gt;Mature engineers understand the non-technical areas of how they are perceived&lt;/li&gt;
+  &lt;li&gt;Mature engineers do not shy away from making estimates, and are always trying to get better at it&lt;/li&gt;
+  &lt;li&gt;Mature engineers have an innate sense of anticipation, even if they don’t know they do&lt;/li&gt;
+  &lt;li&gt;Mature engineers understand that not all of their projects are filled with rockstar-on-stage work&lt;/li&gt;
+  &lt;li&gt;Mature engineers lift the skills and expertise of those around them&lt;/li&gt;
+  &lt;li&gt;Mature engineers make their trade-offs explicit when making judgements and decisions&lt;/li&gt;
+  &lt;li&gt;Mature engineers don’t practice CYAE (“Cover Your Ass Engineering”)&lt;/li&gt;
+  &lt;li&gt;Mature engineers are empathetic&lt;/li&gt;
+  &lt;li&gt;Mature engineers are aware of cognitive biases&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The first thing that you need to realize is that almost all the characteristics described are non-technical. Allspaw article can be can be summarized in this quote:&lt;/p&gt;
+&lt;p&gt;&lt;blockquote&gt;Being able to write a Bloom Filter in Erlang, or write multi-threaded C in your sleep is insufficient. None of that matters if no one wants to work with you. Mature engineers know that no matter how complete, elegant, or superior their designs are, it won’t matter if no one wants to work alongside them because they are &lt;b&gt;assholes&lt;/b&gt;&lt;/blockquote&gt;&lt;/p&gt;
+&lt;p&gt;If I had to choose, I&apos;ll always pick a &lt;strong&gt;mature&lt;/strong&gt; engineer over any so-called senior (or even &lt;em&gt;ninja&lt;/em&gt;!) in a particular technology or programming language. In fact, I would not change a good &lt;em&gt;junior&lt;/em&gt; for a ninja, but that is another story that will have to be told in another moment.&lt;/p&gt;
+	</description>
+    </item>
     <item>
       <title>Susan Gerbic in Skeptics in the Pub Madrid</title>
       <link>https://luisgc.github.io/blog/2017/09/Susan_Gerbic_in_Skeptics_in_the_Pub_Madrid.html</link>
@@ -573,147 +600,6 @@
 &lt;/ul&gt;
 &lt;br&gt;
 &lt;p&gt;See you in &lt;b&gt;Greach 2018&lt;/b&gt;!!&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Mi 2016 lúdico</title>
-      <link>https://luisgc.github.io/blog/2017/01/mi-2016-ludico.html</link>
-      <pubDate>Wed, 4 Jan 2017 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2017/01/mi-2016-ludico.html</guid>
-      	<description>
-	
-&lt;p&gt;Como cada arranque de año toca revisar los datos sobre las partidas que he jugado durante el año anterior (enlace a los datos de &lt;a href=&quot;/blog/2016/01/mi-2015-ludico.html&quot;&gt;2015&lt;/a&gt;, &lt;a href=&quot;/blog/2015/01/mi-2014-ludico.html&quot;&gt;2014&lt;/a&gt;, &lt;a href=&quot;/blog/2014/01/partidas-jugadas-en-2013.html&quot;&gt;2013&lt;/a&gt;, &lt;a href=&quot;/blog/2013/01/partidas-jugadas-en-2012.html&quot;&gt;2012&lt;/a&gt; y &lt;a href=&quot;/blog/2012/01/juegos-los-que-mas-he-jugado-en-2011.html&quot;&gt;2011&lt;/a&gt;). Vuelvo a insistir en la comparación con los años anteriores, y mantendré el apartado de análisis y retrospectiva, que quizá sea la parte más interesante.&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;Y todo, como ya sabéis, gracias a
- &lt;strike&gt;
-  la manía
- &lt;/strike&gt; mi hábito de registrar en &lt;a href=&quot;http://www.boardgamegeek.com/&quot;&gt;&lt;b&gt;Board Game Geek&lt;/b&gt;&lt;/a&gt; todas las partidas según las estoy jugando mediante su fantástica (aunque aún mejorable) &lt;a href=&quot;https://market.android.com/details?id=com.boardgamegeek&amp;amp;hl=es&quot;&gt;aplicación para &lt;b&gt;Android&lt;/b&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;br&gt;
-&lt;dl&gt;
- &lt;dt&gt;
-  2016
- &lt;/dt&gt;
- &lt;dd&gt;
-  Total de partidas jugadas:
-  &lt;b&gt;98&lt;/b&gt;
- &lt;/dd&gt;
- &lt;dd&gt;
-  Juegos diferentes jugados:
-  &lt;b&gt;55&lt;/b&gt;
- &lt;/dd&gt;
- &lt;dd&gt;
-  Juegos con dos o más partidas:
-  &lt;b&gt;15&lt;/b&gt;
- &lt;/dd&gt;
- &lt;dt&gt;
-  2015
- &lt;/dt&gt;
- &lt;dd&gt;
-  Total de partidas jugadas:
-  &lt;b&gt;84&lt;/b&gt;
- &lt;/dd&gt;
- &lt;dd&gt;
-  Juegos diferentes jugados:
-  &lt;b&gt;71&lt;/b&gt;
- &lt;/dd&gt;
- &lt;dd&gt;
-  Juegos con dos o más partidas:
-  &lt;b&gt;13&lt;/b&gt;
- &lt;/dd&gt;
- &lt;dt&gt;
-  2014
- &lt;/dt&gt;
- &lt;dd&gt;
-  Total de partidas jugadas:
-  &lt;b&gt;81&lt;/b&gt;
- &lt;/dd&gt;
- &lt;dd&gt;
-  Juegos diferentes jugados:
-  &lt;b&gt;52&lt;/b&gt;
- &lt;/dd&gt;
- &lt;dd&gt;
-  Juegos con dos o más partidas:
-  &lt;b&gt;14&lt;/b&gt;
- &lt;/dd&gt;
- &lt;dt&gt;
-  2013
- &lt;/dt&gt;
- &lt;dd&gt;
-  Total de partidas jugadas:
-  &lt;b&gt;117&lt;/b&gt;
- &lt;/dd&gt;
- &lt;dd&gt;
-  Juegos diferentes jugados:
-  &lt;b&gt;81&lt;/b&gt;
- &lt;/dd&gt;
- &lt;dd&gt;
-  Juegos con dos o más partidas:
-  &lt;b&gt;19&lt;/b&gt;
- &lt;/dd&gt;
- &lt;dt&gt;
-  2012
- &lt;/dt&gt;
- &lt;dd&gt;
-  Total de partidas jugadas:
-  &lt;b&gt;161&lt;/b&gt;
- &lt;/dd&gt;
- &lt;dd&gt;
-  Juegos diferentes jugados:
-  &lt;b&gt;80&lt;/b&gt;
- &lt;/dd&gt;
- &lt;dd&gt;
-  Juegos con dos o más partidas:
-  &lt;b&gt;40&lt;/b&gt;
- &lt;/dd&gt;
- &lt;dt&gt;
-  TOTALES HASTA 31/12/2016
- &lt;/dt&gt;
- &lt;dd&gt;
-  Total de partidas jugadas:
-  &lt;b&gt;862&lt;/b&gt;
- &lt;/dd&gt;
- &lt;dd&gt;
-  Juegos diferentes jugados:
-  &lt;b&gt;313&lt;/b&gt;
- &lt;/dd&gt;
- &lt;dd&gt;
-  Juegos con
-  &lt;b&gt;cinco&lt;/b&gt; o más partidas:
-  &lt;b&gt;45&lt;/b&gt;
- &lt;/dd&gt;
-&lt;/dl&gt;
-&lt;br&gt;
-&lt;center&gt;
- &lt;img src=&quot;/img/2017/01/2016_partidas_jugadas_por_mes.png&quot; alt=&quot;Partidas jugadas por mes hasta 2016&quot; title=&quot;Partidas jugadas por mes hasta 2016&quot; width=&quot;600&quot;&gt;
- &lt;div class=&quot;caption&quot;&gt;
-  Partidas Jugadas por Mes hasta 2016
- &lt;/div&gt;
-&lt;/center&gt;
-&lt;br&gt;
-&lt;h3&gt;Análisis:&lt;/h3&gt;
-&lt;br&gt;
-&lt;ul&gt;
- &lt;li&gt;Este 2016 he jugado más que en los dos años anteriores, aunque no tengo esa sensación porque el número de sesiones es parecido (30 en 2015 vs &lt;b&gt;35&lt;/b&gt; en 2016)&lt;/li&gt;
- &lt;br&gt;
- &lt;li&gt;En 2016 he probado 25 juegos nuevos, siguen siendo bastantes pero una proporción mucho menor que otros años. Se nota que he repetido mucho a algunos juegos (casi un tercio de las partidas fueron a &lt;a href=&quot;https://www.boardgamegeek.com/boardgame/30549/pandemic&quot;&gt;Pandemic&lt;/a&gt;, &lt;a href=&quot;https://www.boardgamegeek.com/boardgame/161936/pandemic-legacy-season-1&quot;&gt;Pandemic Legacy&lt;/a&gt; o &lt;a href=&quot;https://www.boardgamegeek.com/boardgame/178900/codenames&quot;&gt;Código Secreto&lt;/a&gt;). Bastante en línea con las &lt;a href=&quot;https://boardgamegeek.com/thread/1697948/bgg-2016-end-year-stats-plays&quot;&gt;estadísticas globales sobre partidas jugadas que publicó la BGG hace unos días&lt;/a&gt;&lt;/li&gt;
- &lt;br&gt;
- &lt;li&gt;La experiencia con &lt;a href=&quot;https://www.boardgamegeek.com/boardgame/161936/pandemic-legacy-season-1&quot;&gt;la temporada 1 de Pandemic Legacy&lt;/a&gt; está siendo fabulosa. Cada vez juego más a cooperativos y cada vez me atraen más los juegos que permiten cierta repetición y continuación a base de reglas &lt;i&gt;legacy&lt;/i&gt; o campañas en general&lt;/li&gt;
- &lt;br&gt;
- &lt;li&gt;Aparte de lo relativo a juegos de mesa y rol, durante 2016 tengo registradas más de &lt;b&gt;150h&lt;/b&gt; en &lt;a href=&quot;http://store.steampowered.com/&quot;&gt;&lt;b&gt;Steam&lt;/b&gt;&lt;/a&gt; (de un total de 393.3h). Es altamente improbable que en 2017 pueda mantener esas cifras (de hecho, apenas juego desde el verano pasado)&lt;/li&gt;
- &lt;br&gt;
- &lt;li&gt;Como dato nuevo en este análisis, mi &lt;a href=&quot;https://en.wikipedia.org/wiki/H-index&quot;&gt;&lt;b&gt;&lt;i&gt;h-index&lt;/i&gt;&lt;/b&gt;&lt;/a&gt; como jugador ha subido a &lt;b&gt;11&lt;/b&gt; después de unos años estancado en 10. Dato curioso, aunque poco útil :-P&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;h3&gt;Retrospectiva:&lt;/h3&gt;
-&lt;br&gt;
-&lt;ul&gt;
- &lt;li&gt;Si mi tiempo de ocio ya era limitado en 2016... este año que comienza será peor aún. Veremos qué tal lo voy llevando&lt;/li&gt;
- &lt;br&gt;
- &lt;li&gt;Sigo sin haber podido retomar la campaña que dirigía con &lt;a href=&quot;http://rpggeek.com/rpg/4395/one-ring&quot;&gt;&lt;b&gt;El Anillo Único&lt;/b&gt;&lt;/a&gt;, y tampoco he podido comenzar a dirigir partidas nuevas a &lt;a href=&quot;http://rpggeek.com/rpg/10154/aventuras-en-la-marca-del-este&quot;&gt;&lt;b&gt;Aventuras en la Marca del Este&lt;/b&gt;&lt;/a&gt; o &lt;a href=&quot;http://rpggeek.com/rpg/21555/baker-street-rpg&quot;&gt;&lt;b&gt;Baker Street RPG&lt;/b&gt;&lt;/a&gt;. En 2017 debería intentar hacer algo al respecto&lt;/li&gt;
- &lt;br&gt;
- &lt;li&gt;Siguiendo la triste dinámica que comencé el año pasado, este año no he jugado apenas a prototipos. Sigo perteneciendo a la &lt;a href=&quot;http://www.asociacionludo.com/&quot;&gt;&lt;b&gt;Asociación Ludo&lt;/b&gt;&lt;/a&gt; pero ni pude ir al &lt;a href=&quot;http://www.asociacionludo.com/blog/2015/02/10/encuentro-de-protos-y-tipos-2015/&quot;&gt;IV Encuentro de Protos y Tipos&lt;/a&gt; ni he podido ir las reuniones con los compañeros de Madrid. Lo hecho mucho de menos pero por desgracia sigue sin ser prioritario ahora mismo :-(&lt;/li&gt;
-&lt;/ul&gt;
 
 	</description>
     </item>
