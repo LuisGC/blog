@@ -6,9 +6,84 @@
     <atom:link href="https://luisgc.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>Luiyolog&iacute;a - The Science that studies my interests and concerns</description>
     <language>en-gb</language>
-    <pubDate>Thu, 28 Sep 2017 22:41:18 +0000</pubDate>
-    <lastBuildDate>Thu, 28 Sep 2017 22:41:18 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Nov 2017 07:18:10 +0000</pubDate>
+    <lastBuildDate>Thu, 23 Nov 2017 07:18:10 +0000</lastBuildDate>
 
+    <item>
+      <title>Big Data Spain 2017</title>
+      <link>https://luisgc.github.io/blog/2017/11/Big_Data_Spain_2017.html</link>
+      <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2017/11/Big_Data_Spain_2017.html</guid>
+      	<description>
+	&lt;p&gt;Last week I attended &lt;a href=&quot;https://www.bigdataspain.org/&quot;&gt;&lt;strong&gt;Big Data Spain&lt;/strong&gt;&lt;/a&gt; (BDS), a renowned event focused particularly on &lt;a href=&quot;https://en.wikipedia.org/wiki/Big_data&quot;&gt;Big Data&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Artificial_intelligence&quot;&gt;Artificial Intelligence&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Machine_learning&quot;&gt;Machine Learning&lt;/a&gt;. It&apos;s a reference event about Big Data, not only in Spain but across Europe. The event is almost entirely held in English and attracts top level speakers and public.&lt;/p&gt;
+&lt;p&gt;I couldn&apos;t take a lot of notes, but I&apos;ll summarize the talks that deserve your attention (among those that I heard):&lt;/p&gt;
+&lt;h1&gt;Talks&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.bigdataspain.org/2017/talk/tbc&quot;&gt;Artificial Intelligence and Data-centric businesses&lt;/a&gt;, by &lt;a href=&quot;https://twitter.com/omendezsoto&quot;&gt;Óscar Mendez&lt;/a&gt; (Stratio)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The first keynote was the typical inspirational talk to open an event. Óscar focused on the growing relevance of Big Data and Artificial Intelligence. It&apos;d be curious to compare it with the opening keynote from previous years, the revolution is always just around the corner.&lt;/p&gt;
+&lt;p&gt;Anyway, Óscar gave some interesting concepts. I specially liked the way he explained the next relevant disruptions:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;First disruption, use big data also for Operational purposes (and this is the key, IMHO)&lt;/li&gt;
+  &lt;li&gt;Second disruption, use distributed applications via microservices&lt;/li&gt;
+  &lt;li&gt;Third disruption, smart data centers moving first to IaaS and then to PaaS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/omendezsoto?ref_src=twsrc%5Etfw&quot;&gt;@omendezsoto&lt;/a&gt; talking about the future of &lt;a href=&quot;https://twitter.com/hashtag/bigdata?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#bigdata&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/hashtag/ai?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#ai&lt;/a&gt; with microservices and containers, great message of flexibility and growth. &lt;a href=&quot;https://twitter.com/hashtag/BDS17?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#BDS17&lt;/a&gt; &lt;a href=&quot;https://t.co/0i1b7oyemc&quot;&gt;pic.twitter.com/0i1b7oyemc&lt;/a&gt;&lt;/p&gt;&amp;mdash; Michael McCune (@FOSSjunkie) &lt;a href=&quot;https://twitter.com/FOSSjunkie/status/931099635816509440?ref_src=twsrc%5Etfw&quot;&gt;16 de noviembre de 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.bigdataspain.org/2017/talk/big-data-and-tax-fraud&quot;&gt;Big Data, Analytics, and Tax Fraud&lt;/a&gt; - José Borja Tomé (Agencia Tributaria)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;José Borja started with the disclaimer &quot;As you can imagine, I&apos;m not here to show you how to pay less taxes&quot;, and just with that he got all my attention and friendship. He also explained, for the greater tranquility of the Spanish audience, that Agencia Tributaria (the Spanish Tax Agency) is trying to modernize itself in terms of combating fraud and help the tax payers fill in the required forms. He delivered this messages with some slides that looked like they were made with Office 95 but the important thing is the content, not the appearance.&lt;/p&gt;
+&lt;p&gt;He ended his talk with several surprising and exciting figures. For example, and according to his own figures, Spain performs better (despite our usual perception) than the EU-27 median regarding the difference between the VAT that should be payed and the one that is really payed.&lt;/p&gt;
+&lt;center&gt;&lt;div class=&quot;image&quot;&gt;
+  &lt;img src=&quot;/img/2017/11/BDS_Jose_Borja.jpg&quot; alt=&quot;the difference between the VAT that should be payed and the one that is really payed in the EU-27&quot;&gt;
+  &lt;div class=&quot;caption&quot;&gt;the difference between the VAT that should be payed and the one that is really payed in the EU-27&lt;/div&gt;
+&lt;/div&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.bigdataspain.org/2017/talk/big-data-security-facing-the-challenge&quot;&gt;Big Data security: Facing the challenge&lt;/a&gt;, by Carlos Gomez (Stratio)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Carlos gave a technical overview of how to protecting the data and services of a company in a Big Data environment when everything is data-centric. He summarized that it is distributed in two areas: protect the data and protect the service. You should review this talk if you are in the security business.&lt;/p&gt;
+&lt;center&gt;&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Listening to Carlos Gómez&amp;#39;s master class about how to securize a BigData platform &lt;a href=&quot;https://twitter.com/hashtag/BDS17?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#BDS17&lt;/a&gt; &lt;a href=&quot;https://t.co/RoSebEwqVc&quot;&gt;pic.twitter.com/RoSebEwqVc&lt;/a&gt;&lt;/p&gt;&amp;mdash; Daniel Carroza (@danielcsant) &lt;a href=&quot;https://twitter.com/danielcsant/status/931122319573114880?ref_src=twsrc%5Etfw&quot;&gt;16 de noviembre de 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.bigdataspain.org/2017/talk/apache-spark-machine-learning&quot;&gt;Playing Well Together: Big Data beyond the JVM w/Spark etc&lt;/a&gt;, by &lt;a href=&quot;https://twitter.com/holdenkarau&quot;&gt;Holden Karau&lt;/a&gt; (Google)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Holden gave several good tips and tricks about &lt;a href=&quot;https://spark.apache.org/&quot;&gt;Apache Spark&lt;/a&gt; in general, and specifically about using it from outside the Java ecosystem in Python. As a Python connoisseur, but not a Spark user (yet), I just learned a couple of usable tips but the talk was great anyway and it was a pleasure to meet Holden.&lt;/p&gt;
+&lt;center&gt;&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/BDS17?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#BDS17&lt;/a&gt; &lt;a href=&quot;https://twitter.com/holdenkarau?ref_src=twsrc%5Etfw&quot;&gt;@holdenkarau&lt;/a&gt; starts reminding everyone that we all come from different places, and this is great!! :-) &lt;a href=&quot;https://t.co/Sceqz0oh8I&quot;&gt;pic.twitter.com/Sceqz0oh8I&lt;/a&gt;&lt;/p&gt;&amp;mdash; Luis GC (@luiyo) &lt;a href=&quot;https://twitter.com/luiyo/status/931129784498782208?ref_src=twsrc%5Etfw&quot;&gt;16 de noviembre de 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.bigdataspain.org/2017/talk/why-big-data-didnt-end-causal-inference&quot;&gt;Why big data didn’t end causal inference&lt;/a&gt;, by &lt;a href=&quot;https://twitter.com/totteh&quot;&gt;Totte Harinen&lt;/a&gt; (Uber)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This talk was one of the most promising for me after reviewing the schedule a couple of days before the event. Several years ago there were rumours of the death of &lt;a href=&quot;https://en.wikipedia.org/wiki/Causal_inference&quot;&gt;causal inference&lt;/a&gt; at the hands of Big Data. The main reasons why Big Data might have done it are:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Humans are bad at coming up with causal hypotheses&lt;/li&gt;
+  &lt;li&gt;Correlational models form a more accurate picture of reality&lt;/li&gt;
+  &lt;li&gt;Data analysis just seems to be headed towards the correlational approach&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;According to the speaker, causal inference is today more relevant than it’s ever been. In fact, bigger data normally implies a better causal inference and not the opposite. Also, Big Data findings can inspire causal hypotheses and Machine Learning methods can help us to estimate causal quantities.&lt;/p&gt;
+&lt;p&gt;I probably will watch again this talk if the video is published.&lt;/p&gt;
+&lt;center&gt;&lt;div class=&quot;image&quot;&gt;
+  &lt;img src=&quot;/img/2017/11/BDS_Totte_Harinen.jpg&quot; alt=&quot;Some general ways in which Big Data and causal inference complement each other&quot;&gt;
+  &lt;div class=&quot;caption&quot;&gt;Some general ways in which Big Data and causal inference complement each other&lt;/div&gt;
+&lt;/div&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.bigdataspain.org/2017/talk/towards-biologically-plausible-deep-learning&quot;&gt;Towards biologically plausible deep learning&lt;/a&gt;, by &lt;a href=&quot;https://twitter.com/nikolaymanchev&quot;&gt;Nikolay Manchev&lt;/a&gt; (IBM)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Another of my favorite talks of this BDS, and very difficult to summarize. Nikolay reviewed where deep learning currently stands, what are the current limitations and challenges, and how neuroscience and psychology can bring us closer to human-level intelligence (or even beyond).&lt;/p&gt;
+&lt;center&gt;&lt;div class=&quot;image&quot;&gt;
+  &lt;img src=&quot;/img/2017/11/BDS_Nikolay_Manchev.jpg&quot; alt=&quot;Deep Learning performance vs human-level performance in object recognition tasks&quot;&gt;
+  &lt;div class=&quot;caption&quot;&gt;Deep Learning performance vs human-level performance in object recognition tasks&lt;/div&gt;
+&lt;/div&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.bigdataspain.org/2017/talk/Foundations-of-streaming-SQL&quot;&gt;Foundations of streaming SQL – learn to love stream &amp;amp; table theory&lt;/a&gt;, by &lt;a href=&quot;https://twitter.com/takidau&quot;&gt;Tyler Akidau&lt;/a&gt; (Google)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tyler based his session on a very simple but interesting concept: &quot;Tables are data at rest, Streams are data in motion&quot;. He explained why it&apos;s important to know perfectly the status of the data at each stage, and how to make the most of both data structures mastering the operations and transformations between streams and tables.&lt;/p&gt;
+&lt;center&gt;&lt;div class=&quot;image&quot;&gt;
+  &lt;img src=&quot;/img/2017/11/BDS_Tyler_Akidau.jpg&quot; alt=&quot;Tables are data at rest, Streams are data in motion&quot;&gt;
+  &lt;div class=&quot;caption&quot;&gt;Tables are data at rest, Streams are data in motion&lt;/div&gt;
+&lt;/div&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.bigdataspain.org/2017/talk/the-data-errors-we-make&quot;&gt;The Data Errors we Make&lt;/a&gt;, by &lt;a href=&quot;https://twitter.com/seanjtaylor&quot;&gt;Sean J. Taylor&lt;/a&gt; (Facebook)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This was a surprisingly interesting talk, despite I entered the room with very low expectations. In summary, Sean emphasized the necessity to think about errors, to prevent them and to estimate the uncertainty based on the fact that there will always be errors. He gave several examples and some useful tips and tricks.&lt;/p&gt;
+&lt;center&gt;&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/BDS17?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#BDS17&lt;/a&gt; very interesting insights from  &lt;a href=&quot;https://twitter.com/seanjtaylor?ref_src=twsrc%5Etfw&quot;&gt;@seanjtaylor&lt;/a&gt; explaining his experience dealing with Data Errors in Facebook &lt;a href=&quot;https://t.co/W9aiJpP2or&quot;&gt;pic.twitter.com/W9aiJpP2or&lt;/a&gt;&lt;/p&gt;&amp;mdash; Luis GC (@luiyo) &lt;a href=&quot;https://twitter.com/luiyo/status/931480332599287808?ref_src=twsrc%5Etfw&quot;&gt;17 de noviembre de 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.bigdataspain.org/2017/talk/tbc-michael-ludden&quot;&gt;AI in VR&lt;/a&gt;, by &lt;a href=&quot;https://twitter.com/Michael_Ludden&quot;&gt;Michael Ludden&lt;/a&gt; (IBM Watson)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;this session was very funny and interesting. Michael summarized the current ecosystem regarding AI in VR, explained the current approaches to AI (and the pros and cons of each) and even made some predictions about what will happen in the future. As Director of Product of &lt;a href=&quot;https://www.ibm.com/watson/&quot;&gt;&lt;strong&gt;IBM Watson&lt;/strong&gt;&lt;/a&gt;, he presented as an example &lt;a href=&quot;https://www.ubisoft.com/en-US/game/star-trek-bridge-crew/&quot;&gt;&lt;em&gt;Star Trek: Bridge Crew&lt;/em&gt;&lt;/a&gt;, an amazing VR game that reacts not only to the player movements but also to voice commands. I&apos;ll just leave you with the trailer:&lt;/p&gt;
+&lt;center&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3Sg3lEIGQyo?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.bigdataspain.org/2017/talk/streaming-analytics-ing&quot;&gt;Streaming analytics @ ING&lt;/a&gt;, by &lt;a href=&quot;https://twitter.com/davidvaquero&quot;&gt;David Vaquero&lt;/a&gt; (ING Bank)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;My last choice could not be other than my colleague David. He explained what we are building in ING to be used by any business unit around the world. It was only a short talk, but David could have spent hours talking about the project transmitting the passion he has for this.&lt;/p&gt;
+&lt;p&gt;In summary, what ING is building is an event-driven architecture delivered as one platform, with &lt;a href=&quot;https://kafka.apache.org/&quot;&gt;Apache Kafka&lt;/a&gt;, &lt;a href=&quot;https://flink.apache.org/&quot;&gt;Apache Flink&lt;/a&gt; and &lt;a href=&quot;https://www.sas.com/en_us/software/real-time-decision-manager.html&quot;&gt;SAS RTDM&lt;/a&gt; in the core. I hope that you&apos;ll listen more about this in the future.&lt;/p&gt;
+&lt;center&gt;&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Time to see how &lt;a href=&quot;https://twitter.com/INGTechIT?ref_src=twsrc%5Etfw&quot;&gt;@INGTechIT&lt;/a&gt; is using streaming thanks to &lt;a href=&quot;https://twitter.com/davidvaquero?ref_src=twsrc%5Etfw&quot;&gt;@davidvaquero&lt;/a&gt; &lt;a href=&quot;https://t.co/Mag9BB9kEg&quot;&gt;pic.twitter.com/Mag9BB9kEg&lt;/a&gt;&lt;/p&gt;&amp;mdash; David Gómez G. (@dgomezg) &lt;a href=&quot;https://twitter.com/dgomezg/status/931523731754815490?ref_src=twsrc%5Etfw&quot;&gt;17 de noviembre de 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/center&gt;
+&lt;h1&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;It was my second or third presence in Big Data Spain. I attended a couple of years between 2012 and 2014, but I ceased attending because the content seemed too focused on marketing and business. This year I have finished (again) with a similar feeling, but at least some of the sessions were worth the visit. Anyway, the event itself is much more professional than in the past and everything looked controlled and very well organized. I&apos;ll consider attending again next year.&lt;/p&gt;
+	</description>
+    </item>
     <item>
       <title>On being a Senior Software Engineer</title>
       <link>https://luisgc.github.io/blog/2017/09/On_being_a_senior_software_engineer.html</link>
@@ -474,133 +549,6 @@
 &lt;h2&gt;Conclusion&lt;/h2&gt;
 &lt;p&gt;I&apos;m happier than ever with my blog, and I&apos;ll try to write more often now that I can make it with my editor in Markdown or AsciiDoc.&lt;/p&gt;
 &lt;p&gt;It&apos;s also possible that I&apos;ll write a more technical post about how JBake works, but in the meantime ask me in the comments anything that you want to know.&lt;/p&gt;
-	</description>
-    </item>
-    <item>
-      <title>Greach 2017, the Groovy Spanish Conference</title>
-      <link>https://luisgc.github.io/blog/2017/04/greach-2017-groovy-spanish-conference.html</link>
-      <pubDate>Mon, 3 Apr 2017 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2017/04/greach-2017-groovy-spanish-conference.html</guid>
-      	<description>
-	
-&lt;center&gt;
- &lt;i&gt;I&apos;ll keep my intent to summarize all the important events that I&apos;m attending, and I&apos;ll do it again in English as the audience is international. &lt;b&gt;Please, point me any mistake you may find&lt;/b&gt;&lt;/i&gt;
-&lt;/center&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&quot;image lateral&quot;&gt;
-  &lt;img src=&quot;/img/2017/04/Greach_2017.png&quot; alt=&quot;Greach 2017&quot;&gt;
-  &lt;div class=&quot;caption&quot;&gt;
-   &lt;a href=&quot;http://2017.greachconf.com/&quot;&gt;Greach 2017&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;This week I attended, as usual since I don&apos;t remember when, to &lt;a href=&quot;http://2017.greachconf.com/&quot;&gt;Greach 2017&lt;/a&gt;, an international conference about the &lt;a href=&quot;http://www.groovy-lang.org/&quot;&gt;Apache Groovy language&lt;/a&gt; and &lt;a href=&quot;http://www.groovy-lang.org/ecosystem.html&quot;&gt;ecosystem&lt;/a&gt;. Greach is held each year in Madrid but everything is in English, and nowadays it&apos;s probably one of the Top3 worldwide events about this technology.&lt;/p&gt;
-&lt;p&gt;The event is organized mainly by &lt;a href=&quot;http://redirect.viglink.com/?format=go&amp;amp;jsonp=vglnk_149113158632914&amp;amp;key=fc09da8d2ec4b1af80281370066f19b1&amp;amp;libId=j10kgw3v01012xfw000DLef6729tbp6er&amp;amp;loc=http%3A%2F%2Fluiyo.blogspot.com.es%2F2016%2F04%2Fgreach-2016-groovy-spanish-conference.html&amp;amp;v=1&amp;amp;out=https%3A%2F%2Ftwitter.com%2Filopmar&amp;amp;title=Luiyolog%C3%ADa%3A%20Greach%202016%2C%20the%20Groovy%20Spanish%20conference&amp;amp;txt=%3Cb%3EIv%C3%A1n%20L%C3%B3pez%3C%2Fb%3E%20(%40ilopar)&quot;&gt;&lt;b&gt;Iván López&lt;/b&gt; (@ilopar)&lt;/a&gt; and &lt;a href=&quot;http://redirect.viglink.com/?format=go&amp;amp;jsonp=vglnk_149113160190015&amp;amp;key=fc09da8d2ec4b1af80281370066f19b1&amp;amp;libId=j10kgw3v01012xfw000DLef6729tbp6er&amp;amp;loc=http%3A%2F%2Fluiyo.blogspot.com.es%2F2016%2F04%2Fgreach-2016-groovy-spanish-conference.html&amp;amp;v=1&amp;amp;out=https%3A%2F%2Ftwitter.com%2Falbertovilches&amp;amp;title=Luiyolog%C3%ADa%3A%20Greach%202016%2C%20the%20Groovy%20Spanish%20conference&amp;amp;txt=%3Cb%3EAlberto%20Vilches%3C%2Fb%3E%20(%40albertovilches)&quot;&gt;&lt;b&gt;Alberto Vilches&lt;/b&gt; (@albertovilches)&lt;/a&gt;, with some help from other colleagues and &lt;a href=&quot;http://2017.greachconf.com/#tile_sponsors&quot;&gt;a lot of Sponsors&lt;/a&gt;. Everything was perfect: the location is great, the spaces were confortable, the wifi more or less worked fine, cafeteria in-place, free wardrobe,... the lunch boxes were far from perfect, but that&apos;s another story more related to the venue.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;TLDR;&lt;/b&gt; The conference content and speakers were great, in addition to the logistics. I missed the workshop day, but everyone told me it was also fantastic (both venue and contents). I learned a lot, not only about Groovy or Grails, but also about GraphQL, Ratpack and concurrence in general.&lt;/p&gt;
-&lt;p&gt;Let me summarize some of the talks I attended:&lt;/p&gt;
-&lt;ul&gt;
- &lt;li&gt;&lt;a href=&quot;http://2017.greachconf.com/sessions/make-concurrency-groovy-again/&quot;&gt;Make concurrency groovy again&lt;/a&gt;, by &lt;a href=&quot;http://2017.greachconf.com/speakers/alonso-torres/&quot;&gt;&lt;b&gt;Alonso Torres&lt;/b&gt;&lt;/a&gt; (&lt;a href=&quot;https://twitter.com/alotor&quot;&gt;@alotor&lt;/a&gt;). Alonso gave an excellent overview of the main available resources regarding concurrence in the Groovy ecosystem, comparing some of them in terms of design, code readability and even performance. Threads, functional style resources, parallel collections, Atomic variables, fork/join, GPars, actors... and even how to steal a bit from others (Clojure, Akka or Spark) thanks to the Java bindings. Take a look at the &lt;a href=&quot;https://www.slideshare.net/alotor/greach-17-make-concurrency-groovy-again&quot;&gt;slides&lt;/a&gt;&lt;/li&gt;
- &lt;br&gt;
- &lt;center&gt;
-  &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/Greach2017?src=hash&quot;&gt;#Greach2017&lt;/a&gt; &lt;a href=&quot;https://twitter.com/alotor&quot;&gt;@alotor&lt;/a&gt; a punto de comenzar su charla sobre Concurrencia en &lt;a href=&quot;https://twitter.com/ApacheGroovy&quot;&gt;@ApacheGroovy&lt;/a&gt; &lt;a href=&quot;https://t.co/u0dnTx5aIp&quot;&gt;pic.twitter.com/u0dnTx5aIp&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo)
-   &lt;a href=&quot;https://twitter.com/luiyo/status/847720451442790402&quot;&gt;31 de marzo de 2017&lt;/a&gt;
-  &lt;/blockquote&gt;
-  &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
- &lt;/center&gt;
- &lt;br&gt;
- &lt;li&gt;&lt;a href=&quot;http://2017.greachconf.com/sessions/javaslang-groovy-the-best-of-both-worlds/&quot;&gt;Javaslang &amp;amp; Groovy: The best of both worlds&lt;/a&gt;, by &lt;a href=&quot;http://2017.greachconf.com/speakers/ivan-lopez/&quot;&gt;&lt;b&gt;Iván López&lt;/b&gt;&lt;/a&gt; (&lt;a href=&quot;https://twitter.com/ilopmar&quot;&gt;@ilopmar&lt;/a&gt;). Another hands-on master class by Iván, combining and comparing some of the benefits of &lt;a href=&quot;http://www.javaslang.io/&quot;&gt;Javaslang&lt;/a&gt; with what&apos;s available out-of-the-box in Groovy. The demo part (90% of the talk) covered a lot of interesting examples: Optional vs Option, Try, Functional Interfaces, Tuples, Javaslang collections, Pattern matching, validations, ...&lt;/li&gt;
- &lt;br&gt;
- &lt;center&gt;
-  &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Ivan talking about javaslang and groovy! &lt;a href=&quot;https://twitter.com/hashtag/greach?src=hash&quot;&gt;#greach&lt;/a&gt; &lt;a href=&quot;https://t.co/zkxySl6SQu&quot;&gt;pic.twitter.com/zkxySl6SQu&lt;/a&gt;&lt;/p&gt;— Ryan Vanderwerf (@RyanVanderwerf)
-   &lt;a href=&quot;https://twitter.com/RyanVanderwerf/status/847740674719887361&quot;&gt;31 de marzo de 2017&lt;/a&gt;
-  &lt;/blockquote&gt;
-  &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
- &lt;/center&gt;
- &lt;br&gt;
- &lt;li&gt;&lt;a href=&quot;http://2017.greachconf.com/sessions/back-from-the-dead-http-builder-ng/&quot;&gt;Back From The Dead: HTTP Builder NG&lt;/a&gt;, by &lt;a href=&quot;http://2017.greachconf.com/speakers/noam-tenne/&quot;&gt;&lt;b&gt;Noam Tenne&lt;/b&gt;&lt;/a&gt; (&lt;a href=&quot;https://twitter.com/NoamTenne&quot;&gt;@NoamTenne&lt;/a&gt;). Noam gave a complete review of the features included in &lt;a href=&quot;https://github.com/http-builder-ng/http-builder-ng&quot;&gt;HTTP Builder NG&lt;/a&gt;, the current available implementations and some advanced features and use cases like header parsers, content parsers, request interceptors or request encoders&lt;/li&gt;
- &lt;br&gt;
- &lt;center&gt;
-  &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;HTTPBuilder NG: Back From The Dead as presented at &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; 2017 &lt;a href=&quot;https://t.co/KnYbstLU0Z&quot;&gt;https://t.co/KnYbstLU0Z&lt;/a&gt;&lt;a href=&quot;https://twitter.com/hashtag/greach?src=hash&quot;&gt;#greach&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/groovylang?src=hash&quot;&gt;#groovylang&lt;/a&gt;&lt;/p&gt;— Noam Tenne (@NoamTenne)
-   &lt;a href=&quot;https://twitter.com/NoamTenne/status/847782732935553024&quot;&gt;31 de marzo de 2017&lt;/a&gt;
-  &lt;/blockquote&gt;
-  &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
- &lt;/center&gt;
- &lt;br&gt;
- &lt;li&gt;&lt;a href=&quot;http://2017.greachconf.com/sessions/hasmany-considered-harmful/&quot;&gt;hasMany Considered Harmful&lt;/a&gt;, by &lt;a href=&quot;http://2017.greachconf.com/speakers/burt-beckwith/&quot;&gt;&lt;b&gt;Burt Beckwith&lt;/b&gt;&lt;/a&gt; (&lt;a href=&quot;https://twitter.com/burtbeckwith&quot;&gt;@BurtBeckwith&lt;/a&gt;). Burt gave this talk for the first time in 2010 at the Spring One, pointing out some performance problems when mapping collections with any ORM tool (like GORM or Hibernate). After seven years, he revisited the topic repeating (sadly) the same warnings about more or less the same problems, some of them critical with huge data collections&lt;/li&gt;
- &lt;br&gt;
- &lt;center&gt;
-  &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/burtbeckwith&quot;&gt;@burtbeckwith&lt;/a&gt; talking about &quot;hasMany considered harmful&quot; at &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; &lt;a href=&quot;https://t.co/gJA7f3HW5X&quot;&gt;pic.twitter.com/gJA7f3HW5X&lt;/a&gt;&lt;/p&gt;— jmiguel rodriguez (@jmiguel)
-   &lt;a href=&quot;https://twitter.com/jmiguel/status/847792794542518273&quot;&gt;31 de marzo de 2017&lt;/a&gt;
-  &lt;/blockquote&gt;
-  &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
- &lt;/center&gt;
- &lt;br&gt;
- &lt;li&gt;&lt;a href=&quot;http://2017.greachconf.com/sessions/graphql-development-with-groovy/&quot;&gt;GraphQL development with Groovy&lt;/a&gt;, by &lt;a href=&quot;http://2017.greachconf.com/speakers/mario-garcia/&quot;&gt;Mario García&lt;/a&gt; (&lt;a href=&quot;https://twitter.com/marioggar&quot;&gt;@marioggar&lt;/a&gt;). Thanks to Mario now I have a clear view of what &lt;a href=&quot;http://graphql.org/&quot;&gt;GraphQL&lt;/a&gt; provides, and specially what it does not provide. He reviewed the main features, the logic behind schemas, types querying, hierarchy, operations, the introspective nature of GraphQL... Mario also demoed some useful combination of GraphQL with tools like &lt;a href=&quot;https://github.com/graphql/graphiql&quot;&gt;GraphiQL&lt;/a&gt; or &lt;a href=&quot;https://facebook.github.io/relay/&quot;&gt;Relay&lt;/a&gt;. He even teased &lt;a href=&quot;https://github.com/grooviter/gql&quot;&gt;GQL&lt;/a&gt;, his own DSL library to use GraphQL directly from Groovy. Awesome :-)&lt;/li&gt;
- &lt;br&gt;
- &lt;center&gt;
-  &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/Greach?src=hash&quot;&gt;#Greach&lt;/a&gt; and now in &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@GreachConf&lt;/a&gt; we&apos;ll learn about GraphQL and Groovy from the great &lt;a href=&quot;https://twitter.com/marioggar&quot;&gt;@marioggar&lt;/a&gt; &lt;a href=&quot;https://t.co/8PoSK7DoOv&quot;&gt;pic.twitter.com/8PoSK7DoOv&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo)
-   &lt;a href=&quot;https://twitter.com/luiyo/status/847795673521061888&quot;&gt;31 de marzo de 2017&lt;/a&gt;
-  &lt;/blockquote&gt;
-  &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
- &lt;/center&gt;
- &lt;br&gt;
- &lt;li&gt;&lt;a href=&quot;http://2017.greachconf.com/sessions/groovy-puzzlers-4-the-bytecode-bites-back/&quot;&gt;Groovy Puzzlers 4: The Bytecode Bites Back&lt;/a&gt;, by &lt;a href=&quot;http://2017.greachconf.com/speakers/el-groovyssimo/&quot;&gt;&lt;b&gt;El Groovyssimo&lt;/b&gt;&lt;/a&gt; (&lt;a href=&quot;https://twitter.com/el_groovyssimo&quot;&gt;@el_groovyssimo&lt;/a&gt;) and &lt;a href=&quot;http://2017.greachconf.com/speakers/noam-tenne/&quot;&gt;&lt;b&gt;Noam Tenne&lt;/b&gt;&lt;/a&gt; (&lt;a href=&quot;https://twitter.com/NoamTenne&quot;&gt;@NoamTenne&lt;/a&gt;). Again, this was fantastic. Entertaining and somehow even educational. It&apos;s based on the &lt;a href=&quot;http://redirect.viglink.com/?format=go&amp;amp;jsonp=vglnk_149114460319816&amp;amp;key=fc09da8d2ec4b1af80281370066f19b1&amp;amp;libId=j10kgw3v01012xfw000DLef6729tbp6er&amp;amp;loc=http%3A%2F%2Fluiyo.blogspot.com.es%2F2016%2F04%2Fgreach-2016-groovy-spanish-conference.html&amp;amp;v=1&amp;amp;out=http%3A%2F%2Fwww.javapuzzlers.com%2F&amp;amp;title=Luiyolog%C3%ADa%3A%20Greach%202016%2C%20the%20Groovy%20Spanish%20conference&amp;amp;txt=%3Cb%3EJava%20Puzzlers%3C%2Fb%3E&quot;&gt;Java Puzzlers&lt;/a&gt; created by &lt;a href=&quot;http://redirect.viglink.com/?format=go&amp;amp;jsonp=vglnk_149114464703618&amp;amp;key=fc09da8d2ec4b1af80281370066f19b1&amp;amp;libId=j10kgw3v01012xfw000DLef6729tbp6er&amp;amp;loc=http%3A%2F%2Fluiyo.blogspot.com.es%2F2016%2F04%2Fgreach-2016-groovy-spanish-conference.html&amp;amp;v=1&amp;amp;out=http%3A%2F%2Fwww.javapuzzlers.com%2Fbios.html&amp;amp;title=Luiyolog%C3%ADa%3A%20Greach%202016%2C%20the%20Groovy%20Spanish%20conference&amp;amp;txt=%3Cb%3EJoshua%20Bloch%3C%2Fb%3E%20and%20%3Cb%3ENeal%20Gafter%3C%2Fb%3E&quot;&gt;&lt;b&gt;Joshua Bloch&lt;/b&gt; and &lt;b&gt;Neal Gafter&lt;/b&gt;&lt;/a&gt;, but focused on Groovy. Big fan of the format&lt;/li&gt;
- &lt;br&gt;
- &lt;center&gt;
-  &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;It&apos;s time for &lt;a href=&quot;https://twitter.com/hashtag/groovypuzzlers?src=hash&quot;&gt;#groovypuzzlers&lt;/a&gt;! &lt;a href=&quot;https://twitter.com/el_groovyssimo&quot;&gt;@el_groovyssimo&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/NoamTenne&quot;&gt;@NoamTenne&lt;/a&gt; rocking on stage at &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt;! &lt;a href=&quot;https://t.co/mVjhLJ6fhr&quot;&gt;pic.twitter.com/mVjhLJ6fhr&lt;/a&gt;&lt;/p&gt;— Autentia (@autentia)
-   &lt;a href=&quot;https://twitter.com/autentia/status/847834413673181186&quot;&gt;31 de marzo de 2017&lt;/a&gt;
-  &lt;/blockquote&gt;
-  &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
- &lt;/center&gt;
- &lt;br&gt;
- &lt;li&gt;&lt;a href=&quot;http://2017.greachconf.com/sessions/alexa-tell-me-im-groovy/&quot;&gt;Alexa, Tell Me I’m Groovy&lt;/a&gt;, by &lt;a href=&quot;http://2017.greachconf.com/speakers/ryan-vanderwerf/&quot;&gt;&lt;b&gt;Ryan Vanderwerf&lt;/b&gt;&lt;/a&gt; (&lt;a href=&quot;https://twitter.com/RyanVanderwerf&quot;&gt;@RyanVanderwerf&lt;/a&gt;). Ryan explained how the Alexa platform works and some basic info about the main SDKs: &lt;a href=&quot;https://developer.amazon.com/alexa-skills-kit&quot;&gt;Alexa Skills Kit&lt;/a&gt; and &lt;a href=&quot;https://developer.amazon.com/alexa-voice-service&quot;&gt;Alexa Voice Service&lt;/a&gt;. Ryan also showed how he uses Grails apps to create Alexa services and cards, and how to test them online with &lt;a href=&quot;https://echosim.io/&quot;&gt;Echosim.io&lt;/a&gt;. Very interesting, and one of those talks in which the audience leaves with some good ideas for the future&lt;/li&gt;
- &lt;br&gt;
- &lt;center&gt;
-  &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Alexa can do GREAT stuff! &lt;a href=&quot;https://twitter.com/RyanVanderwerf&quot;&gt;@RyanVanderwerf&lt;/a&gt; has her tell &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@Greachconf&lt;/a&gt; we&apos;re all &lt;a href=&quot;https://twitter.com/hashtag/Groovy?src=hash&quot;&gt;#Groovy&lt;/a&gt; 😎 &lt;a href=&quot;https://twitter.com/amazon&quot;&gt;@amazon&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/grailsfw?src=hash&quot;&gt;#grailsfw&lt;/a&gt; &lt;a href=&quot;https://twitter.com/groovypodcast&quot;&gt;@groovypodcast&lt;/a&gt; &lt;a href=&quot;https://t.co/c2KfK0A7u2&quot;&gt;pic.twitter.com/c2KfK0A7u2&lt;/a&gt;&lt;/p&gt;— Ted Vinke (@tvinke)
-   &lt;a href=&quot;https://twitter.com/tvinke/status/848082157734068224&quot;&gt;1 de abril de 2017&lt;/a&gt;
-  &lt;/blockquote&gt;
-  &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
- &lt;/center&gt;
- &lt;br&gt;
- &lt;li&gt;&lt;a href=&quot;http://2017.greachconf.com/sessions/grails-keynote/&quot;&gt;Grails keynote&lt;/a&gt;, by &lt;a href=&quot;http://2017.greachconf.com/speakers/graeme-rocher/&quot;&gt;&lt;b&gt;Graeme Rocher&lt;/b&gt;&lt;/a&gt; (&lt;a href=&quot;https://twitter.com/graemerocher&quot;&gt;@GraemeRocher&lt;/a&gt;). The anual &lt;a href=&quot;https://grails.org/&quot;&gt;Grails&lt;/a&gt; keynote in Greach, in which Graeme showed what came with Grails 3.2 (improvements in the awesome JSON views, in profiles, GORM 6, ...) and what will come with Grails 3.3: GORM 6.1 (already available independently), Spring Boot 1.5.x and Hibernate 5.2. Regarding &lt;a href=&quot;http://gorm.grails.org/&quot;&gt;GORM&lt;/a&gt;, the main things for the 6.1 version are: Improvements in common AST transforms, common services, and Data Services, package scanning and a better mapping DSL. Graeme showed some of the new features and they looked amazing, very good work :-)&lt;/li&gt;
- &lt;br&gt;
- &lt;center&gt;
-  &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;What&apos;s new with &lt;a href=&quot;https://twitter.com/hashtag/grailsfw?src=hash&quot;&gt;#grailsfw&lt;/a&gt;?&lt;a href=&quot;https://twitter.com/graemerocher&quot;&gt;@graemerocher&lt;/a&gt; delivers keynote &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; and fills us in! &lt;a href=&quot;https://t.co/RJ029GnXGN&quot;&gt;pic.twitter.com/RJ029GnXGN&lt;/a&gt;&lt;/p&gt;— OCI (@ObjectComputing)
-   &lt;a href=&quot;https://twitter.com/ObjectComputing/status/848103571509956610&quot;&gt;1 de abril de 2017&lt;/a&gt;
-  &lt;/blockquote&gt;
-  &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
- &lt;/center&gt;
- &lt;br&gt;
- &lt;li&gt;&lt;a href=&quot;http://2017.greachconf.com/sessions/geb-best-practices/&quot;&gt;Geb best practices&lt;/a&gt;, by &lt;a href=&quot;http://2017.greachconf.com/speakers/marcin-erdmann/&quot;&gt;&lt;b&gt;Marcin Erdmann&lt;/b&gt;&lt;/a&gt; (&lt;a href=&quot;https://twitter.com/marcinerdmann&quot;&gt;@MarcinErdmann&lt;/a&gt;). Marcin gave us some tips to make a better use of &lt;a href=&quot;http://www.gebish.org/&quot;&gt;Geb&lt;/a&gt;, starting with the reminder that a Module is a Navigator, that Navigators are iterable, and the advantages of overloading some methods, having dynamic base urls or page parametrizations. He also explained how to inject Javascript into pages (if needed). Other best practices: using strongly typed Geb code, tracking the current page type, always keep the &lt;i&gt;at&lt;/i&gt; checks simple and quick and that modules are not meant only for reuse but also to isolate complex blocks.&lt;/li&gt;
- &lt;br&gt;
- &lt;center&gt;
-  &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/Greach?src=hash&quot;&gt;#Greach&lt;/a&gt; my &lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; continues with &lt;a href=&quot;https://twitter.com/marcinerdmann&quot;&gt;@MarcinErdmann&lt;/a&gt; (Geb project lead since 2014) about Geb best practices &lt;a href=&quot;https://t.co/YCQ3Whor9W&quot;&gt;pic.twitter.com/YCQ3Whor9W&lt;/a&gt;&lt;/p&gt;— Luis GC (@luiyo)
-   &lt;a href=&quot;https://twitter.com/luiyo/status/848109990938386432&quot;&gt;1 de abril de 2017&lt;/a&gt;
-  &lt;/blockquote&gt;
-  &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
- &lt;/center&gt;
- &lt;br&gt;
- &lt;li&gt;&lt;a href=&quot;http://2017.greachconf.com/sessions/mastering-async-in-ratpack/&quot;&gt;Mastering Async In Ratpack&lt;/a&gt;, by &lt;a href=&quot;http://2017.greachconf.com/speakers/danny-hyun/&quot;&gt;&lt;b&gt;Danny Hyun&lt;/b&gt;&lt;/a&gt; (&lt;a href=&quot;https://twitter.com/Lspacewalker&quot;&gt;@Lspacewalker&lt;/a&gt;). Danny went beyond the basic concepts of concurrency in a fantastic code-driven talk, showing a lot of good examples about the complexity of this kind of problems. He explained how &lt;a href=&quot;https://ratpack.io/&quot;&gt;Ratpack&lt;/a&gt; comes to the rescue, how the Ratpack concept of Promise works, how to manage them and how to test complex concurrent execution flows. Very complete for 45 minutes and very well presented. Homework: read about &lt;a href=&quot;http://www.kegel.com/c10k.html&quot;&gt;the C10K problem&lt;/a&gt; and &lt;a href=&quot;https://lmax-exchange.github.io/disruptor/&quot;&gt;the Disruptor pattern&lt;/a&gt;&lt;/li&gt;
- &lt;br&gt;
- &lt;center&gt;
-  &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;
-   &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Notes for Rapid Ratpack Web app development &lt;a href=&quot;https://t.co/XPKWNA3dg1&quot;&gt;https://t.co/XPKWNA3dg1&lt;/a&gt;&lt;a href=&quot;https://twitter.com/greachconf&quot;&gt;@greachconf&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/greach?src=hash&quot;&gt;#greach&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/groovylang?src=hash&quot;&gt;#groovylang&lt;/a&gt;&lt;/p&gt;— Danny Bo Banny (@Lspacewalker)
-   &lt;a href=&quot;https://twitter.com/Lspacewalker/status/847814994548936704&quot;&gt;31 de marzo de 2017&lt;/a&gt;
-  &lt;/blockquote&gt;
-  &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
- &lt;/center&gt;
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;p&gt;See you in &lt;b&gt;Greach 2018&lt;/b&gt;!!&lt;/p&gt;
-
 	</description>
     </item>
 
