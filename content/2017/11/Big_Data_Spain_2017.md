@@ -84,7 +84,7 @@ Another of my favorite talks of this BDS, and very difficult to summarize. Nikol
 Tyler based his session on a very simple but interesting concept: "Tables are data at rest, Streams are data in motion". He explained why it's important to know perfectly the status of the data at each stage, and how to make the most of both data structures mastering the operations and transformations between streams and tables.
 
 <center><div class="image">
-  <img src="/img/2017/11/BDS_Tyler_Akidau.jpg" alt="Tables are data at rest, Streams are data in motion>
+  <img src="/img/2017/11/BDS_Tyler_Akidau.jpg" alt="Tables are data at rest, Streams are data in motion">
   <div class="caption">Tables are data at rest, Streams are data in motion</div>
 </div></center>
 
@@ -98,8 +98,6 @@ This was a surprisingly interesting talk, despite I entered the room expecting v
 **[AI in VR](https://www.bigdataspain.org/2017/talk/tbc-michael-ludden), by [Michael Ludden](https://twitter.com/Michael_Ludden) (IBM Watson)**
 
 this session was very funny and interesting. Michael summarized the current ecosystem regarding AI in VR, explained the current approaches to AI (and the pros and cons of each) and even made some predictions about what will happen in the future. As Director of Product of [**IBM Watson**](https://www.ibm.com/watson/), he presented as an example [_Star Trek: Bridge Crew_](https://www.ubisoft.com/en-US/game/star-trek-bridge-crew/), an amazing VR game that reacts not only to the player movements but also to voice commands. I'll just leave you with the trailer:
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/3Sg3lEIGQyo?rel=0" frameborder="0" allowfullscreen></iframe></center>
 
 **[Streaming analytics @ ING](https://www.bigdataspain.org/2017/talk/streaming-analytics-ing), by [David Vaquero](https://twitter.com/davidvaquero) (ING Bank)**
 
