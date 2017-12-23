@@ -3,10 +3,10 @@ date=2017-12-13
 type=post
 tags=personal,tourism,holidays,history
 status=draft
-featuredimage=img/2017/12/Mount_Saint_Michel.jpg
-featuredalt=Mount Saint Michel
-featuredcaption=Mount Saint Michel - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a>
-summary=
+featuredimage=img/2017/12/Mont_Saint_Michel.jpg
+featuredalt=Mont Saint-Michel
+featuredcaption=Mont Saint-Michel - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a>
+summary=Some months ago I wrote in the blog about my road trip through the Romantikstraße in Austria. I shared the trip with Agatha and it went great, so we took advantage of the fact that we both had several pending holidays for this year and repeated the experience in two of the most beautiful regions in France: Normandy and Brittany. This post will be a summary of our experience in Normandy and hopefully I'll be able to write a similar one for Brittany.
 ~~~~~~
 
 Some months ago I wrote in the blog about [my road trip through the Romantikstraße in Austria](/blog/2017/05/Romantikstrasse-the-Romantic-Road_1.html). I shared the trip with Agatha and it went great, so we took advantage of the fact that we both had several pending holidays for this year and repeated the experience in two of the most beautiful regions in France: Normandy and Brittany. This post will be a summary of our experience in Normandy and hopefully I'll be able to write a similar one for Brittany.
@@ -50,10 +50,71 @@ Places we visited:
 - **Aître Saint-Maclou**, It is one of the rarest ossuaries remaining in Europe. It's origin as a normal cemetery dates back to the Black Death. After a new epidemic in the 16th century it became necessary to increase its capacity so they build galleries with several rooms to contain the bones.
 - Other interesting places we couldn't visit properly: the **Musée des Beaux-Arts**, the **Musée Le Secq des Tournelles** and the **Tower of Jean of Arc**
 
+**Bonus recomendation**: [Restaurant L'Anticonformiste](https://www.openstreetmap.org/node/5292325973), the food was great and they have an interesting atmosphere and decoration. It was full of locals, but the place is tourist friendly
+
 ## The Normandy Abbeys Trail
 
 This interesting trail starts with the Church of Saint-Ouen in Rouen, and continues near the city following down the course of the Seine River.
 
 - **Saint-Georges Abbey** in Saint-Martin-de-Boscherville, sadly it was closed so we couldn't enter (not even the gardens) but there is a remarkable bakery that compensated us
-- **Jumièges Abbey**
-- **Saint-Wandrille Abbey**
+- **Jumièges Abbey**, it was a Benedictine monastery, now turned into a nice ruins. The remains are perfectly preserved and the audioguide tells a lot, but maybe I missed more context information about the place. We had the entire place almost empty for ourselves, I feel that the visit will lose a lot if crowded with people
+- **Saint-Wandrille Abbey**, we arrived late for the guided visit (in French) so we had to settle for being able to take a walk around. The place is still hosting a community of monks, so you cannot see a lot without a proper tour. Nice but you can skip it if you are not going to enter and visit the place properly
+
+## Étretat
+
+[Étretat](https://en.wikipedia.org/wiki/%C3%89tretat) is known for its cliffs, including three natural arches and a pointed formation called L'Aiguille (the Needle) which rises 70 metres above the sea. We lunched there the typical mussels before walking through the beach to get to a cave by which you can cross to another rock beach to see the largest arch and the Needle, not visible from the town. As many other things around here, with high tide you cannot reach the tunnel so we were more or less lucky. There is also an interesting trail through the cliffs, so we hiked for a while and enjoyed a couple of viewpoints.
+
+**Bonus recomendation**: [La Salamandre](https://www.openstreetmap.org/node/2687649645), the typical restaurant to eat Mules e Frites (mussels with french fries), the waiters were friendly and both the building and the decoration are unique.
+
+## Honfleur
+
+Sadly we had to choose between Le Havre and Honfleur (the northern and southern banks of the estuary of the Seine River, respectively) and we opted for the latter to continue exploring the good rural taste of Normandy. Probably we made a good choice because we loved Honfleur, a lot, and we only regret not having been able to walk it during day.
+
+[Honfleur](https://en.wikipedia.org/wiki/Honfleur) is full of restaurants, boutiques, chocolate shops, art workshops and galleries. Almost everything was open until late so I can imagine that they are used to receive a big bunch of tourists. Lucky us, we visited everything almost empty and we could had dinner in a great restaurant without a previous booking.
+
+- **Saint-Catherine's Church**, this temple was built almost entirely with wood and incredibly it is still standing. It is the largest church made out of wood in France. To add more value to the place, it's said that it was built without using any saw, only cutting the wood with axes. It's very beautiful both inside and outside.
+- **Vieux Basin** and **Le Lieutance**, close to the church you can find the picturesque old port, one of the finest that we've seen in the entire trip, and the old house of the Lieutenant.
+- **Le Jardin du Tripot**, one of those marvellous places that only locals, very well informed tourists and geocachers get to visit. Don't miss it, I won't tell more to avoid spoiling the surprise.
+
+**Bonus recomendation**: [L'Homme de Bois](https://www.openstreetmap.org/node/5292329900), Honfleur is full of restaurants for all pockets but this one convinced us just by crossing ahead. We could not have dinner better, I tried their grilled stingray fin and it was delicious
+
+## Normandie Battle coast, museums and memorials
+
+We visited several landmarks related with Second World War, the Battle of Normandy and the Normandy landings. We didn't enter all the museums as they are apparently very similar, but we probably visited the most relevant ones.
+
+- **Musée mémorial de la Bataille de Normandie**, one of the biggest colection of vehicles and weapons (mainly originals with some replicas). The way they present the collection may have aged too much, they would improve a lot if they changed the appearance of some posters and displays, and the approach of the signage in some areas
+- **German Cemetery**, our first truly sad place of the trip. Many years have passed but it continues to impress me the amount of people involved in WWII. The cemetery was totally empty for us, and it was specially impressive thanks to a chilly atmosphere with some fog and the early sun.
+- **The Pointe du Hoc**, one of the most representative places of the Normandy landings, as it still concentrates most of the remaining bunkers, and dozens of huge craters caused by the bombings. Again, visiting the place almost alone was specially valuable as you could enjoy the silence and try to imagine the place during those terrible days. The storming of the place by a couple hundred american rangers is one of the most epic episodes of the entire Battle of Normandy
+- **Omaha Beach**, maybe the most famous landmark and the one with less _present day_ remains. The beach is huge, no wonder it was a key point in the landings being also the most heavily defended beach.
+- **American Cemetery and Memorial** at Colleville-sur-Mer. Another iconic visit, with its countless tombs overlooking the sea. The contrast with the German cemetery was huge, in many aspects. Curiously, a couple of big murals in the memorial helped me understand much better some concepts and tactical explanations that I've read the day before in the Normandy Battle Memorial Museum.
+- **The German Batteries** at	Longues-sur-Mer, another typical visit with several german batteries preserved almost perfectly with only the damages caused by the war conflict itself. Walking by the closest ones to the coast, it's enough to turn yourself to feel still threatened by the batteries that are still standing
+- **Port Winston** or **Mulberry harbours**. Most of the _temporary_ portable harbour in front of Arromanches is still there, exactly where they were voluntarily sunk. They were developed by the british and meant to be used until the allies captured a normal french port. Another example of the logistical effort that both sides reached during the conflict. What a pity of wasted resources and talent
+- **Mémoral de Caen**, the biggest museum related to WWII in Normandy. The visit is supposed to be essential, but for us it was more and more of the same content. I'd recommend to visit it before going to the rest of the Normandy landing areas. Again, we could enjoy it a lot being almost alones in the entire museum, including a 25-30' projection of a film in a 200-250 seat cinema for us alone.
+
+## Bayeux
+
+[Bayeux](https://en.wikipedia.org/wiki/Bayeux) itself is nice and deserves a visit, but it's specially advisable because it is the home of the [Bayeux Embroidery](https://en.wikipedia.org/wiki/Bayeux_Tapestry). It has always been called the **Bayeux Tapestry** although it is not technically a tapestry, but this is a different story. It's a 70 metres long embroidered cloth which depicts the events leading up to the Norman conquest of England. It was supposedly made in the 11th century, a few years after the Battle of Hastings.
+
+The tapestry consists of about 60 scenes, like in a comic book, and was meant to be displayed annualy in the Bayeux Cathedral so all the citizens could learn about the epic victories of William, Duke of Normandy. Now it's exhibited in a specific museum with some interesting information about its construction and design. This museum is also sized for hundreds of tourists, and it was great to be able to enjoy it almost alone. The audioguide of the museum is mandatory, not only because of the detailed information that it provides but also because the locution of the guide forces you to go along the cloth following the story. A clever way to shepherd tourists.
+
+## Caen
+
+In order to reach Mont Saint-Michel before the high tide, we dedicated [Caen](https://en.wikipedia.org/wiki/Caen) less time than it would normally deserve. We crossed the town center, viewing from the outside the main attractions: the **Church of St. Etienne** (a.k.a. the Men's Abbey), the **Church of Ste. Trinité** (a.k.a. the Women's Abbey) and the Château de Caen, that hosts a couple of museums that we would have visited if only we had 2-3 more hours to spare.
+
+## Mont Saint-Michel
+
+A lot of people recommended us to spend the night inside the _island_ of [Mont Saint-Michel](https://en.wikipedia.org/wiki/Mont_Saint-Michel), even someone said that ideally you should spend two nights: one outside to view the island from the _land_ and another one inside. This is a very poor recommendation, in my opinion.
+
+It's not that I was disappointed with the Mont Saint-Michel, on the contrary I loved it, but it's extremely expensive and I don't see the value of spending even one night inside. We slept in one of the handful of small hotels inside the rock, and for us it was not very abusive but the price of the same room during the high season was more than 400 euros, with an additional 19€ per person for the breakfast.
+
+The restaurants were, as the hotels, very scarce and therefore very expensive. Normal menus for 40, 60 or even 80€. The speciality is a giant french omelette, normally with nothing at all (for about 25-30€) but sometimes with other ingredients as cheese, mushroom or even lobster, asking for up to 75€ per omelette. Ridiculous.
+
+For the first time in the trip, we saw there several tourist groups but it was clearly below the normal occupation. Maybe in Spring or Summer it has more value to spend one night, as it can be the only way to walk by the streets, the walls or the abbey without crowds everywhere.
+
+For me, the most impressive part is not the tides and the water going up and down covering the entrance to the island. The most impressive part is the abbey internals. In order to place the transept crossing of the church on top of the mount they had to build a lot of chambers, crypts and corridors to sustain the upper floors of the Abbey (and the church on top of everything). Again, it's impressive the amount of logistical and technological talent wasted in superstitions.
+
+**Bonus recomendation**: Spend some hours during the day, being aware of the tides schedule to see at least one high tide, but don't spend the night. The visit to the abbey takes about 2h, and the rest of the mount can be seen calmly in another 60-90 minutes, so you don't need more than 4-5 hours to see everything properly and leave with your wallet as harmless as possible.
+
+Let's see when I can write about the other part of the trip, travelling through Brittany.
+
+Stay tuned!
