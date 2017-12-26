@@ -42,7 +42,7 @@ We arrived later than expected so everything was closed. The Cathedral was suppo
 
 Places we visited:
 
-- **Notre Dame Cathedral**, it's huge and awesome, specially from the outside. One of the finest gothic cathedrals around Europe
+- **Notre Dame Cathedral**, it's huge and awesome, specially from the outside. One of the finest gothic cathedrals around Europe.
 
 <center>
 <div class="image">
@@ -51,8 +51,8 @@ Places we visited:
 </div>
 </center>
 
-- **Gros Horloge**, a fourteenth-century two-sides astronomical clock, not as spectacular as the one in Prague, for example, but you should not miss it as it's close to the Cathedral
-- **Place du Vieux Marché** and the **Church of St Joan of Arc**. Joan of Arc was burned alive for heresy in this square in 1431, there is a small memorial with a huge cross marking the spot. The church was completed in 1979, quite modern but the place it's very interesting. The stained glass windows are from the 16th century, retrieved from other church, and the building itself its worth the visit. It's very long, crossing almost entirely the square, and evokes both flames and an overturned ship. There is also an interesting gourmet market beside the church, following the same design
+- **Gros Horloge**, a fourteenth-century two-sides astronomical clock, not as spectacular as the one in Prague, for example, but you should not miss it as it's close to the Cathedral.
+- **Place du Vieux Marché** and the **Church of St Joan of Arc**. Joan of Arc was burned alive for heresy in this square in 1431, there is a small memorial with a huge cross marking the spot. The church was completed in 1979, quite modern but the place it's very interesting. The stained glass windows are from the 16th century, retrieved from other church, and the building itself is worth the visit. It's very long, crossing almost entirely the square, and evokes both flames and an overturned ship. There is also an interesting gourmet market beside the church, following the same design.
 
 <center>
 <div class="image">
@@ -62,18 +62,18 @@ Places we visited:
 </center>
 
 - **Church of Saint Ouen**, the largest gothic temple of Rouen that started as an abbey church but was vacated and it serves now other purposes as part of the Town Hall. When we entered, there was an organ concert and a moder art exposition.
-- **Church of St Maclou**, this 15th century gothic temple is much smaller than the other touristic temples but in my opinion it's the most quaint one. also, the best streets to find a good place to eat or drink (as a resident told us) are the ones surrounding St Maclou.
+- **Church of St Maclou**, this 15th century gothic temple is much smaller than the other touristic temples but in my opinion it's the most quaint one. Also, the best streets to find a good place to eat or drink (as a resident told us) are the ones surrounding St Maclou.
 - **Aître Saint-Maclou**, It is one of the rarest ossuaries remaining in Europe. It's origin as a normal cemetery dates back to the Black Death. After a new epidemic in the 16th century it became necessary to increase its capacity so they build galleries with several rooms to contain the bones.
-- Other interesting places we couldn't visit properly: the **Musée des Beaux-Arts**, the **Musée Le Secq des Tournelles** and the **Tower of Jean of Arc**
+- Other interesting places we couldn't visit properly: the **Musée des Beaux-Arts**, the **Musée Le Secq des Tournelles** and the **Tower of Jean of Arc**.
 
-**Bonus recommendation**: [Restaurant L'Anticonformiste](https://www.openstreetmap.org/node/5292325973), the food was great and they have an interesting atmosphere and decoration. It was full of locals, but the place is tourist friendly
+**Bonus recommendation**: [Restaurant L'Anticonformiste](https://www.openstreetmap.org/node/5292325973), the food was great and they have an interesting atmosphere and decoration. It was full of locals, but the place is tourist friendly.
 
 ## The Normandy Abbeys Trail
 
 This interesting trail starts with the Church of Saint-Ouen in Rouen, and continues near the city following down the course of the Seine River.
 
-- **Saint-Georges Abbey** in Saint-Martin-de-Boscherville, sadly it was closed so we couldn't enter (not even the gardens) but there is a remarkable bakery that compensated us
-- **Jumièges Abbey**, it was a Benedictine monastery, now turned into a nice ruins. The remains are perfectly preserved and the audioguide tells a lot, but maybe I missed more context information about the place. We had the entire place almost empty for ourselves, I feel that the visit will lose a lot if crowded with people
+- **Saint-Georges Abbey** in Saint-Martin-de-Boscherville, sadly it was closed so we couldn't enter (not even the gardens) but there is a remarkable bakery that compensated us.
+- **Jumièges Abbey**, it was a Benedictine monastery, now turned into a nice ruins. The remains are perfectly preserved and the audioguide tells a lot, but maybe I missed more context information about the place. We had the entire place almost empty for ourselves, I feel that the visit will lose a lot if crowded with people.
 
 <center>
 <div class="image">
@@ -82,7 +82,7 @@ This interesting trail starts with the Church of Saint-Ouen in Rouen, and contin
 </div>
 </center>
 
-- **Saint-Wandrille Abbey**, we arrived late for the guided visit (in French) so we had to settle for being able to take a walk around. The place is still hosting a community of monks, so you cannot see a lot without a proper tour. Nice but you can skip it if you are not going to enter and visit the place properly
+- **Saint-Wandrille Abbey**, we arrived late for the guided visit (in French) so we had to settle for being able to take a walk around. The place is still hosting a community of monks, so you cannot see a lot without a proper tour. Nice but you can skip it if you are not going to enter and visit the place properly.
 
 ## Étretat
 
@@ -115,13 +115,13 @@ Sadly we had to choose between Le Havre and Honfleur (the northern and southern 
 
 - **Le Jardin du Tripot**, one of those marvellous places that only locals, very well informed tourists and geocachers get to visit. Don't miss it, I won't tell more to avoid spoiling the surprise.
 
-**Bonus recommendation**: [L'Homme de Bois](https://www.openstreetmap.org/node/5292329900), Honfleur is full of restaurants for all pockets but this one convinced us just by crossing ahead. We could not have dinner better, I tried their grilled stingray fin and it was delicious
+**Bonus recommendation**: [L'Homme de Bois](https://www.openstreetmap.org/node/5292329900), Honfleur is full of restaurants for all pockets but this one convinced us just by crossing ahead. We could not have dinner better, I tried their grilled stingray fin and it was delicious.
 
 ## Normandie Battle coast, museums and memorials
 
 We visited several landmarks related with Second World War, the Battle of Normandy and the Normandy landings. We didn't enter all the museums as they are apparently very similar, but we probably visited the most relevant ones.
 
-- **Musée Mémorial de la Bataille de Normandie**, one of the biggest colection of vehicles and weapons (mainly originals with some replicas). The way they present the collection may have aged too much, they would improve a lot if they changed the appearance of some posters and displays, and the approach of the signage in some areas
+- **Musée Mémorial de la Bataille de Normandie**, one of the biggest colection of vehicles and weapons (mainly originals with some replicas). The way they present the collection may have aged too much, they would improve a lot if they changed the appearance of some posters and displays, and the approach of the signage in some areas.
 
 <center>
 <div class="image">
@@ -139,7 +139,7 @@ We visited several landmarks related with Second World War, the Battle of Norman
 </div>
 </center>
 
-- **Le Pointe du Hoc**, one of the most representative places of the Normandy landings, as it still concentrates most of the remaining bunkers, and dozens of huge craters caused by the bombings. Again, visiting the place almost alone was specially valuable as you could enjoy the silence and try to imagine the place during those terrible days. The storming of the place by a couple hundred american rangers is one of the most epic episodes of the entire Battle of Normandy
+- **Le Pointe du Hoc**, one of the most representative places of the Normandy landings, as it still concentrates most of the remaining bunkers, and dozens of huge craters caused by the bombings. Again, visiting the place almost alone was specially valuable as you could enjoy the silence and try to imagine the place during those terrible days. The storming of the place by a couple hundred american rangers is one of the most epic episodes of the entire Battle of Normandy.
 
 <center>
 <div class="image">
@@ -166,7 +166,7 @@ We visited several landmarks related with Second World War, the Battle of Norman
 </div>
 </center>
 
-- **The German Batteries** at	Longues-sur-Mer, another typical visit with several german batteries preserved almost perfectly with only the damages caused by the war conflict itself. Walking by the closest ones to the coast, it's enough to turn yourself to feel still threatened by the batteries that are still standing
+- **The German Batteries** at	Longues-sur-Mer, another typical visit with several german batteries preserved almost perfectly with only the damages caused by the war conflict itself. Walking by the closest ones to the coast, it's enough to turn yourself to feel still threatened by the batteries that are still standing.
 
 <center>
 <div class="image">
@@ -175,7 +175,7 @@ We visited several landmarks related with Second World War, the Battle of Norman
 </div>
 </center>
 
-- **Port Winston** or **Mulberry harbours**. Most of the _temporary_ portable harbour in front of Arromanches is still there, exactly where they were voluntarily sunk. They were developed by the british and meant to be used until the allies captured a normal french port. Another example of the logistical effort that both sides reached during the conflict. What a pity of wasted resources and talent
+- **Port Winston** or **Mulberry harbours**. Most of the _temporary_ portable harbour in front of Arromanches is still there, exactly where they were voluntarily sunk. They were developed by the british and meant to be used until the allies captured a normal french port. Another example of the logistical effort that both sides reached during the conflict. What a pity of wasted resources and talent.
 
 <center>
 <div class="image">
