@@ -157,9 +157,9 @@ The [Ville Close](https://en.wikipedia.org/wiki/Walled_town_of_Concarneau) (Wall
 
 ## Pont-Aven
 
-[Pont-Aven](https://en.wikipedia.org/wiki/Pont-Aven) is mainly known for the [Pont-Aven School of Arts](https://en.wikipedia.org/wiki/Pont-Aven_School), a group of artists in the 19th century led by [Émile Bernard](https://en.wikipedia.org/wiki/%C3%89mile_Bernard_(painter)) and [Paul Gauguin](https://en.wikipedia.org/wiki/Paul_Gauguin) that painted every corner of this town. Now Pont-Aven is full of tourists, restaurants and art galleries.
+[Pont-Aven](https://en.wikipedia.org/wiki/Pont-Aven) is mainly known for the [Pont-Aven School of Arts](https://en.wikipedia.org/wiki/Pont-Aven_School), a group of artists in the 19th century led by [Émile Bernard](https://en.wikipedia.org/wiki/%C3%89mile_Bernard) and [Paul Gauguin](https://en.wikipedia.org/wiki/Paul_Gauguin) that painted every corner of this town. Now Pont-Aven is full of tourists, restaurants and art galleries.
 
-To reinforce the _impressionist atmosphere_ that inspired the painters and charmes the visitors the entire village, specially around the river, was illuminated in a very special way. I'm not sure if this is always like this or only on these pre-Xmas dates.
+To reinforce the _impressionist atmosphere_ that inspired the painters and charmes the visitors the entire village, specially around the river, was illuminated in a very special way. I'm not sure if this is always like this or only on these pre-XMas dates.
 
 <div class="image central">
     <img src="/img/2017/12/Pont-Aven.jpg" alt="Panoramic of the River Aven passing through Pont-Aven, with nice colours and lights">
@@ -229,7 +229,7 @@ I really wanted to spend a few hours hiking through the forest of [Brocéliande]
 Anyway, our limited walk was great specially under the rain.
 
 <div class="image central">
-    <img src="/img/2017/12/Brocéliande-forest.jpg" alt="Inside Brocéliande forest">
+    <img src="/img/2017/12/Broceliande-forest.jpg" alt="Inside Brocéliande forest">
     <div class="caption">Inside Brocéliande forest</div>
 </div>
 
@@ -274,7 +274,7 @@ I would not mind coming back and spending a quiet weekend here.
 
 ## Le Mans
 
-[Le Mans](https://en.wikipedia.org/wiki/Le_Mans) is not strictly in Brittany, but it was on our way to airport to return the car and flight back home. They claim to be the second most known french city around the world, this is because since 1923, the city hosts the famous [24 Hours of Le Mans](https://en.wikipedia.org/wiki/24_Hours_of_Le_Mans) endurance car race.
+[Le Mans](https://en.wikipedia.org/wiki/Le_Mans) is not in Brittany, but it was on our way to airport to return the car and flight back home. They claim to be the second most known french city around the world, this is because since 1923, the city hosts the famous [24 Hours of Le Mans](https://en.wikipedia.org/wiki/24_Hours_of_Le_Mans) endurance car race.
 
 We couldn't enter the Cathedral but we liked a lot the rest of the town center. It's nice and very lively. They have a zone of narrow streets, around the monument to the 24H of Le Mans race, which is indistinguishable from a shopping center due to the amount of shops of all kinds.
 
