@@ -1,8 +1,8 @@
 title=Brittany: a brief opinionated guide
-date=2017-12-30
+date=2017-12-31
 type=post
 tags=personal,tourism,holidays,history
-status=draft
+status=published
 featuredimage=img/2017/12/Vannes.jpg
 featuredalt=Vannes
 featuredcaption=Vannes - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a>
