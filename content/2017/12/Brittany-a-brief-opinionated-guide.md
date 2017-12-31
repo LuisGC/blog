@@ -3,15 +3,15 @@ date=2017-12-30
 type=post
 tags=personal,tourism,holidays,history
 status=draft
-featuredimage=img/2017/12/Brittany_places.png
-featuredalt=Mont Saint-Michel
-featuredcaption=Mont Saint-Michel - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a>
-summary=Some months ago I wrote in the blog about my road trip through the Romantikstraße in Austria. I shared the trip with Agatha and it went great, so we took advantage of the fact that we both had several pending holidays for this year and repeated the experience in two of the most beautiful regions in France: Normandy and Brittany. This post will be a summary of our experience in Normandy and hopefully I'll be able to write a similar one for Brittany.
+featuredimage=img/2017/12/Vannes.jpg
+featuredalt=Vannes
+featuredcaption=Vannes - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a>
+summary=As explained in the previous post, I've recently been in <b>Normandy</b> and <b>Brittany</b> with my friend Agatha. After publishing the first part of the trip: <i>Normandy: a brief opinionated guide</i> now I proceed to do the same with Brittany.
 ~~~~~~
 
 As explained in the previous post, I've recently been in Normandy and Brittany with my friend Agatha. After publishing the first part of the trip: [**Normandy: a brief opinionated guide**](/blog/2017/12/Normandy_a_brief_opinionated_guide.html) now I proceed to do the same with Brittany.
 
-It has been quite complicated because we saw a lot of awesome things and for me it still takes a lot of time to write this kind of articles. Let me repeat the disclaimers:
+It has been quite complicated because we saw a lot of awesome things and for me it still takes a lot of time (several hours) to write this kind of articles. Let me repeat the disclaimers:
 
 # What to expect from this guide
 
