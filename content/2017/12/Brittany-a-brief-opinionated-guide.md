@@ -9,7 +9,7 @@ featuredcaption=Vannes - <a href="http://creativecommons.org/licenses/by-nc-sa/3
 summary=As explained in the previous post, I've recently been in <b>Normandy</b> and <b>Brittany</b> with my friend Agatha. After publishing the first part of the trip: <i>Normandy: a brief opinionated guide</i> now I proceed to do the same with Brittany.
 ~~~~~~
 
-As explained in the previous post, I've recently been in Normandy and Brittany with my friend **Agatha**. After publishing the first part of the trip ([**Normandy: a brief opinionated guide**](/blog/2017/12/Normandy_a_brief_opinionated_guide.html)) now I proceed to do the same with Brittany.
+As explained in the previous post, I've recently been in Normandy and Brittany with my friend **Agatha**. After publishing the first part of the trip ([**Normandy: a brief opinionated guide**](/blog/2017/12/Normandy-a-brief-opinionated-guide.html)) now I proceed to do the same with Brittany.
 
 It has been quite complicated because we saw a lot of awesome things and for me it still takes a lot of time (several hours) to write this kind of articles.
 
