@@ -15,7 +15,7 @@ It has been quite complicated because we saw a lot of awesome things and for me 
 
 # What to expect from this guide
 
-I don't like to repeat myself, so I invite you to read the disclaimers in the [Normandy](/blog/2017/12/Normandy_a_brief_opinionated_guide.html) article. I'll simply put here the map of Brittany prepared by Agatha.
+I don't like to repeat myself, so I invite you to read the disclaimers in the [Normandy](/blog/2017/12/Normandy-a-brief-opinionated-guide.html) article. I'll simply put here the map of Brittany prepared by Agatha.
 
 <div class="image central">
     <img src="/img/2017/12/Brittany_places.png" alt="Map with the main places to visit in Brittany">
