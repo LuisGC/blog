@@ -5,10 +5,10 @@ tags=blog,technology,design,programming
 status=published
 featuredimage=img/2017/05/Bake_your_own_site.png
 featuredalt=JBake
-summary=<p>Almost since <a href="/blog/2003/10/arranca-luiyologa.html">I created my personal blog</a> in 2003 I thought about moving it from blogger to my own domain, private hosting and so on. My lazyness prevented me from doing so. Not because the migration itself, but for the maintenance it entailed.</p><p>Anyhow, I was determined to migrate my blog outside of any blogging platform. I wanted to have complete control over my content, but without wasting lots of time in maintenance. All I needed was a way to do it seamlessly, quickly, and as automated as possible.</p>
+summary=<p>Almost since I created my personal blog in 2003 I thought about moving it from blogger to my own domain, private hosting and so on. My lazyness prevented me from doing so. Not because the migration itself, but for the maintenance it entailed.</p><p>Anyhow, I was determined to migrate my blog outside of any blogging platform. I wanted to have complete control over my content, but without wasting lots of time in maintenance. All I needed was a way to do it seamlessly, quickly, and as automated as possible.</p>
 ~~~~~~
 
-Almost since [I created my personal blog](/blog/2003/10/arranca-luiyologa.html) in 2003 I thought about moving it from blogger to my own domain, private hosting and so on. My lazyness prevented me from doing so. Not because the migration itself, but for the maintenance it entailed.
+Almost since [I created my personal blog](/blog/2003/10/arranca-luiyologia.html) in 2003 I thought about moving it from blogger to my own domain, private hosting and so on. My lazyness prevented me from doing so. Not because the migration itself, but for the maintenance it entailed.
 
 Anyhow, I was determined to migrate my blog outside of any blogging platform. I wanted to have complete control over my content, but without wasting lots of time in maintenance. All I needed was a way to do it seamlessly, quickly, and as automated as possible.
 
