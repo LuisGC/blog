@@ -2,9 +2,10 @@ title=Mi 2017 lúdico
 date=2018-01-04 10:23
 type=post
 tags=games,culture,personal,retrospective
-status=draft
-featuredimage=img/2017/01/gamesTagCloud2016.png
-featuredalt=games tag cloud 2016
+status=published
+featuredimage=img/2018/01/gamesTagCloud2017.png
+featuredalt=games tag cloud 2017
+featuredcaption=Un tag cloud con los juegos a los que jugué en 2017, el tamaño indica cantidad de partidas
 summary=Vuelvo al castellano, para dar continuidad a esta serie de análisis sobre las partidas que he jugado durante el año anterior.
 ~~~~~~
 
@@ -17,7 +18,7 @@ Vuelvo al castellano, para dar continuidad a esta serie de análisis sobre las p
 * [2012](/blog/2013/01/partidas-jugadas-en-2012.html)
 * [2011](/blog/2012/01/juegos-los-que-mas-he-jugado-en-2011.html)
 
-Todo, como ya sabéis, gracias a <strike>la manía</strike> mi hábito de registrar en <a href="http://www.boardgamegeek.com/"><b>Board Game Geek</b></a> todas las partidas según las estoy jugando mediante esta <a href="https://market.android.com/details?id=com.boardgamegeek&amp;hl=es">aplicación para <b>Android</b></a> que hace poco fue aparentemente forzada a declararse como no oficial.
+Todo, como ya sabéis, gracias a <strike>la manía</strike> mi hábito de registrar en <a href="http://www.boardgamegeek.com/"><b>Board Game Geek</b></a> todas las partidas según las estoy jugando mediante esta <a href="https://market.android.com/details?id=com.boardgamegeek&amp;hl=es">aplicación para <b>Android</b></a> (que hace poco fue aparentemente forzada a declararse como no oficial).
 
 <table style="width:100%">
   <caption>Evolución de las partidas jugadas en los últimos años</caption>
