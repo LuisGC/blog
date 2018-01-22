@@ -90,3 +90,7 @@ OK, it's not my case but if you already know everything that I mentioned (or so 
 * Improve your knowledge and skills about [DevOps culture](https://en.wikipedia.org/wiki/DevOps) and [Cloud Computing](https://en.wikipedia.org/wiki/Cloud_computing).
 
 * Do not settle for anything. If your job/company does not give you what you're looking for, you must run out of there.
+
+## Feedback
+
+What do you think? Am I missing something? Let me know in the comments!
