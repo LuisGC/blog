@@ -81,7 +81,7 @@ Get involved with your community. Try to attend local [Meetups](https://www.meet
 
 OK, it's not my case but if you already know everything that I mentioned (or so you think) let me give some bonus recommendations:
 
-* As a proficient Java developer stay in the backend. Do not fall on the dark side by programming front.
+* As a **proficient** Java developer, you should consider staying in the backend. Do not fall on the dark side by programming front, there is plenty of fun and complexity in the back.
 
 * Dive deep into performance and fine tuning.
 
