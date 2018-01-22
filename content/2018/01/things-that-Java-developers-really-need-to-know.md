@@ -81,7 +81,7 @@ Get involved with your community. Try to attend local [Meetups](https://www.meet
 
 OK, it's not my case but if you already know everything that I mentioned (or so you think) let me give some bonus recommendations:
 
-* As a **proficient** Java developer, you should consider staying in the backend. Do not fall on the dark side by programming front, there is plenty of fun and complexity in the back.
+* If you are a **proficient** Java developer, you should consider staying in the backend. It may seem that it is unavoidable to code frontend, but there is plenty of fun and complexity in the back. Nowadays you can evolve and grow your career without changing the platform.
 
 * Dive deep into performance and fine tuning.
 
@@ -93,4 +93,6 @@ OK, it's not my case but if you already know everything that I mentioned (or so 
 
 ## Feedback
 
-What do you think? Am I missing something? Let me know in the comments!
+This is just my opinion. What do you think? Am I missing something?
+
+Let me know in the comments!
