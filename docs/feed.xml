@@ -6,9 +6,66 @@
     <atom:link href="https://luiyo.net/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>Luiyolog&iacute;a - The Science that studies my interests and concerns</description>
     <language>en-gb</language>
-    <pubDate>Sat, 6 Jan 2018 13:35:07 +0000</pubDate>
-    <lastBuildDate>Sat, 6 Jan 2018 13:35:07 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jan 2018 21:34:31 +0000</pubDate>
+    <lastBuildDate>Mon, 22 Jan 2018 21:34:31 +0000</lastBuildDate>
 
+    <item>
+      <title>Some things that Java developers really need to know in 2018</title>
+      <link>https://luiyo.net/blog/2018/01/things-that-Java-developers-really-need-to-know.html</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2018/01/things-that-Java-developers-really-need-to-know.html</guid>
+      	<description>
+	&lt;p&gt;A couple of days ago &lt;a href=&quot;https://dzone.com&quot;&gt;&lt;strong&gt;DZone&lt;/strong&gt;&lt;/a&gt; published an article called &lt;a href=&quot;https://dzone.com/articles/5-things-java-programmer-should-learn-in-2018&quot;&gt;&lt;em&gt;9 Things Java Programmers Should Learn in 2018&lt;/em&gt;&lt;/a&gt;. I liked the idea and I even recommended the article to a couple of colleagues who are trying to reorient their professional career. After the advice I added some personal disclaimers about the content, to the point that one of my friends wisely told me:&lt;/p&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;br/&gt;if you don&apos;t agree with these recommendations, why don&apos;t you write your own article?&lt;br/&gt;&lt;/blockquote&gt;&lt;/p&gt;
+&lt;p&gt;...and that brought us here :-)&lt;/p&gt;
+&lt;p&gt;The article in DZone is fine and very detailed with good recommendations but it&apos;s not realistic. Some of the things that the author considers essential (Android development or Spring Security, for example) for me are not that important, at least from a general perspective. You can (and should) learn them if you need them, but 99% of you will survive without them.&lt;/p&gt;
+&lt;p&gt;Instead of sharing my view only with a couple of colleagues, I&apos;ll try to give a realistic and opinionated (yes, I like the word) list of things in no particular order that you need to know or learn in 2018 if you are a Java developer. Some of them are not new, but you need to be sure that you know (or master, if you want) them by the end of the year.&lt;/p&gt;
+&lt;p&gt;I&apos;m addressing only Java developers, but hopefully you&apos;ll find something of value even if you&apos;re not.&lt;/p&gt;
+&lt;h2&gt;Learn Java 8, and then Java 9&lt;/h2&gt;
+&lt;p&gt;January 2018 and I still find a lot of Java developers who do not know much about &lt;strong&gt;Java 8&lt;/strong&gt;. Regarding this, my recommendation clearly is to learn separately Java 8 with the huge amount of improvements it brought to the language and then, and only then, start playing with &lt;strong&gt;Java 9&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;You will be a better developer after you learn Java 8, even if in your current project they force you to code in Java 6. You&apos;ll understand why some improvements were needed in the language and you&apos;ll be the first in the line when a migration to Java 8 or 9 approaches in your surroundings (and it will, eventually).&lt;/p&gt;
+&lt;p&gt;But let me remark this, it does not matter if you have dozens of badges in &lt;a href=&quot;https://www.codecademy.com/&quot;&gt;Codecademy&lt;/a&gt; or &lt;a href=&quot;https://www.codeschool.com/&quot;&gt;Code School&lt;/a&gt; if by the end of 2018 you are not familiar with Java 8 and Java 9.&lt;/p&gt;
+&lt;h2&gt;Unit Testing as the logical choice&lt;/h2&gt;
+&lt;p&gt;If at this point of your career you don&apos;t write unit tests you can stop reading the article right now, this is not going with you. If on the contrary you are already used to write unit tests for your code, your next goal is to write better tests.&lt;/p&gt;
+&lt;p&gt;Are you stuck with JUnit? &lt;a href=&quot;http://junit.org/junit5/&quot;&gt;JUnit 5&lt;/a&gt; was released recently and I haven&apos;t checked it yet, but let me recommend a more logical choice: &lt;a href=&quot;http://spockframework.org/&quot;&gt;&lt;strong&gt;Spock&lt;/strong&gt;&lt;/a&gt;. Less verbose, more idiomatic, integrated stubbing and mocking, easy parametrized testing, test data tables, ... If you are using JUnit, there is nothing that prevents you from going to Spock (totally or at least partially to test the new features).&lt;/p&gt;
+&lt;p&gt;Beside the framework, now that you are familiar with the classic code coverage metrics, take a look to &lt;a href=&quot;http://pitest.org/&quot;&gt;Pitest&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Mutation_testing&quot;&gt;mutation testing&lt;/a&gt; principles in general.&lt;/p&gt;
+&lt;h2&gt;JVM internals&lt;/h2&gt;
+&lt;p&gt;Yes, performance tuning is important and learning about it will help you in your daily work, in yearly rise negotiations and job interviews in general. But let&apos;s take a step back, do you really know the JVM internals enough before looking at it with a magnifying glass? I&apos;ve met a huge amount of developers and Java Architects that don&apos;t even know what &lt;a href=&quot;https://tinyurl.com/d77yltz&quot;&gt;&lt;strong&gt;GC&lt;/strong&gt;&lt;/a&gt; is, what does &lt;a href=&quot;https://en.wikipedia.org/wiki/Stop-the-world&quot;&gt;&lt;strong&gt;Stop The World&lt;/strong&gt;&lt;/a&gt; mean or how does a &lt;a href=&quot;https://en.wikipedia.org/wiki/Java_Classloader&quot;&gt;dynamic class loader&lt;/a&gt; work.&lt;/p&gt;
+&lt;p&gt;Yes, it&apos;s great to know how to analyze and profile an application to figure out why it&apos;s so slow or why it crashes. But unfortunately for you, you can not always blame others. Make your best effort to understand that not everything is magic.&lt;/p&gt;
+&lt;h2&gt;Learn Apache Groovy&lt;/h2&gt;
+&lt;p&gt;Once you know your weapons, it&apos;s good that you know what you&apos;re up against. Forget about &lt;a href=&quot;https://kotlinlang.org/&quot;&gt;Kotlin&lt;/a&gt; and, at least for starters, forget about &lt;a href=&quot;http://www.scala-lang.org/&quot;&gt;Scala&lt;/a&gt;. As with Spock, there are few excuses to prevent you from coding in &lt;a href=&quot;http://www.groovy-lang.org/&quot;&gt;&lt;strong&gt;Apache Groovy&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=SGpJafTYwOQ&quot;&gt;Groovy is not only Java without semicolons&lt;/a&gt;. The description in the project website is clear enough so let me quote it:&lt;/p&gt;
+&lt;p&gt;&lt;blockquote&gt;Apache Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax. It integrates smoothly with any Java program, and immediately delivers to your application powerful features, including scripting capabilities, Domain-Specific Language authoring, runtime and compile-time meta-programming and functional programming.&lt;/blockquote&gt;&lt;/p&gt;
+&lt;p&gt;OK, I said that you will likely survive without Android knowledge and for sure you&apos;ll probably survive without learning Groovy. But even if you find it difficult to use it in your projects I firmly believe that learning Groovy will have a substantial impact on your career and will even make you a better Java developer.&lt;/p&gt;
+&lt;p&gt;Join me in the next &lt;a href=&quot;http://2018.greachconf.com/&quot;&gt;&lt;strong&gt;Greach Conference&lt;/strong&gt;&lt;/a&gt; and you won&apos;t regret.&lt;/p&gt;
+&lt;h2&gt;Code regularly&lt;/h2&gt;
+&lt;p&gt;As the DZone article remarks, sadly it&apos;s usual practice to spend less time coding as your experience grows. This would deserve a totally different article, but for the moment let me stress that whatever your work experience is, you should not disconnect from programming and source code in general.&lt;/p&gt;
+&lt;p&gt;There are a lot of online resources about problems to be solved or challenges in general, but you don&apos;t even need to complicate yourself or challenge others. You can simply think about something you need at home (or at squad level) and try to create a software tool to mitigate or solve those problems. I personally would recommend both approaches: try to enjoy the technical and social part of the hackatons or coding challenges but also try to solve your needs in solitude at home.&lt;/p&gt;
+&lt;p&gt;Try new data structures, learn new algorithms and understand the pros and cons of them. Force yourself to struggle solving a specific problem without using the most appropriate data structure or without loops, for example.&lt;/p&gt;
+&lt;h2&gt;Learn from others and let others learn from you&lt;/h2&gt;
+&lt;p&gt;As others say there are only two ways to improve yourself, learning from your own experience (which is very limited) or learning from others experience (which is unlimited).&lt;/p&gt;
+&lt;p&gt;Ask for recommendations and read technical books, related to the Java ecosystem or not. Learn first about the principles: clean code, design patterns, testing, functional programming, ...&lt;/p&gt;
+&lt;p&gt;Read more code. It can be code from an open source project or code from your squad&apos;s fellows. Try to find both the good patterns and the bad smells. Discuss with your peers about it (always politely) and let them also learn from you.&lt;/p&gt;
+&lt;p&gt;Write about your experiences, in a blog preferably. The writing exercise itself will help you consolidate what you are learning. Use an &lt;a href=&quot;https://www.staticgen.com/&quot;&gt;open source static site generator&lt;/a&gt; and you&apos;ll also learn designing your site and deploying your blog posts.&lt;/p&gt;
+&lt;p&gt;Get involved with your community. Try to attend local &lt;a href=&quot;https://www.meetup.com/&quot;&gt;Meetups&lt;/a&gt; and technical conferences, eventually you&apos;ll find the courage to even send proposals for those meetups and conferences.&lt;/p&gt;
+&lt;h2&gt;Luis, I already know everything!&lt;/h2&gt;
+&lt;p&gt;OK, it&apos;s not my case but if you already know everything that I mentioned (or so you think) let me give some bonus recommendations:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+  &lt;p&gt;As a proficient Java developer stay in the backend. Do not fall on the dark side by programming front.&lt;/p&gt;&lt;/li&gt;
+  &lt;li&gt;
+  &lt;p&gt;Dive deep into performance and fine tuning.&lt;/p&gt;&lt;/li&gt;
+  &lt;li&gt;
+  &lt;p&gt;Learn about &lt;a href=&quot;https://kafka.apache.org/&quot;&gt;&lt;strong&gt;Apache Kafka&lt;/strong&gt;&lt;/a&gt;, it&apos;ll open you some doors now and probably lots more in the near future.&lt;/p&gt;&lt;/li&gt;
+  &lt;li&gt;
+  &lt;p&gt;Improve your knowledge and skills about &lt;a href=&quot;https://en.wikipedia.org/wiki/DevOps&quot;&gt;DevOps culture&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Cloud_computing&quot;&gt;Cloud Computing&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+  &lt;li&gt;
+  &lt;p&gt;Do not settle for anything. If your job/company does not give you what you&apos;re looking for, you must run out of there.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Feedback&lt;/h2&gt;
+&lt;p&gt;What do you think? Am I missing something? Let me know in the comments!&lt;/p&gt;
+	</description>
+    </item>
     <item>
       <title>Mi 2017 lúdico</title>
       <link>https://luiyo.net/blog/2018/01/mi-2017-ludico.html</link>
@@ -733,68 +790,6 @@
 &lt;/div&gt;
 &lt;p&gt;Our visit on the fifth and last day is not strictly part of the Romantikstraße route, but it&apos;ll be part of my review anyway.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Stay tuned for the last episode!&lt;/strong&gt;&lt;/p&gt;
-	</description>
-    </item>
-    <item>
-      <title>Romantikstraße, the Romantic Road (3 of 5)</title>
-      <link>https://luiyo.net/blog/2017/06/Romantikstrasse-the-Romantic-Road_3.html</link>
-      <pubDate>Sun, 11 Jun 2017 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2017/06/Romantikstrasse-the-Romantic-Road_3.html</guid>
-      	<description>
-	&lt;p&gt;This is the third part of my chronicle about our trip through the &lt;a href=&quot;http://www.romantikstrasse.at/es/&quot;&gt;&lt;strong&gt;Romantikstraße&lt;/strong&gt;&lt;/a&gt;, you can read the rest here:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/blog/2017/05/Romantikstrasse-the-Romantic-Road_1.html&quot;&gt;Romantikstraße, the Romantic Road (1 of 5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/blog/2017/06/Romantikstrasse-the-Romantic-Road_2.html&quot;&gt;Romantikstraße, the Romantic Road (2 of 5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/blog/2017/07/Romantikstrasse-the-Romantic-Road_4.html&quot;&gt;Romantikstraße, the Romantic Road (4 of 5)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/blog/2017/07/Romantikstrasse-the-Romantic-Road_5.html&quot;&gt;Romantikstraße, the Romantic Road (5 of 5)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;Day 3&lt;/h1&gt;
-&lt;p&gt;After two days visiting splendid places with invaluable surprises, we finally decided to discard a short visit to &lt;a href=&quot;https://en.wikipedia.org/wiki/Salzburg&quot;&gt;&lt;strong&gt;Salzburg&lt;/strong&gt;&lt;/a&gt; in order to spend more time on each stage of our trip. We wanted to take advantage of our rental car and Salzbug deserves to be visited more calmly (and you don&apos;t need a car to go there). For similar reasons, we also ruled out going to the &lt;a href=&quot;https://en.wikipedia.org/wiki/Hohenwerfen_Castle&quot;&gt;&lt;strong&gt;Hohenwerfen Castle&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I think it was the right decision, because it allowed us to make the most of the remaining of our road trip.&lt;/p&gt;
-&lt;h2&gt;Sankt Wolfgang im Salzkammergut&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/St._Wolfgang_im_Salzkammergut&quot;&gt;&lt;strong&gt;Sankt Wolfgang im Salzkammergut&lt;/strong&gt;&lt;/a&gt; is one of the most touristic places of Austria. I suspect that I&apos;d have prefered to visit this town 15-20 years ago, now it&apos;s excessively exploited touristically. In the narrow streets of the center I had the feeling of being inside a theme park, and unfortunately one with many more shops than attractions. It is possible that the shops and restaurants themselves are nowadays the attractions. Not for me.&lt;/p&gt;
-&lt;div class=&quot;image lateral&quot;&gt;
-  &lt;img src=&quot;/img/2017/06/Schafbergbahn.jpg&quot; alt=&quot;Schafbergbahn trains crossing&quot;&gt;
-  &lt;div class=&quot;caption&quot;&gt;Schafbergbahn trains crossing&lt;br /&gt;Source: My own pictures - &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;&lt;i&gt;CC BY-NC-SA&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;But still we had a great time there.&lt;/p&gt;
-&lt;p&gt;We started the day by climbing on the &lt;a href=&quot;https://en.wikipedia.org/wiki/Schafberg_Railway&quot;&gt;&lt;strong&gt;Schafbergbahn&lt;/strong&gt;&lt;/a&gt;, a rack railway leading in the warmer half of the year from almost the lakeshore of the &lt;em&gt;Wolfgangsee&lt;/em&gt; lake to the summit of the &lt;a href=&quot;http://tinyurl.com/yc6umwwp&quot;&gt;&lt;strong&gt;Schafberg&lt;/strong&gt; mountain&lt;/a&gt; (1,783 m). From the viewpoints of Schafberg it is possible to see 9 of the main lakes of Austria, countless mountains and an infinite 360º landscape.&lt;/p&gt;
-&lt;p&gt;Initially it reminded me to a small version of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Jungfrau_Railway&quot;&gt;&lt;strong&gt;Jungfraubahn&lt;/strong&gt;&lt;/a&gt;, which I visited in 2013. Saving the differences because the &lt;a href=&quot;https://en.wikipedia.org/wiki/Jungfraujoch&quot;&gt;&lt;em&gt;Jungfraujoch&lt;/em&gt;&lt;/a&gt; station is the highest station in Europe (3,454 m), the line is more than twice as long and the amount of visitors is probably exponentially greater in the Jungfrau.&lt;/p&gt;
-&lt;p&gt;Unfortunately, due to some construction works in the railway, the train only reached the &lt;strong&gt;Schafbergalpe&lt;/strong&gt; (1,363 m), an intermediate railway halt with a big guest house, a couple of private houses and traces of many hiking trails.&lt;/p&gt;
-&lt;p&gt;Despite not being on the mountaintop, the views were overwhelming. We wandered around the area, taking lots of pictures but as you can imagine they don&apos;t capture the feeling of being up there surrounded by such a wonderful environment. For my next visit I promise to bring adequate equipment to do some hiking route.&lt;/p&gt;
-&lt;div class=&quot;image&quot;&gt;
-  &lt;img src=&quot;/img/2017/06/Schafbergalpe.jpg&quot; alt=&quot;Staring into the endless mountains at Schafbergalpe&quot;&gt;
-  &lt;div class=&quot;caption&quot;&gt;Staring into the endless mountains at Schafbergalpe&lt;br /&gt;Source: My own pictures - &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;&lt;i&gt;CC BY-NC-SA&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;After the descent came one of the funniest moments of the trip. As we saw in many other places, on the lakeshore of Sankt Wolfgang there were some boat-rental locations. Instead of renting a paddle boat, we chose an small boat with electric engine to try to make a longer trip through the Wolfgangsee lake. In the end, our boat wasn&apos;t much faster than a paddle boat but at least could entertain ourselves doing the clown on board instead of pedaling.&lt;/p&gt;
-&lt;p&gt;Note to my wise readers: What translation to English do you suggest for &lt;em&gt;&quot;hacer el pertur&quot;&lt;/em&gt;?&lt;/p&gt;
-&lt;div class=&quot;image&quot;&gt;
-  &lt;img src=&quot;/img/2017/06/Wolfgangsee_sailing.jpg&quot; alt=&quot;Sailing on the Wolfgangsee&quot;&gt;
-  &lt;div class=&quot;caption&quot;&gt;&lt;i&gt;Sailing&lt;/i&gt; on the Wolfgangsee&lt;br /&gt;Source: My own pictures - &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;&lt;i&gt;CC BY-NC-SA&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Apart from amusing ourselves stupidly, from the boat we could contemplate the town from its best perspective. In the next picture you can perfectly see what I mean, a &lt;em&gt;postcard&lt;/em&gt; view with the main landmarks: the catholic Church of Sainkt Wolfgang and the &lt;a href=&quot;https://en.wikipedia.org/wiki/The_White_Horse_Inn&quot;&gt;&lt;strong&gt;Im Weißen Rößl&lt;/strong&gt; (The White Horse Inn)&lt;/a&gt;. The inn (now an expensive hotel with a couple of fine restaurants) is very popular for a successful operetta of the same name in which the protagonist is a bartender of the inn desperately in love with the owner of The White Horse. The show has been performed several times mainly across Germany and Austria, but in the 1930s it was even featured on Broadway and the West End of London. There are also several movie and TV series adaptations.&lt;/p&gt;
-&lt;div class=&quot;image&quot;&gt;
-  &lt;img src=&quot;/img/2017/06/Sainkt_Wolfgang_postcard_picture.jpg&quot; alt=&quot;Postcard picture of Sainkt Wolfgang im Salzkammergut&quot;&gt;
-  &lt;div class=&quot;caption&quot;&gt;&lt;i&gt;Postcard&lt;/i&gt; picture of Sainkt Wolfgang im Salzkammergut, with the Church of Sainkt Wolfgang and the &lt;b&gt;Im Weißen Rößl&lt;/b&gt; (the yellow building)&lt;br /&gt;Source: My own pictures - &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;&lt;i&gt;CC BY-NC-SA&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;We tried to escape from the tourist traps as much as we could, but in Sainkt Wolfgang it was a really difficult task to achieve. Finally we had lunch in &lt;a href=&quot;http://hubertuskeller.com/&quot;&gt;&lt;em&gt;Hubertuskeller&lt;/em&gt;&lt;/a&gt;. It was very good and not absurdly expensive.&lt;/p&gt;
-&lt;h2&gt;Bad Ischl&lt;/h2&gt;
-&lt;p&gt;For the afternoon we improvised a visit to &lt;a href=&quot;https://en.wikipedia.org/wiki/Bad_Ischl&quot;&gt;&lt;strong&gt;Bad Ischl&lt;/strong&gt;&lt;/a&gt; and it was our main mistake of the trip, but it was our fault and not because the city is not interesting.&lt;/p&gt;
-&lt;p&gt;The center of Bad Ischl is very beautyful and it&apos;s very well maintained, but the main attraction is the &lt;a href=&quot;https://en.wikipedia.org/wiki/Kaiservilla&quot;&gt;&lt;strong&gt;Kaiservilla&lt;/strong&gt;&lt;/a&gt;, summer residence of the Austrian Imperial family, and we couldn&apos;t see it because it was closed. The town is also famous for it&apos;s salt mines and offers several health spas, but we didn&apos;t have time to enjoy them. We walked throught the center, we searched for a couple of cachés and we left to reach Mondsee before sunset.&lt;/p&gt;
-&lt;div class=&quot;image&quot;&gt;
-  &lt;img src=&quot;/img/2017/06/Bad_Ischl.jpg&quot; alt=&quot;Post Office and the Trinkhalle in Bad Ischl&quot;&gt;
-  &lt;div class=&quot;caption&quot;&gt;The Post Office and the &lt;b&gt;Trinkhalle&lt;/b&gt; in Bad Ischl&lt;br /&gt;Source: My own pictures - &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;&lt;i&gt;CC BY-NC-SA&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;h2&gt;Mondsee&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;http://tinyurl.com/y93dqhp2&quot;&gt;&lt;strong&gt;Mondsee&lt;/strong&gt;&lt;/a&gt; is famous for the &lt;a href=&quot;https://en.wikipedia.org/wiki/Mondsee_Abbey&quot;&gt;&lt;em&gt;Mondsee Abbey&lt;/em&gt;&lt;/a&gt; and the &lt;em&gt;Basilica of Saint Michael&lt;/em&gt;, inside which it was filmed the wedding scene of the film &lt;a href=&quot;http://tinyurl.com/y9dphtp9&quot;&gt;&lt;em&gt;The Sound of Music&lt;/em&gt;&lt;/a&gt;. We did not arrive in time to visit the church but at least we managed to quietly stroll around the village.&lt;/p&gt;
-&lt;p&gt;Following a recommendation we tasted a local variety of wine and an assortment of local cheeses, and they were good but nothing special. We enjoyed particularly the Strandpromenade, from which we could see the sunset falling on the &lt;a href=&quot;http://tinyurl.com/yd5c2h4a&quot;&gt;&lt;em&gt;Mondsee&lt;/em&gt; lake&lt;/a&gt;. I&apos;ve just discovered in Wikipedia that Mondsee is one of Austria&apos;s last privately owned lakes. In August 2008, the owner announced it was up for sale. WTF! &lt;strong&gt;Fucking Private Property!!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Except for some detail, Mondsee is similar to other towns we had already visited in our trip, but surely it is worth spending more time here.&lt;/p&gt;
-&lt;div class=&quot;image&quot;&gt;
-  &lt;img src=&quot;/img/2017/06/Mondsee_sunset.jpg&quot; alt=&quot;Waiting for the sunset at the Mondsee lakeshore&quot;&gt;
-  &lt;div class=&quot;caption&quot;&gt;Waiting for the sunset at the Mondsee lakeshore&lt;br /&gt;Source: My own pictures - &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;&lt;i&gt;CC BY-NC-SA&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;We were not able to find a reasonably priced accommodation here so we booked something about 20 km away and off our route, and surprisingly there we met the most incredible host in the world. But this story belongs to our next day...&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Stay tuned for next episodes!&lt;/strong&gt;&lt;/p&gt;
 	</description>
     </item>
 

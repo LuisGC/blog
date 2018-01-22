@@ -1,0 +1,1038 @@
+<!DOCTYPE HTML>
+<!--
+    Future Imperfect by HTML5 UP
+    html5up.net | @n33co
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Luiyolog&iacute;a - Some things that Java developers really need to know in 2018</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Luiyolog&iacute;a - Some things that Java developers really need to know in 2018">
+    <meta name="author" content="Luis GC">
+    <meta name="keywords" content="">
+    <meta name="generator" content="JBake">
+
+    <link href="https://luiyo.net/blog" rel="canonical">
+    <link rel="alternate" type="application/atom+xml" title="Luiyolog&iacute;a - Atom" href="https://luiyo.net/blog/feed.xml">
+    <link rel="alternate" type="application/rss+xml" title="Luiyolog&iacute;a - RSS" href="https://luiyo.net/blog/feed.xml">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@luiyo">
+    <meta name="twitter:creator" content="@luiyo">
+    <meta name="twitter:title" content="Luiyolog&iacute;a">
+    <meta name="twitter:description" content="Some things that Java developers really need to know in 2018">
+    <meta name="twitter:image" content="https://luiyo.net/blog/img/2018/01/Java9_Jigsaw.jpg">
+
+    <link rel="stylesheet" href="../../css/google-font.css" />
+    <link rel="stylesheet" href="../../css/font-awesome.min.css" />
+    <link rel="stylesheet" href="../../css/main.css" />
+    <link rel="stylesheet" href="../../css/add-on.css" />
+    <link rel="stylesheet" href="../../css/monokai-sublime.css">
+    <link rel="stylesheet" href="../../css/luiyologia.css" />
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="../../js/html5shiv.min.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <!--<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">-->
+    <link rel="shortcut icon" href="../../img/favicon/favicon.ico">
+  </head>
+  <body>
+     <!-- Wrapper -->
+        <div id="wrapper">
+
+<!-- Header -->
+<header id="header">
+            <h2><a href="https://luiyo.net/blog">Luiyolog&iacute;a</i></a></h2>
+
+    <nav class="links">
+        <ul>
+        			<li>
+	                    <a href=" https://luiyo.net/blog">
+	                       
+	                            <i class="fa fa-home">&nbsp;</i>Home
+	                        
+	                    </a>
+                	</li>
+        		
+        		 
+        			<li>
+	                    <a href=" ../../archive.html">
+	                       
+	                            <i class="fa fa-archive">&nbsp;</i>Archive
+	                        
+	                    </a>
+                	</li>
+        		
+        		 
+        			<li>
+	                    <a href=" ../../about.html">
+	                       
+	                            <i class="fa fa-user">&nbsp;</i>About
+	                        
+	                    </a>
+                	</li>
+        		
+        		 
+        			<li>
+	                    <a href=" ../../feed.xml">
+	                       
+	                            <i class="fa fa-rss">&nbsp;</i>RSS
+	                        
+	                    </a>
+                	</li>
+        		
+        		 
+        </ul>
+    </nav>
+    <nav class="main">
+        <ul>
+            <li class="search">
+                <a class="fa-search" href="#search">Search</a>
+                <form id="search" method="get" action="//google.com/search">
+                    <input type="text" name="q" placeholder="Search" />
+                    <input type="hidden" name="q" value="site:https://luiyo.net/blog">
+                </form>
+            </li>
+            <li class="menu">
+                <a class="fa-bars" href="#menu">Menu</a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+<!-- Menu -->
+<section id="menu">
+
+    <!-- Search -->
+        <section>
+            <form class="search" method="get" action="//google.com/search">
+                <input type="text" name="q" placeholder="Search" />
+                <input type="hidden" name="q" value="site:https://luiyo.net/blog">
+            </form>
+        </section>
+
+    <!-- Links -->
+        <section>
+            <ul class="links">
+        		 <li>
+                    <a href=" https://luiyo.net/blog">
+                       
+                            <i class="fa fa-home">&nbsp;</i>Home
+                        
+                    </a>
+                </li>
+        		 <li>
+                    <a href=" ../../archive.html">
+                       
+                            <i class="fa fa-archive">&nbsp;</i>Archive
+                        
+                    </a>
+                </li>
+        		 <li>
+                    <a href=" ../../about.html">
+                       
+                            <i class="fa fa-user">&nbsp;</i>About
+                        
+                    </a>
+                </li>
+        		 <li>
+                    <a href=" ../../feed.xml">
+                       
+                            <i class="fa fa-rss">&nbsp;</i>RSS
+                        
+                    </a>
+                </li>
+            </ul>
+        </section>
+
+    <!-- Recent Posts -->
+        <section>
+            <ul class="links">
+                <header>
+                    <h3>Recent Posts</h3>
+                </header>
+                    <li>
+                        <a href="../../../../2018/01/things-that-Java-developers-really-need-to-know.html"><p>Some things that Java developers really need to know in 2018</p></a>
+                    </li>
+                    <li>
+                        <a href="../../../../2018/01/mi-2017-ludico.html"><p>Mi 2017 lúdico</p></a>
+                    </li>
+                    <li>
+                        <a href="../../../../2017/12/Brittany-a-brief-opinionated-guide.html"><p>Brittany: a brief opinionated guide</p></a>
+                    </li>
+                    <li>
+                        <a href="../../../../2017/12/Normandy-a-brief-opinionated-guide.html"><p>Normandy: a brief opinionated guide</p></a>
+                    </li>
+                    <li>
+                        <a href="../../../../2017/11/Big-Data-Spain-2017.html"><p>Big Data Spain 2017</p></a>
+                    </li>
+            </ul>
+        </section>
+
+    <!-- Actions -->
+        <!--
+        <section>
+            <ul class="actions vertical">
+                <li><a href="#" class="button big fit">Log In</a></li>
+            </ul>
+        </section>
+        -->
+</section>
+	<div id="main">
+<article class="post">
+  <header>
+    <div class="title">
+                    <h1><a href="../../2018/01/things-that-Java-developers-really-need-to-know.html">Some things that Java developers really need to know in 2018</a></h1>
+			<span class="disqus-comment-count" data-disqus-url="https://luiyo.net/blog/2018/01/things-that-Java-developers-really-need-to-know.html"></span>
+    </div>
+    <div class="meta">
+         <time class="published"
+            datetime='Jan 23, 2018'>
+            Jan 23, 2018</time>
+            <div class="eta"></div>
+       <!--  {{ if .Site.Params.includeReadingTime }}
+            <p>{{ .ReadingTime }} minute read</p>
+        {{ end }} -->
+        <span class="author"/><span class="name">Luis GC</span><img src="../../img/main/avatar.png" alt="Luis GC" /></span>
+    </div>
+</header>
+
+
+  <div class="image featured">
+    <img src="../../img/2018/01/Java9_Jigsaw.jpg" alt="The final overview of the modular JDK, by Mark Reinhold" />
+      <div class="caption">
+        The final overview of the modular JDK, by Mark Reinhold @ <a href="https://twitter.com/mreinhold/status/882644292036026368">Twitter</a>
+      </div>
+  </div>
+
+  <div id="content">
+    <p>A couple of days ago <a href="https://dzone.com"><strong>DZone</strong></a> published an article called <a href="https://dzone.com/articles/5-things-java-programmer-should-learn-in-2018"><em>9 Things Java Programmers Should Learn in 2018</em></a>. I liked the idea and I even recommended the article to a couple of colleagues who are trying to reorient their professional career. After the advice I added some personal disclaimers about the content, to the point that one of my friends wisely told me:</p>
+<p><blockquote><br/>if you don't agree with these recommendations, why don't you write your own article?<br/></blockquote></p>
+<p>...and that brought us here :-)</p>
+<p>The article in DZone is fine and very detailed with good recommendations but it's not realistic. Some of the things that the author considers essential (Android development or Spring Security, for example) for me are not that important, at least from a general perspective. You can (and should) learn them if you need them, but 99% of you will survive without them.</p>
+<p>Instead of sharing my view only with a couple of colleagues, I'll try to give a realistic and opinionated (yes, I like the word) list of things in no particular order that you need to know or learn in 2018 if you are a Java developer. Some of them are not new, but you need to be sure that you know (or master, if you want) them by the end of the year.</p>
+<p>I'm addressing only Java developers, but hopefully you'll find something of value even if you're not.</p>
+<h2>Learn Java 8, and then Java 9</h2>
+<p>January 2018 and I still find a lot of Java developers who do not know much about <strong>Java 8</strong>. Regarding this, my recommendation clearly is to learn separately Java 8 with the huge amount of improvements it brought to the language and then, and only then, start playing with <strong>Java 9</strong>.</p>
+<p>You will be a better developer after you learn Java 8, even if in your current project they force you to code in Java 6. You'll understand why some improvements were needed in the language and you'll be the first in the line when a migration to Java 8 or 9 approaches in your surroundings (and it will, eventually).</p>
+<p>But let me remark this, it does not matter if you have dozens of badges in <a href="https://www.codecademy.com/">Codecademy</a> or <a href="https://www.codeschool.com/">Code School</a> if by the end of 2018 you are not familiar with Java 8 and Java 9.</p>
+<h2>Unit Testing as the logical choice</h2>
+<p>If at this point of your career you don't write unit tests you can stop reading the article right now, this is not going with you. If on the contrary you are already used to write unit tests for your code, your next goal is to write better tests.</p>
+<p>Are you stuck with JUnit? <a href="http://junit.org/junit5/">JUnit 5</a> was released recently and I haven't checked it yet, but let me recommend a more logical choice: <a href="http://spockframework.org/"><strong>Spock</strong></a>. Less verbose, more idiomatic, integrated stubbing and mocking, easy parametrized testing, test data tables, ... If you are using JUnit, there is nothing that prevents you from going to Spock (totally or at least partially to test the new features).</p>
+<p>Beside the framework, now that you are familiar with the classic code coverage metrics, take a look to <a href="http://pitest.org/">Pitest</a> and <a href="https://en.wikipedia.org/wiki/Mutation_testing">mutation testing</a> principles in general.</p>
+<h2>JVM internals</h2>
+<p>Yes, performance tuning is important and learning about it will help you in your daily work, in yearly rise negotiations and job interviews in general. But let's take a step back, do you really know the JVM internals enough before looking at it with a magnifying glass? I've met a huge amount of developers and Java Architects that don't even know what <a href="https://tinyurl.com/d77yltz"><strong>GC</strong></a> is, what does <a href="https://en.wikipedia.org/wiki/Stop-the-world"><strong>Stop The World</strong></a> mean or how does a <a href="https://en.wikipedia.org/wiki/Java_Classloader">dynamic class loader</a> work.</p>
+<p>Yes, it's great to know how to analyze and profile an application to figure out why it's so slow or why it crashes. But unfortunately for you, you can not always blame others. Make your best effort to understand that not everything is magic.</p>
+<h2>Learn Apache Groovy</h2>
+<p>Once you know your weapons, it's good that you know what you're up against. Forget about <a href="https://kotlinlang.org/">Kotlin</a> and, at least for starters, forget about <a href="http://www.scala-lang.org/">Scala</a>. As with Spock, there are few excuses to prevent you from coding in <a href="http://www.groovy-lang.org/"><strong>Apache Groovy</strong></a>.</p>
+<p><a href="https://www.youtube.com/watch?v=SGpJafTYwOQ">Groovy is not only Java without semicolons</a>. The description in the project website is clear enough so let me quote it:</p>
+<p><blockquote>Apache Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax. It integrates smoothly with any Java program, and immediately delivers to your application powerful features, including scripting capabilities, Domain-Specific Language authoring, runtime and compile-time meta-programming and functional programming.</blockquote></p>
+<p>OK, I said that you will likely survive without Android knowledge and for sure you'll probably survive without learning Groovy. But even if you find it difficult to use it in your projects I firmly believe that learning Groovy will have a substantial impact on your career and will even make you a better Java developer.</p>
+<p>Join me in the next <a href="http://2018.greachconf.com/"><strong>Greach Conference</strong></a> and you won't regret.</p>
+<h2>Code regularly</h2>
+<p>As the DZone article remarks, sadly it's usual practice to spend less time coding as your experience grows. This would deserve a totally different article, but for the moment let me stress that whatever your work experience is, you should not disconnect from programming and source code in general.</p>
+<p>There are a lot of online resources about problems to be solved or challenges in general, but you don't even need to complicate yourself or challenge others. You can simply think about something you need at home (or at squad level) and try to create a software tool to mitigate or solve those problems. I personally would recommend both approaches: try to enjoy the technical and social part of the hackatons or coding challenges but also try to solve your needs in solitude at home.</p>
+<p>Try new data structures, learn new algorithms and understand the pros and cons of them. Force yourself to struggle solving a specific problem without using the most appropriate data structure or without loops, for example.</p>
+<h2>Learn from others and let others learn from you</h2>
+<p>As others say there are only two ways to improve yourself, learning from your own experience (which is very limited) or learning from others experience (which is unlimited).</p>
+<p>Ask for recommendations and read technical books, related to the Java ecosystem or not. Learn first about the principles: clean code, design patterns, testing, functional programming, ...</p>
+<p>Read more code. It can be code from an open source project or code from your squad's fellows. Try to find both the good patterns and the bad smells. Discuss with your peers about it (always politely) and let them also learn from you.</p>
+<p>Write about your experiences, in a blog preferably. The writing exercise itself will help you consolidate what you are learning. Use an <a href="https://www.staticgen.com/">open source static site generator</a> and you'll also learn designing your site and deploying your blog posts.</p>
+<p>Get involved with your community. Try to attend local <a href="https://www.meetup.com/">Meetups</a> and technical conferences, eventually you'll find the courage to even send proposals for those meetups and conferences.</p>
+<h2>Luis, I already know everything!</h2>
+<p>OK, it's not my case but if you already know everything that I mentioned (or so you think) let me give some bonus recommendations:</p>
+<ul>
+  <li>
+  <p>As a proficient Java developer stay in the backend. Do not fall on the dark side by programming front.</p></li>
+  <li>
+  <p>Dive deep into performance and fine tuning.</p></li>
+  <li>
+  <p>Learn about <a href="https://kafka.apache.org/"><strong>Apache Kafka</strong></a>, it'll open you some doors now and probably lots more in the near future.</p></li>
+  <li>
+  <p>Improve your knowledge and skills about <a href="https://en.wikipedia.org/wiki/DevOps">DevOps culture</a> and <a href="https://en.wikipedia.org/wiki/Cloud_computing">Cloud Computing</a>.</p></li>
+  <li>
+  <p>Do not settle for anything. If your job/company does not give you what you're looking for, you must run out of there.</p></li>
+</ul>
+<h2>Feedback</h2>
+<p>What do you think? Am I missing something? Let me know in the comments!</p>
+  </div>
+
+  <footer>
+		
+		<ul class="stats">
+    	    <!-- Display the categories associated with this post -->
+    	    <li><i class="fa fa-tags">&nbsp;</i>  Tags: </li>
+ 	        <li><a href='../../tags/programming.html'>programming</a></li>
+ 	        <li><a href='../../tags/computer-science.html'>computer-science</a></li>
+ 	        <li><a href='../../tags/open-source.html'>open-source</a></li>
+ 	        <li><a href='../../tags/technology.html'>technology</a></li>
+ 		</ul>
+  </footer>
+
+  <section id="social-share">
+    <ul class="icons">
+<!-- Social Share Button HTML -->
+
+<!-- Twitter -->
+<li><a href="//twitter.com/share?url=https://luiyo.net/blog/2018/01/things-that-Java-developers-really-need-to-know.html&text=Some things that Java developers really need to know in 2018&via=luiyo" target="_blank" class="share-btn twitter">
+    <i class="fa fa-twitter"></i>
+    <p>Twitter</p>
+</a></li>
+
+<!-- Google Plus -->
+<li><a href="//plus.google.com/share?url=https://luiyo.net/blog/2018/01/things-that-Java-developers-really-need-to-know.html" target="_blank" class="share-btn google-plus">
+    <i class="fa fa-google-plus"></i>
+    <p>Google+</p>
+</a></li>
+
+<!-- Facebook -->
+<li><a href="//www.facebook.com/sharer/sharer.php?u=https://luiyo.net/blog/2018/01/things-that-Java-developers-really-need-to-know.html" target="_blank" class="share-btn facebook">
+    <i class="fa fa-facebook"></i>
+    <p>Facebook</p>
+</a></li>
+
+<!-- Reddit (url, title) -->
+<li><a href="//reddit.com/submit?url=https://luiyo.net/blog/2018/01/things-that-Java-developers-really-need-to-know.html&title=Some things that Java developers really need to know in 2018" target="_blank" class="share-btn reddit">
+    <i class="fa fa-reddit-alien"></i>
+    <p>Reddit</p>
+</a></li>
+
+<!-- LinkedIn -->
+<li><a href="//www.linkedin.com/shareArticle?url=https://luiyo.net/blog/2018/01/things-that-Java-developers-really-need-to-know.html&title=Some things that Java developers really need to know in 2018" target="_blank" class="share-btn linkedin">
+    <i class="fa fa-linkedin"></i>
+    <p>LinkedIn</p>
+</a></li>
+
+<!-- StumbleUpon (url, title) -->
+<li><a href="//www.stumbleupon.com/submit?url=https://luiyo.net/blog/2018/01/things-that-Java-developers-really-need-to-know.html&title=Some things that Java developers really need to know in 2018" target="_blank" class="share-btn stumbleupon">
+    <i class="fa fa-stumbleupon"></i>
+    <p>StumbleUpon</p>
+</a></li>
+
+<!-- Email -->
+<li><a href="mailto:?subject=Check out this post by Luis GC&body=https://luiyo.net/blog/2018/01/things-that-Java-developers-really-need-to-know.html" target="_blank" class="share-btn email">
+    <i class="fa fa-envelope"></i>
+    <p>Email</p>
+</a></li>
+    </ul>
+  </section>
+
+</article>
+
+<div class="disqus">
+  <div id="disqus_thread"></div>
+
+  <div id="disqus_thread"></div>
+  <script>
+  var disqus_shortname = 'luiyologia';
+
+  /**
+  *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+  /*
+  var disqus_config = function () {
+  this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  };
+  */
+  (function() { // DON'T EDIT BELOW THIS LINE
+  var d = document, s = d.createElement('script');
+  s.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  
+</div>
+
+  </div>
+
+<!-- Sidebar -->
+<section id="sidebar">
+
+    <!-- Intro -->
+        <section id="intro">
+                                  <center>
+                    <img src="../../img/main/Luiyologia-twitterlogo.png" width="320px" alt="Luiyolog&iacute;a" />
+                  </center>
+
+<!--
+                <header>
+                    <h2>Luiyolog&iacute;a</h2>
+                    <p>The Science that studies my interests and concerns</p>
+                </header>
+-->
+
+            <br />
+
+            <ul class="icons">
+                    <li><a href="feed.xml" type="application/rss+xml"
+                        target="_blank" title="RSS" class="fa fa-rss"></a></li>
+<li><a href="//github.com/luisgc" target="_blank" title="GitHub" class="fa fa-github"></a></li>
+
+
+
+
+
+
+
+
+<li><a href="//flickr.com/photos/luiyo" target="_blank" title="Flickr" class="fa fa-flickr"></a></li>
+
+
+
+
+
+
+
+
+
+<li><a href="//linkedin.com/in/luisgc" target="_blank" title="LinkedIn" class="fa fa-linkedin"></a></li>
+
+<li><a href="//slideshare.com/LuisGarcaCastro" target="_blank" title="SlideShare" class="fa fa-slideshare"></a></li>
+
+<li><a href="//stackoverflow.com/users/2048829/luisgc" target="_blank" title="Stack Overflow" class="fa fa-stack-overflow"></a></li>
+
+<li><a href="//reddit.com/user/Luiyo" target="_blank" title="Reddit" class="fa fa-reddit"></a></li>
+
+
+<li><a href="//plus.google.com/+LuisGarc&iacute;aCastro" target="_blank" title="Google+" class="fa fa-google-plus"></a></li>
+
+
+<li><a href="//twitter.com/luiyo" target="_blank" title="Twitter" class="fa fa-twitter"></a></li>
+
+<li><a href="mailto:luiyologia@gmail.com" title="Email" class="fa fa-envelope"></a></li>
+            </ul>
+        </section>
+
+    <!-- Posts List -->
+        <section id="recent-posts">
+            <ul class="posts">
+                <header>
+                    <h3>Recent Posts</h3>
+                </header>
+
+                    <li>
+                        <article>
+                            <header>
+                                <h3><a href="../../2018/01/things-that-Java-developers-really-need-to-know.html">Some things that Java developers really need to know in 2018</a></h3>
+                                 <time class="published"
+							            datetime='Jan 23, 2018'>
+							            Jan 23, 2018</time>
+                            </header>
+                        </article>
+                    </li>
+
+                    <li>
+                        <article>
+                            <header>
+                                <h3><a href="../../2018/01/mi-2017-ludico.html">Mi 2017 lúdico</a></h3>
+                                 <time class="published"
+							            datetime='Jan 04, 2018'>
+							            Jan 04, 2018</time>
+                            </header>
+                        </article>
+                    </li>
+
+                    <li>
+                        <article>
+                            <header>
+                                <h3><a href="../../2017/12/Brittany-a-brief-opinionated-guide.html">Brittany: a brief opinionated guide</a></h3>
+                                 <time class="published"
+							            datetime='Dec 31, 2017'>
+							            Dec 31, 2017</time>
+                            </header>
+                        </article>
+                    </li>
+
+                    <li>
+                        <article>
+                            <header>
+                                <h3><a href="../../2017/12/Normandy-a-brief-opinionated-guide.html">Normandy: a brief opinionated guide</a></h3>
+                                 <time class="published"
+							            datetime='Dec 13, 2017'>
+							            Dec 13, 2017</time>
+                            </header>
+                        </article>
+                    </li>
+
+                    <li>
+                        <article>
+                            <header>
+                                <h3><a href="../../2017/11/Big-Data-Spain-2017.html">Big Data Spain 2017</a></h3>
+                                 <time class="published"
+							            datetime='Nov 17, 2017'>
+							            Nov 17, 2017</time>
+                            </header>
+                        </article>
+                    </li>
+
+
+                    <li>
+                        <ul class="actions">
+                            <li><a href="../../archive.html"
+                            class="button">View more posts</a></li>
+                        </ul>
+                    </li>
+            </ul>
+        </section>
+
+    <!-- Tags List can be show/hide from config-->
+        <section id="tags">
+            <ul class="tags">
+                <header>
+                    <h3>Tags</h3>
+                </header>
+
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/magic.html">magic</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/star-trek.html">star-trek</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/gadget.html">gadget</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/blog.html">blog</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/music.html">music</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/quote.html">quote</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/holidays.html">holidays</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/review.html">review</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/theater.html">theater</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/games.html">games</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/english.html">english</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/formula-1.html">formula-1</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/links.html">links</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/cinema.html">cinema</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/press.html">press</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/programming.html">programming</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/curious.html">curious</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/test.html">test</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/maps.html">maps</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/outreach.html">outreach</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/secularism.html">secularism</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/skepticamp.html">skepticamp</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/personal.html">personal</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/history.html">history</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/philosophy.html">philosophy</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/cars.html">cars</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/science.html">science</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/tolkien.html">tolkien</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/internet.html">internet</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/photography.html">photography</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/politics.html">politics</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/comics.html">comics</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/computer-science.html">computer-science</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/tourism.html">tourism</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/skeptics-in-the-pub.html">skeptics-in-the-pub</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/video.html">video</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/literature.html">literature</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/podcast.html">podcast</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/design.html">design</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/linux.html">linux</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/humour.html">humour</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/solidarity.html">solidarity</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/event.html">event</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/news.html">news</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/art.html">art</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/television.html">television</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/skepticism.html">skepticism</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/health.html">health</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/retrospective.html">retrospective</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/open-source.html">open-source</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/technology.html">technology</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/economics.html">economics</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/culture.html">culture</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <a href="../../tags/sport.html">sport</a>
+                                <!-- JBake 2.5.1 Issue#357 prevents accessing db, This can be enabled once issue is fixed. -->
+                                <!-- <span style="float:right;"> (db.getPublishedPostsByTag(sideBarTag1).size()) </span>-->
+                            </header>
+                        </article>
+                    </li>
+            </ul>
+        </section>
+
+
+    <!-- License -->
+        <section class="blurb">
+            <h2>License of the content</h2>
+            <img src="../../img/main/CC_BY_SA.png" width="90px" alt="Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0) except where indicated otherwise" />
+            <p><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0)</a></p>
+
+            <ul class="actions">
+                <li><a href="../../http://creativecommons.org/licenses/by-sa/3.0/" class="button">Learn More</a></li>
+            </ul>
+        </section>
+
+
+        <section id="footer">
+            <p class="copyright">&copy; Luiyolog&iacute;a. Design: <a href="http://html5up.net" target="_blank">HTML5 UP</a>. Ported For SSG by <a href="https://github.com/jpescador/hugo-future-imperfect">Julio Pescador</a>. Adapted to JBake by <a href="//github.com/manikmagar" target="_blank">Manik Magar</a>. Baked with <a href="http://jbake.org">JBake v2.5.1</a>.
+            <a href="/sitemap.xml" target="_blank">Sitemap</a>.</p>
+        </section>
+
+</section>
+		</div>
+		<a id="back-to-top" href="#" class="fa fa-arrow-up fa-border fa-2x"></a>
+		<div id="push"></div>
+    </div>
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+
+		<script src="../../js/jquery.min.js"></script>
+		<script src="../../js/skel.min.js"></script>
+		<script src="../../js/util.js"></script>
+		<script src="../../js/main.js"></script>
+		<script src="../../js/backToTop.js"></script>
+		<script src="../../js/highlight.pack.js"></script>
+		<script src="../../js/readingTime.js"></script>
+
+			<script id="dsq-count-scr" src="//luiyologia.disqus.com/count.js" async></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-555064-1', 'auto');
+  ga('send', 'pageview', {
+    'page': '2018/01/things-that-Java-developers-really-need-to-know.html',
+    'title': 'Some things that Java developers really need to know in 2018'
+      });
+</script>
+		<!-- This is called by default since this theme uses highlight.js -->
+		<script>hljs.initHighlightingOnLoad();</script>
+		<!--[if lte IE 8]><script src="/js/ie/respond.min.js"></script><![endif]-->
+
+  </body>
+</html>
