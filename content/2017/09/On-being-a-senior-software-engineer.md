@@ -1,7 +1,7 @@
 title=On being a Senior Software Engineer
 date=2017-09-28
 type=post
-tags=programming,computer-sience,technology,culture
+tags=programming,computer-science,technology,culture
 status=published
 featuredimage=img/2017/09/worked_fine_in_dev.jpg
 featuredalt=Worked fine in dev...

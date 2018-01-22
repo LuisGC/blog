@@ -1,7 +1,7 @@
 title=Big Data Spain 2017
 date=2017-11-17
 type=post
-tags=programming,computer-sience,technology
+tags=programming,computer-science,technology
 status=published
 featuredimage=img/2017/11/big_data_spain_2017.jpg
 featuredalt=Big Data Spain 2017
