@@ -6,8 +6,8 @@
     <atom:link href="https://luiyo.net/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>Luiyolog&iacute;a - The Science that studies my interests and concerns</description>
     <language>en-gb</language>
-    <pubDate>Mon, 22 Jan 2018 22:12:51 +0000</pubDate>
-    <lastBuildDate>Mon, 22 Jan 2018 22:12:51 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jan 2018 22:36:21 +0000</pubDate>
+    <lastBuildDate>Mon, 22 Jan 2018 22:36:21 +0000</lastBuildDate>
 
     <item>
       <title>Some things that Java developers really need to know in 2018</title>
@@ -52,7 +52,7 @@
 &lt;p&gt;OK, it&apos;s not my case but if you already know everything that I mentioned (or so you think) let me give some bonus recommendations:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;
-  &lt;p&gt;As a &lt;strong&gt;proficient&lt;/strong&gt; Java developer, you should consider staying in the backend. Do not fall on the dark side by programming front, there is plenty of fun and complexity in the back.&lt;/p&gt;&lt;/li&gt;
+  &lt;p&gt;If you are a &lt;strong&gt;proficient&lt;/strong&gt; Java developer, you should consider staying in the backend. It may seem that it is unavoidable to code frontend, but there is plenty of fun and complexity in the back. Nowadays you can evolve and grow your career without changing the platform.&lt;/p&gt;&lt;/li&gt;
   &lt;li&gt;
   &lt;p&gt;Dive deep into performance and fine tuning.&lt;/p&gt;&lt;/li&gt;
   &lt;li&gt;
@@ -63,7 +63,8 @@
   &lt;p&gt;Do not settle for anything. If your job/company does not give you what you&apos;re looking for, you must run out of there.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Feedback&lt;/h2&gt;
-&lt;p&gt;What do you think? Am I missing something? Let me know in the comments!&lt;/p&gt;
+&lt;p&gt;This is just my opinion. What do you think? Am I missing something?&lt;/p&gt;
+&lt;p&gt;Let me know in the comments!&lt;/p&gt;
 	</description>
     </item>
     <item>
