@@ -6,8 +6,8 @@
     <atom:link href="https://luiyo.net/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>Luiyolog&iacute;a - The Science that studies my interests and concerns</description>
     <language>en-gb</language>
-    <pubDate>Mon, 22 Jan 2018 22:36:21 +0000</pubDate>
-    <lastBuildDate>Mon, 22 Jan 2018 22:36:21 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Jan 2018 07:15:40 +0000</pubDate>
+    <lastBuildDate>Tue, 23 Jan 2018 07:15:40 +0000</lastBuildDate>
 
     <item>
       <title>Some things that Java developers really need to know in 2018</title>
@@ -33,7 +33,7 @@
 &lt;p&gt;Yes, performance tuning is important and learning about it will help you in your daily work, in yearly rise negotiations and job interviews in general. But let&apos;s take a step back, do you really know the JVM internals enough before looking at it with a magnifying glass? I&apos;ve met a huge amount of developers and Java Architects that don&apos;t even know what &lt;a href=&quot;https://tinyurl.com/d77yltz&quot;&gt;&lt;strong&gt;GC&lt;/strong&gt;&lt;/a&gt; is, what does &lt;a href=&quot;https://en.wikipedia.org/wiki/Stop-the-world&quot;&gt;&lt;strong&gt;Stop The World&lt;/strong&gt;&lt;/a&gt; mean or how does a &lt;a href=&quot;https://en.wikipedia.org/wiki/Java_Classloader&quot;&gt;dynamic class loader&lt;/a&gt; work.&lt;/p&gt;
 &lt;p&gt;Yes, it&apos;s great to know how to analyze and profile an application to figure out why it&apos;s so slow or why it crashes. But unfortunately for you, you can not always blame others. Make your best effort to understand that not everything is magic.&lt;/p&gt;
 &lt;h2&gt;Learn Apache Groovy&lt;/h2&gt;
-&lt;p&gt;Once you know your weapons, it&apos;s good that you know what you&apos;re up against. Forget about &lt;a href=&quot;https://kotlinlang.org/&quot;&gt;Kotlin&lt;/a&gt; and, at least for starters, forget about &lt;a href=&quot;http://www.scala-lang.org/&quot;&gt;Scala&lt;/a&gt;. As with Spock, there are few excuses to prevent you from coding in &lt;a href=&quot;http://www.groovy-lang.org/&quot;&gt;&lt;strong&gt;Apache Groovy&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Once you know your weapons, it&apos;s good that you know what you&apos;re up against. Forget for the moment about &lt;a href=&quot;https://kotlinlang.org/&quot;&gt;Kotlin&lt;/a&gt; and &lt;a href=&quot;http://www.scala-lang.org/&quot;&gt;Scala&lt;/a&gt;, focus first on consolidating your Java skills. As with Spock, there are few excuses to prevent you from coding in &lt;a href=&quot;http://www.groovy-lang.org/&quot;&gt;&lt;strong&gt;Apache Groovy&lt;/strong&gt;&lt;/a&gt;, and the learning curve is totally flat.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=SGpJafTYwOQ&quot;&gt;Groovy is not only Java without semicolons&lt;/a&gt;. The description in the project website is clear enough so let me quote it:&lt;/p&gt;
 &lt;p&gt;&lt;blockquote&gt;Apache Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax. It integrates smoothly with any Java program, and immediately delivers to your application powerful features, including scripting capabilities, Domain-Specific Language authoring, runtime and compile-time meta-programming and functional programming.&lt;/blockquote&gt;&lt;/p&gt;
 &lt;p&gt;OK, I said that you will likely survive without Android knowledge and for sure you&apos;ll probably survive without learning Groovy. But even if you find it difficult to use it in your projects I firmly believe that learning Groovy will have a substantial impact on your career and will even make you a better Java developer.&lt;/p&gt;
@@ -52,9 +52,9 @@
 &lt;p&gt;OK, it&apos;s not my case but if you already know everything that I mentioned (or so you think) let me give some bonus recommendations:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;
-  &lt;p&gt;If you are a &lt;strong&gt;proficient&lt;/strong&gt; Java developer, you should consider staying in the backend. It may seem that it is unavoidable to code frontend, but there is plenty of fun and complexity in the back. Nowadays you can evolve and grow your career without changing the platform.&lt;/p&gt;&lt;/li&gt;
+  &lt;p&gt;If you are a &lt;strong&gt;proficient&lt;/strong&gt; Java developer, you should consider staying in the back-end. It may seem that it is unavoidable to code front-end, but there is plenty of fun and complexity in the back. Nowadays you can evolve and grow your career without changing the platform.&lt;/p&gt;&lt;/li&gt;
   &lt;li&gt;
-  &lt;p&gt;Dive deep into performance and fine tuning.&lt;/p&gt;&lt;/li&gt;
+  &lt;p&gt;Learn about performance and fine tuning, at least the basics.&lt;/p&gt;&lt;/li&gt;
   &lt;li&gt;
   &lt;p&gt;Learn about &lt;a href=&quot;https://kafka.apache.org/&quot;&gt;&lt;strong&gt;Apache Kafka&lt;/strong&gt;&lt;/a&gt;, it&apos;ll open you some doors now and probably lots more in the near future.&lt;/p&gt;&lt;/li&gt;
   &lt;li&gt;
@@ -63,7 +63,8 @@
   &lt;p&gt;Do not settle for anything. If your job/company does not give you what you&apos;re looking for, you must run out of there.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Feedback&lt;/h2&gt;
-&lt;p&gt;This is just my opinion. What do you think? Am I missing something?&lt;/p&gt;
+&lt;p&gt;Remember, this opinionated recommendations are focused on Java developers about what they could do in 2018. It does not necessarily apply to other professionals.&lt;/p&gt;
+&lt;p&gt;What do you think? Am I missing something?&lt;/p&gt;
 &lt;p&gt;Let me know in the comments!&lt;/p&gt;
 	</description>
     </item>
