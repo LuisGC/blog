@@ -47,7 +47,7 @@ Yes, it's great to know how to analyze and profile an application to figure out 
 
 ## Learn Apache Groovy
 
-Once you know your weapons, it's good that you know what you're up against. Forget about [Kotlin](https://kotlinlang.org/) and, at least for starters, forget about [Scala](http://www.scala-lang.org/). As with Spock, there are few excuses to prevent you from coding in [**Apache Groovy**](http://www.groovy-lang.org/).
+Once you know your weapons, it's good that you know what you're up against. Forget for the moment about [Kotlin](https://kotlinlang.org/) and [Scala](http://www.scala-lang.org/), focus first on consolidating your Java skills. As with Spock, there are few excuses to prevent you from coding in [**Apache Groovy**](http://www.groovy-lang.org/), and the learning curve is totally flat.
 
 [Groovy is not only Java without semicolons](https://www.youtube.com/watch?v=SGpJafTYwOQ). The description in the project website is clear enough so let me quote it:
 
@@ -81,9 +81,9 @@ Get involved with your community. Try to attend local [Meetups](https://www.meet
 
 OK, it's not my case but if you already know everything that I mentioned (or so you think) let me give some bonus recommendations:
 
-* If you are a **proficient** Java developer, you should consider staying in the backend. It may seem that it is unavoidable to code frontend, but there is plenty of fun and complexity in the back. Nowadays you can evolve and grow your career without changing the platform.
+* If you are a **proficient** Java developer, you should consider staying in the back-end. It may seem that it is unavoidable to code front-end, but there is plenty of fun and complexity in the back. Nowadays you can evolve and grow your career without changing the platform.
 
-* Dive deep into performance and fine tuning.
+* Learn about performance and fine tuning, at least the basics.
 
 * Learn about [**Apache Kafka**](https://kafka.apache.org/), it'll open you some doors now and probably lots more in the near future.
 
@@ -93,6 +93,8 @@ OK, it's not my case but if you already know everything that I mentioned (or so 
 
 ## Feedback
 
-This is just my opinion. What do you think? Am I missing something?
+Remember, this opinionated recommendations are focused on Java developers about what they could do in 2018. It does not necessarily apply to other professionals.
+
+What do you think? Am I missing something?
 
 Let me know in the comments!
