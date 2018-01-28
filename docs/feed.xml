@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luiyolog&iacute;a</title>
-    <link>https://luiyo.net/blog</link>
-    <atom:link href="https://luiyo.net/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://luiyo.net/blog</link>
+    <atom:link href="http://luiyo.net/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>Luiyolog&iacute;a - The Science that studies my interests and concerns</description>
     <language>en-gb</language>
-    <pubDate>Tue, 23 Jan 2018 07:15:40 +0000</pubDate>
-    <lastBuildDate>Tue, 23 Jan 2018 07:15:40 +0000</lastBuildDate>
+    <pubDate>Sun, 28 Jan 2018 20:19:43 +0000</pubDate>
+    <lastBuildDate>Sun, 28 Jan 2018 20:19:43 +0000</lastBuildDate>
 
     <item>
       <title>Some things that Java developers really need to know in 2018</title>
-      <link>https://luiyo.net/blog/2018/01/things-that-Java-developers-really-need-to-know.html</link>
+      <link>http://luiyo.net/blog/2018/01/things-that-Java-developers-really-need-to-know.html</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2018/01/things-that-Java-developers-really-need-to-know.html</guid>
       	<description>
@@ -70,7 +70,7 @@
     </item>
     <item>
       <title>Mi 2017 lúdico</title>
-      <link>https://luiyo.net/blog/2018/01/mi-2017-ludico.html</link>
+      <link>http://luiyo.net/blog/2018/01/mi-2017-ludico.html</link>
       <pubDate>Thu, 4 Jan 2018 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2018/01/mi-2017-ludico.html</guid>
       	<description>
@@ -158,7 +158,7 @@
     </item>
     <item>
       <title>Brittany: a brief opinionated guide</title>
-      <link>https://luiyo.net/blog/2017/12/Brittany-a-brief-opinionated-guide.html</link>
+      <link>http://luiyo.net/blog/2017/12/Brittany-a-brief-opinionated-guide.html</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2017/12/Brittany-a-brief-opinionated-guide.html</guid>
       	<description>
@@ -334,7 +334,7 @@
     </item>
     <item>
       <title>Normandy: a brief opinionated guide</title>
-      <link>https://luiyo.net/blog/2017/12/Normandy-a-brief-opinionated-guide.html</link>
+      <link>http://luiyo.net/blog/2017/12/Normandy-a-brief-opinionated-guide.html</link>
       <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2017/12/Normandy-a-brief-opinionated-guide.html</guid>
       	<description>
@@ -500,7 +500,7 @@
     </item>
     <item>
       <title>Big Data Spain 2017</title>
-      <link>https://luiyo.net/blog/2017/11/Big-Data-Spain-2017.html</link>
+      <link>http://luiyo.net/blog/2017/11/Big-Data-Spain-2017.html</link>
       <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2017/11/Big-Data-Spain-2017.html</guid>
       	<description>
@@ -575,7 +575,7 @@
     </item>
     <item>
       <title>On being a Senior Software Engineer</title>
-      <link>https://luiyo.net/blog/2017/09/On-being-a-senior-software-engineer.html</link>
+      <link>http://luiyo.net/blog/2017/09/On-being-a-senior-software-engineer.html</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2017/09/On-being-a-senior-software-engineer.html</guid>
       	<description>
@@ -602,7 +602,7 @@
     </item>
     <item>
       <title>Susan Gerbic in Skeptics in the Pub Madrid</title>
-      <link>https://luiyo.net/blog/2017/09/Susan-Gerbic-in-Skeptics-in-the-Pub-Madrid.html</link>
+      <link>http://luiyo.net/blog/2017/09/Susan-Gerbic-in-Skeptics-in-the-Pub-Madrid.html</link>
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2017/09/Susan-Gerbic-in-Skeptics-in-the-Pub-Madrid.html</guid>
       	<description>
@@ -625,7 +625,7 @@
     </item>
     <item>
       <title>Romantikstraße, the Romantic Road (5 of 5)</title>
-      <link>https://luiyo.net/blog/2017/07/Romantikstrasse-the-Romantic-Road_5.html</link>
+      <link>http://luiyo.net/blog/2017/07/Romantikstrasse-the-Romantic-Road_5.html</link>
       <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2017/07/Romantikstrasse-the-Romantic-Road_5.html</guid>
       	<description>
@@ -665,7 +665,7 @@
     </item>
     <item>
       <title>ING Security Summer Camp 2017</title>
-      <link>https://luiyo.net/blog/2017/07/ING-Security-Summer-Camp-2017.html</link>
+      <link>http://luiyo.net/blog/2017/07/ING-Security-Summer-Camp-2017.html</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2017/07/ING-Security-Summer-Camp-2017.html</guid>
       	<description>
@@ -721,7 +721,7 @@
     </item>
     <item>
       <title>Romantikstraße, the Romantic Road (4 of 5)</title>
-      <link>https://luiyo.net/blog/2017/07/Romantikstrasse-the-Romantic-Road_4.html</link>
+      <link>http://luiyo.net/blog/2017/07/Romantikstrasse-the-Romantic-Road_4.html</link>
       <pubDate>Sat, 1 Jul 2017 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2017/07/Romantikstrasse-the-Romantic-Road_4.html</guid>
       	<description>
