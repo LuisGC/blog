@@ -2,14 +2,14 @@ title=FOSDEM 2018: Saturday
 date=2018-06-02 10:23
 type=post
 tags=event,open-source,technology,english,linux,programming,internet,culture,computer-science,personal
-status=draft
+status=published
 featuredimage=img/2018/02/fosdem-2018-OSI.jpg
 featuredalt=Simon Phipps speaking about the Open Source Initiative (OSI) in FOSDEM 2018
 featuredcaption=Simon Phipps speaking about the Open Source Initiative (OSI) in FOSDEM 2018
-summary=
+summary=After an uncertain landing a few hours ago (the airport in Madrid was barely working due to a snowy morning), I've just arrived home but instead of having some rest after an intense and though-provoking FOSDEM I felt the urge to start writing about my weekend in Brussels.
 ~~~~~~
 
-After an uncertain landing a few hours ago (the airport in Madrid was barely working due to a snowy morning), I've arrived home but instead of having some rest after three days in Brussels I felt the urge to start writing about the weekend.
+After an uncertain landing a few hours ago (the airport in Madrid was barely working due to a snowy morning), I've just arrived home but instead of having some rest after an intense and though-provoking FOSDEM I felt the urge to start writing about my weekend in Brussels.
 
 I've been there not only to enjoy this wonderful city with it's trappist beers and great food, but specially to attend **FOSDEM** as I intend to do every year.
 
@@ -49,7 +49,7 @@ As usual, let me summarize some of the talks that I attended:
 
 The _Open Source_ label was born in February 3rd 1998, so we celebrated its 20th Anniversary during the opening day of FOSDEM 2018. Simon (President of the [OSI](https://opensource.org/)) summarized the evolution of the Open Source environment in the last two decades, also guessing what are going to be the main challenges for the Free Open Source Software for it's third decade.
 
-He remarked that Open Source projects should not have a business model, the companies that uses those OS projects are the ones that need a realistic business model. I totally agree with this, OS projects can be relevant and positive for the society in a lot more ways than profitability of the founders. Open Source allows software users and developers to advance in their software freedom at work as well as in private.
+He remarked that Open Source (OS) projects should not have a business model, the companies that uses those OS projects are the ones that need a realistic business model. I totally agree with this, OS projects can be relevant and positive for the society in a lot more ways than profitability of the founders. Open Source allows software users and developers to advance in their software freedom at work as well as in private.
 
 He labeled the first decade (1998-2008) the decade of _Advocacy & Controversy_. We all still remember when [in 2001 Steve Ballmer as CEO of Microsoft said "Linux is a cancer"](https://www.theregister.co.uk/2001/06/02/ballmer_linux_is_a_cancer/) (although now [apparently he loves it](http://www.zdnet.com/article/ballmer-i-may-have-called-linux-a-cancer-but-now-i-love-it/)), or in 2005 when UNIX was made Open Source, or 2007 when Java was also made Open Source. In the beginning most OS was a proprietary replacement, but at the end of the decade everyone understood OS as a benefit.
 
@@ -70,11 +70,11 @@ Maybe my favorite talk this year. Don't expect summaries as long as this one for
 
 [**Cypher for Apache Spark (CAPS)**](https://fosdem.org/2018/schedule/event/cypher_for_apache_spark/), by [Martin Junghanns](https://fosdem.org/2018/schedule/speaker/martin_junghanns/) and [Max Kießling](https://fosdem.org/2018/schedule/speaker/max_kiessling/)
 
-As part of [Neo4J](https://neo4j.com/), the speakers explained why and how they created Cypher for Apache Spark (CAPS), to provide graph-powered data integration and graph analytical query workloads within the [Apache Spark](https://spark.apache.org/) ecosystem. They presented the internal architecture, made a live demo with Spark and [Apache Zeppelin](https://zeppelin.apache.org/) and explained that CAPS is released as Open Source inside [OpenCypher](http://www.opencypher.org/).
+As part of [Neo4J](https://neo4j.com/), the speakers explained why and how they created [Cypher for Apache Spark (CAPS)](https://github.com/opencypher/cypher-for-apache-spark), to provide graph-powered data integration and graph analytical query workloads within the [Apache Spark](https://spark.apache.org/) ecosystem. They presented the internal architecture, made a live demo with Spark and [Apache Zeppelin](https://zeppelin.apache.org/) and explained that CAPS is released as Open Source inside [OpenCypher](http://www.opencypher.org/).
 
 [**The Computer Science behind a modern distributed data store**](https://fosdem.org/2018/schedule/event/computer_science_of_modern_distributed_database/), by [Michael Hackstein](https://fosdem.org/2018/schedule/speaker/michael_hackstein/) ([@mchacki](https://twitter.com/mchacki))
 
-The first thing that Michael Hackstein explained was that he was replacing the original speaker (Max Neunhoeffer, that couldn't attend for personal reasons), but in the end he gave a great talk about a complex topic, being clear and precise. Anyone could notice that the substitute speaker knew the subject perfectly.
+The first thing that Michael Hackstein ([ArangoDB](https://www.arangodb.com/)) explained was that he was replacing the original speaker (Max Neunhoeffer, that couldn't attend for personal reasons), but in the end he gave a great talk about a complex topic, being clear and precise. Anyone could notice that the substitute speaker knew the subject perfectly.
 
 Michael explained the main challenges when building or using a modern distributed data store. He started with an important advice: "The first law of distributed data is... don't distribute data" :-) Having said that, he clarified that sometimes you cannot avoid it because you need to scale and/or you need to be resilient.
 
@@ -83,6 +83,11 @@ In a distributed system different parts need to agree on things (consensus) but 
 Another important thought was related to sorting. Most published algorithms are nowadays poorly efficient because the problem is no longer the comparison computations but the data movement between data stores. He explained [Log Structure Merge Trees (LSM-trees)](https://en.wikipedia.org/wiki/Log-structured_merge-tree) as a possible solution.
 
 He also summarized other problems like the synchronization of machines (mitigated with [Hybrid Logical Clocks](https://muratbuffalo.blogspot.com.es/2014/07/hybrid-logical-clocks.html)) and Distributed ACID transactions, only supported as off today by [Google Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) (because they have the money to use atomic clocks) and [Cockroach DB](https://github.com/cockroachdb/cockroach) an Open Source clone of Spanner that [achieved it without atomic clocks](https://www.cockroachlabs.com/blog/living-without-atomic-clocks/).
+
+<div class="image">
+ <img src="/img/2018/02/fosdem-2018-lsmt.jpg" alt="Log structured merge trees (LSM-trees)">
+ <div class="caption">Log structured merge trees (LSM-trees)</div>
+</div>
 
 [**Digital Archaeology, Maintaining our digital heritage**](https://fosdem.org/2018/schedule/event/digital_archaeology/), by [Steven Goodwin](https://fosdem.org/2018/schedule/speaker/steven_goodwin/) ([@MarquisdeGeek](https://twitter.com/MarquisdeGeek))
 
@@ -98,14 +103,57 @@ In the _old world order_ the deployments were infrequent so the startup time was
 
 Daniel ([OpenJ9](https://www.eclipse.org/openj9/) Project Lead) explained the problem and provided possible solutions inside the JVM, focusing mainly in the use of OpenJ9's SharedClasses.
 
+<div class="image">
+ <img src="/img/2018/02/fosdem-2018-startup.jpg" alt="OpenJ9 startup sequence">
+ <div class="caption">OpenJ9 startup sequence</div>
+</div>
+
 [**Class Metadata: A User Guide**](https://fosdem.org/2018/schedule/event/class_metadata/), by [Andrew Dinn](https://fosdem.org/2018/schedule/speaker/andrew_dinn/)
 
-[**Java in a World of Containers**](https://fosdem.org/2018/schedule/event/java_world_containers/), by [Mikael Vidstedt](https://fosdem.org/2018/schedule/speaker/mikael_vidstedt/)
+Andrew Dinn ([Red Hat Open JDK](https://developers.redhat.com/products/openjdk/)) explained clearly what is the Class Metadata and why it matters inside the JVM. He also gave some real-life use cases to explain how design decisions can incur or avoid Class Metadata costs.
+
+<div class="image">
+ <img src="/img/2018/02/fosdem-2018-metaspace-pool.jpg" alt="Java's Metaspace Constant Pool Objects">
+ <div class="caption">Java's Metaspace Constant Pool Objects</div>
+</div>
+
+[**Java in a World of Containers**](https://fosdem.org/2018/schedule/event/java_world_containers/), by [Mikael Vidstedt](https://fosdem.org/2018/schedule/speaker/mikael_vidstedt/) and [Matthew Gilliard](https://twitter.com/MaximumGilliard)
+
+Mikael (Director of the JVM group at [Oracle](https://www.oracle.com/index.html)) and Matthew (also from Oracle) explained that Oracle is focused on maintaining Java as the main language in the containers ecosystem thanks to, according to them, some of its characteristics:
+
+* Managed language/runtime
+* Hardware and operating system agnostic
+* Safety and Security enforced by the JVM
+* Reliable as compatibility is a key design goal
+* Runtime adaptive
+* Rich ecosystem
+
+Also related to reducing the startup time and footprint needed, they also explained how (using the modular system of Java 9) creating custom JREs allows you to reduce the size of the JDK needed inside the Docker container. A full JDK weights around 568 MB, the java.base module just 46 MB and a reasonable set of modules with complete capabilities could be around 60 MB. It can be further optimized using _jlink --compress_ but it's a trade-off between size and compressing/uncompressing effort.
+
+After reducing the _JDK layer_ of a container, the next battle is in the operating system layer. They announced and presented [OpenJDK Portola Project](http://openjdk.java.net/projects/portola/), a port of the JDK to use [Alpine Linux](https://www.alpinelinux.org/) (the base image weights just 4 MB) and the [musl C library](https://www.musl-libc.org/). Very impressive.
+
+<div class="image">
+ <img src="/img/2018/02/fosdem-2018-portola.jpg" alt="OpenJDK Portola Project">
+ <div class="caption">OpenJDK Portola Project</div>
+</div>
 
 [**Class Data Sharing, Sharing Economy in the HotSpot VM**](https://fosdem.org/2018/schedule/event/class_data_sharing/), by [Volker Simonis](https://fosdem.org/2018/schedule/speaker/volker_simonis/)
 
+Volker ([SAP](https://www.sap.com/index.html)) introduced [Class Data Sharing (CDS)](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/class-data-sharing.html), explained clearly the implementation details and finally he demonstrated it's advantages in some use cases.
+
+<div class="image">
+ <img src="/img/2018/02/fosdem-2018-class-representation.jpg" alt="Class Representation in the HotSpot VM">
+ <div class="caption">Class Representation in the HotSpot VM</div>
+</div>
+
 [**Hairy Security, the many threats to a Java web app**](https://fosdem.org/2018/schedule/event/hairy_security/), by [Romain Pelisse](https://fosdem.org/2018/schedule/speaker/romain_pelisse/) and [Damien Plard](https://fosdem.org/2018/schedule/speaker/damien_plard/)
 
-[**Hacking the JVM from Java**](https://fosdem.org/2018/schedule/event/hacking_jvm/), by [Tobias Lindaaker](https://fosdem.org/2018/schedule/speaker/tobias_lindaaker/)
+Romain ([Red Hat](https://www.redhat.com/en)) and Damien ([Solaris Bank](https://www.solarisbank.com/en/)) gave a fun and instructive talk about security, challenging some myths.
 
-[**Terra Bruciata, where bugs cannot survive**](https://fosdem.org/2018/schedule/event/terra_bruciata/), by [Riccardo Bernardini](https://fosdem.org/2018/schedule/speaker/riccardo_bernardini/)
+They reminded us that it’s not a question of 'if' but 'when' you’ll be hacked.
+
+<br /><br />
+
+Enough for the Saturday, I'll try to write my experience during FOSDEM Sunday as soon as possible, hopefully this week.
+
+**Stay tunned!!**
