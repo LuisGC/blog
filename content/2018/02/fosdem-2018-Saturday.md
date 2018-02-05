@@ -74,6 +74,16 @@ As part of [Neo4J](https://neo4j.com/), the speakers explained why and how they 
 
 [**The Computer Science behind a modern distributed data store**](https://fosdem.org/2018/schedule/event/computer_science_of_modern_distributed_database/), by [Michael Hackstein](https://fosdem.org/2018/schedule/speaker/michael_hackstein/) ([@mchacki](https://twitter.com/mchacki))
 
+The first thing that Michael Hackstein explained was that he was replacing the original speaker (Max Neunhoeffer, that couldn't attend for personal reasons), but in the end he gave a great talk about a complex topic, being clear and precise. Anyone could notice that the substitute speaker knew the subject perfectly.
+
+Michael explained the main challenges when building or using a modern distributed data store. He started with an important advice: "The first law of distributed data is... don't distribute data" :-) Having said that, he clarified that sometimes you cannot avoid it because you need to scale and/or you need to be resilient.
+
+In a distributed system different parts need to agree on things (consensus) but it's not always easy because the network has outages, drops, delays or duplicates packages, any disk fails or even an entire rack fails. He explained the basics of Consensus, as explained originally in the [Paxos Consensus Protocol (1998)](https://en.wikipedia.org/wiki/Paxos_%28computer_science%29) and later in [Raft](https://en.wikipedia.org/wiki/Raft_%28computer_science%29).
+
+Another important thought was related to sorting. Most published algorithms are nowadays poorly efficient because the problem is no longer the comparison computations but the data movement between data stores. He explained [Log Structure Merge Trees (LSM-trees)](https://en.wikipedia.org/wiki/Log-structured_merge-tree) as a possible solution.
+
+He also summarized other problems like the synchronization of machines (mitigated with [Hybrid Logical Clocks](https://muratbuffalo.blogspot.com.es/2014/07/hybrid-logical-clocks.html)) and Distributed ACID transactions, only supported as off today by [Google Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) (because they have the money to use atomic clocks) and [Cockroach DB](https://github.com/cockroachdb/cockroach) an Open Source clone of Spanner that [achieved it without atomic clocks](https://www.cockroachlabs.com/blog/living-without-atomic-clocks/).
+
 [**Digital Archaeology, Maintaining our digital heritage**](https://fosdem.org/2018/schedule/event/digital_archaeology/), by [Steven Goodwin](https://fosdem.org/2018/schedule/speaker/steven_goodwin/) ([@MarquisdeGeek](https://twitter.com/MarquisdeGeek))
 
 [**JVM startup: why it matters to the new world order**](https://fosdem.org/2018/schedule/event/jvm_startup/), by [Daniel Heidinga](https://fosdem.org/2018/schedule/speaker/daniel_heidinga/)
