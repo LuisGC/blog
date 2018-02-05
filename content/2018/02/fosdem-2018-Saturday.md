@@ -86,7 +86,17 @@ He also summarized other problems like the synchronization of machines (mitigate
 
 [**Digital Archaeology, Maintaining our digital heritage**](https://fosdem.org/2018/schedule/event/digital_archaeology/), by [Steven Goodwin](https://fosdem.org/2018/schedule/speaker/steven_goodwin/) ([@MarquisdeGeek](https://twitter.com/MarquisdeGeek))
 
+Steven Goodwin is the founder of [the Digital Heritage](http://marquisdegeek.com/digital_heritage), a (let me quote) _"plan to collate the learnings and knowledge of computer systems from 1975 onwards so that students of technology and scholars of the future can understand how they work, how to use them, and how they affected the culture of the 20th century"_.
+
+He explained how in a few years time it will be difficult or even impossible to study retro-computers given the fact that its software is either proprietary, closed-source, written in an obsolete programming language or _protected_ to prevent copying. Not only this, the hardware is also failing, the magnetic devices are no longer storing the information and so on.
+
+After raising awareness of the problem, he also gave several recommendations and methods necessary to preserve our legacy using emulations, mainly based in Open Source projects.
+
 [**JVM startup: why it matters to the new world order**](https://fosdem.org/2018/schedule/event/jvm_startup/), by [Daniel Heidinga](https://fosdem.org/2018/schedule/speaker/daniel_heidinga/)
+
+In the _old world order_ the deployments were infrequent so the startup time was a very small fraction of the total up time. Now in the _new world_ with CI/CD systems, microservice or serverless architectures controlling the startup time is essential. This topic is very hot right now.
+
+Daniel ([OpenJ9](https://www.eclipse.org/openj9/) Project Lead) explained the problem and provided possible solutions inside the JVM, focusing mainly in the use of OpenJ9's SharedClasses.
 
 [**Class Metadata: A User Guide**](https://fosdem.org/2018/schedule/event/class_metadata/), by [Andrew Dinn](https://fosdem.org/2018/schedule/speaker/andrew_dinn/)
 
