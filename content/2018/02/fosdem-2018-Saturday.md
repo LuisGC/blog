@@ -68,7 +68,9 @@ Derived from the [four essential freedoms of Free Software](https://www.gnu.org/
 
 Maybe my favorite talk this year. Don't expect summaries as long as this one for other talks :-P
 
-[**Cypher for Apache Spark**](https://fosdem.org/2018/schedule/event/cypher_for_apache_spark/), by [Martin Junghanns](https://fosdem.org/2018/schedule/speaker/martin_junghanns/) and [Max Kießling](https://fosdem.org/2018/schedule/speaker/max_kiessling/)
+[**Cypher for Apache Spark (CAPS)**](https://fosdem.org/2018/schedule/event/cypher_for_apache_spark/), by [Martin Junghanns](https://fosdem.org/2018/schedule/speaker/martin_junghanns/) and [Max Kießling](https://fosdem.org/2018/schedule/speaker/max_kiessling/)
+
+As part of [Neo4J](https://neo4j.com/), the speakers explained why and how they created Cypher for Apache Spark (CAPS), to provide graph-powered data integration and graph analytical query workloads within the [Apache Spark](https://spark.apache.org/) ecosystem. They presented the internal architecture, made a live demo with Spark and [Apache Zeppelin](https://zeppelin.apache.org/) and explained that CAPS is released as Open Source inside [OpenCypher](http://www.opencypher.org/).
 
 [**The Computer Science behind a modern distributed data store**](https://fosdem.org/2018/schedule/event/computer_science_of_modern_distributed_database/), by [Michael Hackstein](https://fosdem.org/2018/schedule/speaker/michael_hackstein/) ([@mchacki](https://twitter.com/mchacki))
 
