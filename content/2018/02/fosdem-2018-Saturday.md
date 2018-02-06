@@ -11,7 +11,7 @@ summary=After an uncertain landing a few hours ago (the airport in Madrid was ba
 
 After an uncertain landing a few hours ago (the airport in Madrid was barely working due to a snowy morning), I've just arrived home but instead of having some rest after an intense and though-provoking FOSDEM I felt the urge to start writing about my weekend in Brussels.
 
-I've been there not only to enjoy this wonderful city with it's trappist beers and great food, but specially to attend **FOSDEM** as I intend to do every year.
+I've been there not only to enjoy this wonderful city with its trappist beers and great food, but specially to attend **FOSDEM** as I intend to do every year.
 
 <div class="image lateral">
  <img src="/img/2018/02/fosdem-2018-logo.png" alt="FOSDEM 2018">
