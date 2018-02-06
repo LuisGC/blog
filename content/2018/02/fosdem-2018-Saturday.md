@@ -1,5 +1,5 @@
 title=FOSDEM 2018: Saturday
-date=2018-06-02 10:23
+date=2018-02-06 10:23
 type=post
 tags=event,open-source,technology,english,linux,programming,internet,culture,computer-science,personal
 status=published
