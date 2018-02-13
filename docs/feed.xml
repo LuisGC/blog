@@ -6,9 +6,92 @@
     <atom:link href="http://luiyo.net/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>Luiyolog&iacute;a - The Science that studies my interests and concerns</description>
     <language>en-gb</language>
-    <pubDate>Sun, 11 Feb 2018 23:19:29 +0000</pubDate>
-    <lastBuildDate>Sun, 11 Feb 2018 23:19:29 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Feb 2018 06:53:21 +0000</pubDate>
+    <lastBuildDate>Tue, 13 Feb 2018 06:53:21 +0000</lastBuildDate>
 
+    <item>
+      <title>FOSDEM 2018: Sunday</title>
+      <link>http://luiyo.net/blog/2018/02/fosdem-2018-Sunday.html</link>
+      <pubDate>Thu, 8 Feb 2018 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2018/02/fosdem-2018-Sunday.html</guid>
+      	<description>
+	&lt;p&gt;After an interesting Saturday, finished with a great dinner with some friends in one of our favorite restaurants in Brussels, my Sunday at &lt;a href=&quot;https://fosdem.org/&quot;&gt;&lt;strong&gt;FOSDEM&lt;/strong&gt;&lt;/a&gt; started again very early.&lt;/p&gt;
+&lt;div class=&quot;image lateral&quot;&gt;
+ &lt;img src=&quot;/blog/img/2018/02/fosdem-2018-logo.png&quot; alt=&quot;FOSDEM 2018&quot;&gt;
+ &lt;div class=&quot;caption&quot;&gt;FOSDEM 2018&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;My choices for the Sunday were again diverse and (in most cases) successful. Apart from the closing keynotes, I spent some time in the &lt;a href=&quot;https://fosdem.org/2018/schedule/track/legal_and_policy_issues/&quot;&gt;Legal and Policy Issues devroom&lt;/a&gt;, a couple of talks in the &lt;a href=&quot;https://fosdem.org/2018/schedule/track/hpc,_big_data,_and_data_science/&quot;&gt;HPC, Big Data, and Data Science devroom&lt;/a&gt; and half the afternoon in the &lt;a href=&quot;https://fosdem.org/2018/schedule/track/geospatial/&quot;&gt;Geospatial devroom&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Before continuing, if you want to read my summary of the previous day you can follow this link: &lt;a href=&quot;/blog/2018/02/fosdem-2018-Saturday.html&quot;&gt;&lt;strong&gt;FOSDEM 2018: Saturday&lt;/strong&gt;&lt;/a&gt;. You will also find there general info and details about the event itself.&lt;/p&gt;
+&lt;p&gt;Let me summarize:&lt;/p&gt;
+&lt;h1&gt;Talks&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://fosdem.org/2018/schedule/event/gdpr_identity_management/&quot;&gt;&lt;strong&gt;Capture the GDPR with Identity management&lt;/strong&gt;&lt;/a&gt;, by &lt;a href=&quot;https://fosdem.org/2018/schedule/speaker/juraj_benculak/&quot;&gt;Juraj Benculak&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This first talk was a bit disappointing. The intro about &lt;a href=&quot;https://en.wikipedia.org/wiki/General_Data_Protection_Regulation&quot;&gt;&lt;strong&gt;GDPR&lt;/strong&gt;&lt;/a&gt; took most of the talk, and I bet that almost all of us who where there at 9am in a Sunday knew what GDPR is.&lt;/p&gt;
+&lt;p&gt;The recommendations for GDPR arrived very late. The speaker made a brief overview of how you can benefit from a nice data mapping and data governance, and how good it is to observe privacy by default and by design. Then, he introduced Identity Management as the ideal tool for the job demonstrating the lawfulness of all the data processing. The fact that he develops Identity Management software has something to do with it, of course.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://fosdem.org/2018/schedule/event/ai_right_to_be_forgotten/&quot;&gt;&lt;strong&gt;Artificial intelligence dealing with the right to be forgotten&lt;/strong&gt;&lt;/a&gt;, by &lt;a href=&quot;https://fosdem.org/2018/schedule/speaker/cristina_rosu/&quot;&gt;Cristina Rosu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The next talk in the Legal and Policy devroom was luckily more interesting, but again the title was misleading. Most of the talk was an intro to the right to be forgotten, including an overview of all the relevant legal cases starting with the &lt;a href=&quot;https://en.wikipedia.org/wiki/Google_Spain_v_AEPD_and_Mario_Costeja_Gonz%C3%A1lez&quot;&gt;&lt;strong&gt;Google Spain&lt;/strong&gt; v &lt;strong&gt;AEPD&lt;/strong&gt; and &lt;strong&gt;Mario Costeja González&lt;/strong&gt;&lt;/a&gt;. Cristina Rosu complemented the legal intro with some metrics about GDPR compliance in some countries.&lt;/p&gt;
+&lt;div class=&quot;image&quot;&gt;
+ &lt;img src=&quot;/blog/img/2018/02/fosdem-2018-gdpr-compliance.jpg&quot; alt=&quot;Some statistics on deletion for GDPR compliance&quot;&gt;
+ &lt;div class=&quot;caption&quot;&gt;Some statistics on deletion for GDPR compliance&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;In the last slides, the only part related to Artificial Intelligence, the speaker commented some possible approaches to enhance the right to be forgotten in the AI environment: Obfuscation strategies, data minimization, personal data stores, algorithmic transparency or ethical boards inside companies.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://fosdem.org/2018/schedule/event/hpc_uclouvain/&quot;&gt;&lt;strong&gt;Behind the scenes of a FOSS-powered HPC cluster, Ansible or Salt? Ansible AND Salt!&lt;/strong&gt;&lt;/a&gt;, by &lt;a href=&quot;https://fosdem.org/2018/schedule/speaker/damien_francois/&quot;&gt;Damien François&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The speaker, as a systems engineer, is responsible of the automation of a medium-sized HPC infrastructure at the &lt;a href=&quot;https://uclouvain.be/&quot;&gt;Louvain University&lt;/a&gt;. The purpose of his talk, quite interesting, was to advocate for the use of similar tools at the same time, instead of using the same tool for everything. Some features overlap, but he claimed that each tool can be more powerful in certain tasks, and separating tools also helps in defining responsibilities.&lt;/p&gt;
+&lt;p&gt;They use &lt;a href=&quot;https://cobbler.github.io/&quot;&gt;&lt;strong&gt;Cobbler&lt;/strong&gt;&lt;/a&gt; to install and deploy Operating Systems and set-up hardware specific configuration, &lt;a href=&quot;https://www.ansible.com/&quot;&gt;&lt;strong&gt;Ansible&lt;/strong&gt;&lt;/a&gt; for one-off operations (setup RSA keys, register node to services or prepare config files) and &lt;a href=&quot;https://saltstack.com/&quot;&gt;&lt;strong&gt;Salt&lt;/strong&gt;&lt;/a&gt; for daily management (configure system, install admin software or mount the user filesystem).&lt;/p&gt;
+&lt;p&gt;He ended comparing Ansible and Salt, reviewing the best characteristics of each of them as you can see in the picture that I took:&lt;/p&gt;
+&lt;div class=&quot;image&quot;&gt;
+ &lt;img src=&quot;/blog/img/2018/02/fosdem-2018-ansible-salt.jpg&quot; alt=&quot;What the speaker loves about Ansible and Salt&quot;&gt;
+ &lt;div class=&quot;caption&quot;&gt;What the speaker loves about Ansible and Salt&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://fosdem.org/2018/schedule/event/deeplearning_osm/&quot;&gt;&lt;strong&gt;How DeepLearning can help to improve geospatial DataQuality, an OSM use case&lt;/strong&gt;&lt;/a&gt;, by &lt;a href=&quot;https://fosdem.org/2018/schedule/speaker/olivier_courtin/&quot;&gt;Olivier Courtin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The speaker started his talk reviewing some of the Quality Assurance tools available in the &lt;a href=&quot;https://www.openstreetmap.org/&quot;&gt;&lt;strong&gt;OpenStreetMap&lt;/strong&gt;&lt;/a&gt; ecosystem, being the main ones: &lt;a href=&quot;https://wiki.openstreetmap.org/wiki/Keep_Right&quot;&gt;&lt;strong&gt;Keep Right&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&quot;https://wiki.openstreetmap.org/wiki/Osmose&quot;&gt;&lt;strong&gt;Osmose&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&quot;https://wiki.openstreetmap.org/wiki/OSM_Inspector&quot;&gt;&lt;strong&gt;OSM Inspector&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&quot;https://wiki.openstreetmap.org/wiki/MapRoulette&quot;&gt;&lt;strong&gt;Maproulette&lt;/strong&gt;&lt;/a&gt;. The problem of them, and I know it very well because I&apos;ve used them a lot, is that the detection can be automatic but only sometimes the tool is able to provide fix suggestions or a standard correction guide, and eventually all the corrections need to be done manually by a mapper (like me).&lt;/p&gt;
+&lt;p&gt;The premise of the talk was about using other datasets to highlight inconsistencies and, potentially, to predict some characteristics not present in the map using &lt;a href=&quot;https://en.wikipedia.org/wiki/Deep_learning&quot;&gt;&lt;strong&gt;DeepLearning&lt;/strong&gt;&lt;/a&gt; and satellite imagery. The results that he showed were impressive, but he also showed that a lot of work needs to be done in order to have enough quality to consider a more automated approach for Quality Assurance in OSM.&lt;/p&gt;
+&lt;p&gt;Completeness in OpenStreetMap starts by detecting inconsistencies as soon and as detailed as possible.&lt;/p&gt;
+&lt;div class=&quot;image&quot;&gt;
+ &lt;img src=&quot;/blog/img/2018/02/fosdem-2018-deeplearning-osm.jpg&quot; alt=&quot;Applying DeepLearning techniques to improve OpenStreetMap&quot;&gt;
+ &lt;div class=&quot;caption&quot;&gt;Applying DeepLearning techniques to improve OpenStreetMap&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://fosdem.org/2018/schedule/event/libreoffice/&quot;&gt;&lt;strong&gt;Re-structuring a giant, ancient code-base for new platforms&lt;/strong&gt;&lt;/a&gt;, by &lt;a href=&quot;https://fosdem.org/2018/schedule/speaker/michael_meeks/&quot;&gt;Michael Meeks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;After some interesting networking in the stands, I entered this talk with low expectations. I did not regret it because it was very interesting.&lt;/p&gt;
+&lt;p&gt;The talk was about the huge refactor that was needed in the codebase of &lt;a href=&quot;https://www.libreoffice.org/&quot;&gt;&lt;strong&gt;LibreOffice&lt;/strong&gt;&lt;/a&gt; to make it work in the Cloud. The speaker explained clearly why they needed to re-structure at all, the main problems that they faced (Windows and Linux rendering APIs) and how they solved critical issues like extreme coupling and threads management.&lt;/p&gt;
+&lt;p&gt;The summary of the talk in a quote is: &lt;em&gt;&quot;Fix each bug only once&quot;&lt;/em&gt;. What a great statement.&lt;/p&gt;
+&lt;div class=&quot;image&quot;&gt;
+ &lt;img src=&quot;/blog/img/2018/02/fosdem-2018-libreoffice-refactor.jpg&quot; alt=&quot;Re-structuring LibreOffice&quot;&gt;
+ &lt;div class=&quot;caption&quot;&gt;Re-structuring LibreOffice&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://fosdem.org/2018/schedule/event/geo_rock/&quot;&gt;&lt;strong&gt;Building Rock Climbing Maps with OpenStreetMap&lt;/strong&gt;&lt;/a&gt;, by &lt;a href=&quot;https://fosdem.org/2018/schedule/speaker/viet_nguyen/&quot;&gt;Viet Nguyen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This was my first talk in the &lt;a href=&quot;https://fosdem.org/2018/schedule/track/geospatial/&quot;&gt;Geospatial devroom&lt;/a&gt;, it was somehow inspiring despite I can&apos;t say that I learned a lot. The speaker explained that, as a rock climbing lover, he couldn&apos;t find good data regarding climbing routes, walls and sectors so he started introducing that information himself in OpenStreetMap. He summarized his experience, the decisions that he had to take, and how he is trying to get more contributors for his project: &lt;a href=&quot;https://openbeta.io/&quot;&gt;&lt;strong&gt;OpenBeta&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://fosdem.org/2018/schedule/event/geo_osm_from_scratch/&quot;&gt;&lt;strong&gt;Building OSM based web app from scratch&lt;/strong&gt;&lt;/a&gt;, by &lt;a href=&quot;https://fosdem.org/2018/schedule/speaker/nils_vierus/&quot;&gt;Nils Vierus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I could imagine that this talk was going to be very basic and I guessed right, but I wanted to stay in the devroom for the next talks so I stayed in the room retaining my seat.&lt;/p&gt;
+&lt;p&gt;The speaker made a general overview about Programming languages to build an OSM based web app, IDEs, mapping libraries, OSM data retrieval tools, routing tools and even version control systems. Good introduction to the topic from a good speaker but I&apos;m not sure if this kind of talks should have a place in FOSDEM.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://fosdem.org/2018/schedule/event/geo_cityzen/&quot;&gt;&lt;strong&gt;Privacy aware city navigation with CityZen app&lt;/strong&gt;&lt;/a&gt;, by &lt;a href=&quot;https://fosdem.org/2018/schedule/speaker/redon_skikuli/&quot;&gt;Redon Skikuli&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The speaker was nice and funny, but again the talk was not very advanced. It was more interesting when he talked about the &lt;a href=&quot;https://openlabs.cc/en/&quot;&gt;Open Hackerspace&lt;/a&gt; that he collaborates with in Tirana (Albania) than the part related to the CitiZen App. The claim that the app is privacy aware is very limited. They just don&apos;t keep your navigation data but in the end whenever they ask for the location of the user, an Android device stores the location anyway (directly or when requesting the nearest POIs).&lt;/p&gt;
+&lt;p&gt;As a nice addition, CitiZen allows the users to modify or insert the POIs retrieved from OSM by editing them inside the app.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://fosdem.org/2018/schedule/event/geo_subway/&quot;&gt;&lt;strong&gt;Every subway network in the world&lt;/strong&gt;&lt;/a&gt;, by &lt;a href=&quot;https://fosdem.org/2018/schedule/speaker/ilya_zverev/&quot;&gt;Ilya Zverev&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This talk was refreshing and reconciled me with the geospatial devroom. Ilya (software engineer at &lt;a href=&quot;https://maps.me/&quot;&gt;&lt;strong&gt;Maps.me&lt;/strong&gt;&lt;/a&gt;) explained how he ended building the offline subway navigation feature for Maps.me. As he explained, when they started reviewing the available data in OpenStreetMap related to subways they realized that the information was very poor and incomplete. For example there was no way to map properly the connections between lines.&lt;/p&gt;
+&lt;p&gt;He started building a validator and then station by station, city by city, he improved the subway information in OSM. He even presented a &lt;a href=&quot;https://wiki.openstreetmap.org/wiki/Proposal_process&quot;&gt;proposal&lt;/a&gt; for the subway geospatial information, including new relations for the transfers.&lt;/p&gt;
+&lt;div class=&quot;image&quot;&gt;
+ &lt;img src=&quot;/blog/img/2018/02/fosdem-2018-OSM-subways-schema.png&quot; alt=&quot;Subway stations schema in OpenStreetMap, according to Ilya Zverev&quot;&gt;
+ &lt;div class=&quot;caption&quot;&gt;Subway stations schema in OpenStreetMap, according to Ilya Zverev&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://fosdem.org/2018/schedule/event/upsat/&quot;&gt;&lt;strong&gt;The story of UPSat, Building the first open source software and hardware satellite&lt;/strong&gt;&lt;/a&gt;, by &lt;a href=&quot;https://fosdem.org/2018/schedule/speaker/pierros_papadeas/&quot;&gt;Pierros Papadeas&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;One of the most inspiring talks of the entire FOSDEM with a packed full Janson Room (with capacity for 1415 people).&lt;/p&gt;
+&lt;p&gt;The speaker explained how during 2016, the &lt;a href=&quot;https://libre.space/&quot;&gt;&lt;strong&gt;Libre Space Foundation&lt;/strong&gt;&lt;/a&gt; a non-profit organization developing open source technologies for space, designed, built and delivered &lt;a href=&quot;https://libre.space/projects/upsat/&quot;&gt;&lt;strong&gt;UPSat&lt;/strong&gt;&lt;/a&gt;, the first open source software and hardware satellite.&lt;/p&gt;
+&lt;div class=&quot;image&quot;&gt;
+ &lt;img src=&quot;/blog/img/2018/02/fosdem-2018-UPSat.jpg&quot; alt=&quot;Pierros Papadeas explaining the UPSat design and building process&quot;&gt;
+ &lt;div class=&quot;caption&quot;&gt;Pierros Papadeas explaining the UPSat design and building process&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;He explained with some detail how he got involved, the current status of the project, the design, construction, verification, testing and delivery processes, etc. You should consider watching the video :-)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://fosdem.org/2018/schedule/event/closing_keynote/&quot;&gt;&lt;strong&gt;Exploiting modern microarchitectures, Meltdown, Spectre, and other hardware attacks&lt;/strong&gt;&lt;/a&gt;, by &lt;a href=&quot;https://fosdem.org/2018/schedule/speaker/jon_masters/&quot;&gt;Jon Masters&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The closing keynote was given by &lt;a href=&quot;http://jonmasters.org/&quot;&gt;&lt;strong&gt;Jon Masters&lt;/strong&gt;&lt;/a&gt; (Computer Architect at &lt;a href=&quot;https://www.redhat.com/en&quot;&gt;&lt;strong&gt;Red Hat&lt;/strong&gt;&lt;/a&gt;) about &lt;a href=&quot;https://en.wikipedia.org/wiki/Meltdown_%28security_vulnerability%29&quot;&gt;&lt;strong&gt;Meltdown&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Spectre_%28security_vulnerability%29&quot;&gt;&lt;strong&gt;Spectre&lt;/strong&gt;&lt;/a&gt;, as he was tech lead for mitigation efforts against them in Red Hat. Jon was surprisingly capable of explaining in less than 50 minutes what are those vulnerabilities about, how they were possible in the first place and what are the consequences of avoiding them. I already knew most of it but Jon made it even clearer for me, and surely for the rest of the audience given the applause he received.&lt;/p&gt;
+&lt;p&gt;It was specially amusing for me, as I&apos;ve been refreshing my knowledge about the &lt;a href=&quot;https://en.wikipedia.org/wiki/Tomasulo_algorithm&quot;&gt;&lt;strong&gt;Tomasulo Algorithm&lt;/strong&gt;&lt;/a&gt; these past months.&lt;/p&gt;
+&lt;div class=&quot;image&quot;&gt;
+ &lt;img src=&quot;/blog/img/2018/02/fosdem-2018-Meltdown.jpg&quot; alt=&quot;Microcode, Millicode and Chicken bits&quot;&gt;
+ &lt;div class=&quot;caption&quot;&gt;Microcode, Millicode and Chicken bits&lt;/div&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;p&gt;And that&apos;s all. &lt;strong&gt;See you in Brussels for FOSDEM 2019!!&lt;/strong&gt;&lt;/p&gt;
+	</description>
+    </item>
     <item>
       <title>FOSDEM 2018: Saturday</title>
       <link>http://luiyo.net/blog/2018/02/fosdem-2018-Saturday.html</link>
@@ -113,9 +196,8 @@
 &lt;p&gt;&lt;a href=&quot;https://fosdem.org/2018/schedule/event/hairy_security/&quot;&gt;&lt;strong&gt;Hairy Security, the many threats to a Java web app&lt;/strong&gt;&lt;/a&gt;, by &lt;a href=&quot;https://fosdem.org/2018/schedule/speaker/romain_pelisse/&quot;&gt;Romain Pelisse&lt;/a&gt; and &lt;a href=&quot;https://fosdem.org/2018/schedule/speaker/damien_plard/&quot;&gt;Damien Plard&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Romain (&lt;a href=&quot;https://www.redhat.com/en&quot;&gt;Red Hat&lt;/a&gt;) and Damien (&lt;a href=&quot;https://www.solarisbank.com/en/&quot;&gt;Solaris Bank&lt;/a&gt;) gave a fun and instructive talk about security, challenging some myths.&lt;/p&gt;
 &lt;p&gt;They reminded us that it’s not a question of &apos;if&apos; but &apos;when&apos; you’ll be hacked.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;Enough for the Saturday, I&apos;ll try to write my experience during FOSDEM Sunday as soon as possible, hopefully this week.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Stay tunned!!&lt;/strong&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;If you want to read my summary of the next day you can follow this link: &lt;a href=&quot;/blog/2018/02/fosdem-2018-Sunday.html&quot;&gt;&lt;strong&gt;FOSDEM 2018: Sunday&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 	</description>
     </item>
     <item>
@@ -770,62 +852,6 @@
 &lt;/div&gt;
 &lt;p&gt;After having visited &lt;a href=&quot;https://en.wikipedia.org/wiki/Auschwitz_concentration_camp&quot;&gt;&lt;strong&gt;Auschwitz&lt;/strong&gt;&lt;/a&gt; last year, the visit to the rest of the concentration camp inflicted less impression on me. Some anecdotes and brutal events of Mauthausen are unique, but both the figures and how to show what happened at Auschwitz are much more overwhelming.&lt;/p&gt;
 &lt;p&gt;I won&apos;t go into more details about the camp itself to avoid any spoiler. Mauthausen is an essential visit whether you have visited other concentration camps or not. &lt;strong&gt;Please go&lt;/strong&gt;.&lt;/p&gt;
-	</description>
-    </item>
-    <item>
-      <title>ING Security Summer Camp 2017</title>
-      <link>http://luiyo.net/blog/2017/07/ING-Security-Summer-Camp-2017.html</link>
-      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2017/07/ING-Security-Summer-Camp-2017.html</guid>
-      	<description>
-	&lt;p&gt;Last week I had the huge pleasure to participate in a week-long &lt;strong&gt;Security Summer Camp&lt;/strong&gt; organized by the Information Security department of &lt;a href=&quot;https://www.ing.es/&quot;&gt;&lt;strong&gt;ING Spain&lt;/strong&gt;&lt;/a&gt;. The agenda was very promising and implied some theory and lots of practice, ending with an &lt;strong&gt;Escape the Room&lt;/strong&gt; game and a 2,5 days long &lt;strong&gt;Capture The Flag&lt;/strong&gt; hacking competition. Several speakers from the Infosec Squad prepared talks and workshops about different topics, focusing on &lt;a href=&quot;https://en.wikipedia.org/wiki/Hacker_ethic&quot;&gt;Ethical Hacking&lt;/a&gt;, secure development, &lt;a href=&quot;http://www.linuxjournal.com/content/server-hardening&quot;&gt;server hardening&lt;/a&gt; or &lt;a href=&quot;https://en.wikipedia.org/wiki/Open-source_intelligence&quot;&gt;OSINT&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Everything was perfectly prepared and organized. I&apos;ll remark (as her colleagues also did) the invaluable effort of &lt;strong&gt;Martina Matarí&lt;/strong&gt; (&lt;a href=&quot;https://twitter.com/da3n3rys&quot;&gt;@da3n3rys&lt;/a&gt;) coordinating everything. She also prepared a talk, the Escape the Room and the CTF competition by herself. Thanks Martina and company, it was impressive!!&lt;/p&gt;
-&lt;p&gt;Let me also say that it&apos;s worthy of praise for a company like ING to allow and promote this kind of events, held mostly in working hours for more than 70-80 participants.&lt;/p&gt;
-&lt;h1&gt;Talks and Workshops&lt;/h1&gt;
-&lt;h3&gt;Sleeping with the Enemy: Ethical Hacking workshop&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Beatriz Portela&lt;/strong&gt; (&lt;a href=&quot;https://twitter.com/usr0000&quot;&gt;@usr0000&lt;/a&gt;) gave a series of workshops focusing on the most common and basic vectors of attack, learning what a vulnerability is and how to take advantage of it.&lt;/p&gt;
-&lt;h3&gt;Server hardening&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Sergi Llorente&lt;/strong&gt; explained how to protect a server from malicious attackers: &lt;a href=&quot;https://en.wikipedia.org/wiki/Denial-of-service_attack&quot;&gt;DDoS&lt;/a&gt; prevention, firewall policies, optimal configurations, password and banning policies and even physical attacks prevention policies. Very complete, and ended with a contest asking all the audience to infiltrate a prepared virtual machine with a weak spot, retrieving the admin password and getting access to a console with admin rights on it.&lt;/p&gt;
-&lt;h3&gt;Secure development&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Daniel Medianero&lt;/strong&gt; (&lt;a href=&quot;https://twitter.com/dmedianero&quot;&gt;@dmedianero&lt;/a&gt;) prepared a good combination of theory and practice regarding bad smells and vulnerabilities in code, both in backend and frontend. He even prepared an online survey for the audience to vote if a given code snippet presented a vulnerability and of what kind. It was very educational and entertaining.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vicente Carreras&lt;/strong&gt; (&lt;a href=&quot;https://twitter.com/vicentecarreras&quot;&gt;@vicentecarreras&lt;/a&gt;) checked if the attendees listened carefuly enough in Daniel&apos;s talks with a contest by teams.&lt;/p&gt;
-&lt;h3&gt;OSINT, don&apos;t be part of it&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Martina Matarí&lt;/strong&gt; (&lt;a href=&quot;https://twitter.com/da3n3rys&quot;&gt;@da3n3rys&lt;/a&gt;) talked about &lt;a href=&quot;https://en.wikipedia.org/wiki/Open-source_intelligence&quot;&gt;Open Source Intelligence (OSINT)&lt;/a&gt;, the danger it entails and what proactive methods exist to monitor it and specially to stop being a part of it.&lt;/p&gt;
-&lt;h1&gt;Escape the Room&lt;/h1&gt;
-&lt;p&gt;Sadly I couldn&apos;t participate, but everyone said it was awesome. I&apos;ll just leave you with a glimpse:&lt;/p&gt;
-&lt;center&gt;
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;es&quot;&gt;&lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Con esto, un bot de &lt;a href=&quot;https://twitter.com/telegram&quot;&gt;@telegram&lt;/a&gt; y mucho ingenio se ha currado &lt;a href=&quot;https://twitter.com/da3n3rys&quot;&gt;@da3n3rys&lt;/a&gt; un pedazo de &lt;a href=&quot;https://twitter.com/hashtag/ScapeRoom?src=hash&quot;&gt;#ScapeRoom&lt;/a&gt; 🔦🔒🔑 &lt;a href=&quot;https://t.co/HrM1ydDAmt&quot;&gt;pic.twitter.com/HrM1ydDAmt&lt;/a&gt;&lt;/p&gt;&amp;mdash; Beatriz (@usr0000) &lt;a href=&quot;https://twitter.com/usr0000/status/888418392318898176&quot;&gt;21 de julio de 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;/center&gt;
-&lt;h1&gt;Capture The Flag&lt;/h1&gt;
-&lt;p&gt;I was enrolled in the CTF since I signed up for the Summer Camp, but after a hard week with a lot of issues (work related and not) I wasn&apos;t sure if I was going to contribute properly to my team. All it took was for Martina to subtly insist and I forgot about the weariness and recovered my eagerness to participate. Anyway, I had plans to stay at home during the weekend.&lt;/p&gt;
-&lt;p&gt;For those who don&apos;t know what a &lt;a href=&quot;https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security&quot;&gt;Capture The Flag&lt;/a&gt; is (in this context), I&apos;ll copy the description from the &lt;a href=&quot;https://ctftime.org/ctf-wtf/&quot;&gt;cfttime.org&lt;/a&gt; site:&lt;/p&gt;
-&lt;p&gt;&lt;blockquote&gt;Capture the Flag (CTF) is a special kind of information security competitions. There are three common types of CTFs: Jeopardy, Attack-Defence and mixed.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jeopardy-style CTFs&lt;/strong&gt; has a couple of questions (tasks) in range of categories. For example, Web, Forensic, Crypto, Binary or something else. Team can gain some points for every solved task. More points for more complicated tasks usually. The next task in chain can be opened only after some team solve previous task. Then the game time is over sum of points shows you a CTF winer. Famous example of such CTF is &lt;a href=&quot;http://ctftime.org/ctf/1/&quot;&gt;DEF CON CTF quals&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Well, &lt;strong&gt;attack-defence&lt;/strong&gt; is another interesting kind of competitions. Here every team has own network (or only one host) with vulnarable services. Your team has time for patching your services and developing exploits usually. So, then organizers connects participants of competition and the wargame starts! You should protect own services for defence points and hack opponents for attack points. Historically this is a first type of CTFs, everybody knows about &lt;a href=&quot;http://ctftime.org/ctf/2/&quot;&gt;DEF CON CTF&lt;/a&gt; - something like a World Cup of all other competitions.&lt;/p&gt;
-&lt;p&gt;Mixed competitions may vary possible formats. It may be something like wargame with special time for task-based elements (like &lt;a href=&quot;http://ctftime.org/ctf/5/&quot;&gt;UCSB iCTF&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;CTF games often touch on many other aspects of information security: &lt;strong&gt;cryptography&lt;/strong&gt;, &lt;strong&gt;stego&lt;/strong&gt;, &lt;strong&gt;binary analysis&lt;/strong&gt;, &lt;strong&gt;reverse engeneering&lt;/strong&gt;, &lt;strong&gt;mobile security&lt;/strong&gt; and others. Good teams generally have strong skills and experience in all these issues.&lt;br/&gt;&lt;/blockquote&gt;&lt;/p&gt;
-&lt;p&gt;The participation on this competition was lower than for the rest of the Summer Camp, as expected taking place in the weekend. From my team (randomly selected from all participants) we were only two of us left. I didn&apos;t know my partner, but that didn&apos;t stop us from organizing ourselves quickly to start solving problems from the same Friday evening. From the beginning I discovered that my partner was a bright and hard working guy, and soon we understood each other very well (&lt;a href=&quot;https://twitter.com/Jaume_Salas&quot;&gt;&lt;em&gt;&lt;strong&gt;Jaume&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; &lt;em&gt;eres un crack&lt;/em&gt;).&lt;/p&gt;
-&lt;p&gt;The challenge was a Jeopardy-style CTF and consisted on solving tasks with difficulties from 1 to 5 distributed in several categories. Each solved task represented a &lt;em&gt;conquered&lt;/em&gt; country (as you can see in the map). Optionally, the first team to conquer a country gets more points than the rest. The categories where:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Cryptography&quot;&gt;&lt;strong&gt;Criptography&lt;/strong&gt;&lt;/a&gt; - cryptography tests, from basic to advanced ones&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Forensics&lt;/strong&gt; - Forensic analysis from network logs, mobile images and other operating systems&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Quiz&lt;/strong&gt; - Questions about hacker culture&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Reconnaissance&lt;/strong&gt; - Searching for people, machines, websites or data starting only with small hints&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Reverse_engineering&quot;&gt;&lt;strong&gt;Reverse engineering&lt;/strong&gt;&lt;/a&gt; - Cracking several kinds of files&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Steganalysis&quot;&gt;&lt;strong&gt;Steganography&lt;/strong&gt;&lt;/a&gt; - Finding hidden messages in known file formats&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Web Hacking&lt;/strong&gt; - Putting into practice what was learned during the ethical hacking talks&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I won&apos;t spoil here any of the tasks, I&apos;ll only say that for a level 2 cryptography task I spent around 3-4 hours on Sunday. It took me several steps with different types of encryption (which you had to guess) to get the final result (with great relief and joy). There are a lot of examples in the Internet and for some of them you can even find the solution published by a participant.&lt;/p&gt;
-&lt;p&gt;It was thrilling, very very funny and I learned a lot. The other participants had very good level and competition was fierce. We struggled to lead the scoreboard almost all the tournament, we managed to solve almost all the tasks to avoid a comeback from our pursuers &lt;strong&gt;and finally WE WON! Go StarHack Team!!!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Here you have the Final Scoreboard. It can be observed that there was scoring activity during almost all the weekend, nights included. &lt;strong&gt;Kudos&lt;/strong&gt; for all the participants :-)&lt;/p&gt;
-&lt;center&gt;
-&lt;div class=&quot;image&quot;&gt;
-  &lt;img src=&quot;/blog/img/2017/07/ING_CTF_2017_final_scoreboard.png&quot; alt=&quot;ING CTF 2017 - Final Scoreboard&quot;&gt;
-  &lt;div class=&quot;caption&quot;&gt;ING CTF 2017 - Final Scoreboard&lt;/div&gt;
-&lt;/div&gt;
-&lt;/center&gt;
-&lt;p&gt;The prize for the winners (I discovered it on Monday, I did not care during the contest) was a fabulous &lt;a href=&quot;https://www.raspberrypi.org/products/raspberry-pi-3-model-b/&quot;&gt;&lt;strong&gt;Raspberry Pi 3 Model B&lt;/strong&gt;&lt;/a&gt; Pack. Now I have three different Raspi devices so &lt;strong&gt;I need ideas&lt;/strong&gt;, I&apos;m taking advantage of one of them only :-)&lt;/p&gt;
 	</description>
     </item>
 
