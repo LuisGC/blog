@@ -152,8 +152,6 @@ Romain ([Red Hat](https://www.redhat.com/en)) and Damien ([Solaris Bank](https:/
 
 They reminded us that it’s not a question of 'if' but 'when' you’ll be hacked.
 
-<br /><br />
+<br />
 
-Enough for the Saturday, I'll try to write my experience during FOSDEM Sunday as soon as possible, hopefully this week.
-
-**Stay tunned!!**
+If you want to read my summary of the next day you can follow this link: [**FOSDEM 2018: Sunday**](/blog/2018/02/fosdem-2018-Sunday.html).

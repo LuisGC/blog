@@ -6,7 +6,7 @@ status=published
 featuredimage=img/2018/02/fosdem-2018-food.jpg
 featuredalt=Incredible statistics related to food at FOSDEM 2018
 featuredcaption=Incredible statistics related to food at FOSDEM 2018
-summary=After an interesting Saturday, finished with a great dinner with some friends in one of our favorite restaurants in <b>Brussels</b>, my Sunday at <b>FOSDEM</b> started again very early.<br />My choices for the Sunday were again diverse and (in most cases) successful. Apart from the closing keynotes, I spent some time in the <i>Legal and Policy Issues</i> devroom, a couple of talks in the <i>HPC, Big Data, and Data Science</i> devroom and half the afternoon in the <i>Geospatial</i> devroom.
+summary=After an interesting Saturday, finished with a great dinner with some friends in one of our favorite restaurants in <b>Brussels</b>, my Sunday at <b>FOSDEM</b> started again very early.<br /><br />My choices for the Sunday were again diverse and (in most cases) successful. Apart from the closing keynotes, I spent some time in the <i>Legal and Policy Issues</i> devroom, a couple of talks in the <i>HPC, Big Data, and Data Science</i> devroom and half the afternoon in the <i>Geospatial</i> devroom.
 ~~~~~~
 
 After an interesting Saturday, finished with a great dinner with some friends in one of our favorite restaurants in Brussels, my Sunday at [**FOSDEM**](https://fosdem.org/) started again very early.
@@ -18,7 +18,7 @@ After an interesting Saturday, finished with a great dinner with some friends in
 
 My choices for the Sunday were again diverse and (in most cases) successful. Apart from the closing keynotes, I spent some time in the [Legal and Policy Issues devroom](https://fosdem.org/2018/schedule/track/legal_and_policy_issues/), a couple of talks in the [HPC, Big Data, and Data Science devroom](https://fosdem.org/2018/schedule/track/hpc,_big_data,_and_data_science/) and half the afternoon in the [Geospatial devroom](https://fosdem.org/2018/schedule/track/geospatial/).
 
-Before continuing, if you want to read my summary of the previous day you can follow this link: [**FOSDEM 2018: Saturday**](blog/2018/02/fosdem-2018-Saturday.html). You will also find there general info and details about the event itself.
+Before continuing, if you want to read my summary of the previous day you can follow this link: [**FOSDEM 2018: Saturday**](/blog/2018/02/fosdem-2018-Saturday.html). You will also find there general info and details about the event itself.
 
 Let me summarize:
 
@@ -130,5 +130,7 @@ It was specially amusing for me, as I've been refreshing my knowledge about the 
  <img src="/img/2018/02/fosdem-2018-Meltdown.jpg" alt="Microcode, Millicode and Chicken bits">
  <div class="caption">Microcode, Millicode and Chicken bits</div>
 </div>
+
+<br />
 
 And that's all. **See you in Brussels for FOSDEM 2019!!**
