@@ -2,7 +2,7 @@ title=FOSDEM 2018: Sunday
 date=2018-02-08 10:23
 type=post
 tags=event,open-source,technology,english,linux,programming,internet,culture,computer-science,personal
-status=draft
+status=published
 featuredimage=img/2018/02/fosdem-2018-food.jpg
 featuredalt=Incredible statistics related to food at FOSDEM 2018
 featuredcaption=Incredible statistics related to food at FOSDEM 2018
@@ -73,7 +73,8 @@ After some interesting networking in the stands, I entered this talk with low ex
 
 The talk was about the huge refactor that was needed in the codebase of [**LibreOffice**](https://www.libreoffice.org/) to make it work in the Cloud. The speaker explained clearly why they needed to re-structure at all, the main problems that they faced (Windows and Linux rendering APIs) and how they solved critical issues like extreme coupling and threads management.
 
-The summary of the talk in a quote is: "_Fix each bug only once_". What a great statement.
+The summary of the talk in a quote is: _"Fix each bug only once"_. What a great statement.
+
 <div class="image">
  <img src="/img/2018/02/fosdem-2018-libreoffice-refactor.jpg" alt="Re-structuring LibreOffice">
  <div class="caption">Re-structuring LibreOffice</div>
