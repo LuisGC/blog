@@ -16,3 +16,7 @@ deployment:
       - git add docs
       - git commit --message "Generated site on $(date) [ci skip]"
       - git push origin hugo
+
+test:
+  override:
+      - hugo check
