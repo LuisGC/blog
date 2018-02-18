@@ -17,7 +17,7 @@ deployment:
       - master
     commands:
       - rm -rf docs
-      - hugo -d docs --cleanDestinationDir
+      - hugo -d docs --cleanDestinationDir -b "http://luiyo.net/blog/"
       - find docs -type f -exec sed -i 's/src="\/img/src="\/blog\/img/g' {} +
       - find docs -type f -exec sed -i 's/src=\&quot;\/img/src=\&quot;\/blog\/img/g' {} +
       - find docs -type f -exec sed -i 's/href="\/css/src="\/blog\/css/g' {} +

@@ -1,11 +1,11 @@
-baseurl = "http://luiyo.net/blog"
+baseurl = "/"
 languageCode = "en-us"
 title = "Luiyología"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 5
-disqusShortname = "" #"luiyologia"
-googleAnalytics = "" #"UA-555064-1"
+disqusShortname = "luiyologia"
+googleAnalytics = "UA-555064-1"
 pluralizeListTitles = false
 
 [outputFormats]
