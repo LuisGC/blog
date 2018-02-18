@@ -9,10 +9,12 @@ dependencies:
 
 deployment:
   master:
-    branch: master
+    branch:
+      - master
+      - hugo
     commands:
-      - rm -rf docs/*
-      - hugo -d ./docs -t hugo-future-imperfect
+      - rm -rf docs
+      - hugo -d docs -t hugo-future-imperfect
       - git add docs
       - git commit --message "Generated site on $(date) [ci skip]"
       - git push origin hugo
