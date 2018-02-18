@@ -22,7 +22,7 @@ deployment:
       - find docs -type f -exec sed -i 's/src=\&quot;\/js/src=\&quot;\/blog\/js/g' {} +
       - git add docs
       - git commit --message "Generated site on $(date) [ci skip]"
-      - git push origin hugo
+      - git push origin master
 
 test:
   override:
