@@ -11,6 +11,7 @@ deployment:
   master:
     branch: hugo
     commands:
+      - git pull
       - rm -rf docs/*
       - hugo -d ./docs
       - git add docs
