@@ -20,8 +20,8 @@ deployment:
       - hugo -d docs -t hugo-future-imperfect
       - find docs -type f -exec sed -i 's/src="\/img/src="\/blog\/img/g' {} +
       - find docs -type f -exec sed -i 's/src=\&quot;\/img/src=\&quot;\/blog\/img/g' {} +
-      - find docs -type f -exec sed -i 's/src="\/css/src="\/blog\/css/g' {} +
-      - find docs -type f -exec sed -i 's/src=\&quot;\/css/src=\&quot;\/blog\/css/g' {} +
+      - find docs -type f -exec sed -i 's/href="\/css/src="\/blog\/css/g' {} +
+      - find docs -type f -exec sed -i 's/href=\&quot;\/css/src=\&quot;\/blog\/css/g' {} +
       - find docs -type f -exec sed -i 's/src="\/js/src="\/blog\/js/g' {} +
       - find docs -type f -exec sed -i 's/src=\&quot;\/js/src=\&quot;\/blog\/js/g' {} +
       - git add docs
