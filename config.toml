@@ -4,8 +4,8 @@ title = "Luiyología"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 5
-disqusShortname = ""
-googleAnalytics = ""
+disqusShortname = "luiyologia"
+googleAnalytics = "UA-555064-1"
 pluralizeListTitles = false
 
 [outputFormats]
