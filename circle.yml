@@ -9,7 +9,7 @@ dependencies:
 
 deployment:
   master:
-    branch: hugo
+    branch: master
     commands:
       - rm -rf docs/*
       - hugo -d ./docs -t hugo-future-imperfect
