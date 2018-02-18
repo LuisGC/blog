@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Links on Luiyología</title>
-    <link>/categories/links/</link>
+    <link>/blog/categories/links/</link>
     <description>Recent content in Links on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jun 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/links/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/categories/links/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Known Skeptical Podcasts in Spanish</title>
-      <link>/blog/2011/06/known-skeptical-podcasts-in-spanish/</link>
+      <link>/blog/blog/2011/06/known-skeptical-podcasts-in-spanish/</link>
       <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2011/06/known-skeptical-podcasts-in-spanish/</guid>
+      <guid>/blog/blog/2011/06/known-skeptical-podcasts-in-spanish/</guid>
       <description>(Esta entrada se publica en inglés para facilitar su difusión en el mundo anglosajón y especialmente para Tim Farley, que me ha solicitado esta relación de podcasts escépticos en castellano. Si falta alguno ya estáis tardando en comentarlo)
 (18-06-2011: Two podcasts added to the list)
 For those who didn&#39;t know Tim Farley, he is the creator and promoter of the splendid site What&#39;s the Harm and his very useful blog Skeptical Software Tools.</description>
@@ -24,10 +24,10 @@ For those who didn&#39;t know Tim Farley, he is the creator and promoter of the 
     
     <item>
       <title>Ciencia Ficción y Fantasía en Creative Commons</title>
-      <link>/blog/2011/02/ciencia-ficcion-y-fantasia-en-creative/</link>
+      <link>/blog/blog/2011/02/ciencia-ficcion-y-fantasia-en-creative/</link>
       <pubDate>Sun, 27 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2011/02/ciencia-ficcion-y-fantasia-en-creative/</guid>
+      <guid>/blog/blog/2011/02/ciencia-ficcion-y-fantasia-en-creative/</guid>
       <description>Ya os he hablado de Creative Commons, como si no lo conocierais ya de antes, y puedo ir al grano sin introducciones sobre ello. Ahora que emerge con fuerza el libro electrónico, también lo hacen las tiendas de libros electrónicos. Por ahora la gente sigue siendo algo reacia a pagar, no ayuda nada los desorbitados precios de los eBooks.
 Un gran filón de este tipo de tiendas (y de los usuarios de libro electrónico) son las obras que ya han pasado a dominio público, y las obras que legalmente están disponibles de manera libre (y gratuita) en la red.</description>
     </item>
