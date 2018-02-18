@@ -5,22 +5,14 @@ machine:
 
 dependencies:
   pre:
-    - curl -s "https://get.sdkman.io" | bash
-    - sdk install jbake 2.5.1
-
-test:
-  override:
-    - sdk version
-    - sdk current jbake
+    - go get -v github.com/gohugoio/hugo
 
 deployment:
   master:
-    branch: master
+    branch: hugo
     commands:
       - rm -rf docs/*
-      - jbake -b . ./docs
-      - find docs -type f -exec sed -i 's/src="\/img/src="\/blog\/img/g' {} +
-      - find docs -type f -exec sed -i 's/src=\&quot;\/img/src=\&quot;\/blog\/img/g' {} +
+      - hugo -d ./docs
       - git add docs
       - git commit --message "Generated site on $(date) [ci skip]"
       - git push origin master
