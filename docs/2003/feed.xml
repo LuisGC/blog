@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2003 on Luiyología</title>
-    <link>/2003/</link>
+    <link>http://luiyo.net/blog/2003/</link>
     <description>Recent content in 2003 on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Oct 2003 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/2003/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://luiyo.net/blog/2003/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Arranca Luiyología</title>
-      <link>/2003/10/arranca-luiyologia/</link>
+      <link>http://luiyo.net/blog/2003/10/arranca-luiyologia/</link>
       <pubDate>Tue, 07 Oct 2003 00:00:00 +0000</pubDate>
       
-      <guid>/2003/10/arranca-luiyologia/</guid>
+      <guid>http://luiyo.net/blog/2003/10/arranca-luiyologia/</guid>
       <description>Aquí iré escribiendo mis vivencias y mis opiniones. Espero que os guste y que os anime a hacer comentarios, cualquier tipo de feedback siempre es positivo.
 Un saludo</description>
     </item>

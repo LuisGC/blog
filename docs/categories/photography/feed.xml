@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photography on Luiyología</title>
-    <link>/categories/photography/</link>
+    <link>http://luiyo.net/blog/categories/photography/</link>
     <description>Recent content in Photography on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Nov 2006 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/photography/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://luiyo.net/blog/categories/photography/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Error con autómata</title>
-      <link>/2006/11/error-con-automata/</link>
+      <link>http://luiyo.net/blog/2006/11/error-con-automata/</link>
       <pubDate>Mon, 13 Nov 2006 00:00:00 +0000</pubDate>
       
-      <guid>/2006/11/error-con-automata/</guid>
+      <guid>http://luiyo.net/blog/2006/11/error-con-automata/</guid>
       <description>Imagen tomada el pasado día 5 de Noviembre en la nueva boca de Metro de Sol en la calle Preciados  de Madrid</description>
     </item>
     
     <item>
       <title>Toledo muy medieval</title>
-      <link>/2005/04/toledo-muy-medieval/</link>
+      <link>http://luiyo.net/blog/2005/04/toledo-muy-medieval/</link>
       <pubDate>Mon, 25 Apr 2005 00:00:00 +0000</pubDate>
       
-      <guid>/2005/04/toledo-muy-medieval/</guid>
+      <guid>http://luiyo.net/blog/2005/04/toledo-muy-medieval/</guid>
       <description>La Catedral de Toledo reflejada en Don Quijote  El Viernes pase el día en Toledo. Volví a pasear por sus calles, siempre rodeado de esa enorme cantidad de acero. Es impresionante.
 La ciudad es ciertamente bonita, pero es el ambiente lo que me hace volver de cuando en cuando. Tanto, que un día que vuelva tendré que plantearme dejarme de paseos y entrar a visitar los edificios importantes y museos, que tras muchas visitas aún desconozco.</description>
     </item>

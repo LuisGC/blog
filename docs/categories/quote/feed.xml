@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quote on Luiyología</title>
-    <link>/categories/quote/</link>
+    <link>http://luiyo.net/blog/categories/quote/</link>
     <description>Recent content in Quote on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Jun 2005 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/quote/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://luiyo.net/blog/categories/quote/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Citas sobre ciencia</title>
-      <link>/2005/06/citas-sobre-ciencia/</link>
+      <link>http://luiyo.net/blog/2005/06/citas-sobre-ciencia/</link>
       <pubDate>Thu, 02 Jun 2005 00:00:00 +0000</pubDate>
       
-      <guid>/2005/06/citas-sobre-ciencia/</guid>
+      <guid>http://luiyo.net/blog/2005/06/citas-sobre-ciencia/</guid>
       <description>Tengo muy abandonado el maravilloso mundo de las citas, que tantos buenos ratos me han hecho pasar.
 Hoy me llega un especial de Proverbia.net acerca de la Ciencia por el centenario del Annus Mirabilis de Albert Einstein. Os copio las citas &#34;que nos invitaran a reflexionar sobre la utilidad, la función y los peligros de la Ciencia&#34;.
  La ignorancia afirma o niega rotundamente; la ciencia duda. Voltaire La mayoría de las ideas fundamentales de la ciencia son esencialmente sencillas y, por regla general pueden ser expresadas en un lenguaje comprensible para todos.</description>
