@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Magic on Luiyología</title>
+    <link>/categories/magic/</link>
+    <description>Recent content in Magic on Luiyología</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jun 2005 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/magic/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dentro del juego</title>
+      <link>/blog/2005/06/dentro-del-juego/</link>
+      <pubDate>Wed, 15 Jun 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2005/06/dentro-del-juego/</guid>
+      <description>Experimento Derren Brown  Derren Brown, un hipnotizador aparentemente famoso, ha realizado un experimento que, al menos a mí, me ha dejado petrificado. Sea o no cierto.
+Pilla a un tipo que se pone a jugar en un bar a una máquina recreativa tipo Quake, le hipnotiza, le traslada a un escenario real decorado igual que el videojuego y le despierta. El resto prefiero que lo descubráis vosotros mismos (15,6 WMV).</description>
+    </item>
+    
+  </channel>
+</rss>

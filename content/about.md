@@ -1,8 +1,11 @@
-title=About the author
-date=2003-10-07
-type=page
-status=published
-~~~~~~
++++
+author = "LuisGC"
+title = "About the author"
+date = "2003-10-07"
+type = "page"
+status = "published"
++++
+
 
 I'm a **Software Engineer**, **FOSS Advocate** and **Agile Evangelist** habituated to lead and coordinate development teams for various environments.
 
