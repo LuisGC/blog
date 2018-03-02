@@ -40,10 +40,8 @@ jobs:
 #    - run: mkdir -p $CIRCLE_ARTIFACTS $CIRCLE_TEST_REPORTS
     # This is based on your 1.0 configuration file or project settings
     - run:
-        working_directory: ~/LuisGC/blog
         command: git config --global user.name "CircleCI"
     - run:
-        working_directory: ~/LuisGC/blog
         command: git config --global user.email "circleci@circleci.com"
     # Dependencies
     #   This would typically go in either a build or a build-and-test job when using workflows
@@ -59,11 +57,9 @@ jobs:
 
     # This is based on your 1.0 configuration file or project settings
     - run:
-        working_directory: ~/LuisGC/blog
         name: download hugo
         command: go get -v github.com/gohugoio/hugo
     - run:
-        working_directory: ~/LuisGC/blog
         name: generate docs
         command: |
             rm -rf docs
@@ -119,9 +115,9 @@ jobs:
 
 workflows:
   version: 2
-  build-and-deploy:
+  build:
     jobs:
       - build
-          filters:
-            branches:
-              only: master
+#          filters:
+#            branches:
+#              only: master
