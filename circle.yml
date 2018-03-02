@@ -75,7 +75,9 @@ jobs:
     # Test
     #   This would typically be a build job when using workflows, possibly combined with build
     # This is based on your 1.0 configuration file or project settings
-    - run: hugo check
+  test:
+    steps:
+      - run: hugo check
     # Deployment
     # Your existing circle.yml file contains deployment steps.
     # The config translation tool does not support translating deployment steps
@@ -91,19 +93,41 @@ jobs:
         path: /tmp/circleci-artifacts
     - store_artifacts:
         path: /tmp/circleci-test-results
-
-workflows:
-  version: 2
-  build:
-    jobs:
+  generate-docs:
+    steps:
       - rm -rf docs
       - hugo -d docs --cleanDestinationDir -b "http://luiyo.net/blog/"
+  clean-docs:
+    steps:
       - find docs -type f -exec sed -i 's/src="\/img/src="\/blog\/img/g' {} +
       - find docs -type f -exec sed -i 's/src=\&quot;\/img/src=\&quot;\/blog\/img/g' {} +
       - find docs -type f -exec sed -i 's/href="\/css/src="\/blog\/css/g' {} +
       - find docs -type f -exec sed -i 's/href=\&quot;\/css/src=\&quot;\/blog\/css/g' {} +
       - find docs -type f -exec sed -i 's/src="\/js/src="\/blog\/js/g' {} +
       - find docs -type f -exec sed -i 's/src=\&quot;\/js/src=\&quot;\/blog\/js/g' {} +
+  push-docs:
+    steps:
       - git add docs
       - git commit --message "Generated site on $(date) [ci skip]"
       - git push origin master
+
+workflows:
+  version: 2
+  build_and_test:
+    jobs:
+      - build
+      - test:
+          requires:
+            - build
+      - generate-docs:
+          requires:
+            - test
+      - clean-docs:
+          requires:
+            - generate-docs
+      - push-docs:
+          requires:
+            - clean-docs
+    filters:
+      branches:
+        only: master
