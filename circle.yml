@@ -92,26 +92,27 @@ jobs:
 #    - store_artifacts:
 #        path: /tmp/circleci-test-results
   generate-docs:
+    parallelism: 1
+    working_directory: ~/LuisGC/blog
+    docker:
+    - image: circleci/build-image:ubuntu-14.04-XXL-upstart-1189-5614f37
+      command: /sbin/init
     steps:
       - rm -rf docs
       - hugo -d docs --cleanDestinationDir -b "http://luiyo.net/blog/"
-  clean-docs:
-    steps:
       - find docs -type f -exec sed -i 's/src="\/img/src="\/blog\/img/g' {} +
       - find docs -type f -exec sed -i 's/src=\&quot;\/img/src=\&quot;\/blog\/img/g' {} +
       - find docs -type f -exec sed -i 's/href="\/css/src="\/blog\/css/g' {} +
       - find docs -type f -exec sed -i 's/href=\&quot;\/css/src=\&quot;\/blog\/css/g' {} +
       - find docs -type f -exec sed -i 's/src="\/js/src="\/blog\/js/g' {} +
       - find docs -type f -exec sed -i 's/src=\&quot;\/js/src=\&quot;\/blog\/js/g' {} +
-  push-docs:
-    steps:
       - git add docs
       - git commit --message "Generated site on $(date) [ci skip]"
       - git push origin master
 
 workflows:
   version: 2
-  build_and_test:
+  build_and_deploy:
     jobs:
       - build
       - generate-docs:
@@ -120,9 +121,3 @@ workflows:
           filters:
             branches:
               only: master
-      - clean-docs:
-          requires:
-            - generate-docs
-      - push-docs:
-          requires:
-            - clean-docs
