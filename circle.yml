@@ -58,8 +58,12 @@ jobs:
         - v1-dep-
 
     # This is based on your 1.0 configuration file or project settings
-    - run: go get -v github.com/gohugoio/hugo
-    - run: rm -rf docs
+    - run:
+        name: download hugo
+        command: go get -v github.com/gohugoio/hugo
+    - run:
+        name: remove docs
+        command: rm -rf docs
     - run: hugo -d docs --cleanDestinationDir -b "http://luiyo.net/blog/"
     - run: find docs -type f -exec sed -i 's/src="\/img/src="\/blog\/img/g' {} +
     - run: find docs -type f -exec sed -i 's/src=\&quot;\/img/src=\&quot;\/blog\/img/g' {} +
