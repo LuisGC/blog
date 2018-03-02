@@ -75,22 +75,12 @@ jobs:
     # Test
     #   This would typically be a build job when using workflows, possibly combined with build
     # This is based on your 1.0 configuration file or project settings
-    - run: hugo check
+
     # Deployment
     # Your existing circle.yml file contains deployment steps.
     # The config translation tool does not support translating deployment steps
     # since deployment in CircleCI 2.0 are better handled through workflows.
     # See the documentation for more information https://circleci.com/docs/2.0/workflows/
-    # Teardown
-    #   If you break your build into multiple jobs with workflows, you will probably want to do the parts of this that are relevant in each
-    # Save test results
-#    - store_test_results:
-#        path: /tmp/circleci-test-results
-    # Save artifacts
-#    - store_artifacts:
-#        path: /tmp/circleci-artifacts
-#    - store_artifacts:
-#        path: /tmp/circleci-test-results
     - run: rm -rf docs
     - run: hugo -d docs --cleanDestinationDir -b "http://luiyo.net/blog/"
     - run: find docs -type f -exec sed -i 's/src="\/img/src="\/blog\/img/g' {} +
@@ -102,6 +92,16 @@ jobs:
     - run: git add docs
     - run: git commit --message "Generated site on $(date) [ci skip]"
     - run: git push origin master
+    # Teardown
+    #   If you break your build into multiple jobs with workflows, you will probably want to do the parts of this that are relevant in each
+    # Save test results
+#    - store_test_results:
+#        path: /tmp/circleci-test-results
+    # Save artifacts
+#    - store_artifacts:
+#        path: /tmp/circleci-artifacts
+#    - store_artifacts:
+#        path: /tmp/circleci-test-results
 
 workflows:
   version: 2
