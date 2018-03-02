@@ -59,21 +59,28 @@ jobs:
 
     # This is based on your 1.0 configuration file or project settings
     - run:
+        working_directory: ~/LuisGC/blog
         name: download hugo
         command: go get -v github.com/gohugoio/hugo
     - run:
-        name: remove docs
-        command: rm -rf docs
-    - run: hugo -d docs --cleanDestinationDir -b "http://luiyo.net/blog/"
-    - run: find docs -type f -exec sed -i 's/src="\/img/src="\/blog\/img/g' {} +
-    - run: find docs -type f -exec sed -i 's/src=\&quot;\/img/src=\&quot;\/blog\/img/g' {} +
-    - run: find docs -type f -exec sed -i 's/href="\/css/src="\/blog\/css/g' {} +
-    - run: find docs -type f -exec sed -i 's/href=\&quot;\/css/src=\&quot;\/blog\/css/g' {} +
-    - run: find docs -type f -exec sed -i 's/src="\/js/src="\/blog\/js/g' {} +
-    - run: find docs -type f -exec sed -i 's/src=\&quot;\/js/src=\&quot;\/blog\/js/g' {} +
-    - run: git add docs
-    - run: git commit --message "Generated site on $(date) [ci skip]"
-    - run: git push origin master
+        working_directory: ~/LuisGC/blog
+        name: generate docs
+        command: |
+            rm -rf docs
+            hugo -d docs --cleanDestinationDir -b "http://luiyo.net/blog/"
+            find docs -type f -exec sed -i 's/src="\/img/src="\/blog\/img/g' {} +
+            find docs -type f -exec sed -i 's/src=\&quot;\/img/src=\&quot;\/blog\/img/g' {} +
+            find docs -type f -exec sed -i 's/href="\/css/src="\/blog\/css/g' {} +
+            find docs -type f -exec sed -i 's/href=\&quot;\/css/src=\&quot;\/blog\/css/g' {} +
+            find docs -type f -exec sed -i 's/src="\/js/src="\/blog\/js/g' {} +
+            find docs -type f -exec sed -i 's/src=\&quot;\/js/src=\&quot;\/blog\/js/g' {} +
+    - run:
+        working_directory: ~/LuisGC/blog
+        name: commit the changes
+        command: |
+            git add docs
+            git commit --message "Generated site on $(date) [ci skip]"
+            git push origin master
 
     # Save dependency cache
     - save_cache:
