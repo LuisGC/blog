@@ -81,17 +81,24 @@ jobs:
     # The config translation tool does not support translating deployment steps
     # since deployment in CircleCI 2.0 are better handled through workflows.
     # See the documentation for more information https://circleci.com/docs/2.0/workflows/
-    - run: rm -rf docs
-    - run: hugo -d docs --cleanDestinationDir -b "http://luiyo.net/blog/"
-    - run: find docs -type f -exec sed -i 's/src="\/img/src="\/blog\/img/g' {} +
-    - run: find docs -type f -exec sed -i 's/src=\&quot;\/img/src=\&quot;\/blog\/img/g' {} +
-    - run: find docs -type f -exec sed -i 's/href="\/css/src="\/blog\/css/g' {} +
-    - run: find docs -type f -exec sed -i 's/href=\&quot;\/css/src=\&quot;\/blog\/css/g' {} +
-    - run: find docs -type f -exec sed -i 's/src="\/js/src="\/blog\/js/g' {} +
-    - run: find docs -type f -exec sed -i 's/src=\&quot;\/js/src=\&quot;\/blog\/js/g' {} +
-    - run: git add docs
-    - run: git commit --message "Generated site on $(date) [ci skip]"
-    - run: git push origin master
+
+  deploy:
+    machine:
+      enabled: true
+    working_directory: ~/LuisGC/blog
+    steps:
+      - checkout
+      - run: rm -rf docs
+      - run: hugo -d docs --cleanDestinationDir -b "http://luiyo.net/blog/"
+      - run: find docs -type f -exec sed -i 's/src="\/img/src="\/blog\/img/g' {} +
+      - run: find docs -type f -exec sed -i 's/src=\&quot;\/img/src=\&quot;\/blog\/img/g' {} +
+      - run: find docs -type f -exec sed -i 's/href="\/css/src="\/blog\/css/g' {} +
+      - run: find docs -type f -exec sed -i 's/href=\&quot;\/css/src=\&quot;\/blog\/css/g' {} +
+      - run: find docs -type f -exec sed -i 's/src="\/js/src="\/blog\/js/g' {} +
+      - run: find docs -type f -exec sed -i 's/src=\&quot;\/js/src=\&quot;\/blog\/js/g' {} +
+      - run: git add docs
+      - run: git commit --message "Generated site on $(date) [ci skip]"
+      - run: git push origin master
     # Teardown
     #   If you break your build into multiple jobs with workflows, you will probably want to do the parts of this that are relevant in each
     # Save test results
@@ -105,6 +112,12 @@ jobs:
 
 workflows:
   version: 2
-  build:
+  build-and-deploy:
     jobs:
       - build
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
