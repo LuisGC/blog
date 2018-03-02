@@ -117,12 +117,12 @@ workflows:
       - generate-docs:
           requires:
             - build
+          filters:
+            branches:
+              only: master
       - clean-docs:
           requires:
             - generate-docs
       - push-docs:
           requires:
             - clean-docs
-    filters:
-      branches:
-        only: master
