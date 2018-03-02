@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2018 on Luiyología</title>
-    <link>http://luiyo.net/blog/2018/</link>
+    <link>/2018/</link>
     <description>Recent content in 2018 on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 17 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://luiyo.net/blog/2018/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/2018/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Travels With Charley: In Search of America, by John Steinbeck</title>
-      <link>http://luiyo.net/blog/2018/02/travels-with-charley-by-john-steinbeck/</link>
+      <link>/2018/02/travels-with-charley-by-john-steinbeck/</link>
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://luiyo.net/blog/2018/02/travels-with-charley-by-john-steinbeck/</guid>
+      <guid>/2018/02/travels-with-charley-by-john-steinbeck/</guid>
       <description>Travels with Charley: In Search of America is mainly what they call a travelogue o travel literature. It&amp;rsquo;s not the first time that I read one and I&amp;rsquo;m starting to enjoy the genre. I added this one to my want to read in Goodreads a long time ago after reading some hilarious paragraphs during a couple of English lessons, and the rest of the book had not disappointed me at all.</description>
     </item>
     
     <item>
       <title>FOSDEM 2018: Sunday</title>
-      <link>http://luiyo.net/blog/2018/02/fosdem-2018-sunday/</link>
+      <link>/2018/02/fosdem-2018-sunday/</link>
       <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://luiyo.net/blog/2018/02/fosdem-2018-sunday/</guid>
+      <guid>/2018/02/fosdem-2018-sunday/</guid>
       <description>After an interesting Saturday, finished with a great dinner with some friends in one of our favorite restaurants in Brussels, my Sunday at FOSDEM started again very early.
 FOSDEM 2018  My choices for the Sunday were again diverse and (in most cases) successful. Apart from the closing keynotes, I spent some time in the Legal and Policy Issues devroom, a couple of talks in the HPC, Big Data, and Data Science devroom and half the afternoon in the Geospatial devroom.</description>
     </item>
     
     <item>
       <title>FOSDEM 2018: Saturday</title>
-      <link>http://luiyo.net/blog/2018/02/fosdem-2018-saturday/</link>
+      <link>/2018/02/fosdem-2018-saturday/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://luiyo.net/blog/2018/02/fosdem-2018-saturday/</guid>
+      <guid>/2018/02/fosdem-2018-saturday/</guid>
       <description>After an uncertain landing a few hours ago (the airport in Madrid was barely working due to a snowy morning), I&amp;rsquo;ve just arrived home but instead of having some rest after an intense and though-provoking FOSDEM I felt the urge to start writing about my weekend in Brussels.
 I&amp;rsquo;ve been there not only to enjoy this wonderful city with its trappist beers and great food, but specially to attend FOSDEM as I intend to do every year.</description>
     </item>
     
     <item>
       <title>Some things that Java developers really need to know in 2018</title>
-      <link>http://luiyo.net/blog/2018/01/things-that-java-developers-really-need-to-know/</link>
+      <link>/2018/01/things-that-java-developers-really-need-to-know/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://luiyo.net/blog/2018/01/things-that-java-developers-really-need-to-know/</guid>
+      <guid>/2018/01/things-that-java-developers-really-need-to-know/</guid>
       <description>A couple of days ago DZone published an article called 9 Things Java Programmers Should Learn in 2018. I liked the idea and I even recommended the article to a couple of colleagues who are trying to reorient their professional career. After the advice I added some personal disclaimers about the content, to the point that one of my friends wisely told me:
  if you don&#39;t agree with these recommendations, why don&#39;t you write your own article?</description>
     </item>
     
     <item>
       <title>Mi 2017 lúdico</title>
-      <link>http://luiyo.net/blog/2018/01/mi-2017-ludico/</link>
+      <link>/2018/01/mi-2017-ludico/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://luiyo.net/blog/2018/01/mi-2017-ludico/</guid>
+      <guid>/2018/01/mi-2017-ludico/</guid>
       <description>Vuelvo al castellano, para dar continuidad a esta serie de análisis sobre las partidas que he jugado durante el año anterior. Podéis leer lo que escribí anteriormente en:
  2016 2015 2014 2013 2012 2011  Todo, como ya sabéis, gracias a la manía mi hábito de registrar en Board Game Geek todas las partidas según las estoy jugando mediante esta aplicación para Android (que hace poco fue aparentemente forzada a declararse como no oficial).</description>
     </item>
