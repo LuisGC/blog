@@ -124,7 +124,7 @@ baseName = "feed"
 
 [[menu.main]]
   name = "Blog"
-  url = "/"
+  url = "/blog/"
   identifier = "fa fa-newspaper-o"
   weight = 3
 
