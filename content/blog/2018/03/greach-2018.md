@@ -58,12 +58,39 @@ Another hilarious moment for me came when Steve described as a reason to use Rab
 
 [**Launching the Micro Future: Groovy, Grails and MicroNaut**](http://2018.greachconf.com/sessions/grails-keynote/), by [Graeme Rocher](http://2018.greachconf.com/speakers/graeme-rocher/) ([@graemerocher](https://twitter.com/graemerocher))
 
+Iván López warned us about this talk and it was much more that what I expected. Graeme Rocher made the worldwide presentation of MicroNaut, an ultra-light cloud native reactive framework for the JVM. It'll be compatible with Groovy and Java, but also with other languages of the JVM like Kotlin. The first milestones will be released by Q2 2018 and the GA version is expected by the end of the year.
+
+Graeme and the rest of the OCI people have been working on this since at least 1.5 years ago. They released Grails ten years ago, so they have all our confidence and respect. The premise is that Grails, and Spring of course, were not designed for a microservices world. They come from an era without most of the things that are common nowadays: microservices, without containers,...
+
+Some quick hints about MicroNaut:
+* It is designed from scratch with Microservices in mind
+* It's ultra-light weight (Grame shared some amazing numbers) and reactive (it's based on Netty)
+  - Can be run with as little as 10Mb Max Heap for Java (24MB for Groovy)
+  - Start-up time is below a second for Java (1 second for Groovy)
+* Compatible with any Reactive Streams implementation: RxJava 2.x, Reactor 3.x, Akka,...
+* Integrates AOP and compile time dependency injection (and this implies a lot, great topic to talk about), so no reflection and no runtime proxies
+* It's both HTTP client and server
+* Service Discovery: Consul and Eureka are supported, Route 53 planned
+* Client Side Load Balancing: Integrated with Netflix Ribbon
+* Support for serverless computing via AWS Lambda
+* Developed via the annotations from Java and the powerful AST transformations from Groovy.
+
+Graeme also commented the roadmap of Grails (4.0 version in Q4 2018). We were all just too excited with MicroNaut but he confirmed that OCI will still evolve Grails (with MicroNaut integration), and that's good news for everyone.
+
 [**Reactive Microservices with MicroNaut**](http://2018.greachconf.com/sessions/reactive-microservices-with-particle/), by [Álvaro Sánchez-Mariscal](http://2018.greachconf.com/speakers/alvaro-sanchez-mariscal/) ([@alvaro_sanchez](https://twitter.com/alvaro_sanchez))
+
+This was my first talk of the Saturday at Greach. After the hype with MicroNaut in the previous day, the room was packed full to hear more details about the new framework from Álvaro. Álvaro made a detailed technical explanation about MicroNaut, comparing some of the decisions to the ones with Spring/Grails.
+
+He also made a live demo testing some of the capabilities: service discovery, load balancing, reactive and fault tolerant. He showed a demo project that will be released with the framework: a pet store composed with several microservices built in different technologies (Java and Groovy) and each of them connected to a different backend (PostgreSQL, Redis, Cassandra, Neo4J, etc.).
 
 [**GORM Reloaded – Data Services for the Win**](http://2018.greachconf.com/sessions/gorm-reloaded-data-services-for-the-win/), by [Graeme Rocher](http://2018.greachconf.com/speakers/graeme-rocher/) ([@graemerocher](https://twitter.com/graemerocher))
 
+Graeme gave another very good talk, this time about GORM Data Services. He explained a lot of improvements, mainly related to joins and multi-tenancy. It was very interesting, now in my project we are studying the approach for a bunch of multi-tenant data bases and the talk gave me some ideas. He offered two distinct modes to tackle the multi-tenancy problems: data partitioning and isolating connections/sessions.
+
+I saw a lot of powerful features behind GORM Data Services, improving the performance and code maintenance, and simplifying amazingly the multi-tenant application development.
+
 [**101 scripts that can save you the day**](http://2018.greachconf.com/sessions/101-scripts-that-can-save-you-the-day/), by [Jorge Aguilera](http://2018.greachconf.com/speakers/jorge-aguilera/) ([@jagedn](https://twitter.com/jagedn)) and [Miguel Ángel Rueda](http://2018.greachconf.com/speakers/miguel-angel-rueda/) ([@MiguelRuGa](https://twitter.com/MiguelRuGa))
 
-[**DevOps Glue – Task Automation with Gitlab-CI and Groovy**](http://2018.greachconf.com/sessions/devops-glue-task-automation-with-gitlab-ci-and-groovy/), by [Kevin Wittek](http://2018.greachconf.com/speakers/kevin-wittek/) ([@Kiview](https://twitter.com/Kiview))
+Jorge and Miguel Ángel offered a funny theatrical performance to show the advantages of their project ([**101 Scripts**](http://groovy-lang.gitlab.io/101-scripts/index-en.html)) offering dozens of very useful scripts made in Groovy for a lot of common tasks. I had already reviewed the project page (baked with [**JBake**](https://jbake.org/), my previous static site generator) and some of the scripts and I loved it. I hope I'd be able to contribute in the future, at least with some translations.
 
 [**Surviving in a Microservices Environment**](http://2018.greachconf.com/sessions/surviving-in-a-microservices-environment/), by [Steve Pember](http://2018.greachconf.com/speakers/steve-pember/) ([@svpember](https://twitter.com/svpember))
