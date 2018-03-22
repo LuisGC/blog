@@ -94,3 +94,10 @@ I saw a lot of powerful features behind GORM Data Services, improving the perfor
 Jorge and Miguel Ángel offered a funny theatrical performance to show the advantages of their project ([**101 Scripts**](http://groovy-lang.gitlab.io/101-scripts/index-en.html)) offering dozens of very useful scripts made in Groovy for a lot of common tasks. I had already reviewed the project page (baked with [**JBake**](https://jbake.org/), my previous static site generator) and some of the scripts and I loved it. I hope I'd be able to contribute in the future, at least with some translations.
 
 [**Surviving in a Microservices Environment**](http://2018.greachconf.com/sessions/surviving-in-a-microservices-environment/), by [Steve Pember](http://2018.greachconf.com/speakers/steve-pember/) ([@svpember](https://twitter.com/svpember))
+
+My last choice in Greach 2018 was to listen again to Steve Pember. This talk was focused on the technical and not technical choices and challenges in a microservices environment, he put the emphasis on three main topics (and I agree with him): infrastructure, architecture and team communication. He provided a valuable vision on this, with some useful insights. I'll highlight one of them, related to team communication.
+
+He reminded the audience [Conway's Law](https://en.wikipedia.org/wiki/Conway's_law), with the assumption from his side (and I totally agree) that it's completely real. If a company is not able to integrate all the required capabilities in its squads, it'll be doomed to have knowledge silos and complex dependencies everywhere.
+
+<blockquote>organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations.<br />
+— M. Conway</blockquote>
