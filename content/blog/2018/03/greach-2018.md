@@ -4,9 +4,9 @@ title = "Greach 2018"
 date = "2018-03-23"
 type = "post"
 categories = ["event", "open-source", "technology", "programming", "internet", "computer-science"]
-draft = false
-featured = "/img/2017/04/make_concurrency_groovy_again.jpg"
+featured = "/img/2018/03/Greach-2018-graemerocher.jpg"
 featuredalt = "Greach Conference 2018"
+featuredpath = "Greach Conference 2018"
 +++
 
 <div class="image lateral">
