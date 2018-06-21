@@ -5,13 +5,13 @@ date = "2018-05-13"
 type = "post"
 categories = ["personal", "tourism", "holidays", "history"]
 status = "published"
-featured = "/img/2017/12/Vannes.jpg"
+featured = "/img/2018/05/Scotland-places.png"
 featuredalt = "Vannes"
 featuredpath = "Vannes - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
 +++
 
 
-Some days ago I had the pleasure to make an awesome road trip through Scotland with my friend **Agatha**, my travel companion lately. It was my second time in Scotland, after a great trip a couple of years ago to visit mainly Edinburgh. So, this time Edinburgh was discarded as a destination, and the goal was to visit as much as possible of the rest of this country.
+Some days ago I had the pleasure to make an awesome road trip through Scotland with my friend **Agatha**, my travel companion lately. It was my second time in Scotland, after a great trip a couple of years ago to visit mainly Edinburgh. So, this time the Scottish capital was discarded as a destination and the goal was to visit as much as possible of the rest of this beautiful country.
 
 In six days we drove around **a thousand miles** and hiked almost **40 kilometers**, without taking into account the walks through cities and towns.
 
@@ -38,6 +38,8 @@ Puck's Glen
 
 Oban
 
+**Bonus recommendation**: the B&B
+
 ## Day 2
 
 Ben Lora hike
@@ -63,5 +65,10 @@ Cawdor Castle, Glenfiddich Distillery, Loch an Eilein hike, Falls of Bruar
 ## Day 6
 
 Falls of Dochart, Callander, Trossachs Trail, Aberfoyle, Doune Castle, Stirling, Glasgow
+
+<div class="image central">
+    <img src="/img/2017/12/Jumieges_Abbey.jpg" alt="Jumièges Abbey">
+    <div class="caption">Jumièges Abbey - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
+</div>
 
 I hope that you enjoyed the guide!
