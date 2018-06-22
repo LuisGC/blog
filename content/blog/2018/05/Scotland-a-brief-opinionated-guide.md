@@ -68,16 +68,21 @@ After the energetic breakfast, the first we did was another small hike, the _Eag
     <div class="caption">Beinn Lora, nature alive and dead at the same time - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
-Some kilometers up north we arrived the main attraction of the day: the [**Glen Coe** National Natural Reserve](https://en.wikipedia.org/wiki/Glen_Coe), one of the most popular Natural Reserves in the UK. We visited the _Meeting of the Three Waters_ and the _Three Sisters_, totally different things but separated by less than 1 kilometer. Despite the light rain, we decided to start climbing the [_Bidean nam Bian_](https://en.wikipedia.org/wiki/Bidean_nam_Bian) mountain massif to reach the [**Coire Gabhail**](https://en.wikipedia.org/wiki/Coire_Gabhail), also known as Lost Valley or Hidden Valley because in order to reach this glacier formed marvel you need to climb 230 meters through a steep path. The ascension was fantastic and beautiful, but also very long and quite adventurous because the rain became more intense and the path was very steep and wet. We were always safe but we ended up very tired and soaked. It was totally worth it, anyway.
+Some kilometers up north we arrived the main attraction of the day: the [**Glen Coe** National Natural Reserve](https://en.wikipedia.org/wiki/Glen_Coe), one of the most popular Natural Reserves in the UK. We visited the _Meeting of the Three Waters_ and the _Three Sisters_, totally different things but separated by less than 1 kilometer. Despite the light rain, we decided to start climbing the [_Bidean nam Bian_](https://en.wikipedia.org/wiki/Bidean_nam_Bian) mountain massif to reach the [**Coire Gabhail**](https://en.wikipedia.org/wiki/Coire_Gabhail), also known as Lost Valley or Hidden Valley because in order to reach this glacier formed marvel you need to climb 230 meters through a steep path. The ascension was fantastic and beautiful, but also very long and quite adventurous because the rain became more intense and the path was very steep and wet. We were always safe but we ended up very tired and soaked after almost 5 hours under the heavy rain. It was totally worth it, anyway.
 
 <div class="image central">
     <img src="/img/2018/05/Lost-Valley.jpg" alt="Soaked but happy, entering the Lost Valley at Glen Coe">
     <div class="caption">Soaked but happy, entering the Lost Valley at Glen Coe - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
-Fort Augustus
+After a well deserved lunch at the _Boots Bar_ in the [_Clachaig Inn_](https://en.wikipedia.org/wiki/Clachaig_Inn), we decided to spend the evening with more relaxed visits, the first of them to [**Fort Augustus**](https://en.wikipedia.org/wiki/Fort_Augustus), a small village in the south west end of [**Loch Ness**](https://en.wikipedia.org/wiki/Loch_Ness). It is very popular for tourists but the main attraction is the lake itself. We took the car again to reach the ruins of Urquhart Castle, but it was closed already so we couldn't even enter. I visited it in my previous trip to Scotland, but at least Agatha could see the ruins with the lake behind and _Nessie_ diving somewhere..
 
-Eilean Donan Castle
+The rain continued and the sunset was approaching, so for the rest of our evening we left a quick stop at the [**Eilean Donan Castle**](https://en.wikipedia.org/wiki/Eilean_Donan). The castle has an interesting history but it's private and it was closed, so we just crossed the bridge and walked around it calmly to enjoy the place.
+
+<div class="image central">
+    <img src="/img/2018/05/Eilean-Donan-Castle.jpg" alt="The majestic Eilean Donan Castle">
+    <div class="caption">The majestic Eilean Donan Castle - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
+</div>
 
 ## Day 3, Isle of Skye
 
