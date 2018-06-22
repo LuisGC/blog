@@ -68,7 +68,12 @@ After the energetic breakfast, the first we did was another small hike, the _Eag
     <div class="caption">Beinn Lora, nature alive and dead at the same time - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
-Glen Coe Valley
+Some kilometers up north we arrived the main attraction of the day: the [**Glen Coe** National Natural Reserve](https://en.wikipedia.org/wiki/Glen_Coe), one of the most popular Natural Reserves in the UK. We visited the _Meeting of the Three Waters_ and the _Three Sisters_, totally different things but separated by less than 1 kilometer. Despite the light rain, we decided to start climbing the [_Bidean nam Bian_](https://en.wikipedia.org/wiki/Bidean_nam_Bian) mountain massif to reach the [**Coire Gabhail**](https://en.wikipedia.org/wiki/Coire_Gabhail), also known as Lost Valley or Hidden Valley because in order to reach this glacier formed marvel you need to climb 230 meters through a steep path. The ascension was fantastic and beautiful, but also very long and quite adventurous because the rain became more intense and the path was very steep and wet. We were always safe but we ended up very tired and soaked. It was totally worth it, anyway.
+
+<div class="image central">
+    <img src="/img/2018/05/Lost-Valley.jpg" alt="Soaked but happy, entering the Lost Valley at Glen Coe">
+    <div class="caption">Soaked but happy, entering the Lost Valley at Glen Coe - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
+</div>
 
 Fort Augustus
 
@@ -89,10 +94,5 @@ Cawdor Castle, Glenfiddich Distillery, Loch an Eilein hike, Falls of Bruar
 ## Day 6
 
 Falls of Dochart, Callander, Trossachs Trail, Aberfoyle, Doune Castle, Stirling, Glasgow
-
-<div class="image central">
-    <img src="/img/2017/12/Jumieges_Abbey.jpg" alt="Jumièges Abbey">
-    <div class="caption">Jumièges Abbey - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
-</div>
 
 I hope that you enjoyed the guide!
