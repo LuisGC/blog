@@ -30,7 +30,7 @@ Let me show you the initial map of Scotland _must visit_ destinations prepared b
 
 Let's start!
 
-## Day 1
+## Day 1, Loch Lomond, Puck's Glen & Oban
 
 We landed at Glasgow International Airport very very soon to make the most out of the first day. We lost some of this advantage struggling with the [car rental company](http://www.easirent.com/). In the end the experience with them was OK but it started horribly bad. They gave us a car smaller than expected (and booked, and payed) but at least it had automatic transmission and in the end it was comfortable enough for two and very appropriate and comfortable to drive on normally one lane roads.
 
@@ -59,7 +59,7 @@ We finished our first stage near [**Oban**](https://en.wikipedia.org/wiki/Oban),
 
 **Bonus recommendation**: the [Grove House](https://www.booking.com/hotel/gb/grove-guest-house-oban.html) Bed and Breakfast exceeded all our expectations. They were extremely nice with us (including waiting until late for the check-in), gave us two rooms for the same price so we could sleep more comfortably and an impressive breakfast. I took one my favorite breakfasts in the UK: smoked herring grilled.
 
-## Day 2
+## Day 2, Beinn Lora, Glen Coe, Loch Ness & Eilean Donan
 
 After the energetic breakfast, the first we did was another small hike, the _Eagle's Eyrie_ walk in **Beinn Lora**. The path had been recently improved by the logging company that exploits the area and it was very beautiful and interesting. Not so many days before everything was covered by huge trees but when we were visited only some remaining lumber and stumps were there. In some stumps we counted more than 60 rings, the entire area produced mixed feelings of sadness and beauty. Very curious, after all.
 
@@ -77,7 +77,7 @@ Some kilometers up north we arrived the main attraction of the day: the [**Glen 
 
 After a well deserved lunch at the _Boots Bar_ in the [_Clachaig Inn_](https://en.wikipedia.org/wiki/Clachaig_Inn), we decided to spend the evening with more relaxed visits, the first of them to [**Fort Augustus**](https://en.wikipedia.org/wiki/Fort_Augustus), a small village in the south west end of [**Loch Ness**](https://en.wikipedia.org/wiki/Loch_Ness). It is very popular for tourists but the main attraction is the lake itself. We took the car again to reach the ruins of Urquhart Castle, but it was closed already so we couldn't even enter. I visited it in my previous trip to Scotland, but at least Agatha could see the ruins with the lake behind and _Nessie_ diving somewhere..
 
-The rain continued and the sunset was approaching, so for the rest of our evening we left a quick stop at the [**Eilean Donan Castle**](https://en.wikipedia.org/wiki/Eilean_Donan). The castle has an interesting history but it's private and it was closed, so we just crossed the bridge and walked around it calmly to enjoy the place.
+The rain continued and the sunset was approaching, so for the rest of our evening we left a quick stop at the [**Eilean Donan Castle**](https://en.wikipedia.org/wiki/Eilean_Donan). The castle has an interesting history but it's private and it was closed, so we just crossed the bridge and walked around it calmly to enjoy the place as we were completely alone.
 
 <div class="image central">
     <img src="/img/2018/05/Eilean-Donan-Castle.jpg" alt="The majestic Eilean Donan Castle">
