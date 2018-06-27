@@ -86,7 +86,36 @@ The rain continued and the sunset was approaching, so for the rest of our evenin
 
 ## Day 3, Isle of Skye
 
-Old Man of Storr, Mealt Falls, The Quiraing, Fairy Glen, Neis Point
+We visited some of the main landmarks and popular hikes in the Isle of Skye,
+
+Our first stop was to climb to the [**Old Man of Storr**](https://en.wikipedia.org/wiki/The_Storr), a picturesque 28 meters high pinnacle surrounded by similar rock structures. Compared to the previous days with the entire paths for us, in this route we met many more people. The parking site was packed full, even in the shoulders of the roam, and the complete path was full of people going up and down. Nevertheless, the climb is beautiful and not very hard, so it's a strong recommendation.
+
+<div class="image central">
+    <img src="/img/2018/05/Old-Man-Storr.jpg" alt="A small lagoon beside the Old Man of Storr, with the sea behind">
+    <div class="caption">A small lagoon beside the Old Man of Storr, with the sea behind - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
+</div>
+
+After lunch, we make a quick stop to see the Mealt Falls, a lake overflowing to the sea almost directly on a cliff. Interesting.
+
+Our next stop was poorly planned and fatally executed, everything because of me. There are several ways to visit [**The Quiraing**](https://en.wikipedia.org/wiki/Quiraing) and I choose the worst one starting with the most difficult part, a very steep ascension with lots of mud and puddles. The idea was that the rest of the way would be to descend from there, but the path was not easy even after having passed the worst slopes. A Storm suddenly appeared, we had only a few hours of light and we didn't risk it. After going down to the parking lot, attempting the shortest and easiest path to The Quiraing was not appealing so we went to the next stop.
+
+**Fairy Glen** is a special and curious place to visit. It's a small area formed by small magical hills eroded in _spiral-ish_ waves. To the natural attractive the locals have added more spirals in the ground made with stones and towers of stone in equilibrium.
+
+<div class="image central">
+    <img src="/img/2018/05/Fairy-Glen.jpg" alt="The magical hills of Fairy Glen">
+    <div class="caption">The magical hills of Fairy Glen - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
+</div>
+
+After a long drive we arrived before the sunset to the [**Neis Point**](https://en.wikipedia.org/wiki/Neist_Point), the most westerly point of the Isle. There is a beautiful walk from the car park to the lighthouse, including an interesting ascension to a small summit where you can (supposedly) see whales, dolphins and sharks. But you don't need to climb anything to enjoy a spectacular sunset from almost anywhere in the point.
+
+<div class="image central">
+    <img src="/img/2018/05/Neis-Point.jpg" alt="The walk to the lighthouse at Neis Point">
+    <div class="caption">The walk to the lighthouse at Neis Point - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
+</div>
+
+As we couldn't book anything more or less affordable in the entire area, we changed our plans and decided to drive a couple of hours after dinner to sleep closer to our next destination outside of Skye instead of spending one additional day around there. We probably failed in that decision, because with the hotel booked far far away and just after starting the trip, it began to rain torrentially. Our GPS's two hour estimate was transformed into almost 4 hours driving under the rain, at night, mostly through 1-lane roads and after a long day driving and hiking.
+
+**Bonus recommendation**: Near the Rubha nam Brathairean on our way to The Quiraing we ate in the [Skye Pie cafe](https://www.openstreetmap.org/node/4990961322), a cute place with a vegetarian friendly menu that serves mainly pies of spectacular flavors based on local products, including some sweet pies for dessert.
 
 ## Day 4
 
