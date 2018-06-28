@@ -86,7 +86,7 @@ The rain continued and the sunset was approaching, so for the rest of our evenin
 
 ## Day 3, Isle of Skye
 
-We visited some of the main landmarks and popular hikes in the Isle of Skye,
+We visited some of the main landmarks and popular hikes in the Isle of Skye. The fields in some areas were more yellow than green, but the place is marvelous anyway. I want to go back, nut with more time and a mobile home.
 
 Our first stop was to climb to the [**Old Man of Storr**](https://en.wikipedia.org/wiki/The_Storr), a picturesque 28 meters high pinnacle surrounded by similar rock structures. Compared to the previous days with the entire paths for us, in this route we met many more people. The parking site was packed full, even in the shoulders of the roam, and the complete path was full of people going up and down. Nevertheless, the climb is beautiful and not very hard, so it's a strong recommendation.
 
@@ -119,14 +119,52 @@ As we couldn't book anything more or less affordable in the entire area, we chan
 
 ## Day 4
 
-Corrieshalloch Gorge, Rogie Falls, Cromatry, Fairy Glen Falls, Inverness
+After a nice breakfast we started again very early our day. Lots of things to see!!
+
+The first stop was a quick visit to the [**Corrieshalloch Gorge**](https://en.wikipedia.org/wiki/Corrieshalloch_Gorge), a spectacular 1.5km long and 60 meters deep gorge with a huge waterfall and a bridge that only supports the weight of 6 people, we lived a fun moment being there with other 5 adults making pictures and a family with a big dog appeared at the other end :-)
+
+<div class="image central">
+    <img src="/img/2018/05/Corrieshalloch-Gorge.jpg" alt="A curious 'dancing' bridge to cross the Corrieshalloch Gorge">
+    <div class="caption">A curious 'dancing' bridge to cross the Corrieshalloch Gorge - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
+</div>
+
+A few kilometers later we stopped for another short forest walk to visit the [**Rogie Falls**](https://en.wikipedia.org/wiki/Rogie_Falls), a series of waterfalls that we could enjoy almost for ourselves. We enjoyed it so much that we had time to make funny pictures while looking for a cache.
+
+<div class="image central">
+    <img src="/img/2018/05/Rogie-Falls.jpg" alt="Taking a nap in Rogie Falls">
+    <div class="caption">Taking a nap in Rogie Falls - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
+</div>
+
+Three more stops: [**Cromatry**](https://en.wikipedia.org/wiki/Cromarty), an interesting small village with a nice port; the [**Fortrose Cathedral**](https://en.wikipedia.org/wiki/Fortrose_Cathedral), a half-ruined cathedral build primarily with red sandstone; and the [**Channonry Point**](https://en.wikipedia.org/wiki/Chanonry_Point), a spit of land near Fortrose that is very popular because from there you can spot [bottlenose dolphins](https://en.wikipedia.org/wiki/Bottlenose_dolphin), [porpoises](https://en.wikipedia.org/wiki/Porpoise) and [grey seals](https://en.wikipedia.org/wiki/Grey_seal).
+
+And finally we arrived to [**Inverness**](https://en.wikipedia.org/wiki/Inverness), the capital of the Scottish Highlands. We spent the rest of the day there, looking for caches, walking around and enjoying the pubs. According to Wikipedia Inverness is one of Europe's fastest growing cities, and it's ranked very high in quality of life and happiest place in the entire UK, but I didn't feel any of this. Anyway, it can be a special place to live but IMHO it's not so special for a tourist. The castle and the town hall are nice but I would not have minded having skipped this stop.
+
+Sleeping in the worst hotel that I remember did not improve my general feeling about Inverness.
 
 ## Day 5
 
-Cawdor Castle, Glenfiddich Distillery, Loch an Eilein hike, Falls of Bruar
+Cawdor Castle
+
+Glenfiddich Distillery
+
+Loch an Eilein hike
+
+Falls of Bruar
 
 ## Day 6
 
-Falls of Dochart, Callander, Trossachs Trail, Aberfoyle, Doune Castle, Stirling, Glasgow
+Falls of Dochart
+
+Callander
+
+Trossachs Trail
+
+Aberfoyle
+
+Doune Castle
+
+Stirling
+
+Glasgow
 
 I hope that you enjoyed the guide!
