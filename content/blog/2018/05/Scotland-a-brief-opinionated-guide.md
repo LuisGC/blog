@@ -143,28 +143,51 @@ Sleeping in the worst hotel that I remember did not improve my general feeling a
 
 ## Day 5
 
-Cawdor Castle
+Our first day started with a nice visit to [**Cawdor Castle**](https://en.wikipedia.org/wiki/Cawdor_Castle), a private castle that can be partially visited. It contains a nice collection of art and it's richly decorated but what I loved most was the gardens. They even had a garden maze, but sadly the path to the interior of the maze was closed.
 
-Glenfiddich Distillery
+<div class="image central">
+    <img src="/img/2018/05/Cawdor-Castle.jpg" alt="The gardens of Cawdor Castle, with the main building behind">
+    <div class="caption">The gardens of Cawdor Castle, with the main building behind - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
+</div>
 
-Loch an Eilein hike
+Neither Agatha nor I are big whiskey fans, but we did not want to leave Scotland without stopping in a distillery and we chose one of the most famous: [**Glenfiddich Distillery**](https://en.wikipedia.org/wiki/Glenfiddich). I tried to convince her to go to [**Laphroaig distillery**](https://en.wikipedia.org/wiki/Laphroaig_distillery) but it's far away from everything else so I accepted the change.
 
-Falls of Bruar
+Glenfiddich has a huge distillery in Dufftown, they offer all kind of tours and most of the tours include all kinds of whiskey tasting at the end. For the designated drivers they offered a small bottle of Glenfiddich 15 to make the tasting at home.
+
+The visit was interesting, after having visited some distilleries and several beer breweries what I needed was to learn something new or different related to the process. This time I learned that the shape of the _swan necked_ copper stills affects the flavor, character and strength of the resulting whiskey.
+
+<div class="image central">
+    <img src="/img/2018/05/Glenfiddich-distillery.jpg" alt="The beautiful copper stills of the Glenfiddich Distillery">
+    <div class="caption">The beautiful copper stills of the Glenfiddich Distillery - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
+</div>
+
+We considered visiting also the [**Strathisla Distillery**](https://en.wikipedia.org/wiki/Strathisla_distillery) in Keith as the oldest continuously operating distillery in Scotland, but we decided to start going south to spend the afternoon in the [**Cairngorms National Park**](https://en.wikipedia.org/wiki/Cairngorms_National_Park).
+
+After some research in the copilot seat Agatha chose the [**Loch an Eilein**](https://en.wikipedia.org/wiki/Loch_an_Eilein) hike, a beautiful 7-8 kilometer walk around the said Loch. The entire route is astounding, including an idyllic view of a small island near the shore with an ruined castle. The best part was that we were almost alone in the entire area, more silence and quietness is impossible.
+
+<div class="image central">
+    <img src="/img/2018/05/Loch-an-Eilein.jpg" alt="Calmly enjoying the Loch an Eilein">
+    <div class="caption">Calmly enjoying the Loch an Eilein - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
+</div>
+
+We finished our day with another short walk to view the [**Falls of Bruar**](https://en.wikipedia.org/wiki/Falls_of_Bruar) just before sunset, and a nice dinner in [**Pilotchry**](https://en.wikipedia.org/wiki/Pitlochry), one of the most touristic towns in the area.
+
+**Bonus recommendation**: Although they made a mistake in the order and they took almost an hour to serve us our dinner, you should consider visiting [**McKays**](https://www.openstreetmap.org/way/238843241), a lively pub, hotel and restaurant with live music and nice decoration. They have a saloon with the ceiling full of golf sticks and golf pictures on the walls. We had diner in front of Ballesteros and Olazabal :-)
 
 ## Day 6
 
-Falls of Dochart
+**Falls of Dochart**
 
-Callander
+**Callander**
 
-Trossachs Trail
+**Trossachs Trail**
 
 Aberfoyle
 
-Doune Castle
+**Doune Castle**
 
-Stirling
+**Stirling**
 
-Glasgow
+**Glasgow**
 
 I hope that you enjoyed the guide!
