@@ -5,9 +5,9 @@ date = "2018-05-27"
 type = "post"
 categories = ["personal", "tourism", "holidays", "history"]
 status = "published"
-featured = "/img/2018/05/Scotland-places.png"
-featuredalt = "Scotland"
-featuredpath = "Scotland - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
+featured = "/img/2018/05/Isle-of-Skye.jpg"
+featuredalt = "the most common local on the Isle of Skye, in Scotland"
+featuredpath = "the most common local on the Isle of Skye, in Scotland - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
 +++
 
 
@@ -15,7 +15,7 @@ Some weeks ago I had the pleasure to make an awesome road trip through Scotland 
 
 It was my second time in Scotland, after a great trip three years ago to visit mainly Edinburgh. So, this time the Scottish capital was discarded as a destination and the goal was to visit as much as possible of the rest of this beautiful country.
 
-In six days we drove around **a thousand miles** and hiked almost **40 kilometers**, without taking into account the countless walks through cities and towns. And we found [more than 25 caches](https://www.geocaching.com/profile/?guid=b78f2e04-cd1c-4199-820c-7ea3bb7fea20)!!
+In **six days** we drove around **a thousand miles** and hiked almost **40 kilometers**, without taking into account the countless walks through cities and towns. And we found [more than 25 caches](https://www.geocaching.com/profile/?guid=b78f2e04-cd1c-4199-820c-7ea3bb7fea20)!!
 
 # What to expect from this guide
 
@@ -86,7 +86,7 @@ The rain continued and the sunset was approaching, so for the rest of our evenin
 
 ## Day 3: Isle of Skye
 
-We visited some of the main landmarks and popular hikes in the Isle of Skye. The fields in some areas were more yellow than green, but the place is marvelous anyway. I want to go back, nut with more time and a mobile home.
+We visited some of the main landmarks and popular hikes in the Isle of Skye. The fields in some areas were more brown than green, but the place is marvelous anyway. I want to go back, nut with more time and a mobile home.
 
 Our first stop was to climb to the [**Old Man of Storr**](https://en.wikipedia.org/wiki/The_Storr), a picturesque 28 meters high pinnacle surrounded by similar rock structures. Compared to the previous days with the entire paths for us, in this route we met many more people. The parking site was packed full, even in the shoulders of the roam, and the complete path was full of people going up and down. Nevertheless, the climb is beautiful and not very hard, so it's a strong recommendation.
 
@@ -207,6 +207,6 @@ The day was cloudy, and from the castle the views of the [**National Wallace Mon
 
 After enjoying Stirling fully, we arrived with the last sun rays to [**Glasgow**](https://en.wikipedia.org/wiki/Glasgow). We walked the downtown, surprised by the huge amount of bars and restaurants. We knew that Glasgow had a good atmosphere but it seemed disproportionate to us in a positive way.
 
-But our flight was scheduled to take off very very early, so to avoid last minute issues we returned the car and picked a hotel beside the airport. Next time I'll consider spending a full evening in Glasgow if I fly there.
+But our flight was scheduled to take off very very early, so to avoid last minute issues and traffic jams we returned the car and booked a hotel beside the airport. Next time I'll consider spending a full evening in Glasgow if I fly there.
 
 I hope that you enjoyed the guide!
