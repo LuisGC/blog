@@ -30,7 +30,7 @@ Let me show you the initial map of Scotland _must visit_ destinations prepared b
 
 Let's start!
 
-## Day 1, Loch Lomond, Puck's Glen & Oban
+## Day 1: Loch Lomond National Park, Puck's Glen & Oban
 
 We landed at Glasgow International Airport very very soon to make the most out of the first day. We lost some of this advantage struggling with the [car rental company](http://www.easirent.com/). In the end the experience with them was OK but it started horribly bad. They gave us a car smaller than expected (and booked, and payed) but at least it had automatic transmission and in the end it was comfortable enough for two and very appropriate and comfortable to drive on normally one lane roads.
 
@@ -59,7 +59,7 @@ We finished our first stage near [**Oban**](https://en.wikipedia.org/wiki/Oban),
 
 **Bonus recommendation**: the [Grove House](https://www.booking.com/hotel/gb/grove-guest-house-oban.html) Bed and Breakfast exceeded all our expectations. They were extremely nice with us (including waiting until late for the check-in), gave us two rooms for the same price so we could sleep more comfortably and an impressive breakfast. I took one my favorite breakfasts in the UK: smoked herring grilled.
 
-## Day 2, Beinn Lora, Glen Coe, Loch Ness & Eilean Donan
+## Day 2: Beinn Lora, Glen Coe, Loch Ness & Eilean Donan
 
 After the energetic breakfast, the first we did was another small hike, the _Eagle's Eyrie_ walk in **Beinn Lora**. The path had been recently improved by the logging company that exploits the area and it was very beautiful and interesting. Not so many days before everything was covered by huge trees but when we were visited only some remaining lumber and stumps were there. In some stumps we counted more than 60 rings, the entire area produced mixed feelings of sadness and beauty. Very curious, after all.
 
@@ -84,7 +84,7 @@ The rain continued and the sunset was approaching, so for the rest of our evenin
     <div class="caption">The majestic Eilean Donan Castle - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
-## Day 3, Isle of Skye
+## Day 3: Isle of Skye
 
 We visited some of the main landmarks and popular hikes in the Isle of Skye. The fields in some areas were more yellow than green, but the place is marvelous anyway. I want to go back, nut with more time and a mobile home.
 
@@ -117,7 +117,7 @@ As we couldn't book anything more or less affordable in the entire area, we chan
 
 **Bonus recommendation**: Near the Rubha nam Brathairean on our way to The Quiraing we ate in the [Skye Pie cafe](https://www.openstreetmap.org/node/4990961322), a cute place with a vegetarian friendly menu that serves mainly pies of spectacular flavors based on local products, including some sweet pies for dessert.
 
-## Day 4
+## Day 4: Corrieshalloch Gorge, Rogie Falls, Cromatry, Fortrose & Inverness
 
 After a nice breakfast we started again very early our day. Lots of things to see!!
 
@@ -141,7 +141,7 @@ And finally we arrived to [**Inverness**](https://en.wikipedia.org/wiki/Invernes
 
 Sleeping in the worst hotel that I remember did not improve my general feeling about Inverness.
 
-## Day 5
+## Day 5: Cawdor Castle, Glenfiddich distillery, Cairngorms National Park & Pilotchry
 
 Our first day started with a nice visit to [**Cawdor Castle**](https://en.wikipedia.org/wiki/Cawdor_Castle), a private castle that can be partially visited. It contains a nice collection of art and it's richly decorated but what I loved most was the gardens. They even had a garden maze, but sadly the path to the interior of the maze was closed.
 
@@ -172,22 +172,41 @@ After some research in the copilot seat Agatha chose the [**Loch an Eilein**](ht
 
 We finished our day with another short walk to view the [**Falls of Bruar**](https://en.wikipedia.org/wiki/Falls_of_Bruar) just before sunset, and a nice dinner in [**Pilotchry**](https://en.wikipedia.org/wiki/Pitlochry), one of the most touristic towns in the area.
 
-**Bonus recommendation**: Although they made a mistake in the order and they took almost an hour to serve us our dinner, you should consider visiting [**McKays**](https://www.openstreetmap.org/way/238843241), a lively pub, hotel and restaurant with live music and nice decoration. They have a saloon with the ceiling full of golf sticks and golf pictures on the walls. We had diner in front of Ballesteros and Olazabal :-)
+**Bonus recommendation**: Although they made a mistake in the order and they took almost an hour to serve us our dinner, you should consider visiting [**McKays**](https://www.openstreetmap.org/way/238843241), a lively pub, hotel and restaurant with live music and nice decoration. We were seated in a saloon with the ceiling full of golf clubs and golf-themed pictures on the walls. We had dinner in front of Ballesteros and Olazabal :-)
 
-## Day 6
+## Day 6: Killin, Trossachs, Doune Castle, Stirling & Glasgow
 
-**Falls of Dochart**
+Our first visit, near our hotel with views to Loch Earn, was to see the [**Falls of Dochart**](https://en.wikipedia.org/wiki/Falls_of_Dochart). These broad falls are formed at the junction of two rivers, just beside an old stone bridge at the entrance of **Killin**. Quite a spectacular view.
 
-**Callander**
+<div class="image central">
+    <img src="/img/2018/05/Falls-of-Dochart.jpg" alt="Panoramic of the Falls of Dochart, in Killin">
+    <div class="caption">Panoramic of the Falls of Dochart, in Killin - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
+</div>
 
-**Trossachs Trail**
+Also spectacular was to drive through the [**Great Trossachs Forest**](https://en.wikipedia.org/wiki/Trossachs) and the [**Duke's Pass**](https://en.wikipedia.org/wiki/Duke%27s_Pass). For my next visit I need to spend more time in this area.
 
-Aberfoyle
+After a quick shopping stop and ordinary lunch in [**Aberfoyle**](https://en.wikipedia.org/wiki/Aberfoyle,_Stirling) we arrived to another of the places I wanted to go since my last trip to Scotland, the [**Doune Castle**](https://en.wikipedia.org/wiki/Doune_Castle), a medieval stronghold that is famous because several scenes of [_Monty Python and the Holy Grail_](https://en.wikipedia.org/wiki/Monty_Python_and_the_Holy_Grail) were filmed there.
 
-**Doune Castle**
+As a huge fan of [**Monty Python**](https://en.wikipedia.org/wiki/Monty_Python) I was curious about the place, and specially (I recognize it) about the merchandising that they could sell in the castle shop.
 
-**Stirling**
+We finally didn't visit the interior of the castle to have more time in Stirling, and the merchandising in the shop was a bit limited (a few t-shirts, mugs and books) but the visit was worth it because Doune is close to Stirling and we didn't lose a lot of time.
 
-**Glasgow**
+<div class="image central">
+    <img src="/img/2018/05/Doune-Castle.jpg" alt="Emulating King Arthur, at Doune Castle">
+    <div class="caption">Emulating King Arthur, at Doune Castle - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
+</div>
+
+We arrived to the [**Stirling Castle**](https://en.wikipedia.org/wiki/Stirling_Castle) with all the afternoon to enjoy it calmly. It remind me (no surprises here) to the Edinburgh Castle and during our visit with the audio guide I tried to compare what I remembered from the other one. We could visit the place with less tourists that expected so it was more or less quick and we even spend some time walking through the Stirling town to grab [a fantastic multi-cache](https://www.geocaching.com/geocache/GC1P293_stirling-castle-and-the-top-of-the-town) with interesting stops: the Old Grammar School, Argyll's Lodging, Mar's Wark, the Church of the Holy Rude, the Old Town Jail or the Merkat Cross.
+
+The day was cloudy, and from the castle the views of the [**National Wallace Monument**](https://en.wikipedia.org/wiki/Wallace_Monument) were astonishing, even more than from behind the monument itself.
+
+<div class="image central">
+    <img src="/img/2018/05/Wallace-Monument.jpg" alt="Views from Stirling Castle, with the Wallace Monument in the background">
+    <div class="caption">Views from Stirling Castle, with the Wallace Monument in the background - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
+</div>
+
+After enjoying Stirling fully, we arrived with the last sun rays to [**Glasgow**](https://en.wikipedia.org/wiki/Glasgow). We walked the downtown, surprised by the huge amount of bars and restaurants. We knew that Glasgow had a good atmosphere but it seemed disproportionate to us in a positive way.
+
+But our flight was scheduled to take off very very early, so to avoid last minute issues we returned the car and picked a hotel beside the airport. Next time I'll consider spending a full evening in Glasgow if I fly there.
 
 I hope that you enjoyed the guide!
