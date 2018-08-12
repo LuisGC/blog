@@ -4,13 +4,13 @@ title = "Greach 2018"
 date = "2018-03-23"
 type = "post"
 categories = ["event", "open-source", "technology", "programming", "internet", "computer-science"]
-featured = "/img/2018/03/Greach-2018-graemerocher.jpg"
+featured = "https://farm2.staticflickr.com/1796/29055005757_97973f26e6_o.jpg"
 featuredalt = "Greach Conference 2018"
 featuredpath = "Greach Conference 2018"
 +++
 
 <div class="image lateral">
-  <img src="/img/2018/03/Greach_2018.png" alt="Greach 2018">
+  <img src="https://farm2.staticflickr.com/1812/43273840094_a4955a2262_o.png" alt="Greach 2018">
   <div class="caption">
    <a href="http://2018.greachconf.com/">Greach 2018</a>
   </div>
@@ -67,7 +67,7 @@ Dierk's talk was mainly a live coding session. He performed an interesting exerc
 Sergio gave a complete talk reviewing the tree data structure, commenting some use cases in which to use it and also comparing several different implementations of a data structure in Groovy: Adjacency lists, path enumeration, nested sets and closure tables. He remarked that the right design and implementation depends on the use case, if you normally need to query the leafs or an entire subtree, if the tree is mostly static or its subject to lots of insertions, etc.
 
 <div class="image">
- <img src="/img/2018/03/Greach-2018-sdelamo.jpg" alt="Sergio del Amo at Greach 2018">
+ <img src="https://farm2.staticflickr.com/1840/29055005897_8955a37e09_o.jpg" alt="Sergio del Amo at Greach 2018">
  <div class="caption">Sergio del Amo at Greach 2018</div>
 </div>
 
@@ -116,7 +116,7 @@ This was my first talk of the Saturday at Greach. After the hype with MicroNaut 
 He also made a live demo testing some of the capabilities: service discovery, load balancing, reactive and fault tolerant. He showed a demo project that will be released with the framework: a pet store composed with several microservices built in different technologies (Java and Groovy) and each of them connected to a different backend (PostgreSQL, Redis, Cassandra, Neo4J, etc.).
 
 <div class="image">
- <img src="/img/2018/03/Greach-2018-alvaro_sanchez.jpg" alt="Álvaro Sánchez Mariscal at Greach 2018">
+ <img src="https://farm2.staticflickr.com/1840/43273840244_9c59c8e742_o.jpg" alt="Álvaro Sánchez Mariscal at Greach 2018">
  <div class="caption">Álvaro Sánchez Mariscal at Greach 2018</div>
 </div>
 
@@ -146,7 +146,7 @@ He reminded the audience [Conway's Law](https://en.wikipedia.org/wiki/Conway's_l
 — M. Conway</blockquote>
 
 <div class="image">
- <img src="/img/2018/03/Greach-2018-svpember.jpg" alt="Steve Pember at Greach 2018">
+ <img src="https://farm1.staticflickr.com/929/43273839984_210c4d0479_o.jpg" alt="Steve Pember at Greach 2018">
  <div class="caption">Steve Pember at Greach 2018</div>
 </div>
 
