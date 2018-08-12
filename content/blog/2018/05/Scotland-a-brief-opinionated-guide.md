@@ -5,7 +5,7 @@ date = "2018-05-27"
 type = "post"
 categories = ["personal", "tourism", "holidays", "history"]
 status = "published"
-featured = "/img/2018/05/Isle-of-Skye.jpg"
+featured = "https://farm1.staticflickr.com/938/30123448178_702ab6987d_o.jpg"
 featuredalt = "the most common local on the Isle of Skye, in Scotland"
 featuredpath = "the most common local on the Isle of Skye, in Scotland - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
 +++
@@ -23,7 +23,7 @@ Again (and it's starting to be an issue) we had to prepare the trip in just a fe
 Let me show you the initial map of Scotland _must visit_ destinations prepared by Agatha, except the Isle of Skye prepared by myself. Sadly we couldn't visit all of those places because we decided to do as much hiking as possible and we took it very easy in general, but we managed to visit almost all of them.
 
 <div class="image central">
-    <img src="/img/2018/05/Scotland-places.png" alt="Map with the main places to visit in Scotland">
+    <img src="https://farm2.staticflickr.com/1778/30123446478_2ba910fb1d_o.png" alt="Map with the main places to visit in Scotland">
     <div class="caption">Map with the main places to visit in Scotland, mainly prepared by Agatha</div>
 </div>
 
@@ -34,7 +34,7 @@ Let's start!
 We landed at Glasgow International Airport very very soon to make the most out of the first day. We lost some of this advantage struggling with the [car rental company](http://www.easirent.com/). In the end the experience with them was OK but it started horribly bad. They gave us a car smaller than expected (and booked, and payed) but at least it had automatic transmission and in the end it was comfortable enough for two and very appropriate and comfortable to drive on normally one lane roads.
 
 <div class="image central">
-    <img src="/img/2018/05/Huyndai_i10.jpg" alt="Our tiny Huyndai i10">
+    <img src="https://farm2.staticflickr.com/1815/30123448408_dba8fb5079_o.jpg" alt="Our tiny Huyndai i10">
     <div class="caption">Our tiny Huyndai i10 - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
@@ -45,14 +45,14 @@ The next stop was [**Luss**](https://en.wikipedia.org/wiki/Luss), a touristic sm
 After another nice drive through a marvelous countryside we arrived to the starting point of [**Puck's Glen**](https://en.wikipedia.org/wiki/Puck%27s_Glen), probably the most beautiful walking trail that I've seen. Puck's Glen is amazing, the pictures cannot capture the atmosphere in the whole place. Looks like it's named after the character of [William Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare)'s play [A Midsummer Night's Dream](https://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream) and it surely resembles a fantastic dream: huge trees, dense forests, breathtaking viewpoints, uncountable water streams, picturesque water falls, steep ravines,... The hike is not very long and it's easy to follow so you should not miss it if you come near the area.
 
 <div class="image central">
-    <img src="/img/2018/05/Pucks-Glen.jpg" alt="Puck's Glen">
+    <img src="https://farm2.staticflickr.com/1817/43992021811_77eea6d137_o.jpg" alt="Puck's Glen">
     <div class="caption">Puck's Glen, a real midsummer night's dream - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
 We finished our first stage near [**Oban**](https://en.wikipedia.org/wiki/Oban), a beautiful resort town surrounding a nice bay. It has a curious monument on top of a hill, [McCraig's Tower](https://en.wikipedia.org/wiki/McCaig%27s_Tower), and lots of restaurants and hotels. Despite this, we chose a promising Bed and Breakfast in a town nearby.
 
 <div class="image central">
-    <img src="/img/2018/05/Oban-Panoramic.jpg" alt="A nice panoramic of Oban, with a blue McCraig's Tower on top">
+    <img src="https://farm2.staticflickr.com/1774/30123447878_5573fe1d19_o.jpg" alt="A nice panoramic of Oban, with a blue McCraig's Tower on top">
     <div class="caption">A nice panoramic of Oban, with a blue McCraig's Tower on top - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
@@ -63,14 +63,14 @@ We finished our first stage near [**Oban**](https://en.wikipedia.org/wiki/Oban),
 After the energetic breakfast, the first thing we did was another small hike, the _Eagle's Eyrie_ walk in **Beinn Lora**. The path had been recently improved by the logging company that exploits the area and it was very beautiful and interesting. Not so many days before everything was covered by huge trees but when we were visited only some remaining lumber and stumps were there. In some stumps we counted more than 60 rings, the entire area produced mixed feelings of sadness and beauty. Very curious, after all.
 
 <div class="image central">
-    <img src="/img/2018/05/Beinn-Lora.jpg" alt="Beinn Lora, nature alive and dead at the same time">
+    <img src="https://farm1.staticflickr.com/938/30123449018_abe394b9de_o.jpg" alt="Beinn Lora, nature alive and dead at the same time">
     <div class="caption">Beinn Lora, nature alive and dead at the same time - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
 Some kilometers up north we arrived the main attraction of the day: the [**Glen Coe** National Natural Reserve](https://en.wikipedia.org/wiki/Glen_Coe), one of the most popular Natural Reserves in the UK. We visited the _Meeting of the Three Waters_ and the _Three Sisters_, totally different things but separated by less than 1 kilometer. Despite the light rain, we decided to start climbing the [_Bidean nam Bian_](https://en.wikipedia.org/wiki/Bidean_nam_Bian) mountain massif to reach the [**Coire Gabhail**](https://en.wikipedia.org/wiki/Coire_Gabhail), also known as Lost Valley or Hidden Valley because in order to reach this glacier formed marvel you need to climb 230 meters through a steep path. The ascension was fantastic and beautiful, but also very long and quite adventurous because the rain became more intense and the path was steep and wet. We were always safe but we ended up very tired and soaked after almost 5 hours under the heavy rain. It was totally worth it, anyway.
 
 <div class="image central">
-    <img src="/img/2018/05/Lost-Valley.jpg" alt="Soaked but happy, entering the Lost Valley at Glen Coe">
+    <img src="https://farm1.staticflickr.com/930/30123448038_f20062e064_o.jpg" alt="Soaked but happy, entering the Lost Valley at Glen Coe">
     <div class="caption">Soaked but happy, entering the Lost Valley at Glen Coe - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
@@ -79,7 +79,7 @@ After a well deserved lunch at the _Boots Bar_ in the [_Clachaig Inn_](https://e
 The rain continued and the sunset was approaching, so for the rest of our evening we left a quick stop at the [**Eilean Donan Castle**](https://en.wikipedia.org/wiki/Eilean_Donan). The castle has an interesting history but it's private and it was closed, so we just crossed the bridge and walked around it calmly to enjoy the place as we were completely alone.
 
 <div class="image central">
-    <img src="/img/2018/05/Eilean-Donan-Castle.jpg" alt="The majestic Eilean Donan Castle">
+    <img src="https://farm2.staticflickr.com/1773/30123447118_70a34b0147_o.jpg" alt="The majestic Eilean Donan Castle">
     <div class="caption">The majestic Eilean Donan Castle - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
@@ -90,7 +90,7 @@ We visited some of the main landmarks and popular hikes in the Isle of Skye. The
 Our first stop was to climb to the [**Old Man of Storr**](https://en.wikipedia.org/wiki/The_Storr), a picturesque 28 meters high pinnacle surrounded by similar rock structures. Compared to the previous days with the entire paths for us, in this route we met many more people. The parking site was packed full, even in the shoulders of the road, and the complete path was full of people going up and down. Nevertheless, the climb is beautiful and not very hard, so it's a strong recommendation.
 
 <div class="image central">
-    <img src="/img/2018/05/Old-Man-Storr.jpg" alt="A small lagoon beside the Old Man of Storr, with the sea behind">
+    <img src="https://farm2.staticflickr.com/1795/43992021871_a691f351f5_o.jpg" alt="A small lagoon beside the Old Man of Storr, with the sea behind">
     <div class="caption">A small lagoon beside the Old Man of Storr, with the sea behind - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
@@ -101,14 +101,14 @@ Our next stop was poorly planned and fatally executed, everything because of me.
 **Fairy Glen** is a special and curious place to visit. It's a small area formed by small magical hills eroded in _spiral-ish_ waves. To the natural attractive the locals have added more spirals in the ground made with stones and towers of stone in equilibrium.
 
 <div class="image central">
-    <img src="/img/2018/05/Fairy-Glen.jpg" alt="The magical hills of Fairy Glen">
+    <img src="https://farm2.staticflickr.com/1835/30123448778_92bff875aa_o.jpg" alt="The magical hills of Fairy Glen">
     <div class="caption">The magical hills of Fairy Glen - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
 After a long drive we arrived before the sunset to the [**Neis Point**](https://en.wikipedia.org/wiki/Neist_Point), the most westerly point of the Isle. There is a beautiful walk from the car park to the lighthouse, including an interesting ascension to a small summit where you can (supposedly) see whales, dolphins and sharks. But you don't need to climb anything to enjoy a spectacular sunset from almost anywhere in the point. You should go there definitely.
 
 <div class="image central">
-    <img src="/img/2018/05/Neis-Point.jpg" alt="The walk to the lighthouse at Neis Point">
+    <img src="https://farm2.staticflickr.com/1837/30123446898_850c40910d_o.jpg" alt="The walk to the lighthouse at Neis Point">
     <div class="caption">The walk to the lighthouse at Neis Point - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
@@ -123,14 +123,14 @@ After a nice breakfast we started again very early our day. Lots of things to se
 The first stop was a quick visit to the [**Corrieshalloch Gorge**](https://en.wikipedia.org/wiki/Corrieshalloch_Gorge), a spectacular 1.5km long and 60 meters deep gorge with a huge waterfall and a bridge that only supports the weight of 6 people. We _suffered_ a fun moment being there making pictures with other 5 adults when a family with a big dog appeared at the other end :-)
 
 <div class="image central">
-    <img src="/img/2018/05/Corrieshalloch-Gorge.jpg" alt="A curious 'dancing' bridge to cross the Corrieshalloch Gorge">
+    <img src="https://farm2.staticflickr.com/1834/43992021551_54ea1b8f55_o.jpg" alt="A curious 'dancing' bridge to cross the Corrieshalloch Gorge">
     <div class="caption">A curious 'dancing' bridge to cross the Corrieshalloch Gorge - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
 A few kilometers later we stopped for another short forest walk to visit the [**Rogie Falls**](https://en.wikipedia.org/wiki/Rogie_Falls), a series of waterfalls that we could enjoy almost for ourselves. We enjoyed it so much that we had time to make funny pictures while looking for a cache.
 
 <div class="image central">
-    <img src="/img/2018/05/Rogie-Falls.jpg" alt="Taking a nap in Rogie Falls">
+    <img src="https://farm2.staticflickr.com/1815/30123447568_d92abec45f_o.jpg" alt="Taking a nap in Rogie Falls">
     <div class="caption">Taking a nap in Rogie Falls - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
@@ -145,7 +145,7 @@ Sleeping in the worst hotel that I remember did not improve my general feeling a
 Our first day started with a nice visit to [**Cawdor Castle**](https://en.wikipedia.org/wiki/Cawdor_Castle), a private castle that can be partially visited. It contains a nice collection of art and it's richly decorated but what I loved most was the gardens. They even had a garden maze, but sadly the path to the interior of the maze was closed.
 
 <div class="image central">
-    <img src="/img/2018/05/Cawdor-Castle.jpg" alt="The gardens of Cawdor Castle, with the main building behind">
+    <img src="https://farm2.staticflickr.com/1832/30123448938_38f060b438_o.jpg" alt="The gardens of Cawdor Castle, with the main building behind">
     <div class="caption">The gardens of Cawdor Castle, with the main building behind - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
@@ -156,7 +156,7 @@ Glenfiddich has a huge distillery in Dufftown, they offer all kind of tours and 
 The visit was interesting, after having visited some distilleries and several beer breweries what I needed was to learn something new or different related to the process. This time I learned that the shape of the _swan necked_ copper stills affects the flavor, character and strength of the resulting whiskey. Brilliant, right?
 
 <div class="image central">
-    <img src="/img/2018/05/Glenfiddich-distillery.jpg" alt="The beautiful copper stills of the Glenfiddich Distillery">
+    <img src="https://farm2.staticflickr.com/1831/30123448438_c0329abe61_o.jpg" alt="The beautiful copper stills of the Glenfiddich Distillery">
     <div class="caption">The beautiful copper stills of the Glenfiddich Distillery - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
@@ -165,7 +165,7 @@ We considered visiting also the [**Strathisla Distillery**](https://en.wikipedia
 After some research in the copilot seat Agatha chose the [**Loch an Eilein**](https://en.wikipedia.org/wiki/Loch_an_Eilein) hike, a beautiful 7-8 kilometer walk around the said Loch. The entire route is astounding, including an idyllic view of a small island near the shore with an ruined castle. The best part was that we were almost alone in the entire area, more silence and quietness is impossible.
 
 <div class="image central">
-    <img src="/img/2018/05/Loch-an-Eilein.jpg" alt="Calmly enjoying the Loch an Eilein">
+    <img src="https://farm2.staticflickr.com/1811/30123448128_54d395f4cd_o.jpg" alt="Calmly enjoying the Loch an Eilein">
     <div class="caption">Calmly enjoying the Loch an Eilein - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
@@ -178,7 +178,7 @@ We finished our day with another short walk to view the [**Falls of Bruar**](htt
 Our first visit, near our hotel with views to Loch Earn, was to see the [**Falls of Dochart**](https://en.wikipedia.org/wiki/Falls_of_Dochart). These broad falls are formed at the junction of two rivers, just beside an old stone bridge at the entrance of **Killin**. Quite a spectacular view.
 
 <div class="image central">
-    <img src="/img/2018/05/Falls-of-Dochart.jpg" alt="Panoramic of the Falls of Dochart, in Killin">
+    <img src="https://farm2.staticflickr.com/1837/30123448508_c41a1abd4a_o.jpg" alt="Panoramic of the Falls of Dochart, in Killin">
     <div class="caption">Panoramic of the Falls of Dochart, in Killin - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
@@ -189,7 +189,7 @@ After a quick shopping stop and ordinary lunch in [**Aberfoyle**](https://en.wik
 As a huge fan of [**Monty Python**](https://en.wikipedia.org/wiki/Monty_Python) I was curious about the place, and specially (I recognize it) about the merchandising that they could sell in the castle shop. We finally didn't visit the interior of the castle to have more time in Stirling, and the merchandising in the shop was a bit limited (a few t-shirts, mugs and books) but the visit was worth it because Doune is close to Stirling so we didn't spend a lot of time.
 
 <div class="image central">
-    <img src="/img/2018/05/Doune-Castle.jpg" alt="Emulating King Arthur, at Doune Castle">
+    <img src="https://farm2.staticflickr.com/1800/30123448838_9034d76811_o.jpg" alt="Emulating King Arthur, at Doune Castle">
     <div class="caption">Emulating King Arthur, at Doune Castle - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
@@ -198,7 +198,7 @@ We arrived to the [**Stirling Castle**](https://en.wikipedia.org/wiki/Stirling_C
 The day was cloudy, and from the castle the views of the [**National Wallace Monument**](https://en.wikipedia.org/wiki/Wallace_Monument) were astonishing, even more than from behind the monument itself.
 
 <div class="image central">
-    <img src="/img/2018/05/Wallace-Monument.jpg" alt="Views from Stirling Castle, with the Wallace Monument in the background">
+    <img src="https://farm2.staticflickr.com/1811/30123446408_4a97551e1c_o.jpg" alt="Views from Stirling Castle, with the Wallace Monument in the background">
     <div class="caption">Views from Stirling Castle, with the Wallace Monument in the background - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><i>CC BY-NC-SA</i></a></div>
 </div>
 
