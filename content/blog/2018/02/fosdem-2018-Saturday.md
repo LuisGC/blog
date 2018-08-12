@@ -5,18 +5,17 @@ date = "2018-02-06"
 type = "post"
 categories = ["event", "open-source", "technology", "english", "linux", "programming", "internet", "culture", "computer-science", "personal"]
 status = "published"
-featured = "/img/2018/02/fosdem-2018-OSI.jpg"
+featured = "https://farm2.staticflickr.com/1816/42184071080_56145dbc1b_o.jpg"
 featuredalt = "Simon Phipps speaking about the Open Source Initiative (OSI) in FOSDEM 2018"
 featuredpath = "Simon Phipps speaking about the Open Source Initiative (OSI) in FOSDEM 2018"
 +++
-
 
 After an uncertain landing a few hours ago (the airport in Madrid was barely working due to a snowy morning), I've just arrived home but instead of having some rest after an intense and though-provoking FOSDEM I felt the urge to start writing about my weekend in Brussels.
 
 I've been there not only to enjoy this wonderful city with its trappist beers and great food, but specially to attend **FOSDEM** as I intend to do every year.
 
 <div class="image lateral">
- <img src="/img/2018/02/fosdem-2018-logo.png" alt="FOSDEM 2018">
+ <img src="https://farm2.staticflickr.com/1840/42184068590_7487f3a352_o.png" alt="FOSDEM 2018">
  <div class="caption">FOSDEM 2018</div>
 </div>
 
@@ -39,7 +38,7 @@ The numbers of this year speak for themselves:
 To make it more impressive, take into account that FOSDEM is **organized by volunteers**, everything is **community driven** and it's **free to attend**. You don't even need to register beforehand.
 
 <div class="image">
- <img src="/img/2018/02/fosdem-2018-banner.png" alt="FOSDEM 2018">
+ <img src="https://farm2.staticflickr.com/1811/43087628035_daa6f7c7ef_o.png" alt="FOSDEM 2018">
  <div class="caption">FOSDEM 2018</div>
 </div>
 
@@ -87,7 +86,7 @@ Another important thought was related to sorting. Most published algorithms are 
 He also summarized other problems like the synchronization of machines (mitigated with [Hybrid Logical Clocks](https://muratbuffalo.blogspot.com.es/2014/07/hybrid-logical-clocks.html)) and Distributed ACID transactions, only supported as off today by [Google Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) (because they have the money to use atomic clocks) and [Cockroach DB](https://github.com/cockroachdb/cockroach) an Open Source clone of Spanner that [achieved it without atomic clocks](https://www.cockroachlabs.com/blog/living-without-atomic-clocks/).
 
 <div class="image">
- <img src="/img/2018/02/fosdem-2018-lsmt.jpg" alt="Log structured merge trees (LSM-trees)">
+ <img src="https://farm2.staticflickr.com/1791/42184071530_231a22ba47_o.jpg" alt="Log structured merge trees (LSM-trees)">
  <div class="caption">Log structured merge trees (LSM-trees)</div>
 </div>
 
@@ -106,7 +105,7 @@ In the _old world order_ the deployments were infrequent so the startup time was
 Daniel ([OpenJ9](https://www.eclipse.org/openj9/) Project Lead) explained the problem and provided possible solutions inside the JVM, focusing mainly in the use of OpenJ9's SharedClasses.
 
 <div class="image">
- <img src="/img/2018/02/fosdem-2018-startup.jpg" alt="OpenJ9 startup sequence">
+ <img src="https://farm2.staticflickr.com/1797/42184070660_c455da4142_o.jpg" alt="OpenJ9 startup sequence">
  <div class="caption">OpenJ9 startup sequence</div>
 </div>
 
@@ -115,7 +114,7 @@ Daniel ([OpenJ9](https://www.eclipse.org/openj9/) Project Lead) explained the pr
 Andrew Dinn ([Red Hat Open JDK](https://developers.redhat.com/products/openjdk/)) explained clearly what is the Class Metadata and why it matters inside the JVM. He also gave some real-life use cases to explain how design decisions can incur or avoid Class Metadata costs.
 
 <div class="image">
- <img src="/img/2018/02/fosdem-2018-metaspace-pool.jpg" alt="Java's Metaspace Constant Pool Objects">
+ <img src="https://farm2.staticflickr.com/1793/43993330371_9203459103_o.jpg" alt="Java's Metaspace Constant Pool Objects">
  <div class="caption">Java's Metaspace Constant Pool Objects</div>
 </div>
 
@@ -135,7 +134,7 @@ Also related to reducing the startup time and footprint needed, they also explai
 After reducing the _JDK layer_ of a container, the next battle is in the operating system layer. They announced and presented [OpenJDK Portola Project](http://openjdk.java.net/projects/portola/), a port of the JDK to use [Alpine Linux](https://www.alpinelinux.org/) (the base image weights just 4 MB) and the [musl C library](https://www.musl-libc.org/). Very impressive.
 
 <div class="image">
- <img src="/img/2018/02/fosdem-2018-portola.jpg" alt="OpenJDK Portola Project">
+ <img src="https://farm2.staticflickr.com/1774/42184070840_d94d3599b5_o.jpg" alt="OpenJDK Portola Project">
  <div class="caption">OpenJDK Portola Project</div>
 </div>
 
@@ -144,7 +143,7 @@ After reducing the _JDK layer_ of a container, the next battle is in the operati
 Volker ([SAP](https://www.sap.com/index.html)) introduced [Class Data Sharing (CDS)](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/class-data-sharing.html), explained clearly the implementation details and finally he demonstrated it's advantages in some use cases.
 
 <div class="image">
- <img src="/img/2018/02/fosdem-2018-class-representation.jpg" alt="Class Representation in the HotSpot VM">
+ <img src="https://farm2.staticflickr.com/1813/42184072030_b62cb6d319_o.jpg" alt="Class Representation in the HotSpot VM">
  <div class="caption">Class Representation in the HotSpot VM</div>
 </div>
 
@@ -156,4 +155,4 @@ They reminded us that it’s not a question of 'if' but 'when' you’ll be hacke
 
 <br />
 
-If you want to read my summary of the next day you can follow this link: [**FOSDEM 2018: Sunday**](/blog/2018/02/fosdem-2018-Sunday.html).
+If you want to read my summary of the next day you can follow this link: [**FOSDEM 2018: Sunday**](/blog/2018/02/fosdem-2018-sunday/).

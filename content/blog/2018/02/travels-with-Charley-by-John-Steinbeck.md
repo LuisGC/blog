@@ -5,16 +5,15 @@ date = "2018-02-17"
 type = "post"
 categories = ["review", "literature", "culture"]
 status = "published"
-featured = "/img/2018/02/travels_charley_map.jpg"
+featured = "https://farm1.staticflickr.com/930/42184068000_866fd405fb_o.jpg"
 featuredalt = "'Travels with Charley' map at the National Steinbeck Center, Salinas, CA"
 featuredpath = "'Travels with Charley' map at the National Steinbeck Center, Salinas, CA<br /> Source: <a href='https://www.flickr.com/photos/jillclardy/'>Jill Clardy</a> @ <a href='https://www.flickr.com/photos/jillclardy/2566233086'>Flickr</a> - <a href='http://creativecommons.org/licenses/by-sa/2.0/'><i>CC BY-SA</i></a>"
 +++
 
-
 [**Travels with Charley: In Search of America**](https://www.goodreads.com/book/show/8135136-travels-with-charley) is mainly what they call a [travelogue o travel literature](https://en.wikipedia.org/wiki/Travelogue_%28literature%29). It's not the first time that I read one and I'm starting to enjoy the genre. I added this one to my _want to read_ in [Goodreads](https://www.goodreads.com) a long time ago after reading some hilarious paragraphs during a couple of English lessons, and the rest of the book had not disappointed me at all.
 
 <div class="image lateral">
- <img src="/img/2018/02/john-steinbeck-and-charley.jpg" alt="John Steinbeck and Charley">
+ <img src="https://farm2.staticflickr.com/1832/42184068060_b1cdd7b4a6_o.jpg" alt="John Steinbeck and Charley">
  <div class="caption">John Steinbeck and Charley</div>
 </div>
 

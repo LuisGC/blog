@@ -5,22 +5,21 @@ date = "2018-02-08"
 type = "post"
 categories = ["event", "open-source", "technology", "english", "linux", "programming", "internet", "culture", "computer-science", "personal"]
 status = "published"
-featured = "/img/2018/02/fosdem-2018-food.jpg"
+featured = "https://farm1.staticflickr.com/935/43087629135_5e527e3690_o.jpg"
 featuredalt = "Incredible statistics related to food at FOSDEM 2018"
 featuredpath = "Incredible statistics related to food at FOSDEM 2018"
 +++
 
-
 After an interesting Saturday, finished with a great dinner with some friends in one of our favorite restaurants in Brussels, my Sunday at [**FOSDEM**](https://fosdem.org/) started again very early.
 
 <div class="image lateral">
- <img src="/img/2018/02/fosdem-2018-logo.png" alt="FOSDEM 2018">
+ <img src="https://farm2.staticflickr.com/1840/42184068590_7487f3a352_o.png" alt="FOSDEM 2018">
  <div class="caption">FOSDEM 2018</div>
 </div>
 
 My choices for the Sunday were again diverse and (in most cases) successful. Apart from the closing keynotes, I spent some time in the [Legal and Policy Issues devroom](https://fosdem.org/2018/schedule/track/legal_and_policy_issues/), a couple of talks in the [HPC, Big Data, and Data Science devroom](https://fosdem.org/2018/schedule/track/hpc,_big_data,_and_data_science/) and half the afternoon in the [Geospatial devroom](https://fosdem.org/2018/schedule/track/geospatial/).
 
-Before continuing, if you want to read my summary of the previous day you can follow this link: [**FOSDEM 2018: Saturday**](/blog/2018/02/fosdem-2018-Saturday.html). You will also find there general info and details about the event itself.
+Before continuing, if you want to read my summary of the previous day you can follow this link: [**FOSDEM 2018: Saturday**](/blog/2018/02/fosdem-2018-saturday/). You will also find there general info and details about the event itself.
 
 Let me summarize:
 
@@ -37,7 +36,7 @@ The recommendations for GDPR arrived very late. The speaker made a brief overvie
 The next talk in the Legal and Policy devroom was luckily more interesting, but again the title was misleading. Most of the talk was an intro to the right to be forgotten, including an overview of all the relevant legal cases starting with the [**Google Spain** v **AEPD** and **Mario Costeja González**](https://en.wikipedia.org/wiki/Google_Spain_v_AEPD_and_Mario_Costeja_Gonz%C3%A1lez). Cristina Rosu complemented the legal intro with some metrics about GDPR compliance in some countries.
 
 <div class="image">
- <img src="/img/2018/02/fosdem-2018-gdpr-compliance.jpg" alt="Some statistics on deletion for GDPR compliance">
+ <img src="https://farm1.staticflickr.com/937/42184071750_79ff9d531e_o.jpg" alt="Some statistics on deletion for GDPR compliance">
  <div class="caption">Some statistics on deletion for GDPR compliance</div>
 </div>
 
@@ -52,7 +51,7 @@ They use [**Cobbler**](https://cobbler.github.io/) to install and deploy Operati
 He ended comparing Ansible and Salt, reviewing the best characteristics of each of them as you can see in the picture that I took:
 
 <div class="image">
- <img src="/img/2018/02/fosdem-2018-ansible-salt.jpg" alt="What the speaker loves about Ansible and Salt">
+ <img src="https://farm1.staticflickr.com/936/43087629285_5c0c26835d_o.jpg" alt="What the speaker loves about Ansible and Salt">
  <div class="caption">What the speaker loves about Ansible and Salt</div>
 </div>
 
@@ -65,7 +64,7 @@ The premise of the talk was about using other datasets to highlight inconsistenc
 Completeness in OpenStreetMap starts by detecting inconsistencies as soon and as detailed as possible.
 
 <div class="image">
- <img src="/img/2018/02/fosdem-2018-deeplearning-osm.jpg" alt="Applying DeepLearning techniques to improve OpenStreetMap">
+ <img src="https://farm1.staticflickr.com/938/43087627755_376dee9d88_o.png" alt="Applying DeepLearning techniques to improve OpenStreetMap">
  <div class="caption">Applying DeepLearning techniques to improve OpenStreetMap</div>
 </div>
 
@@ -78,7 +77,7 @@ The talk was about the huge refactor that was needed in the codebase of [**Libre
 The summary of the talk in a quote is: _"Fix each bug only once"_. What a great statement.
 
 <div class="image">
- <img src="/img/2018/02/fosdem-2018-libreoffice-refactor.jpg" alt="Re-structuring LibreOffice">
+ <img src="https://farm2.staticflickr.com/1777/43087629025_9bdfc9a516_o.jpg" alt="Re-structuring LibreOffice">
  <div class="caption">Re-structuring LibreOffice</div>
 </div>
 
@@ -105,7 +104,7 @@ This talk was refreshing and reconciled me with the geospatial devroom. Ilya (so
 He started building a validator and then station by station, city by city, he improved the subway information in OSM. He even presented a [proposal](https://wiki.openstreetmap.org/wiki/Proposal_process) for the subway geospatial information, including new relations for the transfers.
 
 <div class="image">
- <img src="/img/2018/02/fosdem-2018-OSM-subways-schema.png" alt="Subway stations schema in OpenStreetMap, according to Ilya Zverev">
+ <img src="https://farm1.staticflickr.com/932/42184068470_5526460138_o.png" alt="Subway stations schema in OpenStreetMap, according to Ilya Zverev">
  <div class="caption">Subway stations schema in OpenStreetMap, according to Ilya Zverev</div>
 </div>
 
@@ -116,7 +115,7 @@ One of the most inspiring talks of the entire FOSDEM with a packed full Janson R
 The speaker explained how during 2016, the [**Libre Space Foundation**](https://libre.space/) a non-profit organization developing open source technologies for space, designed, built and delivered [**UPSat**](https://libre.space/projects/upsat/), the first open source software and hardware satellite.
 
 <div class="image">
- <img src="/img/2018/02/fosdem-2018-UPSat.jpg" alt="Pierros Papadeas explaining the UPSat design and building process">
+ <img src="https://farm2.staticflickr.com/1834/43087628175_3af6af1d97_o.jpg" alt="Pierros Papadeas explaining the UPSat design and building process">
  <div class="caption">Pierros Papadeas explaining the UPSat design and building process</div>
 </div>
 
@@ -129,7 +128,7 @@ The closing keynote was given by [**Jon Masters**](http://jonmasters.org/) (Comp
 It was specially amusing for me, as I've been refreshing my knowledge about the [**Tomasulo Algorithm**](https://en.wikipedia.org/wiki/Tomasulo_algorithm) these past months.
 
 <div class="image">
- <img src="/img/2018/02/fosdem-2018-Meltdown.jpg" alt="Microcode, Millicode and Chicken bits">
+ <img src="https://farm1.staticflickr.com/938/43087628895_6eb93bb57c_o.jpg" alt="Microcode, Millicode and Chicken bits">
  <div class="caption">Microcode, Millicode and Chicken bits</div>
 </div>
 
