@@ -112,7 +112,7 @@ baseName = "feed"
 # Identifier prepends a Font Awesome icon to the menu item
 [[menu.main]]
   name = "Home"
-  url = "http://luiyo.net/"
+  url = "https://luiyo.net/"
   identifier = "fa fa-home"
   weight = 1
 
