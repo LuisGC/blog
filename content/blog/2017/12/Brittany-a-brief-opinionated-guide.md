@@ -11,13 +11,13 @@ featuredpath = "Vannes - <a href='http://creativecommons.org/licenses/by-nc-sa/3
 +++
 
 
-As explained in the previous post, I've recently been in Normandy and Brittany with my friend **Agatha**. After publishing the first part of the trip ([**Normandy: a brief opinionated guide**](/blog/2017/12/Normandy-a-brief-opinionated-guide.html)) now I proceed to do the same with Brittany.
+As explained in the previous post, I've recently been in Normandy and Brittany with my friend **Agatha**. After publishing the first part of the trip ([**Normandy: a brief opinionated guide**](/blog/2017/12/normandy-a-brief-opinionated-guide/)) now I proceed to do the same with Brittany.
 
 It has been quite complicated because we saw a lot of awesome things and for me it still takes a lot of time (several hours) to write this kind of articles.
 
 # What to expect from this guide
 
-I don't like to repeat myself, so I invite you to read the disclaimers in the [Normandy](/blog/2017/12/Normandy-a-brief-opinionated-guide.html) article. I'll simply put here the map of Brittany prepared by Agatha.
+I don't like to repeat myself, so I invite you to read the disclaimers in the [Normandy](/blog/2017/12/normandy-a-brief-opinionated-guide/) article. I'll simply put here the map of Brittany prepared by Agatha.
 
 <div class="image central">
     <img src="/img/2017/12/Brittany_places.png" alt="Map with the main places to visit in Brittany">

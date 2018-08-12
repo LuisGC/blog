@@ -10,15 +10,14 @@ featuredalt = "games tag cloud 2017"
 featuredpath = "Un tag cloud con los juegos a los que jugué en 2017, el tamaño indica cantidad de partidas"
 +++
 
-
 Vuelvo al castellano, para dar continuidad a esta serie de análisis sobre las partidas que he jugado durante el año anterior. Podéis leer lo que escribí anteriormente en:
 
-* [2016](/blog/2017/01/mi-2016-ludico.html)
-* [2015](/blog/2016/01/mi-2015-ludico.html)
-* [2014](/blog/2015/01/mi-2014-ludico.html)
-* [2013](/blog/2014/01/partidas-jugadas-en-2013.html)
-* [2012](/blog/2013/01/partidas-jugadas-en-2012.html)
-* [2011](/blog/2012/01/juegos-los-que-mas-he-jugado-en-2011.html)
+* [2016](/blog/2017/01/mi-2016-ludico/)
+* [2015](/blog/2016/01/mi-2015-ludico/)
+* [2014](/blog/2015/01/mi-2014-ludico/)
+* [2013](/blog/2014/01/partidas-jugadas-en-2013/)
+* [2012](/blog/2013/01/partidas-jugadas-en-2012/)
+* [2011](/blog/2012/01/juegos-los-que-mas-he-jugado-en-2011/)
 
 Todo, como ya sabéis, gracias a <strike>la manía</strike> mi hábito de registrar en <a href="http://www.boardgamegeek.com/"><b>Board Game Geek</b></a> todas las partidas según las estoy jugando mediante esta <a href="https://market.android.com/details?id=com.boardgamegeek&amp;hl=es">aplicación para <b>Android</b></a> (que hace poco fue aparentemente forzada a declararse como no oficial).
 

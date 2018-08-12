@@ -10,7 +10,7 @@ featuredalt = "the most common local on the Isle of Skye, in Scotland"
 featuredpath = "the most common local on the Isle of Skye, in Scotland - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
 +++
 
-Some weeks ago I had the pleasure to make an awesome road trip through Scotland with my friend **Agatha**, my travel companion lately. Yo can read about our trips together through [Austria](/blog/2017/05/Romantikstrasse-the-Romantic-Road_1.html), [Brittany](/blog/2017/12/Brittany-a-brief-opinionated-guide.html) or [Normandy](/blog/2017/12/Normandy-a-brief-opinionated-guide.html).
+Some weeks ago I had the pleasure to make an awesome road trip through Scotland with my friend **Agatha**, my travel companion lately. Yo can read about our trips together through [Austria](/blog/2017/05/romantikstrasse-the-romantic-road_1/), [Brittany](/blog/2017/12/brittany-a-brief-opinionated-guide/) or [Normandy](/blog/2017/12/normandy-a-brief-opinionated-guide/).
 
 It was my second time in Scotland, after a great trip three years ago to visit mainly Edinburgh. So, this time the Scottish capital was discarded as a destination and the goal was to visit as much as possible of the rest of this beautiful country.
 

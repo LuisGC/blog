@@ -23,9 +23,9 @@ For those of you who don't know [**FOSDEM**](https://fosdem.org/), it's the bigg
 
 I already wrote about it a couple of years ago, when I even gave a lightning talk in one [FOSDEM Fringe event](https://archive.fosdem.org/2016/fringe/) the [Floss Community Metrics Meeting (FCM2)](http://flosscommunitymetrics.org/).
 
-* [FOSDEM 2016: Friday](/blog/2016/03/fosdem-2016-friday.html)
-* [FOSDEM 2016: Saturday](/blog/2016/03/fosdem-2016-saturday.html)
-* [FOSDEM 2016: Sunday](/blog/2016/03/fosdem-2016-sunday.html)
+* [FOSDEM 2016: Friday](/blog/2016/03/fosdem-2016-friday/)
+* [FOSDEM 2016: Saturday](/blog/2016/03/fosdem-2016-saturday/)
+* [FOSDEM 2016: Sunday](/blog/2016/03/fosdem-2016-sunday/)
 
 The numbers of this year speak for themselves:
 

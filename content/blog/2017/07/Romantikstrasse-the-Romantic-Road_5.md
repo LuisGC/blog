@@ -13,10 +13,10 @@ featuredpath = "Mauthausen Spanish memorial - <a href='http://creativecommons.or
 
 This is the fifth and last part of my chronicle about our trip through the [**Romantikstraße**](http://www.romantikstrasse.at/es/), you can read the rest here:
 
-* [Romantikstraße, the Romantic Road (1 of 5)](/blog/2017/05/Romantikstrasse-the-Romantic-Road_1.html)
-* [Romantikstraße, the Romantic Road (2 of 5)](/blog/2017/06/Romantikstrasse-the-Romantic-Road_2.html)
-* [Romantikstraße, the Romantic Road (3 of 5)](/blog/2017/06/Romantikstrasse-the-Romantic-Road_3.html)
-* [Romantikstraße, the Romantic Road (4 of 5)](/blog/2017/07/Romantikstrasse-the-Romantic-Road_4.html)
+* [Romantikstraße, the Romantic Road (1 of 5)](/blog/2017/05/romantikstrasse-the-romantic-road_1/)
+* [Romantikstraße, the Romantic Road (2 of 5)](/blog/2017/06/romantikstrasse-the-romantic-road_2/)
+* [Romantikstraße, the Romantic Road (3 of 5)](/blog/2017/06/romantikstrasse-the-romantic-road_3/)
+* [Romantikstraße, the Romantic Road (4 of 5)](/blog/2017/07/romantikstrasse-the-romantic-road_4/)
 
 # Day 5
 

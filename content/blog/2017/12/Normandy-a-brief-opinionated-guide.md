@@ -11,7 +11,7 @@ featuredpath = "Mont Saint-Michel - <a href='http://creativecommons.org/licenses
 +++
 
 
-Some months ago I wrote in the blog about [my road trip through the Romantikstraße in Austria](/blog/2017/05/Romantikstrasse-the-Romantic-Road_1.html). I shared the trip with Agatha and it went great, so we took advantage of the fact that we both had several pending holidays for this year and repeated the experience in two of the most beautiful regions in France: Normandy and Brittany. This post will be a summary of our experience in Normandy and hopefully I'll be able to write a similar one for Brittany.
+Some months ago I wrote in the blog about [my road trip through the Romantikstraße in Austria](/blog/2017/05/romantikstrasse-the-romantic-road_1/). I shared the trip with Agatha and it went great, so we took advantage of the fact that we both had several pending holidays for this year and repeated the experience in two of the most beautiful regions in France: Normandy and Brittany. This post will be a summary of our experience in Normandy and hopefully I'll be able to write a similar one for Brittany.
 
 # What to expect from this guide
 
