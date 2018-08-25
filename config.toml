@@ -135,10 +135,16 @@ baseName = "feed"
   weight = 4
 
 [[menu.main]]
+  name = "Travel CV"
+  url = "/travel-cv/"
+  identifier = "fa fa-globe"
+  weight = 5
+
+[[menu.main]]
   name = "RSS"
   url = "/blog/feed.xml"
   identifier = "fa fa-rss"
-  weight = 5
+  weight = 6
 
 
 #[[menu.main]]
