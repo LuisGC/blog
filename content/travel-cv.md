@@ -78,7 +78,7 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 * 10 - XX Mereth Aderthad - Alicante (Spain)
 * 09 - London, Edinburgh and Loch Ness (United Kingdom)
 * 08 - Tierra de Nadie 2015 - Málaga (Spain)
-* 06 - Sur de Burgos (Spain)
+* 06 - Peñaranda de Duero, Caleruega and Clunia - Burgos (Spain)
 * 04 - _Ruta de los Dinosaurios_ - Cuenca (Spain)
 * 03 - ARP-SAPC Annual Assembly - Sevilla (Spain)
 * 03 - Barcelona Beer Festival (Spain)
@@ -89,9 +89,11 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 
 * 12 - XIX Mereth Aderthad - Zaragoza (Spain)
 * 11 - Prague, Vienna, Bratislava and Budapest
+* 07 - Hooces del Duratón - Segovia (Spain)
 * 06 - San Miquel del Fai - Barcelona (Spain)
 * 05 - Vía Verde de la Jara - Toledo (Spain)
 * 05 - VI Mereth Ithiledhellond - Valencia (Spain)
+* 04 - Poza de la Sal, Monte Santiago, Frías, Ojo Guareña, Puentedey, Orbaneja del Castillo and Oña - Burgos (Spain)
 * 03 - ARP-SAPC Annual Assembly - Madrid (Spain)
 * 03 - Monasterio de Piedra - Zaragoza (Spain)
 
@@ -106,18 +108,70 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 * 08 - Val d'Arán, Lleida (Spain)
 * 08 - Alquézar, Huesca (Spain)
 * 08 - Tierra de Nadie 2013 - Málaga (Spain)
+* 03 - Montreux, Chillon, Gruyeres, Reichenbackfall, Meiringen, Aareschlucht, Interlaken, Jungfraujoch, Mürren, Almendhubel and Lausanne (Switzerland)
+* 02 - Geneve, CERN, Annecy and Grenoble (Switzerland and France)
 
 ## 2012
 
+* 11 - Hayedo de Tejera Negra - Guadalajara (Spain)
+* 09 - Bordeaux (France)
+* 09 - La Loire à Vélo: Angers, Candes Saint-Martin, Fontevraud, Chinon, Azay-Le-Riedau, Tours, Amboise, Chenonceaux, Chaumont-Sur-Loire, Blois and Chambord (France)
+* 08 - Tierra de Nadie 2012 - Málaga (Spain)
+* 04 - Washington and New York (United States)
+* 03 - ARP-SAPC Annual Assembly - Barcelona (Spain)
+* 03 - QED - Manchester (United Kingdom)
+
 ## 2011
 
-* 10 - Dublín and Galway (Ireland)
+* 12 - Lorca, Murcia (Spain)
+* 12 - Toulouse (France)
+* 12 - Cathar Castles route: Carcassonne and others (France)
+* 12 - Barcelona (Spain)
+* 10 - Dublín, Galway and Connemara (Ireland)
 * 08 - León and La Bañeza (Spain)
 * 08 - Tierra de Nadie 2011 - Málaga (Spain)
-* 07 - XVI Mereth Aderthad - Ávila (Spain)
+* 07 - XVII Mereth Aderthad - Ávila (Spain)
 * 07 - Semana Negra 2011 - Gijón (Spain)
+* 04 - Évora, Lisboa and Sintra (Portugal)
 
 ## 2010
+
+* 12 - Alicante and Elche (Spain)
+* 10 - TAM London (United Kingdom)
+* 05 - Bilbao (Spain)
+* 03 - Lagunas de Ruidera, Ciudad Real (Spain)
+
+## 2009
+
+* 12 - London, Oxford, Cambridge (United Kingdom)
+* 08 - Vitoria (Spain)
+* 08 - Sorzano, La Rioja (Spain)
+* 07 - Pals, Girona (Spain)
+
+## 2006
+
+* 05 - Cologne, Aachen, Bonn and Düsseldorf (Germany)
+* 04 - Ciudad Real (Spain)
+* 04 - Horcajo de los Montes (Spain)
+
+## 2003
+
+* 11 - Valladolid (Spain)
+* 11 - Oviedo (Spain)
+* 10 - Mereth Aderthad - Sierra Nevada, Granada (Spain)
+* 09 - Barcelona (Spain)
+
+## 2000
+
+* 10 - Bilbao (Spain)
+* 08 - Xiringüelu 2000 (Spain)
+* 06 - Cáceres (Spain)
+
+## 1999
+
+* 11 - Valencia (Spain)
+* 11 - Segovia (Spain)
+* 11 - Aranjuez (Spain)
 
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" ></script>
