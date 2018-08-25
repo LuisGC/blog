@@ -37,18 +37,18 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 * 08 - Galicia (Spain)
 * 08 - Tierra de Nadie 2018 - Málaga (Spain)
 * 06 - Torneo Medieval de Tiro con Arco - Torrijos (Spain)
-* 05 - Scotland road trip
+* 05 - [Scotland](/blog/2018/05/scotland-a-brief-opinionated-guide/) (United Kingdom)
   - Balloch, Luss, Oban, Glencoe Valley, Isle of Skye, Inverness, Cromarty, Cawdor, Glenfiddich Distillery, Pitlochry, Stirling and Glasgow
 * 04 - SPTA's San George's Shoot - Taunton (United Kingdom)
 * 03 - Pelegrina (Spain)
 * 02 - Bucarest (Romania)
-* 02 - FOSDEM 2018 - Brussels (Belgium)
+* 02 - [FOSDEM 2018](/blog/2018/02/fosdem-2018-saturday/) - Brussels (Belgium)
 
 ## 2017
 
-* 12 - Brittany (France)
+* 12 - [Brittany](/blog/2017/12/brittany-a-brief-opinionated-guide/) (France)
   - Cancale, Saint Malo, Dinard, Morlaix, Pointe du Raz, Quimper, Concarneau, Pont-Aven, Carnac, Auray, Vannes, Rochefort-en-Terre, Rennes, Vitré, Fougeres and Le Mans
-* 12 - Normandy (France)
+* 12 - [Normandy](/blog/2017/12/normandy-a-brief-opinionated-guide/) (France)
   - Rouen, Honfleur, Caen, Bayeaux and Mont Sant Michel
 * 11 - Amsterdam, Edam, Volendam and Marken (Netherlands)
 * 11 - La Granja de San Ildefonso (Spain)
@@ -62,7 +62,7 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 * 08 - Wye Valley Archery, Wales (United Kingdom)
 * 06 - Paris and Euro Disney (France)
 * 05 - Katowice (Poland)
-* 05 - Romantikstrasse (Austria)
+* 05 - [Romantikstrasse, The Romantic Road](/blog/2017/05/romantikstrasse-the-romantic-road_1/) (Austria)
   - Schalaburg, Melk, Steyr, Kremsmünster, Scharnstein, Gmunden, Mondsee, Postalm, St Wolfgang im Salzkammergut, Bad Ischl, Halstatt, Obertraun and Mauthausen
 * 04 - Amsterdam, Haarlem, Utrecht and Rotterdam (Netherlands)
 * 03 - Chinchón (Spain)
@@ -82,7 +82,7 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 * 05 - El Pardo (Spain)
 * 04 - ARP-SAPC Annual Assembly - Valencia (Spain)
 * 03 - Zamora (Spain)
-* 01 - FOSDEM 2016 - Brussels (Belgium)
+* 01 - [FOSDEM 2016](/blog/2016/03/fosdem-2016-friday/) - Brussels (Belgium)
 
 ## 2015
 
@@ -116,7 +116,7 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 * 04 - North of Burgos (Spain)
   - Poza de la Sal, Monte Santiago, Frías, Ojo Guareña, Orbaneja del Castillo and Oña
 * 03 - ARP-SAPC Annual Assembly - Madrid (Spain)
-* 03 - Encuentro de Prototipos Ludo - Zaragoza (Spain)
+* 03 - Encuentro de Protos y Tipos Ludo - Zaragoza (Spain)
 * 03 - Monasterio de Piedra - Zaragoza (Spain)
 
 ## 2013
@@ -131,7 +131,7 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 * 08 - Tierra de Nadie 2013 - Málaga (Spain)
 * 03 - Switzerland
   - Montreux, Chillon, Gruyeres, Reichenbackfall, Meiringen, Aareschlucht, Interlaken, Jungfraujoch, Mürren, Almendhubel and Lausanne
-* 02 - Geneve, CERN, Annecy and Grenoble (Switzerland and France)
+* 02 - Geneve, [CERN](/blog/2013/02/cronica-de-una-visita-guiada-al-cern/), Annecy and Grenoble (Switzerland and France)
 
 ## 2012
 
@@ -140,10 +140,14 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 * 09 - La Loire à Vélo (France)
   - Angers, Candes Saint-Martin, Fontevraud, Chinon, Azay-Le-Riedau, Tours, Amboise, Chenonceaux, Chaumont-Sur-Loire, Blois and Chambord
 * 08 - Tierra de Nadie 2012 - Málaga (Spain)
-* 04 - NECSS - New York (United States)
+* 05 - [SkeptiCamp Alicante](/blog/2012/05/skepticamp-alicante-2012-todas-las/) (Spain)
+* 04 - [NECSS](/blog/2013/01/necss-2013/) - New York (United States)
 * 04 - Washington D.C. and New York (United States)
+* 03 - [I Encuentro de Protos y Tipos de Ludo](/blog/2012/03/i-encuentro-de-protos-y-tips-de-ludo/) - Zaragoza (Spain)
 * 03 - ARP-SAPC Annual Assembly - Barcelona (Spain)
-* 03 - QED - Manchester (United Kingdom)
+* 03 - [Spring I/O 2012](/blog/2012/03/spring-io-2012/) - Madrid (Spain)
+* 03 - [QED 2012](/blog/2012/03/qed-2012-question-explore-discover/) - Manchester (United Kingdom)
+* 01 - [SkeptiCamp Madrid 2012](/blog/2012/01/skepticamp-madrid-2012/) - Madrid (Spain)
 
 ## 2011
 
@@ -153,6 +157,7 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
   - Carcassonne and others
 * 12 - Barcelona (Spain)
 * 10 - Dublín, Galway and Connemara (Ireland)
+* 10 - [ARP-SAPC Annual Assembly](/blog/2011/10/i-congreso-esceptico-2011-antes-del-fin/) - L'Alfàs del Pi (Spain)
 * 08 - León and La Bañeza (Spain)
 * 08 - Tierra de Nadie 2011 - Málaga (Spain)
 * 07 - _Semana Negra_ 2011 - Gijón (Spain)
@@ -162,7 +167,7 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 ## 2010
 
 * 12 - Alicante and Elche (Spain)
-* 10 - TAM London (United Kingdom)
+* 10 - [TAM London 2010](/blog/2010/10/tam-london-2010/) (United Kingdom)
 * 05 - Bilbao (Spain)
 * 03 - Lagunas de Ruidera, Ciudad Real (Spain)
 
@@ -183,7 +188,8 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 ## 2006
 
 * 11 - Roma (Italy)
-* 10 - Salou, Sitges, Tarragona and Port Aventura (Spain)
+* 10 - [Costa Dorada](/blog/2006/10/descansando-en-la-costa-dorada/) (Spain)
+  - Salou, Sitges, Tarragona and Port Aventura
 * 05 - Titirimundi 2006 - Segovia (Spain)
 * 05 - Cologne, Aachen, Bonn and Düsseldorf (Germany)
 * 04 - Ciudad Real (Spain)
@@ -196,9 +202,10 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 * 12 - Córdoba (Spain)
 * 12 - Salamanca (Spain)
 * 10 - Barcelona (Spain)
+* 08 - _Xiringüelu_ 2005 (Spain)
 * 05 - Cuenca (Spain)
 * 05 - Titirimundi 2005 - Segovia (Spain)
-* 04 - Jerez de la Frontera (Spain)
+* 04 - [Jerez de la Frontera](/blog/2005/04/fin-de-semana-en-jerez/) (Spain)
 * 03 - Alicante (Spain)
 
 ## 2004
@@ -207,7 +214,8 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 * 12 - Segovia (Spain)
 * 11 - El Escorial (Spain)
 * 11 - Monte Santiago and Frías (Spain)
-* 05 - Montmeló and Barcelona (Spain)
+* 08 - _Xiringüelu_ 2004 (Spain)
+* 05 - [Montmeló](/blog/2004/05/apuntes-breves-para-un-fin-de-semana/) and Barcelona (Spain)
 * 04 - Horcajo de los Montes, Ciudad Real (Spain)
 
 ## 2003
