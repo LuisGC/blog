@@ -38,47 +38,67 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 * 08 - Tierra de Nadie 2018 - Málaga (Spain)
 * 06 - Torneo Medieval de Tiro con Arco - Torrijos (Spain)
 * 05 - Scotland road trip
-* 04 - San George's Shoot - Taunton (United Kingdom)
+  - Balloch, Luss, Oban, Glencoe Valley, Isle of Skye, Inverness, Cromarty, Cawdor, Glenfiddich Distillery, Pitlochry, Stirling and Glasgow
+* 04 - SPTA's San George's Shoot - Taunton (United Kingdom)
+* 03 - Pelegrina (Spain)
+* 02 - Bucarest (Romania)
 * 02 - FOSDEM 2018 - Brussels (Belgium)
 
 ## 2017
 
-* 12 - Normandy and Brittany (France)
+* 12 - Brittany (France)
+  - Cancale, Saint Malo, Dinard, Morlaix, Pointe du Raz, Quimper, Concarneau, Pont-Aven, Carnac, Auray, Vannes, Rochefort-en-Terre, Rennes, Vitré, Fougeres and Le Mans
+* 12 - Normandy (France)
+  - Rouen, Honfleur, Caen, Bayeaux and Mont Sant Michel
 * 11 - Amsterdam, Edam, Volendam and Marken (Netherlands)
 * 11 - La Granja de San Ildefonso (Spain)
 * 09 - Milan (Italy)
 * 08 - Huelva (Spain)
+  - El Rompido, Palos de la Frontera, Moguer, Ayamonte and Tavira (Portugal)
 * 08 - Gran Canaria (Spain)
-* 08 - Cream Tea Shoot (Wales and England)
-* 06 - Paris (France)
+  - Las Palmas de Gran Canaria, Maspalomas, La Aldea, Puerto de Las Nieves and Gáldar
+* 08 - Tierra de Nadie 2017 - Málaga (Spain)
+* 08 - SPTA's Cream Tea Shoot 2018 - Tiverton (England)
+* 08 - Wye Valley Archery, Wales (United Kingdom)
+* 06 - Paris and Euro Disney (France)
 * 05 - Katowice (Poland)
 * 05 - Romantikstrasse (Austria)
+  - Schalaburg, Melk, Steyr, Kremsmünster, Scharnstein, Gmunden, Mondsee, Postalm, St Wolfgang im Salzkammergut, Bad Ischl, Halstatt, Obertraun and Mauthausen
 * 04 - Amsterdam, Haarlem, Utrecht and Rotterdam (Netherlands)
 * 03 - Chinchón (Spain)
 
 ## 2016
 
-* 12 - Albarracín, Peracense and Teruel (Spain)
+* 12 - Albarracín, Peracense, Ojos Negros and Teruel (Spain)
 * 11 - Aldeanueva de la Vera and Monasterio de Yuste (Spain)
-* 09 - Malleza, Asturias (Spain)
-* 08 - Krakow, Zakopane and Wroklaw (Poland)
+* 09 - Malleza and Pravia, Asturias (Spain)
+* 08 - Poland
+  - Krakow, Zakopane, Wroclaw, Wieliczka and Austchwitz
 * 08 - Tierra de Nadie 2016 - Málaga (Spain)
 * 06 - JBCNConf 2016 - Barcelona (Spain)
 * 06 - Torneo Medieval de Tiro con Arco - Torrijos (Spain)
-* 05 - Vía Verde de Ojos Negros (Spain)
-* 05 - Ucero, Neila, Cañón del Río Lobos, San Bartolomé and Burgo de Osma (Spain)
+* 05 - Vía Verde de Ojos Negros: Santa Eulalia, Teruel, Sarrión, Caudiel, Algar de Palanca and Sagunto (Spain)
+* 05 - Ucero, Neila, Cañón del Río Lobos, Laguna Negra, San Bartolomé and Burgo de Osma (Spain)
+* 05 - El Pardo (Spain)
+* 04 - ARP-SAPC Annual Assembly - Valencia (Spain)
+* 03 - Zamora (Spain)
 * 01 - FOSDEM 2016 - Brussels (Belgium)
 
 ## 2015
 
-* 12 - Mérida, Cáceres and Torrijos (Spain)
+* 12 - Extremadura (Spain)
+  - Mérida, Cáceres and Trujillo
 * 11 - Asturias and Cantabria (Spain)
+  - Cangas de Onís, Covadonga, Llanes, Ribadesella, Llastres, Fuente Dé, Potes and Arenas de Cabrales
+* 11 - PyConEs 2015 - Valencia (Spain)
 * 10 - Barcelona (Spain)
 * 10 - Navaluenga (Spain)
 * 10 - Alicante (Spain)
 * 09 - London, Edinburgh and Loch Ness (United Kingdom)
 * 08 - Tierra de Nadie 2015 - Málaga (Spain)
-* 06 - Peñaranda de Duero, Caleruega and Clunia - Burgos (Spain)
+* 06 - South of Burgos (Spain)
+  - Peñaranda de Duero, Caleruega and Clunia
+* 05 - Zona Lúdica 2015 - Málaga (Spain)
 * 04 - _Ruta de los Dinosaurios_ - Cuenca (Spain)
 * 03 - ARP-SAPC Annual Assembly - Sevilla (Spain)
 * 03 - Barcelona Beer Festival (Spain)
@@ -88,11 +108,13 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 ## 2014
 
 * 12 - Zaragoza (Spain)
-* 11 - Prague, Kutná Hora, Vienna, Bratislava and Budapest
+* 11 - Prague, Kutná Hora, Vienna, Bratislava and Budapest (Czech Republic, Austria, Slovakia and Hungary)
+* 08 - Tierra de Nadie 2014 - Málaga (Spain)
 * 07 - Hoces del Duratón - Segovia (Spain)
 * 06 - San Miquel del Fai - Barcelona (Spain)
 * 05 - Vía Verde de la Jara - Toledo (Spain)
-* 04 - Poza de la Sal, Monte Santiago, Frías, Ojo Guareña, Orbaneja del Castillo and Oña - Burgos (Spain)
+* 04 - North of Burgos (Spain)
+  - Poza de la Sal, Monte Santiago, Frías, Ojo Guareña, Orbaneja del Castillo and Oña
 * 03 - ARP-SAPC Annual Assembly - Madrid (Spain)
 * 03 - Encuentro de Prototipos Ludo - Zaragoza (Spain)
 * 03 - Monasterio de Piedra - Zaragoza (Spain)
@@ -100,21 +122,23 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 ## 2013
 
 * 12 - Paris (France)
-* 11 - PyConEs 2013 (Spain)
+* 11 - PyConEs 2013 - Madrid (Spain)
 * 11 - Barcelona (Spain)
 * 10 - Festival de Juegos de Córdoba 2013 (Spain)
 * 09 - Mercado Medieval en Buitrago de Lozoya (Spain)
 * 08 - Val d'Arán, Lleida (Spain)
 * 08 - Canyoning in Alquézar, Huesca (Spain)
 * 08 - Tierra de Nadie 2013 - Málaga (Spain)
-* 03 - Montreux, Chillon, Gruyeres, Reichenbackfall, Meiringen, Aareschlucht, Interlaken, Jungfraujoch, Mürren, Almendhubel and Lausanne (Switzerland)
+* 03 - Switzerland
+  - Montreux, Chillon, Gruyeres, Reichenbackfall, Meiringen, Aareschlucht, Interlaken, Jungfraujoch, Mürren, Almendhubel and Lausanne
 * 02 - Geneve, CERN, Annecy and Grenoble (Switzerland and France)
 
 ## 2012
 
 * 11 - Hayedo de Tejera Negra - Guadalajara (Spain)
 * 09 - Bordeaux (France)
-* 09 - La Loire à Vélo: Angers, Candes Saint-Martin, Fontevraud, Chinon, Azay-Le-Riedau, Tours, Amboise, Chenonceaux, Chaumont-Sur-Loire, Blois and Chambord (France)
+* 09 - La Loire à Vélo (France)
+  - Angers, Candes Saint-Martin, Fontevraud, Chinon, Azay-Le-Riedau, Tours, Amboise, Chenonceaux, Chaumont-Sur-Loire, Blois and Chambord
 * 08 - Tierra de Nadie 2012 - Málaga (Spain)
 * 04 - NECSS - New York (United States)
 * 04 - Washington D.C. and New York (United States)
@@ -125,7 +149,8 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 
 * 12 - Lorca, Murcia (Spain)
 * 12 - Toulouse (France)
-* 12 - Cathar Castles route: Carcassonne and others (France)
+* 12 - Cathar Castles route (France)
+  - Carcassonne and others
 * 12 - Barcelona (Spain)
 * 10 - Dublín, Galway and Connemara (Ireland)
 * 08 - León and La Bañeza (Spain)
@@ -207,7 +232,6 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 * 11 - Valencia (Spain)
 * 11 - Segovia (Spain)
 * 11 - Aranjuez (Spain)
-
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" ></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.js" ></script>
