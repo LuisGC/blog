@@ -75,7 +75,7 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 * 11 - Asturias and Cantabria (Spain)
 * 10 - Barcelona (Spain)
 * 10 - Navaluenga (Spain)
-* 10 - XX Mereth Aderthad - Alicante (Spain)
+* 10 - Alicante (Spain)
 * 09 - London, Edinburgh and Loch Ness (United Kingdom)
 * 08 - Tierra de Nadie 2015 - Málaga (Spain)
 * 06 - Peñaranda de Duero, Caleruega and Clunia - Burgos (Spain)
@@ -87,14 +87,14 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 
 ## 2014
 
-* 12 - XIX Mereth Aderthad - Zaragoza (Spain)
-* 11 - Prague, Vienna, Bratislava and Budapest
-* 07 - Hooces del Duratón - Segovia (Spain)
+* 12 - Zaragoza (Spain)
+* 11 - Prague, Kutná Hora, Vienna, Bratislava and Budapest
+* 07 - Hoces del Duratón - Segovia (Spain)
 * 06 - San Miquel del Fai - Barcelona (Spain)
 * 05 - Vía Verde de la Jara - Toledo (Spain)
-* 05 - VI Mereth Ithiledhellond - Valencia (Spain)
-* 04 - Poza de la Sal, Monte Santiago, Frías, Ojo Guareña, Puentedey, Orbaneja del Castillo and Oña - Burgos (Spain)
+* 04 - Poza de la Sal, Monte Santiago, Frías, Ojo Guareña, Orbaneja del Castillo and Oña - Burgos (Spain)
 * 03 - ARP-SAPC Annual Assembly - Madrid (Spain)
+* 03 - Encuentro de Prototipos Ludo - Zaragoza (Spain)
 * 03 - Monasterio de Piedra - Zaragoza (Spain)
 
 ## 2013
@@ -102,11 +102,10 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 * 12 - Paris (France)
 * 11 - PyConEs 2013 (Spain)
 * 11 - Barcelona (Spain)
-* 11 - XVIII Mereth Aderthad - Barcelona (Spain)
 * 10 - Festival de Juegos de Córdoba 2013 (Spain)
 * 09 - Mercado Medieval en Buitrago de Lozoya (Spain)
 * 08 - Val d'Arán, Lleida (Spain)
-* 08 - Alquézar, Huesca (Spain)
+* 08 - Canyoning in Alquézar, Huesca (Spain)
 * 08 - Tierra de Nadie 2013 - Málaga (Spain)
 * 03 - Montreux, Chillon, Gruyeres, Reichenbackfall, Meiringen, Aareschlucht, Interlaken, Jungfraujoch, Mürren, Almendhubel and Lausanne (Switzerland)
 * 02 - Geneve, CERN, Annecy and Grenoble (Switzerland and France)
@@ -117,7 +116,8 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 * 09 - Bordeaux (France)
 * 09 - La Loire à Vélo: Angers, Candes Saint-Martin, Fontevraud, Chinon, Azay-Le-Riedau, Tours, Amboise, Chenonceaux, Chaumont-Sur-Loire, Blois and Chambord (France)
 * 08 - Tierra de Nadie 2012 - Málaga (Spain)
-* 04 - Washington and New York (United States)
+* 04 - NECSS - New York (United States)
+* 04 - Washington D.C. and New York (United States)
 * 03 - ARP-SAPC Annual Assembly - Barcelona (Spain)
 * 03 - QED - Manchester (United Kingdom)
 
@@ -130,8 +130,8 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 * 10 - Dublín, Galway and Connemara (Ireland)
 * 08 - León and La Bañeza (Spain)
 * 08 - Tierra de Nadie 2011 - Málaga (Spain)
-* 07 - XVII Mereth Aderthad - Ávila (Spain)
-* 07 - Semana Negra 2011 - Gijón (Spain)
+* 07 - _Semana Negra_ 2011 - Gijón (Spain)
+* 06 - Canyoning in Pirineos (Spain)
 * 04 - Évora, Lisboa and Sintra (Portugal)
 
 ## 2010
@@ -147,25 +147,60 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 * 08 - Vitoria (Spain)
 * 08 - Sorzano, La Rioja (Spain)
 * 07 - Pals, Girona (Spain)
+* 04 - Gijón (Spain)
+* 01 - London (United Kingdom)
+
+## 2007
+
+* 11 - Lagunas de Ruidera, Guadalajara (Spain)
+* 04 - Amsterdam (Netherlands)
 
 ## 2006
 
+* 11 - Roma (Italy)
+* 10 - Salou, Sitges, Tarragona and Port Aventura (Spain)
+* 05 - Titirimundi 2006 - Segovia (Spain)
 * 05 - Cologne, Aachen, Bonn and Düsseldorf (Germany)
 * 04 - Ciudad Real (Spain)
-* 04 - Horcajo de los Montes (Spain)
+* 04 - Horcajo de los Montes, Ciudad Real (Spain)
+* 03 - Tablas de Daimiel, Ciudad Real (Spain)
+* 02 - Logroño (Spain)
+
+## 2005
+
+* 12 - Córdoba (Spain)
+* 12 - Salamanca (Spain)
+* 10 - Barcelona (Spain)
+* 05 - Cuenca (Spain)
+* 05 - Titirimundi 2005 - Segovia (Spain)
+* 04 - Jerez de la Frontera (Spain)
+* 03 - Alicante (Spain)
+
+## 2004
+
+* 12 - Roncesvalles, Navarra (Spain)
+* 12 - Segovia (Spain)
+* 11 - El Escorial (Spain)
+* 11 - Monte Santiago and Frías (Spain)
+* 05 - Montmeló and Barcelona (Spain)
+* 04 - Horcajo de los Montes, Ciudad Real (Spain)
 
 ## 2003
 
 * 11 - Valladolid (Spain)
 * 11 - Oviedo (Spain)
-* 10 - Mereth Aderthad - Sierra Nevada, Granada (Spain)
-* 09 - Barcelona (Spain)
+* 09 - Casteldefells and Barcelona (Spain)
+
+## 2001
+
+* 03 - Logroño, La Rioja (Spain)
 
 ## 2000
 
 * 10 - Bilbao (Spain)
-* 08 - Xiringüelu 2000 (Spain)
+* 08 - _Xiringüelu_ 2000 (Spain)
 * 06 - Cáceres (Spain)
+* 05 - Bilbao (Spain)
 
 ## 1999
 
