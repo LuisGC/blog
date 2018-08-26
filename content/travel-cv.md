@@ -8,45 +8,7 @@ status = "published"
 
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.css" />
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" />
-<style>
-@media screen and (max-width: 600px) {
-  #map {
-    visibility: hidden;
-    clear: both;
-    float: left;
-    margin: 10px auto 5px 20px;
-    width: 28%;
-    display: none;
-  }
-}
-h2 {
-  font: 400 40px/1.5 Helvetica, Verdana, sans-serif;
-  margin: 0;
-  padding: 0;
-}
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-li {
-  font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
-  border-bottom: 1px solid #ccc;
-}
-li:last-child {
-  border: none;
-}
-li:hover {
-  background: #f6f6f6;
-}
-ul li ul {
-  margin: 0 !important;
-  padding-left: 30px;
-}
-ul li ul li {
-  font: 200 15px/1.5 Helvetica, Verdana, sans-serif;
-}
-</style>
+<link rel="stylesheet" href="/css/travel-cv.css" />
 
 _(Inspired by the [CV Viajero by Dendarii](https://dendarii.es/cv-viajero/))_
 
