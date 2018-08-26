@@ -23,216 +23,216 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 
 ## 2018
 
-* 08 - Galicia (Spain)
+* <span>AUG</span> <p>Galicia (Spain)</p>
   - Leiro, Fervenza do Toxa, Pazo de Oca, Santiago de Compostela, Fisterra, Cambados, Sanxenxo, Combarro, O Grove, Isla de Ons, Vigo, Bayona, Oia and Ribadavia
-* 08 - Tierra de Nadie 2018 - Málaga (Spain)
-* 06 - Torneo Medieval de Tiro con Arco - Torrijos (Spain)
-* 05 - [Scotland](/blog/2018/05/scotland-a-brief-opinionated-guide/) (United Kingdom)
+* <span>AUG</span> <p>Tierra de Nadie 2018 - Málaga (Spain)</p>
+* <span>JUN</span> <p>Torneo Medieval de Tiro con Arco - Torrijos (Spain)</p>
+* <span>MAY</span> <p>[Scotland](/blog/2018/05/scotland-a-brief-opinionated-guide/) (United Kingdom)</p>
   - Balloch, Luss, Oban, Glencoe Valley, Isle of Skye, Inverness, Cromarty, Cawdor, Glenfiddich Distillery, Pitlochry, Stirling and Glasgow
-* 04 - SPTA's San George's Shoot - Taunton (United Kingdom)
-* 03 - Pelegrina (Spain)
-* 02 - Bucarest (Romania)
-* 02 - [FOSDEM 2018](/blog/2018/02/fosdem-2018-saturday/) - Brussels (Belgium)
+* <span>APR</span> <p>SPTA's San George's Shoot - Taunton (United Kingdom)</p>
+* <span>MAR</span> <p>Pelegrina (Spain)</p>
+* <span>FEB</span> <p>Bucarest (Romania)</p>
+* <span>FEB</span> <p>[FOSDEM 2018](/blog/2018/02/fosdem-2018-saturday/) - Brussels (Belgium)</p>
 
 ## 2017
 
-* 12 - [Brittany](/blog/2017/12/brittany-a-brief-opinionated-guide/) (France)
+* <span>DEC</span> <p>[Brittany](/blog/2017/12/brittany-a-brief-opinionated-guide/) (France)</p>
   - Cancale, Saint Malo, Dinard, Morlaix, Pointe du Raz, Quimper, Concarneau, Pont-Aven, Carnac, Auray, Vannes, Rochefort-en-Terre, Rennes, Vitré, Fougeres and Le Mans
-* 12 - [Normandy](/blog/2017/12/normandy-a-brief-opinionated-guide/) (France)
+* <span>DEC</span> <p>[Normandy](/blog/2017/12/normandy-a-brief-opinionated-guide/) (France)</p>
   - Rouen, Honfleur, Caen, Bayeaux and Mont Sant Michel
-* 11 - Amsterdam, Edam, Volendam and Marken (Netherlands)
-* 11 - La Granja de San Ildefonso (Spain)
-* 09 - Milan (Italy)
-* 08 - Huelva (Spain)
+* <span>NOV</span> <p>Amsterdam, Edam, Volendam and Marken (Netherlands)</p>
+* <span>NOV</span> <p>La Granja de San Ildefonso (Spain)</p>
+* <span>SEP</span> <p>Milan (Italy)</p>
+* <span>AUG</span> <p>Huelva (Spain)</p>
   - El Rompido, Palos de la Frontera, Moguer, Ayamonte and Tavira (Portugal)
-* 08 - Gran Canaria (Spain)
+* <span>AUG</span> <p>Gran Canaria (Spain)</p>
   - Las Palmas de Gran Canaria, Maspalomas, La Aldea, Puerto de Las Nieves and Gáldar
-* 08 - Tierra de Nadie 2017 - Málaga (Spain)
-* 08 - SPTA's Cream Tea Shoot 2018 - Tiverton (England)
-* 08 - Wye Valley Archery, Wales (United Kingdom)
-* 06 - Paris and Euro Disney (France)
-* 05 - Katowice (Poland)
-* 05 - [Romantikstrasse, The Romantic Road](/blog/2017/05/romantikstrasse-the-romantic-road_1/) (Austria)
+* <span>AUG</span> <p>Tierra de Nadie 2017 - Málaga (Spain)</p>
+* <span>AUG</span> <p>SPTA's Cream Tea Shoot 2018 - Tiverton (England)</p>
+* <span>AUG</span> <p>Wye Valley Archery, Wales (United Kingdom)</p>
+* <span>JUN</span> <p>Paris and Euro Disney (France)</p>
+* <span>MAY</span> <p>Katowice (Poland)</p>
+* <span>MAY</span> <p>[Romantikstrasse, The Romantic Road](/blog/2017/05/romantikstrasse-the-romantic-road_1/) (Austria)</p>
   - Schalaburg, Melk, Steyr, Kremsmünster, Scharnstein, Gmunden, Mondsee, Postalm, St Wolfgang im Salzkammergut, Bad Ischl, Halstatt, Obertraun and Mauthausen
-* 04 - Amsterdam, Haarlem, Utrecht and Rotterdam (Netherlands)
-* 03 - Chinchón (Spain)
+* <span>APR</span> <p>Amsterdam, Haarlem, Utrecht and Rotterdam (Netherlands)</p>
+* <span>MAR</span> <p>Chinchón (Spain)</p>
 
 ## 2016
 
-* 12 - Albarracín, Peracense, Ojos Negros and Teruel (Spain)
-* 11 - Aldeanueva de la Vera and Monasterio de Yuste (Spain)
-* 09 - Malleza and Pravia, Asturias (Spain)
-* 08 - Poland
+* <span>DEC</span> <p>Albarracín, Peracense, Ojos Negros and Teruel (Spain)</p>
+* <span>NOV</span> <p>Aldeanueva de la Vera and Monasterio de Yuste (Spain)</p>
+* <span>SEP</span> <p>Malleza and Pravia, Asturias (Spain)</p>
+* <span>AUG</span> <p>Poland</p>
   - Krakow, Zakopane, Wroclaw, Wieliczka and Austchwitz
-* 08 - Tierra de Nadie 2016 - Málaga (Spain)
-* 06 - JBCNConf 2016 - Barcelona (Spain)
-* 06 - Torneo Medieval de Tiro con Arco - Torrijos (Spain)
-* 05 - Vía Verde de Ojos Negros (Spain)
+* <span>AUG</span> <p>Tierra de Nadie 2016 - Málaga (Spain)</p>
+* <span>JUN</span> <p>JBCNConf 2016 - Barcelona (Spain)</p>
+* <span>JUN</span> <p>Torneo Medieval de Tiro con Arco - Torrijos (Spain)</p>
+* <span>MAY</span> <p>Vía Verde de Ojos Negros (Spain)</p>
   - Santa Eulalia, Teruel, Sarrión, Caudiel, Algar de Palanca and Sagunto
-* 05 - Soria (Spain)
+* <span>MAY</span> <p>Soria (Spain)</p>
   - Ucero, Neila, Cañón del Río Lobos, Laguna Negra, San Bartolomé and Burgo de Osma
-* 05 - El Pardo (Spain)
-* 04 - ARP-SAPC Annual Assembly - Valencia (Spain)
-* 03 - Zamora (Spain)
-* 01 - [FOSDEM 2016](/blog/2016/03/fosdem-2016-friday/) - Brussels (Belgium)
+* <span>MAY</span> <p>El Pardo (Spain)</p>
+* <span>APR</span> <p>ARP-SAPC Annual Assembly - Valencia (Spain)</p>
+* <span>MAR</span> <p>Zamora (Spain)</p>
+* <span>JAN</span> <p>[FOSDEM 2016](/blog/2016/03/fosdem-2016-friday/) - Brussels (Belgium)</p>
 
 ## 2015
 
-* 12 - Extremadura (Spain)
+* <span>DEC</span> <p>Extremadura (Spain)</p>
   - Mérida, Cáceres and Trujillo
-* 11 - Asturias and Cantabria (Spain)
+* <span>NOV</span> <p>Asturias and Cantabria (Spain)</p>
   - Cangas de Onís, Covadonga, Llanes, Ribadesella, Llastres, Fuente Dé, Potes and Arenas de Cabrales
-* 11 - PyConEs 2015 - Valencia (Spain)
-* 10 - Barcelona (Spain)
-* 10 - Navaluenga (Spain)
-* 10 - Alicante (Spain)
-* 09 - London, Edinburgh and Loch Ness (United Kingdom)
-* 08 - Tierra de Nadie 2015 - Málaga (Spain)
-* 06 - South of Burgos (Spain)
+* <span>NOV</span> <p>PyConEs 2015 - Valencia (Spain)</p>
+* <span>OCT</span> <p>Barcelona (Spain)</p>
+* <span>OCT</span> <p>Navaluenga (Spain)</p>
+* <span>OCT</span> <p>Alicante (Spain)</p>
+* <span>SEP</span> <p>London, Edinburgh and Loch Ness (United Kingdom)</p>
+* <span>AUG</span> <p>Tierra de Nadie 2015 - Málaga (Spain)</p>
+* <span>JUN</span> <p>South of Burgos (Spain)</p>
   - Peñaranda de Duero, Caleruega and Clunia
-* 05 - Zona Lúdica 2015 - Málaga (Spain)
-* 04 - _Ruta de los Dinosaurios_ - Cuenca (Spain)
-* 03 - ARP-SAPC Annual Assembly - Sevilla (Spain)
-* 03 - Barcelona Beer Festival (Spain)
-* 02 - Ávila (Spain)
-* 01 - FOSDEM 2015 - Brussels (Belgium)
+* <span>MAY</span> <p>Zona Lúdica 2015 - Málaga (Spain)</p>
+* <span>APR</span> <p>_Ruta de los Dinosaurios_ - Cuenca (Spain)</p>
+* <span>MAR</span> <p>ARP-SAPC Annual Assembly - Sevilla (Spain)</p>
+* <span>MAR</span> <p>Barcelona Beer Festival (Spain)</p>
+* <span>FEB</span> <p>Ávila (Spain)</p>
+* <span>JAN</span> <p>FOSDEM 2015 - Brussels (Belgium)</p>
 
 ## 2014
 
-* 12 - Zaragoza (Spain)
-* 11 - Prague, Kutná Hora, Vienna, Bratislava and Budapest (Czech Republic, Austria, Slovakia and Hungary)
-* 08 - Tierra de Nadie 2014 - Málaga (Spain)
-* 07 - Hoces del Duratón - Segovia (Spain)
-* 06 - San Miquel del Fai - Barcelona (Spain)
-* 05 - Vía Verde de la Jara - Toledo (Spain)
-* 04 - North of Burgos (Spain)
+* <span>DEC</span> <p>Zaragoza (Spain)</p>
+* <span>NOV</span> <p>Prague, Kutná Hora, Vienna, Bratislava and Budapest (Czech Republic, Austria, Slovakia and Hungary)</p>
+* <span>AUG</span> <p>Tierra de Nadie 2014 - Málaga (Spain)</p>
+* <span>JUL</span> <p>Hoces del Duratón - Segovia (Spain)</p>
+* <span>JUN</span> <p>San Miquel del Fai - Barcelona (Spain)</p>
+* <span>MAY</span> <p>Vía Verde de la Jara - Toledo (Spain)</p>
+* <span>APR</span> <p>North of Burgos (Spain)</p>
   - Poza de la Sal, Monte Santiago, Frías, Ojo Guareña, Orbaneja del Castillo and Oña
-* 03 - ARP-SAPC Annual Assembly - Madrid (Spain)
-* 03 - Encuentro de Protos y Tipos Ludo - Zaragoza (Spain)
-* 03 - Monasterio de Piedra - Zaragoza (Spain)
+* <span>MAR</span> <p>ARP-SAPC Annual Assembly - Madrid (Spain)</p>
+* <span>MAR</span> <p>Encuentro de Protos y Tipos Ludo - Zaragoza (Spain)</p>
+* <span>MAR</span> <p>Monasterio de Piedra - Zaragoza (Spain)</p>
 
 ## 2013
 
-* 12 - Paris (France)
-* 11 - PyConEs 2013 - Madrid (Spain)
-* 11 - Barcelona (Spain)
-* 10 - Festival de Juegos de Córdoba 2013 (Spain)
-* 09 - Mercado Medieval en Buitrago de Lozoya (Spain)
-* 08 - Val d'Arán, Lleida (Spain)
-* 08 - Canyoning in Alquézar, Huesca (Spain)
-* 08 - Tierra de Nadie 2013 - Málaga (Spain)
-* 03 - Switzerland
+* <span>DEC</span> <p>Paris (France)</p>
+* <span>NOV</span> <p>PyConEs 2013 - Madrid (Spain)</p>
+* <span>NOV</span> <p>Barcelona (Spain)</p>
+* <span>OCT</span> <p>Festival de Juegos de Córdoba 2013 (Spain)</p>
+* <span>SEP</span> <p>Mercado Medieval en Buitrago de Lozoya (Spain)</p>
+* <span>AUG</span> <p>Val d'Arán, Lleida (Spain)</p>
+* <span>AUG</span> <p>Canyoning in Alquézar, Huesca (Spain)</p>
+* <span>AUG</span> <p>Tierra de Nadie 2013 - Málaga (Spain)</p>
+* <span>MAR</span> <p>Switzerland</p>
   - Montreux, Chillon, Gruyeres, Reichenbackfall, Meiringen, Aareschlucht, Interlaken, Jungfraujoch, Mürren, Almendhubel and Lausanne
-* 02 - Geneve, [CERN](/blog/2013/02/cronica-de-una-visita-guiada-al-cern/), Annecy and Grenoble (Switzerland and France)
+* <span>FEB</span> <p>Geneve, [CERN](/blog/2013/02/cronica-de-una-visita-guiada-al-cern/), Annecy and Grenoble (Switzerland and France)</p>
 
 ## 2012
 
-* 11 - Hayedo de Tejera Negra - Guadalajara (Spain)
-* 09 - Bordeaux (France)
-* 09 - La Loire à Vélo (France)
+* <span>NOV</span> <p>Hayedo de Tejera Negra - Guadalajara (Spain)</p>
+* <span>SEP</span> <p>Bordeaux (France)</p>
+* <span>SEP</span> <p>La Loire à Vélo (France)</p>
   - Angers, Candes Saint-Martin, Fontevraud, Chinon, Azay-Le-Riedau, Tours, Amboise, Chenonceaux, Chaumont-Sur-Loire, Blois and Chambord
-* 08 - Tierra de Nadie 2012 - Málaga (Spain)
-* 05 - [SkeptiCamp Alicante](/blog/2012/05/skepticamp-alicante-2012-todas-las/) (Spain)
-* 04 - [NECSS](/blog/2013/01/necss-2013/) - New York (United States)
-* 04 - Washington D.C. and New York (United States)
-* 03 - [I Encuentro de Protos y Tipos de Ludo](/blog/2012/03/i-encuentro-de-protos-y-tips-de-ludo/) - Zaragoza (Spain)
-* 03 - ARP-SAPC Annual Assembly - Barcelona (Spain)
-* 03 - [Spring I/O 2012](/blog/2012/03/spring-io-2012/) - Madrid (Spain)
-* 03 - [QED 2012](/blog/2012/03/qed-2012-question-explore-discover/) - Manchester (United Kingdom)
-* 01 - [SkeptiCamp Madrid 2012](/blog/2012/01/skepticamp-madrid-2012/) - Madrid (Spain)
+* <span>AUG</span> <p>Tierra de Nadie 2012 - Málaga (Spain)</p>
+* <span>MAY</span> <p>[SkeptiCamp Alicante](/blog/2012/05/skepticamp-alicante-2012-todas-las/) (Spain)</p>
+* <span>APR</span> <p>[NECSS](/blog/2013/01/necss-2013/) - New York (United States)</p>
+* <span>APR</span> <p>Washington D.C. and New York (United States)</p>
+* <span>MAR</span> <p>[I Encuentro de Protos y Tipos de Ludo](/blog/2012/03/i-encuentro-de-protos-y-tips-de-ludo/) - Zaragoza (Spain)</p>
+* <span>MAR</span> <p>ARP-SAPC Annual Assembly - Barcelona (Spain)</p>
+* <span>MAR</span> <p>[Spring I/O 2012](/blog/2012/03/spring-io-2012/) - Madrid (Spain)</p>
+* <span>MAR</span> <p>[QED 2012](/blog/2012/03/qed-2012-question-explore-discover/) - Manchester (United Kingdom)</p>
+* <span>JAN</span> <p>[SkeptiCamp Madrid 2012](/blog/2012/01/skepticamp-madrid-2012/) - Madrid (Spain)</p>
 
 ## 2011
 
-* 12 - Lorca, Murcia (Spain)
-* 12 - Toulouse (France)
-* 12 - Cathar Castles route (France)
+* <span>DEC</span> <p>Lorca, Murcia (Spain)</p>
+* <span>DEC</span> <p>Toulouse (France)</p>
+* <span>DEC</span> <p>Cathar Castles route (France)</p>
   - Carcassonne and others
-* 12 - Barcelona (Spain)
-* 10 - Dublín, Galway and Connemara (Ireland)
-* 10 - [ARP-SAPC Annual Assembly](/blog/2011/10/i-congreso-esceptico-2011-antes-del-fin/) - L'Alfàs del Pi (Spain)
-* 08 - León and La Bañeza (Spain)
-* 08 - Tierra de Nadie 2011 - Málaga (Spain)
-* 07 - _Semana Negra_ 2011 - Gijón (Spain)
-* 06 - Canyoning in Pirineos (Spain)
-* 04 - Évora, Lisboa and Sintra (Portugal)
+* <span>DEC</span> <p>Barcelona (Spain)</p>
+* <span>OCT</span> <p>Dublín, Galway and Connemara (Ireland)</p>
+* <span>OCT</span> <p>[ARP-SAPC Annual Assembly](/blog/2011/10/i-congreso-esceptico-2011-antes-del-fin/) - L'Alfàs del Pi (Spain)</p>
+* <span>AUG</span> <p>León and La Bañeza (Spain)</p>
+* <span>AUG</span> <p>Tierra de Nadie 2011 - Málaga (Spain)</p>
+* <span>JUL</span> <p>_Semana Negra_ 2011 - Gijón (Spain)</p>
+* <span>JUN</span> <p>Canyoning in Pirineos (Spain)</p>
+* <span>APR</span> <p>Évora, Lisboa and Sintra (Portugal)</p>
 
 ## 2010
 
-* 12 - Alicante and Elche (Spain)
-* 10 - [TAM London 2010](/blog/2010/10/tam-london-2010/) (United Kingdom)
-* 05 - Bilbao (Spain)
-* 03 - Lagunas de Ruidera, Ciudad Real (Spain)
+* <span>DEC</span> <p>Alicante and Elche (Spain)</p>
+* <span>OCT</span> <p>[TAM London 2010](/blog/2010/10/tam-london-2010/) (United Kingdom)</p>
+* <span>MAY</span> <p>Bilbao (Spain)</p>
+* <span>MAR</span> <p>Lagunas de Ruidera, Ciudad Real (Spain)</p>
 
 ## 2009
 
-* 12 - London, Oxford, Cambridge (United Kingdom)
-* 08 - Vitoria (Spain)
-* 08 - Sorzano, La Rioja (Spain)
-* 07 - Pals, Girona (Spain)
-* 04 - Gijón (Spain)
-* 01 - London (United Kingdom)
+* <span>DEC</span> <p>London, Oxford, Cambridge (United Kingdom)</p>
+* <span>AUG</span> <p>Vitoria (Spain)</p>
+* <span>AUG</span> <p>Sorzano, La Rioja (Spain)</p>
+* <span>JUL</span> <p>Pals, Girona (Spain)</p>
+* <span>APR</span> <p>Gijón (Spain)</p>
+* <span>JAN</span> <p>London (United Kingdom)</p>
 
 ## 2007
 
-* 11 - Lagunas de Ruidera, Guadalajara (Spain)
-* 04 - Amsterdam (Netherlands)
+* <span>NOV</span> <p>Lagunas de Ruidera, Guadalajara (Spain)</p>
+* <span>APR</span> <p>Amsterdam (Netherlands)</p>
 
 ## 2006
 
-* 11 - Roma (Italy)
-* 10 - [Costa Dorada](/blog/2006/10/descansando-en-la-costa-dorada/) (Spain)
+* <span>NOV</span> <p>Roma (Italy)</p>
+* <span>OCT</span> <p>[Costa Dorada](/blog/2006/10/descansando-en-la-costa-dorada/) (Spain)</p>
   - Salou, Sitges, Tarragona and Port Aventura
-* 05 - Titirimundi 2006 - Segovia (Spain)
-* 05 - Germany
+* <span>MAY</span> <p>Titirimundi 2006 - Segovia (Spain)</p>
+* <span>MAY</span> <p>Germany</p>
   - Cologne, Aachen, Bonn and Düsseldorf
-* 04 - Ciudad Real (Spain)
-* 04 - Horcajo de los Montes, Ciudad Real (Spain)
-* 03 - Tablas de Daimiel, Ciudad Real (Spain)
-* 02 - Logroño (Spain)
+* <span>APR</span> <p>Ciudad Real (Spain)</p>
+* <span>APR</span> <p>Horcajo de los Montes, Ciudad Real (Spain)</p>
+* <span>MAR</span> <p>Tablas de Daimiel, Ciudad Real (Spain)</p>
+* <span>FEB</span> <p>Logroño (Spain)</p>
 
 ## 2005
 
-* 12 - Córdoba (Spain)
-* 12 - Salamanca (Spain)
-* 10 - Barcelona (Spain)
-* 08 - _Xiringüelu_ 2005 (Spain)
-* 05 - Cuenca (Spain)
-* 05 - Titirimundi 2005 - Segovia (Spain)
-* 04 - [Jerez de la Frontera](/blog/2005/04/fin-de-semana-en-jerez/) (Spain)
-* 03 - Alicante (Spain)
+* <span>DEC</span> <p>Córdoba (Spain)</p>
+* <span>DEC</span> <p>Salamanca (Spain)</p>
+* <span>OCT</span> <p>Barcelona (Spain)</p>
+* <span>AUG</span> <p>_Xiringüelu_ 2005 (Spain)</p>
+* <span>MAY</span> <p>Cuenca (Spain)</p>
+* <span>MAY</span> <p>Titirimundi 2005 - Segovia (Spain)</p>
+* <span>APR</span> <p>[Jerez de la Frontera](/blog/2005/04/fin-de-semana-en-jerez/) (Spain)</p>
+* <span>MAR</span> <p>Alicante (Spain)</p>
 
 ## 2004
 
-* 12 - Roncesvalles, Navarra (Spain)
-* 12 - Segovia (Spain)
-* 11 - El Escorial (Spain)
-* 11 - Monte Santiago and Frías (Spain)
-* 08 - _Xiringüelu_ 2004 (Spain)
-* 05 - [Montmeló](/blog/2004/05/apuntes-breves-para-un-fin-de-semana/) and Barcelona (Spain)
-* 04 - Horcajo de los Montes, Ciudad Real (Spain)
+* <span>DEC</span> <p>Roncesvalles, Navarra (Spain)</p>
+* <span>DEC</span> <p>Segovia (Spain)</p>
+* <span>NOV</span> <p>El Escorial (Spain)</p>
+* <span>NOV</span> <p>Monte Santiago and Frías (Spain)</p>
+* <span>AUG</span> <p>_Xiringüelu_ 2004 (Spain)</p>
+* <span>MAY</span> <p>[Montmeló](/blog/2004/05/apuntes-breves-para-un-fin-de-semana/) and Barcelona (Spain)</p>
+* <span>APR</span> <p>Horcajo de los Montes, Ciudad Real (Spain)</p>
 
 ## 2003
 
-* 11 - Valladolid (Spain)
-* 11 - Oviedo (Spain)
-* 09 - Casteldefells and Barcelona (Spain)
+* <span>NOV</span> <p>Valladolid (Spain)</p>
+* <span>NOV</span> <p>Oviedo (Spain)</p>
+* <span>SEP</span> <p>Casteldefells and Barcelona (Spain)</p>
 
 ## 2001
 
-* 03 - Logroño, La Rioja (Spain)
+* <span>MAR</span> <p>Logroño, La Rioja (Spain)</p>
 
 ## 2000
 
-* 10 - Bilbao (Spain)
-* 08 - _Xiringüelu_ 2000 (Spain)
-* 06 - Cáceres (Spain)
-* 05 - Bilbao (Spain)
+* <span>OCT</span> <p>Bilbao (Spain)</p>
+* <span>AUG</span> <p>_Xiringüelu_ 2000 (Spain)</p>
+* <span>JUN</span> <p>Cáceres (Spain)</p>
+* <span>MAY</span> <p>Bilbao (Spain)</p>
 
 ## 1999
 
-* 11 - Valencia (Spain)
-* 11 - Segovia (Spain)
-* 11 - Aranjuez (Spain)
+* <span>NOV</span> <p>Valencia (Spain)</p>
+* <span>NOV</span> <p>Segovia (Spain)</p>
+* <span>NOV</span> <p>Aranjuez (Spain)</p>
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" ></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.js" ></script>
