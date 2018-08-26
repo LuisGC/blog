@@ -16,7 +16,8 @@ _(Inspired by the [CV Viajero by Dendarii](https://dendarii.es/cv-viajero/))_
 
 I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) out of 193 (9,32%): Andorra, Austria, Belgium, Czech Republic, France, Germany, Hungary, Ireland, Italy, Netherlands, Poland, Portugal, Romania, Slovakia, Spain, Switzerland, United Kingdom and United States.
 
-<div id="map" style="height: 500px; width: 100%"></div>
+<center><div id="map" style="height: 500px; width: 90%"></div></center>
+
 <br />
 
 # In chronological order
@@ -59,7 +60,8 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 
 ## 2016
 
-* <span>DEC</span> <p>Albarracín, Peracense, Ojos Negros and Teruel (Spain)</p>
+* <span>DEC</span> <p>Teruel (Spain)</p>
+  - Albarracín, Peracense, Ojos Negros and Teruel
 * <span>NOV</span> <p>Aldeanueva de la Vera and Monasterio de Yuste (Spain)</p>
 * <span>SEP</span> <p>Malleza and Pravia, Asturias (Spain)</p>
 * <span>AUG</span> <p>Poland</p>
@@ -100,7 +102,8 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 ## 2014
 
 * <span>DEC</span> <p>Zaragoza (Spain)</p>
-* <span>NOV</span> <p>Prague, Kutná Hora, Vienna, Bratislava and Budapest (Czech Republic, Austria, Slovakia and Hungary)</p>
+* <span>NOV</span> <p>Central Europe (Czech Republic, Austria, Slovakia and Hungary)</p>
+  - Prague, Kutná Hora, Vienna, Bratislava and Budapest
 * <span>AUG</span> <p>Tierra de Nadie 2014 - Málaga (Spain)</p>
 * <span>JUL</span> <p>Hoces del Duratón - Segovia (Spain)</p>
 * <span>JUN</span> <p>San Miquel del Fai - Barcelona (Spain)</p>
