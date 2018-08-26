@@ -1,6 +1,6 @@
 +++
 author = "LuisGC"
-title = "Travel Curriculum Vitae"
+title = "My Curriculum Vitae as a traveler"
 date = "2018-08-25"
 type = "page"
 status = "published"
@@ -14,7 +14,7 @@ _(Inspired by the [CV Viajero by Dendarii](https://dendarii.es/cv-viajero/))_
 
 # Visited Countries
 
-I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) out of 193 (9,32%): Andorra, Austria, Belgium, Czech Republic, France, Germany, Hungary, Ireland, Italy, Netherlands, Poland, Portugal, Romania, Slovakia, Spain, Switzerland, United Kingdom and United States.
+I have visited **18 out of 193** countries (among those [recognized by United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations)): Andorra, Austria, Belgium, Czech Republic, France, Germany, Hungary, Ireland, Italy, Netherlands, Poland, Portugal, Romania, Slovakia, Spain, Switzerland, United Kingdom and United States.
 
 <center><div id="map" style="height: 500px; width: 90%"></div></center>
 
