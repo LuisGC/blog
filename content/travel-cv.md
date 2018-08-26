@@ -23,9 +23,9 @@ status = "published"
 
 _(Inspired by the [CV Viajero by Dendarii](https://dendarii.es/cv-viajero/))_
 
-# Visited UN countries
+# Visited Countries
 
-I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) out of 193 (9,32%): Andorra, Austria, Belgium, Czech Republic, France, Germany, Hungary, Ireland, Italy, Netherlands, Poland, Portugal, Romania, Slovakia, Spain, Switzerland, United Kingdom and United States
+I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) out of 193 (9,32%): Andorra, Austria, Belgium, Czech Republic, France, Germany, Hungary, Ireland, Italy, Netherlands, Poland, Portugal, Romania, Slovakia, Spain, Switzerland, United Kingdom and United States.
 
 <div id="map" style="height: 500px; width: 100%"></div>
 <br />
@@ -35,6 +35,7 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 ## 2018
 
 * 08 - Galicia (Spain)
+  - Leiro, Fervenza do Toxa, Pazo de Oca, Santiago de Compostela, Fisterra, Cambados, Sanxenxo, Combarro, O Grove, Isla de Ons, Vigo, Bayona, Oia and Ribadavia
 * 08 - Tierra de Nadie 2018 - Málaga (Spain)
 * 06 - Torneo Medieval de Tiro con Arco - Torrijos (Spain)
 * 05 - [Scotland](/blog/2018/05/scotland-a-brief-opinionated-guide/) (United Kingdom)
@@ -255,7 +256,7 @@ L.tileLayer('//api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={access
     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
     maxZoom: 18,
     id: 'mapbox.outdoors',
-    accessToken: 'pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ'
+    accessToken: 'pk.eyJ1IjoibHVpc2djIiwiYSI6ImNpbXV3MWw5dDAwN3V2emx5YXcwemczaWUifQ.CKHjzvK39R-lz0MAZgaLJQ'
 }).addTo(mymap);
 L.geoJSON(features, {
     onEachFeature: onEachFeature
