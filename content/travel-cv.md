@@ -78,8 +78,10 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 * 08 - Tierra de Nadie 2016 - Málaga (Spain)
 * 06 - JBCNConf 2016 - Barcelona (Spain)
 * 06 - Torneo Medieval de Tiro con Arco - Torrijos (Spain)
-* 05 - Vía Verde de Ojos Negros: Santa Eulalia, Teruel, Sarrión, Caudiel, Algar de Palanca and Sagunto (Spain)
-* 05 - Ucero, Neila, Cañón del Río Lobos, Laguna Negra, San Bartolomé and Burgo de Osma (Spain)
+* 05 - Vía Verde de Ojos Negros (Spain)
+  - Santa Eulalia, Teruel, Sarrión, Caudiel, Algar de Palanca and Sagunto
+* 05 - Soria (Spain)
+  - Ucero, Neila, Cañón del Río Lobos, Laguna Negra, San Bartolomé and Burgo de Osma
 * 05 - El Pardo (Spain)
 * 04 - ARP-SAPC Annual Assembly - Valencia (Spain)
 * 03 - Zamora (Spain)
@@ -192,7 +194,8 @@ I have visited **18** [UN countries](https://en.wikipedia.org/wiki/Member_states
 * 10 - [Costa Dorada](/blog/2006/10/descansando-en-la-costa-dorada/) (Spain)
   - Salou, Sitges, Tarragona and Port Aventura
 * 05 - Titirimundi 2006 - Segovia (Spain)
-* 05 - Cologne, Aachen, Bonn and Düsseldorf (Germany)
+* 05 - Germany
+  - Cologne, Aachen, Bonn and Düsseldorf
 * 04 - Ciudad Real (Spain)
 * 04 - Horcajo de los Montes, Ciudad Real (Spain)
 * 03 - Tablas de Daimiel, Ciudad Real (Spain)
