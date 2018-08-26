@@ -37,14 +37,14 @@ li:last-child {
   border: none;
 }
 li:hover {
-  font-size: 25px;
   background: #f6f6f6;
-
-  -webkit-transition: font-size 0.3s ease, background-color 0.3s ease;
-  -moz-transition: font-size 0.3s ease, background-color 0.3s ease;
-  -o-transition: font-size 0.3s ease, background-color 0.3s ease;
-  -ms-transition: font-size 0.3s ease, background-color 0.3s ease;
-  transition: font-size 0.3s ease, background-color 0.3s ease;
+}
+ul li ul {
+  margin: 0 !important;
+  padding-left: 30px;
+}
+ul li ul li {
+  font: 200 15px/1.5 Helvetica, Verdana, sans-serif;
 }
 </style>
 
