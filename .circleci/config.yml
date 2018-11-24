@@ -27,8 +27,7 @@ jobs:
     # To see the list of pre-built images that CircleCI provides for most common languages see
     # https://circleci.com/docs/2.0/circleci-images/
     docker:
-    - image: circleci/build-image:ubuntu-14.04-XXL-upstart-1189-5614f37
-      command: /sbin/init
+    - image: cibuilds/hugo:0.51
     steps:
     # Machine Setup
     #   If you break your build into multiple jobs with workflows, you will probably want to do the parts of this that are relevant in each
@@ -55,21 +54,11 @@ jobs:
         # Any branch if there are none on the default branch - this should be unnecessary if you have your default branch configured correctly
         - v1-dep-
 
-    # This is based on your 1.0 configuration file or project settings
+
     - run:
-        name: download hugo
-        command: go get -v github.com/gohugoio/hugo
-    - run:
-        name: generate docs
-        command: |
-            rm -rf docs
-            hugo -d docs --cleanDestinationDir
-            find docs -type f -exec sed -i 's/src="\/img/src="\/blog\/img/g' {} +
-            find docs -type f -exec sed -i 's/src=\&quot;\/img/src=\&quot;\/blog\/img/g' {} +
-            find docs -type f -exec sed -i 's/href="\/css/src="\/blog\/css/g' {} +
-            find docs -type f -exec sed -i 's/href=\&quot;\/css/src=\&quot;\/blog\/css/g' {} +
-            find docs -type f -exec sed -i 's/src="\/js/src="\/blog\/js/g' {} +
-            find docs -type f -exec sed -i 's/src=\&quot;\/js/src=\&quot;\/blog\/js/g' {} +
+        name: "Build Website With Hugo"
+        command: hugo -v -d docs --cleanDestinationDir
+
     - run:
         name: commit the changes
         command: |
