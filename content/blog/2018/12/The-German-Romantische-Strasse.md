@@ -62,7 +62,7 @@ Weikersheim was one of the biggest surprises of the trip. The old town was also 
 
 The 40 meters long Knights' Hall at the Palace is the most astounding thing that I have seen in ages. It is dedicated to hunting and secret worlds, and any visitor will be amazed by dozens of life-size three-dimensional figures of wildlife animals made in painted stucco, mostly of those that could be hunted in the surroundings but also including exotic pieces like an elephant. The wooden ceiling is also entirely covered with pictures of hunting scenes mixed with local legends. Incredible.
 
-We enjoyed a lot the Castle, if any of the other places that we found closed are similar the Romantische Strasse will crearly worth a second visit.
+We enjoyed a lot the Castle, if any of the other places that we found closed are similar the _Romantische Strasse_ will clearly worth a second visit.
 
 ## Röttingen
 
