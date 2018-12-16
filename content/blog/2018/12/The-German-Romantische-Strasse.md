@@ -60,7 +60,7 @@ We left [Bad Mergentheim](https://en.wikipedia.org/wiki/Bad_Mergentheim) after o
 
 Weikersheim was one of the biggest surprises of the trip. The old town was also cute, but I want to highlight the [Weikersheim Castle](https://en.wikipedia.org/wiki/Weikersheim_Castle), a fabulous Renaissance palace with Baroque gardens.
 
-The 40 meters long Knights' Hall at the Palace is the most astounding thing that I have seen in ages. It is dedicated to hunting and secret worlds, and any visitor will be amazed by dozens of life-size three-dimensional figures of wildlife animals made in painted stucco, mostly of those that could be hunted in the surroundings but also including exotic pieces like an elephant. The wooden ceiling is also entirely covered with pictures of hunting scenes mixed with local legends. Incredible.
+The 40 meters long _Knights' Hall_ at the Palace is the most astounding thing that I have seen in ages. It is dedicated to hunting and secret worlds, and any visitor will be amazed by dozens of life-size three-dimensional figures of wildlife animals made in painted stucco, mostly of those that could be hunted in the surroundings but also including exotic pieces like an elephant. The wooden ceiling is also entirely covered with pictures of hunting scenes mixed with local legends. A unique place.
 
 We enjoyed a lot the Castle, if any of the other places that we found closed are similar the _Romantische Strasse_ will clearly worth a second visit.
 
@@ -68,7 +68,9 @@ We also visited the [Sternwarte Weikersheim Observatory](https://de.wikipedia.or
 
 ## Röttingen
 
-[Röttingen](https://en.wikipedia.org/wiki/R%C3%B6ttingen) was another quick visit before lunch. Their well preserved medieval fortifications and old town deserved a visit. The [Brattenstein Castle](https://de.wikipedia.org/wiki/Burg_Brattenstein) looked nice, it was closed but we could at least see that it also serves as a small open air theater. Another interesting place in seasons with better weather conditions. 
+[Röttingen](https://en.wikipedia.org/wiki/R%C3%B6ttingen) was another quick visit before lunch. Their well preserved medieval fortifications and old town deserved a visit. The [Brattenstein Castle](https://de.wikipedia.org/wiki/Burg_Brattenstein) looked nice, it was closed but we could at least see that it also serves as a small open air theater. Another interesting place in seasons with better weather conditions.
+
+We also discovered a sun-dial hike trail around the town, with a different type of sun-dial in each stop. Nice also for longer stays.
 
 ## Rothenburg ob der Tauber
 
