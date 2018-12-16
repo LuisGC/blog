@@ -64,7 +64,11 @@ The 40 meters long Knights' Hall at the Palace is the most astounding thing that
 
 We enjoyed a lot the Castle, if any of the other places that we found closed are similar the _Romantische Strasse_ will clearly worth a second visit.
 
+We also visited the [Sternwarte Weikersheim Observatory](https://de.wikipedia.org/wiki/Sternwarte_Weikersheim), just in case it was open, but we were unlucky again.
+
 ## Röttingen
+
+[Röttingen](https://en.wikipedia.org/wiki/R%C3%B6ttingen) was another quick visit before lunch. Their well preserved medieval fortifications and old town deserved a visit. The [Brattenstein Castle](https://de.wikipedia.org/wiki/Burg_Brattenstein) looked nice, it was closed but we could at least see that it also serves as a small open air theater. Another interesting place in seasons with better weather conditions. 
 
 ## Rothenburg ob der Tauber
 
