@@ -54,6 +54,8 @@ After leaving Würzburg we made a quick stop in [Tauberbischofsheim](https://en.
 
 ## Bad Mergentheim
 
+We left [Bad Mergentheim](https://en.wikipedia.org/wiki/Bad_Mergentheim) after one evening and part of the next morning without been able to visit the [Castle of the Teutonic Order](https://de.wikipedia.org/wiki/Schloss_Mergentheim) and the [Teutonic Order Museum](https://de.wikipedia.org/wiki/Deutschordensmuseum) but in overall it was again a nice visit because the old town was splendid, specially with the seasonal lights and stalls. The heavy rain continued so we had little more to do.
+
 ## Weikersheim
 
 ## Röttingen
