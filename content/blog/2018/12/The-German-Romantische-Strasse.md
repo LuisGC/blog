@@ -42,7 +42,7 @@ The [**Imperial Castle**](https://en.wikipedia.org/wiki/Nuremberg_Castle) is pro
 
 I loved to see Nuremberg in X-Mas but I will try to visit again in another season as there is a lot more to see.
 
-## Würzburg)
+## Würzburg
 
 ## Tauberbischofsheim
 
