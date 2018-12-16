@@ -34,17 +34,23 @@ At the end of the original concentration camp there are several religious temple
 
 ## Nuremberg
 
-We spent almost 1,5 days in this wonderful place. Everything was invaded by tourists because of the seasonal stuff so we happily joined the flock and we walked calmly all the X-Mas stalls, with special attention to the Glühwein ones. We walked a lot through the city center and I loved almost everything that we saw: the Henkersteg (Hangman's Bridge), the Maxbrücke, the Ehekarussell, the Handwerkerhof (Craftmen's Courtyard) and lots of other beautiful streets and buildings. The only locations that we visited properly were the Imperial Castle and the Toy Museum.
+We spent almost 1,5 days in [Nuremberg](https://en.wikipedia.org/wiki/Nuremberg), a wonderful place that exceeded my expectations (and they were high). Everything was invaded by tourists because of the seasonal stuff so we happily joined the flock and we walked calmly all the X-Mas stalls, with special attention to the Glühwein ones. We walked a lot through the city center and I loved almost everything that we saw: the Henkersteg (Hangman's Bridge), the Maxbrücke, the Ehekarussell, the Handwerkerhof (Craftmen's Courtyard) and lots of other beautiful streets and buildings. The only locations that we visited properly were the Imperial Castle and the Toy Museum.
 
 The [**Toy Museum**](https://en.wikipedia.org/wiki/Nuremberg_Toy_Museum) would be interesting just for the fact of having an entire building packed full with toys (some of them new but mostly vintage). Children will enjoy it but also adults of all ages, going through several cabinets of what could have been their toys. One section was entitled for the evolution of the toy concept, where they emphasized the current phenomenon with children _flooded_ by short-lived play stuff, often endangering their creative playing skills. An interesting thought that I mostly share.
 
-The [**Imperial Castle**](https://en.wikipedia.org/wiki/Nuremberg_Castle) is probably the main attraction in Nuremberg. As almost everything else it was vastly destroyed in the II World War but they successfully rebuilt the entire complex as it was before the war. The exhibition is quite interesting, combining clear explanations of the elements of the Castle in their historical context with information about the Holy Roman Empire of the German Nation and the role of the city in that late Middle Ages. I still smile remembering the visit to the _Tiefer Brunnen_ (The Deep Well), you  should not miss it.
+The [**Imperial Castle**](https://en.wikipedia.org/wiki/Nuremberg_Castle) is probably the main attraction in Nuremberg. As almost everything else it was vastly destroyed in the II World War but they successfully rebuilt the entire complex as it was before the war. The exhibition is quite interesting, combining clear explanations of the elements of the Castle in their historical context with information about the Holy Roman Empire of the German Nation and the role of the city in that late Middle Ages. I still raise my eyebrows remembering the visit to the _Tiefer Brunnen_ (The Deep Well), you  should not miss it.
 
 I loved to see Nuremberg in X-Mas but I will try to visit again in another season as there is a lot more to see.
 
 ## Würzburg
 
+In [Würzburg](https://en.wikipedia.org/wiki/W%C3%BCrzburg) we repeated the tactic. We arrived in the evening to see the city after dawn, and in the next morning we visited the main attraction: the [**Würzburg Residence**](https://en.wikipedia.org/wiki/W%C3%BCrzburg_Residence), a clear masterwork of German Baroque.
+
+Here we found again some of the places closed (some of them closed for the entire winter) but in overall the town looked fantastic and also worth for another visit at least to see the Gardens and the [Marienberg Fortress](https://en.wikipedia.org/wiki/Marienberg_Fortress).
+
 ## Tauberbischofsheim
+
+After leaving Würzburg we made a quick stop in [Tauberbischofsheim](https://en.wikipedia.org/wiki/Tauberbischofsheim). We could just visit the Saint Martin church as the rest was closed for the winter, but the visit was worthy anyway. The medieval old town is fantastic and very well preserved, including an interesting Neo-Gothic town hall. We left after a quiet meal watching an intense rain fall through the windows.
 
 ## Bad Mergentheim
 
