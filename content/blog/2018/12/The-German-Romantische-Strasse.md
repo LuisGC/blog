@@ -102,11 +102,15 @@ The city was built in the middle of a meteorite impact crater, so they have the 
 
 We spent the rest of the morning in [Donauwörth](https://en.wikipedia.org/wiki/Donauw%C3%B6rth) (nice but nothing remarkable) to finally arrive in [Augsburg](https://en.wikipedia.org/wiki/Augsburg) again in the late afternoon.
 
-Augsburg was for me, undoubtedly, one of the most special stages of the trip. The seasonal markets were again everywhere with a noticeable quality in the products and decorations, even in the Glühwein (I plead guilty of tasting them all) and the city itself is gloriously beautiful. Lots of buildings and scenes breath history through their doors and walls. 
+Augsburg was for me, undoubtedly, one of the most special stages of the trip. The seasonal markets were again everywhere with a noticeable quality in the products and decorations, even in the Glühwein (I plead guilty of tasting them all) and the city itself is gloriously beautiful. Lots of buildings and scenes breath history through their doors and walls.
 
 Again, we could not visit everything we wanted (for example the _Mozart House_, where the composer's father Leopold was born and the musician visited several times) but the places we visited were amazing. The [Maximilian Museum](https://en.wikipedia.org/wiki/Maximilian_Museum) of decorative arts was remarkable, the Cathedral was nice but the most clear must see of the town is the [Goldener Saal (Golden Hall)](https://en.wikipedia.org/wiki/Augsburg_Town_Hall) in the Town Hall, a >550 square meters hall with large murals and numerous ceiling paintings all of them richly adorned with golden frames and decoration. Astonishing. During the visit we learned that it was badly damaged during the II World War and it was renovated and redecorated between the 80s and 90s, according to historical photographs and blueprints.
 
 ## Landsberg am Lech
+
+[Landsberg am Lech](https://en.wikipedia.org/wiki/Landsberg_am_Lech) was a last minute addition to our trip. We initially discarded it but we finally went there and we did not regret at all. It is a small town, with little to see apart from its nice streets but at least I wanted to visit in person a picturesque tower that is located there: the [Mutterturm](https://commons.wikimedia.org/wiki/Category:Mutterturm).
+
+What we found was a lively town center with several people enjoying the X-Mas market delicacies (yes, lots of Glühwein again) that forced us to extend our stay. In our way back from the car, after putting a new parking ticket, a fabulous sunset with a bright rainbow totally surprised us. A perfect spot with the perfect timing.
 
 ## Schwangau
 
