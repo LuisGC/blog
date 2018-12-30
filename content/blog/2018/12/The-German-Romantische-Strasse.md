@@ -1,7 +1,7 @@
 +++
 author = "LuisGC"
 title = "The German Romantische Strasse"
-date = "2018-12-15"
+date = "2018-12-17"
 type = "post"
 categories = ["personal", "tourism", "holidays", "history"]
 status = "published"
@@ -84,9 +84,11 @@ The Watchman gave us also another thought provoking insight: Rothenburg was seve
 
 I really need to stop writing about this place if I want to finish this chronicle, but before going to the next one let me show you the most picturesque, photographed and painted place in Rothenburg.
 
-## Feuchtwangen
-
 ## Dinkelsbühl
+
+We stopped at [Dinkelsbühl](https://en.wikipedia.org/wiki/Dinkelsb%C3%BChl) during the lunch time, in order to eat something nice there and apparently we made a usual plan, according to the huge amount of restaurants that Dinkelsbühl has. After lunch we made a nice walking tour though the city center with some daylight surrounding the whole town center inside and outside the city wall.
+
+There are interesting places to see/visit here like a [3rd Dimension Museum](http://www.3d-museum.de/) but my suggestion is to at least walk calmly through it, passing through the explendid 
 
 ## Nördlingen
 
