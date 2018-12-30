@@ -20,6 +20,7 @@ I really needed some holidays to disconnect (this year is being difficult and co
     <img src="https://www.romantischestrasse.de/fileadmin/user_upload/map-image.png" alt="Map from the official website: 29 towns in 460 kilometers">
     <div class="caption">Map from the official website: 29 towns in 460 kilometers</div>
 </div>
+
 In **11 days** we drove **1.035 kilometers**, we visited **20 towns/cities** and we found [30 caches](https://www.geocaching.com/profile/?guid=b78f2e04-cd1c-4199-820c-7ea3bb7fea20)!!
 
 Let me summarize our experience in the main stops of the trip. Let's start!
@@ -112,9 +113,32 @@ Again, we could not visit everything we wanted (for example the _Mozart House_, 
 
 What we found was a lively town center with several people enjoying the X-Mas market delicacies (yes, lots of Glühwein again) that forced us to extend our stay. In our way back from the car, after putting a new parking ticket, a fabulous sunset with a bright rainbow totally surprised us. A perfect spot with the perfect timing.
 
-## Schwangau
+## Neuschwanstein and Hohenschwangau Castles
 
-## Füssen
+The municipality of [Schwangau](https://en.wikipedia.org/wiki/Schwangau) would not be a stop on any route if it were not for the two wonders that it has in its touristic suburb of [Hohenschwangau](https://en.wikipedia.org/wiki/Hohenschwangau): the [Hohenschwangau Castle](https://en.wikipedia.org/wiki/Hohenschwangau_Castle) and specially the [Neuschwanstein Castle](https://en.wikipedia.org/wiki/Neuschwanstein_Castle).
+
+Neuschwanstein is one of those worldwide known locations capable itself of receiving millions of visitors from all around the globe. According to Wikipedia, more than 1.3 million people visit the castle annually making it one of the most visited places in the world. I'm not surprised, especially after having visited the Castle personally.
+
+Visiting Neuschwanstein is a comfortable and amazing experience. Our german friends have managed to allow its thousands of daily visitors to enjoy the castle without queues, almost without big crowds and without being shoved. In order to do this you just need to book your ticket in advance for a very specific day and time (they claim that you will not be able to enter if you arrive slightly late), as the castle can only be visited with a guided tour that lasts about 40-45 minutes.
+
+As an alternative, and that is what we did, you can always go to the [official ticket center in Hohenschwangau](https://www.openstreetmap.org/way/120931817) to buy a ticket for any tour with available capacity for that the same day. We took the risk, arriving the ticket center almost an hour before the opening time, and the plan worked perfectly. With only a dozen of people in front of us (maybe a hundred behind when the doors opened) we were able to get the tickets we wanted for both castles at the most appropriate time slots for us.
+
+But there are thousands of pages and books about the place and the logistics, so let me focus again in my experience there.
+
+Neuschwanstein is the perfect climax for the Romantische Strasse. It is an incredible combination of the best architectural techniques and craftsmanship with the overflowing imagination of the most creative artists of that time. The overall theme are the operas of [Richard Wagner](https://en.wikipedia.org/wiki/Richard_Wagner) based as well normally on medieval legends: [The Ring of the Nibelung](https://en.wikipedia.org/wiki/Der_Ring_des_Nibelungen), [Tristan and Isolda](https://en.wikipedia.org/wiki/Tristan_und_Isolde) or [Parsifal](https://en.wikipedia.org/wiki/Parsifal) among others. As you probably know the castle was commissioned (and paid out of his personal fortune) by King [Ludwig II of Bavaria](https://en.wikipedia.org/wiki/Ludwig_II_of_Bavaria) that was admirer and later friend and (so they say) even lover of Wagner himself.
+
+I left the castle, after the non-stopping breathtaking tour, with the feeling that everything was perfectly located, designed, painted or illuminated, to the smallest detail. If at some point I become a millionaire, and that is difficult because I do not steal neither play any lottery, I think I will build a similar castle themed in fantastic genre legends. Dreams are cheap.
+
+**Bonus recommendation**: Even if you hike to the castle don't forget to go further up to the _Marienbrücke_, a spectacular steel bridge (originally made of wood) that crosses a huge gorge from where you will have the best perspective of the castle. The bus that takes you to the castle for non-hikers has its closest stop to the castle near the bridge.
+
+<div class="image central">
+    <img src="/img/2018/Neuschwanstein_Castle.jpg" alt="Panoramic of the Neuschwanstein Castle as seen from Marienbrücke">
+    <div class="caption">Panoramic of the Neuschwanstein Castle as seen from Marienbrücke</div>
+</div>
+
+Schloss Hohenschwangau is a 19th century palace built by King [Maximilian II of Bavaria](https://en.wikipedia.org/wiki/Maximilian_II_of_Bavaria), and childhood residence of his famous son King Ludwig II. According to the Wikipedia, Hohenschwangau has 300k visitors per year, far away from the astounding numbers of Neuschwanstein. It's clearly not as spectacular but having visited the location it does not make sense to me that 75% of the visitors leave Hohenschwangau without visiting this second marvel.
+
+You can also (and probably should) visit the [Museum of the Bavarian Kings](https://de.wikipedia.org/wiki/Museum_der_bayerischen_K%C3%B6nige). It is nothing compared to the Castles but will give you more insights and an interesting context if you visit it before going to the Castles. Also, you don't book any specific hour to see it so you can use any free time slot during the day to go, quite convenient.
 
 ## Munich
 
