@@ -88,11 +88,15 @@ I really need to stop writing about this place if I want to finish this chronicl
 
 We stopped at [Dinkelsbühl](https://en.wikipedia.org/wiki/Dinkelsb%C3%BChl) during the lunch time, in order to eat something nice there and apparently we made a usual plan, according to the huge amount of restaurants that Dinkelsbühl has. After lunch we made a nice walking tour though the city center with some daylight surrounding the whole town center inside and outside the city wall.
 
-There are interesting places to see/visit here like a [3rd Dimension Museum](http://www.3d-museum.de/) but my suggestion is to at least walk calmly through it, passing through the explendid 
+There are interesting places to see/visit here like a [3rd Dimension Museum](http://www.3d-museum.de/) but my suggestion is to at least walk calmly through it, passing through some of the splendid gates of the wall: the Wörnitz gate, the Segringen gate, the Nördlingen gate or the Rothenburg gate to name the most beautiful ones.
 
 ## Nördlingen
 
-## Donauwörth ??
+We arrived in [Nördlingen](https://en.wikipedia.org/wiki/N%C3%B6rdlingen) in the evening, so again we walked through it at night, to enjoy the seasonal decoration and the X-Mas Market delicacies, and we walked it again calmly in the following morning.
+
+Again, as in Dinkelsbühl and Rothenburg ob der Tauber, this is the third almost perfectly preserved medieval town center with a fully walkable battlements (the only three in Germany) that can be traversed, in this case for more than 2.5 km. I suppose that reading this summary it all sounds quite similar but in reality each town had its own personality and _touch_, so our visits were not overlapping with the previous ones but adding a lot to a great overall experience.
+
+The city was built in the middle of a meteorite impact crater, so they have the [the Rieskrater Museum](https://en.wikipedia.org/wiki/Rieskrater_Museum) dedicated to the crater explaining some geological facts. Another important museum in Nördlingen is the [Bayerische Eisenbahnmuseum](https://en.wikipedia.org/wiki/Bavarian_Railway_Museum) with more than one hundred original railway vehicles. We could not visit them but for a longer stay here they are quite interesting.
 
 ## Augsburg
 
