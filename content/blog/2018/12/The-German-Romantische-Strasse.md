@@ -5,7 +5,7 @@ date = "2018-12-17"
 type = "post"
 categories = ["personal", "tourism", "holidays", "history"]
 status = "published"
-featured = "/img/2018/Neuschwanstein_Castle_from_Marienbrucke.jpg"
+featured = "https://farm5.staticflickr.com/4896/31593446587_eb0c64a565_k.jpg"
 featuredalt = "Splendid picture of the Neuschwanstein Castle from Marienbrucke"
 featuredpath = "Splendid picture of the Neuschwanstein Castle from Marienbrucke - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
 +++
@@ -17,7 +17,7 @@ I'm adding the _German_ adjective to the title because last year I also traveled
 I really needed some holidays to disconnect (this year has been difficult and complex in several ways) and I love to travel in December through central Europe to feel their passion for the X-Mas season and the **mulled wine** or _glühwein_ as they call it. Sadly we couldn't plan a lot in advance (again) but we could at least prepare a draft planning of the places we wanted to visit in those eleven days. We planned (and booked) a couple of days for Dachau and Nuremberg at the beginning of the trip and some days in Munich at the end, 2-4 days depending on the required time for our main priority: The **Romantische Strasse**.
 
 <div class="image central">
-    <img src="/img/2018/romantischestrasse-map.png" alt="Map from the official website: 29 towns in 460 kilometers">
+    <img src="https://farm8.staticflickr.com/7833/31593445877_6b6bc2885d_b.jpg" alt="Map from the official website: 29 towns in 460 kilometers">
     <div class="caption">Map from the official website: 29 towns in 460 kilometers</div>
 </div>
 
@@ -34,8 +34,8 @@ The _preserved_ part of the original camp is minimum, so the special attractive 
 At the end of the original concentration camp there are several religious temples of different religious faiths. Some of them were closed but in the end they mainly aim at religious people from that specific faith. Nothing to do with the spectacular memorials in Mauthausen, for example.
 
 <div class="image central">
-    <img src="/img/2018/Dachau.jpg" alt="Memorial sculpture by Nandor Glid erected in 1968">
-    <div class="caption">Memorial sculpture by Nandor Glid erected in 1968</div>
+    <img src="https://farm8.staticflickr.com/7845/32660335768_ef20e26e0d_b.jpg" alt="Dachau - Memorial sculpture by Nandor Glid erected in 1968">
+    <div class="caption">Dachau - Memorial sculpture by Nandor Glid erected in 1968</div>
 </div>
 
 ## Nuremberg
@@ -47,8 +47,8 @@ The [**Toy Museum**](https://en.wikipedia.org/wiki/Nuremberg_Toy_Museum) would b
 The [**Imperial Castle**](https://en.wikipedia.org/wiki/Nuremberg_Castle) is probably the main attraction in Nuremberg. As almost everything else it was vastly destroyed in the II World War but they successfully rebuilt the entire complex as it was before the war. The exhibition is quite interesting, combining clear explanations of the elements of the Castle in their historical context with information about the [Holy Roman Empire](https://en.wikipedia.org/wiki/Holy_Roman_Empire) and the role of the city in that late Middle Ages. I still raise my eyebrows remembering the visit to the _Tiefer Brunnen_ (The Deep Well), you  should not miss it.
 
 <div class="image central">
-    <img src="/img/2018/Nuremberg.jpg" alt="Haupmakt and the Frauenkirche of Nuremberg in X-Mas time">
-    <div class="caption">Haupmakt and the Frauenkirche of Nuremberg in X-Mas time</div>
+    <img src="https://farm5.staticflickr.com/4827/32660336078_3c5da7826e_b.jpg" alt="Haupmarkt and the Frauenkirche of Nuremberg in X-Mas time">
+    <div class="caption">Haupmarkt and the Frauenkirche of Nuremberg in X-Mas time</div>
 </div>
 
 I loved to see Nuremberg in X-Mas but I will try to visit again in another season as there is a lot more to see.
@@ -58,7 +58,7 @@ I loved to see Nuremberg in X-Mas but I will try to visit again in another seaso
 In [**Würzburg**](https://en.wikipedia.org/wiki/W%C3%BCrzburg) we repeated the tactic. We arrived in the evening to see the city after dawn, and in the next morning we visited the main attraction: the [**Würzburg Residence**](https://en.wikipedia.org/wiki/W%C3%BCrzburg_Residence), a clear masterwork of German Baroque.
 
 <div class="image central">
-    <img src="/img/2018/Wurzburg.jpg" alt="Würzburg Residence main entrance">
+    <img src="https://farm8.staticflickr.com/7817/32660335648_700fd4093c_b.jpg" alt="Würzburg Residence main entrance">
     <div class="caption">Würzburg Residence main entrance</div>
 </div>
 
@@ -69,7 +69,7 @@ Here we found again some of the places closed (some of them closed for the entir
 After leaving Würzburg we made a quick stop in [**Tauberbischofsheim**](https://en.wikipedia.org/wiki/Tauberbischofsheim). We could just visit the Saint Martin church as the rest was closed for the winter, but the visit was worthy anyway. The medieval old town is fantastic and very well preserved, including an interesting Neo-Gothic town hall. We left after a quiet meal watching an intense rain fall through the windows.
 
 <div class="image central">
-    <img src="/img/2018/Tauberbischofsheim.jpg" alt="Tauberbischofsheim Market Place panoramic">
+    <img src="https://farm8.staticflickr.com/7924/32660335908_96fb18b58a_b.jpg" alt="Tauberbischofsheim Market Place panoramic">
     <div class="caption">Tauberbischofsheim Market Place panoramic</div>
 </div>
 
@@ -84,7 +84,7 @@ We left [**Bad Mergentheim**](https://en.wikipedia.org/wiki/Bad_Mergentheim) aft
 The 40 meters long _Knights' Hall_ at the Palace is the most astounding thing that I have seen in ages. It is dedicated to hunting and secret worlds, and any visitor will be amazed by dozens of life-size three-dimensional figures of wildlife animals made in painted stucco, mostly of those that could be hunted in the surroundings but also including exotic pieces like an elephant. The wooden ceiling is also entirely covered with pictures of hunting scenes mixed with local legends. A unique place.
 
 <div class="image central">
-    <img src="/img/2018/Weikersheim.jpg" alt="Statue from the Dwarf Gallery in the Weikersheim Castle">
+    <img src="https://farm8.staticflickr.com/7844/31593446137_751ec5d3a3_b.jpg" alt="Statue from the Dwarf Gallery in the Weikersheim Castle">
     <div class="caption">Statue from the Dwarf Gallery in the Weikersheim Castle</div>
 </div>
 
@@ -111,8 +111,8 @@ The Watchman gave us also another thought provoking insight: Rothenburg was seve
 I really need to stop writing about this place if I want to finish this chronicle, but before going to the next one let me show you the most picturesque, photographed and painted place in Rothenburg.
 
 <div class="image central">
-    <img src="/img/2018/Rothenburg.jpg" alt="the most picturesque, photographed and painted place in Rothenburg">
-    <div class="caption">the most picturesque, photographed and painted place in Rothenburg</div>
+    <img src="https://farm5.staticflickr.com/4839/31593446427_1ce44f7074_b.jpg" alt="The most picturesque, photographed and painted place in Rothenburg ob der Tauber">
+    <div class="caption">The most picturesque, photographed and painted place in Rothenburg ob der Tauber</div>
 </div>
 
 ## Dinkelsbühl
@@ -122,8 +122,8 @@ We stopped at [**Dinkelsbühl**](https://en.wikipedia.org/wiki/Dinkelsb%C3%BChl)
 There are interesting places to see/visit here like a [3rd Dimension Museum](http://www.3d-museum.de/) but my suggestion is to at least walk calmly through it, passing through some of the splendid gates of the wall: the Wörnitz gate, the Segringen gate, the Nördlingen gate or the Rothenburg gate to name the most beautiful ones.
 
 <div class="image central">
-    <img src="/img/2018/Dinkelsbuhl.jpg" alt="one of the nicest streets in Dinkelsbühl">
-    <div class="caption">one of the nicest streets in Dinkelsbühl</div>
+    <img src="https://farm8.staticflickr.com/7826/31593447047_935653f2ac_b.jpg" alt="One of the nicest streets in Dinkelsbühl">
+    <div class="caption">One of the nicest streets in Dinkelsbühl</div>
 </div>
 
 ## Nördlingen
@@ -133,8 +133,8 @@ We arrived in [**Nördlingen**](https://en.wikipedia.org/wiki/N%C3%B6rdlingen) i
 Again, as in Dinkelsbühl and Rothenburg ob der Tauber, this is the third fully walkable battlements that can be traversed (the only three in Germany) surrounding, in this case for more than 2.5 km, an almost perfectly preserved medieval town center. I suppose that reading this summary it all sounds quite similar but in reality each town had its own personality and _touch_, so our visits were not overlapping with the previous ones but adding a lot to a great overall experience.
 
 <div class="image central">
-    <img src="/img/2018/Nordlingen.jpg" alt="the amazing battlements of Nördlingen">
-    <div class="caption">the amazing battlements of Nördlingen</div>
+    <img src="https://farm8.staticflickr.com/7877/31593446437_0b75797e53_b.jpg" alt="The amazing battlements of Nördlingen">
+    <div class="caption">The amazing battlements of Nördlingen</div>
 </div>
 
 The city was built in the middle of a meteorite impact crater, so they have the [the Rieskrater Museum](https://en.wikipedia.org/wiki/Rieskrater_Museum) dedicated to the crater explaining some geological facts. Another important museum in Nördlingen is the [Bayerische Eisenbahnmuseum](https://en.wikipedia.org/wiki/Bavarian_Railway_Museum) with more than one hundred original railway vehicles. We could not visit them but for a longer stay here they are quite interesting.
@@ -148,7 +148,7 @@ Augsburg was for me, undoubtedly, one of the most special stages of the trip. Th
 Again, we could not visit everything we wanted (for example the _Mozart House_, where the composer's father Leopold was born and the musician visited several times) but the places we visited were amazing. The [**Maximilian Museum**](https://en.wikipedia.org/wiki/Maximilian_Museum) of decorative arts was remarkable, the Cathedral was nice but the most clear must see of the town is the [**Goldener Saal** (Golden Hall)](https://en.wikipedia.org/wiki/Augsburg_Town_Hall) in the Town Hall, a >550 square meters hall with large murals and numerous ceiling paintings all of them richly adorned with golden frames and decoration. Astonishing. During the visit we learned that it was badly damaged during the II World War and it was renovated and redecorated between the 80s and 90s, according to historical photographs and blueprints.
 
 <div class="image central">
-    <img src="/img/2018/Augsburg.jpg" alt="In the shiny Goldener Saal (Golden Hall) of Augsburg">
+    <img src="https://farm5.staticflickr.com/4858/31593447137_d6102ce050_b.jpg" alt="In the shiny Goldener Saal (Golden Hall) of Augsburg">
     <div class="caption">In the shiny Goldener Saal (Golden Hall) of Augsburg</div>
 </div>
 
@@ -159,7 +159,7 @@ Again, we could not visit everything we wanted (for example the _Mozart House_, 
 What we found was a lively town center with several people enjoying the X-Mas market delicacies (yes, lots of Glühwein again) that forced us to extend our stay. In our way back from the car, after putting a new parking ticket, a fabulous sunset with a bright rainbow totally surprised us. A perfect spot with the perfect timing.
 
 <div class="image central">
-    <img src="/img/2018/Landsberg_am_Lech.jpg" alt="Sunset panoramic of Landsberg am Lech, the rainbow appeared later">
+    <img src="https://farm8.staticflickr.com/7864/32660336568_52164f4f3b_b.jpg" alt="Sunset panoramic of Landsberg am Lech, the rainbow appeared later">
     <div class="caption">Sunset panoramic of Landsberg am Lech, the rainbow appeared later</div>
 </div>
 
@@ -168,7 +168,7 @@ What we found was a lively town center with several people enjoying the X-Mas ma
 The municipality of [Schwangau](https://en.wikipedia.org/wiki/Schwangau) would not be a stop on any route if it were not for the two wonders that it has in its touristic suburb of [Hohenschwangau](https://en.wikipedia.org/wiki/Hohenschwangau): the Hohenschwangau Castle and specially the Neuschwanstein Castle.
 
 <div class="image lateral">
-    <img src="/img/2018/Neuschwanstein_Castle_behind.jpg" alt="with the fabulous Neuschwanstein Castle behind">
+    <img src="https://farm5.staticflickr.com/4878/32660336368_b01e371862_b.jpg" alt="with the fabulous Neuschwanstein Castle behind">
     <div class="caption">with the fabulous Neuschwanstein Castle behind</div>
 </div>
 
@@ -187,14 +187,14 @@ I left the castle, after the non-stopping breathtaking tour, with the feeling th
 **Bonus recommendation**: Even if you hike to the castle don't forget to go further up to the _Marienbrücke_, a spectacular steel bridge (originally made of wood) that crosses a huge gorge from where you will have the best perspective of the castle. The bus that takes you to the castle for non-hikers has its closest stop to the castle near the bridge.
 
 <div class="image central">
-    <img src="/img/2018/Neuschwanstein_Castle_panoramic.jpg" alt="Panoramic of the Neuschwanstein Castle as seen from Marienbrücke">
+    <img src="https://farm8.staticflickr.com/7888/32660336218_5cf4924615_b.jpg" alt="Panoramic of the Neuschwanstein Castle as seen from Marienbrücke">
     <div class="caption">Panoramic of the Neuschwanstein Castle as seen from Marienbrücke</div>
 </div>
 
 [**Hohenschwangau Castle**](https://en.wikipedia.org/wiki/Hohenschwangau_Castle) is a 19th century palace built by King [Maximilian II of Bavaria](https://en.wikipedia.org/wiki/Maximilian_II_of_Bavaria), and childhood residence of his famous son King Ludwig II. According to the Wikipedia, Hohenschwangau has 300k visitors per year, far away from the astounding numbers of Neuschwanstein. It's clearly not as spectacular but having visited the location it does not make sense to me that 75% of the visitors leave Hohenschwangau without visiting this second marvel.
 
 <div class="image central">
-    <img src="/img/2018/Hohenschwangau_Castle.jpg" alt="Hohenschwangau Castle from below">
+    <img src="https://farm8.staticflickr.com/7909/31593446917_84cbd24e50_b.jpg" alt="Hohenschwangau Castle from below">
     <div class="caption">Hohenschwangau Castle from below</div>
 </div>
 
@@ -205,7 +205,7 @@ You can also (and probably should) visit the [**Museum of the Bavarian Kings**](
 I will be very brief, because this post is already too long and also because I am quite sure that I will go back sooner than later for a detailed visit because I loved the city.
 
 <div class="image lateral">
-    <img src="/img/2018/Munich_Rathaus.jpg" alt="The famous Town Hall of Munich surrounded by X-Mas">
+    <img src="https://farm5.staticflickr.com/4892/31593446787_d55ba53fab_b.jpg" alt="The famous Town Hall of Munich surrounded by X-Mas">
     <div class="caption">The famous Town Hall of Munich surrounded by X-Mas</div>
 </div>
 
@@ -224,14 +224,14 @@ I could not remember all those names to the point that after visiting the museum
 The other remarkable and marvelous location that we visited was the [**Munich Residenz**](https://en.wikipedia.org/wiki/Munich_Residenz), the larges city palace in Germany where you can visit more than 130 rooms and pavilions. It is impressive not only because of the size but also because of the importance and beauty of the collection. Many things to highlight: The [Hall of Antiquities](https://de.wikipedia.org/wiki/Antiquarium_(M%C3%BCnchen)), the Ancestral Gallery, the Grottenhof, the Royal Apartments, the Golden Hall,...
 
 <div class="image central">
-    <img src="/img/2018/Munich_Residenz_Antiquarium.jpg" alt="A complete panoramic of the Munich Residenz Antiquarium">
+    <img src="https://farm5.staticflickr.com/4839/31593446727_bf9098481a_b.jpg" alt="A complete panoramic of the Munich Residenz Antiquarium">
     <div class="caption">A complete panoramic of the Munich Residenz Antiquarium</div>
 </div>
 
 As my twitter followers know (more details in [this thread](https://twitter.com/luiyo/status/1071462745781035008)), we had an unspeakable amount of Glühwein during this trip. They served it always and everywhere in ceramic or crystal mugs, avoiding the usage of non re-usable cups that normally end up in the floor or overflowing trash cans. They charged a 3-4 € deposit so you were also free to keep it as a souvenir. Furthermore, in each town (and in the bigger towns even in each market stall) they served the mulled wine in a different mug, some of them nicer than others. We were tempted to keep all of them, but it was not scalable (neither in money nor in luggage requirements) so finally I just kept three from my favorite towns of the trip: Nuremberg, Augsburg and Munich:
 
 <div class="image central">
-    <img src="/img/2018/gluhwein_mugs.jpg" alt="Three Glühwein mugs from my favorite towns of the trip: Nuremberg, Augsburg and Munich">
+    <img src="https://farm5.staticflickr.com/4914/32660336698_d1c0a7cf17_b.jpg" alt="Three Glühwein mugs from my favorite towns of the trip: Nuremberg, Augsburg and Munich">
     <div class="caption">Three Glühwein mugs from my favorite towns of the trip: Nuremberg, Augsburg and Munich</div>
 </div>
 
