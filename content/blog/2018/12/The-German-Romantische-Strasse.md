@@ -1,7 +1,7 @@
 +++
 author = "LuisGC"
 title = "The German Romantische Strasse"
-date = "2018-12-17"
+date = "2018-12-30"
 type = "post"
 categories = ["personal", "tourism", "holidays", "history"]
 status = "published"
