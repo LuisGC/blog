@@ -29,7 +29,7 @@ Let me summarize our experience in the main stops of the trip. Let's start!
 
 After having visited [**Auschwitz**](http://auschwitz.org/en/) and [**Mauthausen**](https://www.mauthausen-memorial.org/en) more or less recently, I was not as impressed as others can be with [**Dachau**](https://en.wikipedia.org/wiki/Dachau_concentration_camp) but that is only my bias, because Dachau Memorial clearly is worth of a visit.
 
-The _preserved_ part of the original camp is minimum, so the special attractive of Dachau for me was the permanent exhibition located in the former maintenance building, the biggest standing building from the original camp. The explanation about what Dachau was, how it worked and its role in the overall strategy of the Nazis is quite detailed and interesting. They were so proud of the (awful) results that they exported it to other concentration camps as de _Dachau model_.
+The _preserved_ part of the original camp is minimum, so the special attractive of Dachau for me was the permanent exhibition located in the former maintenance building, the biggest standing building from the original camp. The explanation about what Dachau was, how it worked and its role in the overall strategy of the Nazis is quite detailed and interesting. They were so proud of the (awful) results that they exported it to other concentration camps as the _Dachau model_.
 
 At the end of the original concentration camp there are several religious temples of different religious faiths. Some of them were closed but in the end they mainly aim at religious people from that specific faith. Nothing to do with the spectacular memorials in Mauthausen, for example.
 
