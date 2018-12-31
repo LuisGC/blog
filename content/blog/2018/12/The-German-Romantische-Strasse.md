@@ -5,19 +5,19 @@ date = "2018-12-17"
 type = "post"
 categories = ["personal", "tourism", "holidays", "history"]
 status = "published"
-featured = "https://www.romantischestrasse.de/fileadmin/_processed_/e/0/csm_FotosammlungRomantischeStrasseBaessler_010_e6d01d13c2.jpg"
-featuredalt = "the most common local on the Isle of Skye, in Scotland"
-featuredpath = "the most common local on the Isle of Skye, in Scotland - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
+featured = "/img/2018/Neuschwanstein_Castle_from_Marienbrucke.jpg"
+featuredalt = "Splendid picture of the Neuschwanstein Castle from Marienbrucke"
+featuredpath = "Splendid picture of the Neuschwanstein Castle from Marienbrucke - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
 +++
 
-Some days ago I had the pleasure to make again an awesome road trip with my friend **Agatha**, this time through the German [**Romantische Strasse**](https://www.romantischestrasse.de/). It is not the first (and most probably will not be the last) trip together, you can read about my trips with her through [Scotland](/blog/2018/05/scotland-a-brief-opinionated-guide/), [Austria](/blog/2017/05/romantikstrasse-the-romantic-road_1/), [Brittany](/blog/2017/12/brittany-a-brief-opinionated-guide/) or [Normandy](/blog/2017/12/normandy-a-brief-opinionated-guide/) (and we have made a few more).
+Some weeks ago I had the pleasure to make again an awesome road trip with my friend **Agatha**, this time through the German [**Romantische Strasse**](https://www.romantischestrasse.de/). It is not the first (and most probably will not be the last) trip together, you can read about my trips with her through [Scotland](/blog/2018/05/scotland-a-brief-opinionated-guide/), [Austria](/blog/2017/05/romantikstrasse-the-romantic-road_1/), [Brittany](/blog/2017/12/brittany-a-brief-opinionated-guide/) or [Normandy](/blog/2017/12/normandy-a-brief-opinionated-guide/) (and we have made a few more).
 
 I'm adding the _German_ adjective to the title because last year I also traveled through the [Austrian Romantikstrasse](/blog/2017/05/romantikstrasse-the-romantic-road_1/). We discovered after that trip that a _similar_ one existed in Germany, so it was about time to travel the german one at least to compare. For your information, there are similar routes in [Japan](https://www.romantischestrasse.de/footer-navigationen/commercial/international/japans-romantic-road/?L=1), [Korea](https://www.romantischestrasse.de/footer-navigationen/commercial/international/romantic-road-of-korea/?L=1) and [Brazil](https://www.romantischestrasse.de/footer-navigationen/commercial/international/romantic-road-in-brazil/?L=1). I neither confirm nor deny that now I want to follow those as well (damn _completism_).
 
 I really needed some holidays to disconnect (this year has been difficult and complex in several ways) and I love to travel in December through central Europe to feel their passion for the X-Mas season and the **mulled wine** or _glühwein_ as they call it. Sadly we couldn't plan a lot in advance (again) but we could at least prepare a draft planning of the places we wanted to visit in those eleven days. We planned (and booked) a couple of days for Dachau and Nuremberg at the beginning of the trip and some days in Munich at the end, 2-4 days depending on the required time for our main priority: The **Romantische Strasse**.
 
 <div class="image central">
-    <img src="https://www.romantischestrasse.de/fileadmin/user_upload/map-image.png" alt="Map from the official website: 29 towns in 460 kilometers">
+    <img src="/img/2018/romantischestrasse-map.png" alt="Map from the official website: 29 towns in 460 kilometers">
     <div class="caption">Map from the official website: 29 towns in 460 kilometers</div>
 </div>
 
@@ -130,7 +130,7 @@ There are interesting places to see/visit here like a [3rd Dimension Museum](htt
 
 We arrived in [**Nördlingen**](https://en.wikipedia.org/wiki/N%C3%B6rdlingen) in the evening, so again we walked through it at night, to enjoy the seasonal decoration and the X-Mas Market delicacies, and we walked it again calmly in the following morning.
 
-Again, as in Dinkelsbühl and Rothenburg ob der Tauber, this is the third almost perfectly preserved medieval town center with a fully walkable battlements (the only three in Germany) that can be traversed, in this case for more than 2.5 km. I suppose that reading this summary it all sounds quite similar but in reality each town had its own personality and _touch_, so our visits were not overlapping with the previous ones but adding a lot to a great overall experience.
+Again, as in Dinkelsbühl and Rothenburg ob der Tauber, this is the third fully walkable battlements that can be traversed (the only three in Germany) surrounding, in this case for more than 2.5 km, an almost perfectly preserved medieval town center. I suppose that reading this summary it all sounds quite similar but in reality each town had its own personality and _touch_, so our visits were not overlapping with the previous ones but adding a lot to a great overall experience.
 
 <div class="image central">
     <img src="/img/2018/Nordlingen.jpg" alt="the amazing battlements of Nördlingen">
@@ -145,7 +145,12 @@ We spent the rest of the morning in [Donauwörth](https://en.wikipedia.org/wiki/
 
 Augsburg was for me, undoubtedly, one of the most special stages of the trip. The seasonal markets were again everywhere with a noticeable quality in the products and decorations, even in the Glühwein (I plead guilty of tasting them all) and the city itself is gloriously beautiful. Lots of buildings and scenes breath history through their doors and walls.
 
-Again, we could not visit everything we wanted (for example the _Mozart House_, where the composer's father Leopold was born and the musician visited several times) but the places we visited were amazing. The [Maximilian Museum](https://en.wikipedia.org/wiki/Maximilian_Museum) of decorative arts was remarkable, the Cathedral was nice but the most clear must see of the town is the [Goldener Saal (Golden Hall)](https://en.wikipedia.org/wiki/Augsburg_Town_Hall) in the Town Hall, a >550 square meters hall with large murals and numerous ceiling paintings all of them richly adorned with golden frames and decoration. Astonishing. During the visit we learned that it was badly damaged during the II World War and it was renovated and redecorated between the 80s and 90s, according to historical photographs and blueprints.
+Again, we could not visit everything we wanted (for example the _Mozart House_, where the composer's father Leopold was born and the musician visited several times) but the places we visited were amazing. The [**Maximilian Museum**](https://en.wikipedia.org/wiki/Maximilian_Museum) of decorative arts was remarkable, the Cathedral was nice but the most clear must see of the town is the [**Goldener Saal** (Golden Hall)](https://en.wikipedia.org/wiki/Augsburg_Town_Hall) in the Town Hall, a >550 square meters hall with large murals and numerous ceiling paintings all of them richly adorned with golden frames and decoration. Astonishing. During the visit we learned that it was badly damaged during the II World War and it was renovated and redecorated between the 80s and 90s, according to historical photographs and blueprints.
+
+<div class="image central">
+    <img src="/img/2018/Augsburg.jpg" alt="In the shiny Goldener Saal (Golden Hall) of Augsburg">
+    <div class="caption">In the shiny Goldener Saal (Golden Hall) of Augsburg</div>
+</div>
 
 ## Landsberg am Lech
 
@@ -162,6 +167,11 @@ What we found was a lively town center with several people enjoying the X-Mas ma
 
 The municipality of [Schwangau](https://en.wikipedia.org/wiki/Schwangau) would not be a stop on any route if it were not for the two wonders that it has in its touristic suburb of [Hohenschwangau](https://en.wikipedia.org/wiki/Hohenschwangau): the Hohenschwangau Castle and specially the Neuschwanstein Castle.
 
+<div class="image lateral">
+    <img src="/img/2018/Neuschwanstein_Castle_behind.jpg" alt="with the fabulous Neuschwanstein Castle behind">
+    <div class="caption">with the fabulous Neuschwanstein Castle behind</div>
+</div>
+
 The [**Neuschwanstein Castle**](https://en.wikipedia.org/wiki/Neuschwanstein_Castle) is one of those worldwide known locations capable itself of receiving millions of visitors from all around the globe. According to Wikipedia, more than 1.3 million people visit the castle annually making it one of the most visited places in the world. I'm not surprised, especially after having visited the Castle personally.
 
 Visiting Neuschwanstein is a comfortable and amazing experience. Our german friends have managed to allow its thousands of daily visitors to enjoy the castle without queues, almost without big crowds and without being shoved. In order to do this you just need to book your ticket in advance for a very specific day and time (they claim that you will not be able to enter if you arrive slightly late), as the castle can only be visited with a guided tour that lasts about 40-45 minutes.
@@ -170,25 +180,25 @@ As an alternative, and that is what we did, you can always go to the [official t
 
 But there are thousands of pages and books about the place and the logistics, so let me focus again in my experience there.
 
-Neuschwanstein is the perfect climax for the Romantische Strasse. It is an incredible combination of the best architectural techniques and craftsmanship with the overflowing imagination of the most creative artists of that time. The overall theme are the operas of [Richard Wagner](https://en.wikipedia.org/wiki/Richard_Wagner) based as well normally on medieval legends: [The Ring of the Nibelung](https://en.wikipedia.org/wiki/Der_Ring_des_Nibelungen), [Tristan and Isolda](https://en.wikipedia.org/wiki/Tristan_und_Isolde) or [Parsifal](https://en.wikipedia.org/wiki/Parsifal) among others. As you probably know the castle was commissioned (and paid out of his personal fortune) by King [Ludwig II of Bavaria](https://en.wikipedia.org/wiki/Ludwig_II_of_Bavaria) that was admirer and later friend and (so they say) even lover of Wagner himself.
+Neuschwanstein is the perfect climax for the Romantische Strasse. It is an incredible combination of the best architectural techniques and craftsmanship with the overflowing imagination of the most creative artists of that time. The overall theme are the operas of [Richard Wagner](https://en.wikipedia.org/wiki/Richard_Wagner) based as well normally on medieval legends: [The Ring of the Nibelung](https://en.wikipedia.org/wiki/Der_Ring_des_Nibelungen), [Tristan and Isolda](https://en.wikipedia.org/wiki/Tristan_und_Isolde) or [Parsifal](https://en.wikipedia.org/wiki/Parsifal) among others. As you probably know the castle was commissioned (and paid out of his personal fortune) by King [**Ludwig II of Bavaria**](https://en.wikipedia.org/wiki/Ludwig_II_of_Bavaria) that was admirer and later friend and (so they say) even lover of Wagner himself.
 
 I left the castle, after the non-stopping breathtaking tour, with the feeling that everything was perfectly located, designed, painted or illuminated, to the smallest detail. If at some point I become a millionaire, and that is difficult because I do not steal neither play any lottery, I think I will build a similar castle themed in fantastic genre legends. Dreams are cheap.
 
 **Bonus recommendation**: Even if you hike to the castle don't forget to go further up to the _Marienbrücke_, a spectacular steel bridge (originally made of wood) that crosses a huge gorge from where you will have the best perspective of the castle. The bus that takes you to the castle for non-hikers has its closest stop to the castle near the bridge.
 
 <div class="image central">
-    <img src="/img/2018/Neuschwanstein_Castle.jpg" alt="Panoramic of the Neuschwanstein Castle as seen from Marienbrücke">
+    <img src="/img/2018/Neuschwanstein_Castle_panoramic.jpg" alt="Panoramic of the Neuschwanstein Castle as seen from Marienbrücke">
     <div class="caption">Panoramic of the Neuschwanstein Castle as seen from Marienbrücke</div>
 </div>
 
 [**Hohenschwangau Castle**](https://en.wikipedia.org/wiki/Hohenschwangau_Castle) is a 19th century palace built by King [Maximilian II of Bavaria](https://en.wikipedia.org/wiki/Maximilian_II_of_Bavaria), and childhood residence of his famous son King Ludwig II. According to the Wikipedia, Hohenschwangau has 300k visitors per year, far away from the astounding numbers of Neuschwanstein. It's clearly not as spectacular but having visited the location it does not make sense to me that 75% of the visitors leave Hohenschwangau without visiting this second marvel.
 
 <div class="image central">
-    <img src="/img/2018/Hohenschwangau_Castle.jpg" alt="Hohenschwangau Castle from behind">
-    <div class="caption">Hohenschwangau Castle from behind</div>
+    <img src="/img/2018/Hohenschwangau_Castle.jpg" alt="Hohenschwangau Castle from below">
+    <div class="caption">Hohenschwangau Castle from below</div>
 </div>
 
-You can also (and probably should) visit the [Museum of the Bavarian Kings](https://de.wikipedia.org/wiki/Museum_der_bayerischen_K%C3%B6nige). It is nothing compared to the Castles but will give you more insights and an interesting context if you visit it before going to the Castles. Also, you don't book any specific hour to see it so you can use any free time slot during the day to go, quite convenient.
+You can also (and probably should) visit the [**Museum of the Bavarian Kings**](https://de.wikipedia.org/wiki/Museum_der_bayerischen_K%C3%B6nige). It is nothing compared to the Castles but will give you more insights and an interesting context if you visit it before going to the Castles. Also, you don't book any specific hour to see it so you can use any free time slot during the day to go, quite convenient.
 
 ## Munich
 
@@ -218,5 +228,11 @@ The other remarkable and marvelous location that we visited was the [**Munich Re
     <div class="caption">A complete panoramic of the Munich Residenz Antiquarium</div>
 </div>
 
+As my twitter followers know (more details in [this thread](https://twitter.com/luiyo/status/1071462745781035008)), we had an unspeakable amount of Glühwein during this trip. They served it always and everywhere in ceramic or crystal mugs, avoiding the usage of non re-usable cups that normally end up in the floor or overflowing trash cans. They charged a 3-4 € deposit so you were also free to keep it as a souvenir. Furthermore, in each town (and in the bigger towns even in each market stall) they served the mulled wine in a different mug, some of them nicer than others. We were tempted to keep all of them, but it was not scalable (neither in money nor in luggage requirements) so finally I just kept three from my favorite towns of the trip: Nuremberg, Augsburg and Munich:
+
+<div class="image central">
+    <img src="/img/2018/gluhwein_mugs.jpg" alt="Three Glühwein mugs from my favorite towns of the trip: Nuremberg, Augsburg and Munich">
+    <div class="caption">Three Glühwein mugs from my favorite towns of the trip: Nuremberg, Augsburg and Munich</div>
+</div>
 
 And that is all!! I hope that you enjoyed the guide!
