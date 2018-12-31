@@ -24,8 +24,10 @@ I have visited **18 out of 193** countries (among those [recognized by United Na
 
 ## 2018
 
-* <span>DEC</span> <p>Romantische Strasse (Germany)</p>
+* <span>DEC</span> <p>[Romantische Strasse](/blog/2018/12/the-german-romantische-strasse/) (Germany)</p>
   - Dachau, Nuremberg, Würzburg, Tauberbischofsheim, Bad Mergentheim, Weikersheim, Röttingen, Rothenburg ob der Tauber, Feuchtwangen, Dinkelsbühl, Nördlingen, Donauwörth, Augsburg, Landsberg am Lech, Schwangau, Füssen and Munich
+* <span>NOV</span> <p>Rotterdam (Netherlands)</p>
+* <span>NOV</span> <p>Prague (Czech Republic)</p>
 * <span>OCT</span> <p>England (United Kingdom)</p>
   - Oxford, Blenheim Palace, Bath and Stonehenge
 * <span>OCT</span> <p>Altea (Spain)</p>
