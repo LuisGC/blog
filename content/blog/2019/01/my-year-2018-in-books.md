@@ -5,7 +5,7 @@ date = "2019-01-01"
 type = "post"
 categories = ["review", "literature", "culture"]
 status = "published"
-featured = "https://fotos02.laopiniondemalaga.es/2018/11/22/690x278/juangomezjurado.jpg"
+featured = "https://farm8.staticflickr.com/7825/46560537701_875ce8d48b_b.jpg"
 featuredalt = "Juan Gómez Jurado during the presentation of Reina Roja in Málaga"
 featuredpath = "Juan Gómez Jurado during the presentation of Reina Roja in Málaga<br /> Source: <a href='https://www.laopiniondemalaga.es/cultura-espectaculos/2018/11/23/prohibo-terminantemente-leais-entrevista/1049352.html'>La Opinión de Málaga</a>"
 +++
