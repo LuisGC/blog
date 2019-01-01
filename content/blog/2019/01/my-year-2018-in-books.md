@@ -21,9 +21,11 @@ Taking advantage of this nice feature I will summarize [My 2018 in Books]([**Goo
 
 The amount of works is not very important (because some of the 56 are comics or short stories) but still 56 books means almost 5 books per month, that translates to one book per week approximately. Not bad, taking into account the other million things that I do (or intend to do) every week.
 
-I will not copy here the full list, Goodreads already does the accounting for me, but at least I want to highlight some of them.
+I'm not copying here the full list, [friend me on Goodreads](https://www.goodreads.com/user/show/12155365-luis) if you are curious, but at least I want to highlight some of them.
 
-I have included in the ranking three books by [**Juan Gómez Jurado**](https://en.wikipedia.org/wiki/Juan_G%C3%B3mez-Jurado), including the Top 1, so he deserves to be in the featured image of the post. I'm currently reading [El Emblema del Traidor](https://www.goodreads.com/book/show/13086272-el-emblema-del-traidor) also by Juan but when I finish it I predict that my 2019 will be full of books by or about [**J.R.R. Tolkien**](https://en.wikipedia.org/wiki/J._R._R._Tolkien), I miss it.
+I have included in the ranking three books by [**Juan Gómez Jurado**](https://en.wikipedia.org/wiki/Juan_G%C3%B3mez-Jurado), including the Top 1, so he deserves to be in the featured image of the post obtained from <a href='https://www.laopiniondemalaga.es/cultura-espectaculos/2018/11/23/prohibo-terminantemente-leais-entrevista/1049352.html'>La Opinión de Málaga</a>.
+
+I'm currently reading [El Emblema del Traidor](https://www.goodreads.com/book/show/13086272-el-emblema-del-traidor) also by Juan but when I finish it I will begin my 2019 reading **again** books by or about [**J.R.R. Tolkien**](https://en.wikipedia.org/wiki/J._R._R._Tolkien). I miss it.
 
 ## My TOP 10 read books in 2018
 
