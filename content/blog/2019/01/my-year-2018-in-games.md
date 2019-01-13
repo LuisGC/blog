@@ -87,7 +87,7 @@ Welcome again to this yearly post, where I try to analyze my gaming behavior dur
 ## Analysis
 
 * In this yearly post I used to include a graph with the games played by month, but it turned more or less complex and meaningless as the trend was clear year by year. I tend to play more or less the same along the year with some peaks in the gaming conventions.
-* In 2018 I  went back to the 2016 numbers in amount of plays, with a higher amount of different games played.
+* In 2018 I went back to the 2016 numbers in amount of plays, with a higher amount of different games played.
 * I've played 61 different games this year, 41 of them were totally new (to me). A very high proportion.
 * I recorded 43 gaming sessions, almost 4 per month.
 * Again, in 2018 I have **zero** hours recorded in the Steam platform. I miss it and I will give it some priority in 2019.
@@ -95,6 +95,8 @@ Welcome again to this yearly post, where I try to analyze my gaming behavior dur
 
 ## Retrospective
 
-* El tiempo que puedo dedicarle a los juegos de mesa siempre es limitado, el tiempo de ocio en general lo es, pero tengo como propósito mantenerlo y darle cierta prioridad este 2018.
-* Sigo sin poder retomar con cierta continuidad el rol, ni como jugador ni como director. Este año apenas he jugado un puñado de partidas y ha sido principalmente en jornadas o demostraciones. Este año haré un nuevo intento de arrancar algo estable, veremos si tengo éxito.
-* Como ya pasó en 2016, aunque sigo perteneciendo a [Asociación Ludo](http://www.asociacionludo.com/) el tiempo que he podido dedicarle tanto a la asociación como a jugar prototipos ha sido nulo. No digamos el tiempo dedicado a diseñar algo... una lástima porque echo mucho de menos a algunos compañeros :-(
+* I still enjoy a lot playing boardgames, role playing games and video games so I will keep this as one of my main leisure activities for 2019
+* In 2019 I have not continued playing continuously a legacy game like in 2016 with Pandemic, but I still love cooperative games and I would not reject starting one with a stable playing group, maybe the recently announced [**Journeys in the Middle Earth**](https://www.fantasyflightgames.com/en/news/2019/1/11/the-lord-of-the-rings-journeys-in-middle-earth/)?
+* I am becoming addicted to **escape room inspired board games**. In 2018 I have played several [Unlock!](https://rpggeek.com/boardgamefamily/39442/unlock) and [Exit](https://rpggeek.com/boardgamefamily/36963/exit-das-spiel) and for 2019 my goal is to play all the published games of those two families
+* I managed (with my party and DM) to maintain since March a monthly [**Dungeons & Dragons 5th Edition**](https://rpggeek.com/rpg/17181/dungeons-dragons-5th-edition) campaign, and I only missed one session because of a trip. That is very good news for me and for the entire group, we are [enjoying it a lot](http://ghilbrae.com/tag/storm-kings-thunder/) so we will hopefully continue with the same frequency and passion.
+* I'm still eager to play prototypes, but since early 2018 I am no longer a member of [**Asociación Ludo**](http://www.asociacionludo.com/). I was not involved at all so, although I miss some of my colleagues there, I decided to leave after realizing that the association does not benefit from me if I'm only providing economic support. I will consider returning when I'm capable of offering more :-(
