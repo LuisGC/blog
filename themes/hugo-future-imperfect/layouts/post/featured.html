@@ -9,7 +9,7 @@
         {{ $img := $.Scratch.Get "img" }}
 
         <a href="{{ .RelPermalink }}" class="image featured">
-            <img src="{{ .Params.featured }}" alt="{{ $alt }}">
+            <img src="{{ .Params.featured }}" alt="{{ .Params.featuredalt }}">
         </a>
     {{ end }}
 {{ end }}
