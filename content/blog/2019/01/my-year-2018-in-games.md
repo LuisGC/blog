@@ -80,8 +80,8 @@ Welcome again to this yearly post, where I try to analyze my gaming behavior dur
 </table>
 
 <div class="image central">
-    <img src="/img/2019/2018_games_played_per_year.png" alt="Games played per year until 2018" title="Games played per year until end of 2018">
-    <div class="caption">Games played per year until end of 2018</div>
+    <img src="/img/2019/2018_games_played_per_year.png" alt="Games played per year until the end of 2018" title="Games played per year until the end of 2018">
+    <div class="caption">Games played per year until the end of 2018</div>
 </div>
 
 ## Analysis
@@ -96,7 +96,7 @@ Welcome again to this yearly post, where I try to analyze my gaming behavior dur
 ## Retrospective
 
 * I still enjoy a lot playing boardgames, role playing games and video games so I will keep this as one of my main leisure activities for 2019
-* In 2019 I have not continued playing continuously a legacy game like in 2016 with Pandemic, but I still love cooperative games and I would not reject starting one with a stable playing group, maybe the recently announced [**Journeys in the Middle Earth**](https://www.fantasyflightgames.com/en/news/2019/1/11/the-lord-of-the-rings-journeys-in-middle-earth/)?
+* In January 2018 we finished [Pandemic Legacy Season 1](https://rpggeek.com/boardgame/161936/pandemic-legacy-season-1) the campaign we started back in 2016, but after that I haven't played any other legacy game. I still love cooperative games and I would not reject starting one with a stable playing group, maybe the recently announced [**Journeys in the Middle Earth**](https://www.fantasyflightgames.com/en/news/2019/1/11/the-lord-of-the-rings-journeys-in-middle-earth/)?
 * I am becoming addicted to **escape room inspired board games**. In 2018 I have played several [Unlock!](https://rpggeek.com/boardgamefamily/39442/unlock) and [Exit](https://rpggeek.com/boardgamefamily/36963/exit-das-spiel) and for 2019 my goal is to play all the published games of those two families
 * I managed (with my party and DM) to maintain since March a monthly [**Dungeons & Dragons 5th Edition**](https://rpggeek.com/rpg/17181/dungeons-dragons-5th-edition) campaign, and I only missed one session because of a trip. That is very good news for me and for the entire group, we are [enjoying it a lot](http://ghilbrae.com/tag/storm-kings-thunder/) so we will hopefully continue with the same frequency and passion.
 * I'm still eager to play prototypes, but since early 2018 I am no longer a member of [**Asociación Ludo**](http://www.asociacionludo.com/). I was not involved at all so, although I miss some of my colleagues there, I decided to leave after realizing that the association does not benefit from me if I'm only providing economic support. I will consider returning when I'm capable of offering more :-(
