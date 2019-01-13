@@ -1,7 +1,7 @@
 +++
 author = "LuisGC"
 title = "My Year 2018 in Games"
-date = "2019-01-03"
+date = "2019-01-13"
 type = "post"
 categories = ["games", "culture", "personal", "retrospective"]
 status = "published"
@@ -80,16 +80,17 @@ Welcome again to this yearly post, where I try to analyze my gaming behavior dur
 </table>
 
 <div class="image central">
-    <img src="/img/2019/2018_games_played_per_year.png" alt="Games played per year until 2018" title="Games played per year until 2018">
-    <div class="caption">Games played per year until 2018</div>
+    <img src="/img/2019/2018_games_played_per_year.png" alt="Games played per year until 2018" title="Games played per year until end of 2018">
+    <div class="caption">Games played per year until end of 2018</div>
 </div>
 
 ## Analysis
 
 * In this yearly post I used to include a graph with the games played by month, but it turned more or less complex and meaningless as the trend was clear year by year. I tend to play more or less the same along the year with some peaks in the gaming conventions.
-* In 2018 I played more or less the same (in amount of plays) and the amount of different games played went back to the 2016 numbers.
-* I've played 53 different games this year, 33 of them were totally new (to me). Again a very high proportion.
-* Again, in 2018 I have **zero** hours recorded in the Steam platform.
+* In 2018 I  went back to the 2016 numbers in amount of plays, with a higher amount of different games played.
+* I've played 61 different games this year, 41 of them were totally new (to me). A very high proportion.
+* I recorded 43 gaming sessions, almost 4 per month.
+* Again, in 2018 I have **zero** hours recorded in the Steam platform. I miss it and I will give it some priority in 2019.
 * My <a href="https://en.wikipedia.org/wiki/H-index"><b><i>h-index</i></b></a> as a player is still at <b>11</b>. Reading carefully the data, I expect to go up at least one level in the next period, as I have several games near the h-index frontier.
 
 ## Retrospective
