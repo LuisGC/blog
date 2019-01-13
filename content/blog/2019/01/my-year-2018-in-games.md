@@ -5,9 +5,9 @@ date = "2019-01-13"
 type = "post"
 categories = ["games", "culture", "personal", "retrospective"]
 status = "published"
-featured = "/img/2018/01/gamesTagCloud2017.png"
-featuredalt = "games tag cloud 2017"
-featuredpath = "Un tag cloud con los juegos a los que jugué en 2017, el tamaño indica cantidad de partidas"
+featured = "https://farm8.staticflickr.com/7840/39765897143_cb630f9045_b.jpg"
+featuredalt = "A tag cloud with all the games that I have played in 2018"
+featuredpath = "A tag cloud with all the games that I have played in 2018"
 +++
 
 Welcome again to this yearly post, where I try to analyze my gaming behavior during the previous year. I have been doing this since 2011 in Spanish, but this time I will do it in English as with the rest of my posts. You can read about my previous years (in Spanish):
@@ -80,7 +80,7 @@ Welcome again to this yearly post, where I try to analyze my gaming behavior dur
 </table>
 
 <div class="image central">
-    <img src="/img/2019/2018_games_played_per_year.png" alt="Games played per year until the end of 2018" title="Games played per year until the end of 2018">
+    <img src="https://farm5.staticflickr.com/4817/46006318134_fbabc52f7c_z.jpg" alt="Games played per year until the end of 2018" title="Games played per year until the end of 2018">
     <div class="caption">Games played per year until the end of 2018</div>
 </div>
 
