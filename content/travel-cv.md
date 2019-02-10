@@ -22,6 +22,11 @@ I have visited **18 out of 193** countries (among those [recognized by United Na
 
 # In chronological order
 
+## 2019
+
+* <span>FEB</span> <p>[FOSDEM 2019](/blog/2019/02/fosdem-2019-saturday/) - Brussels (Belgium)</p>
+* <span>JAN</span> <p>Milan (Italy)</p>
+
 ## 2018
 
 * <span>DEC</span> <p>[Romantische Strasse](/blog/2018/12/the-german-romantische-strasse/) (Germany)</p>
