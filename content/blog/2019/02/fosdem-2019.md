@@ -95,11 +95,13 @@ I will consider contributing to the platform, at least to improve the website th
 
 [**The clusterfuck hidden in the Kubernetes code base**](https://fosdem.org/2019/schedule/event/kubernetesclusterfuck/), by Kris Nova
 
-I am not a Kubernetes expert, but I learned a lot in this talk. The speaker explained in a pleasant and concise way all the anti-patterns that are present in the Kubernetes code base.
-
-[**Tested for Business: An Open and Transparent Quality Kit**](https://fosdem.org/2019/schedule/event/tested_business/), by Shelley Lambert
+I am not a Kubernetes expert but I learned a lot in this talk. The speaker explained in a pleasant and concise way all the anti-patterns that are present in the Kubernetes code base.
 
 [**Java Language Futures**](https://fosdem.org/2019/schedule/event/java_language_futures/), by Brian Goetz
+
+Brian Goetz, Java Language Architect, explained in a fast but clear way all the new features that are coming to the Java Language. He briefly explained the new release cadence (releases every 6 months), project Amber, Valhalla, Loom or Panama to focus later into the details of some relevant improvements.
+
+I want to highlight the enhancements in the switch (preview feature for v12), patten matching and value types.
 
 [**OpenJDK Governing Board Q&A**](https://fosdem.org/2019/schedule/event/openjdk_gb/), by Mark Reinhold, Georges Saab, Doug Lea, John Duimovich and Andrew Haley
 
