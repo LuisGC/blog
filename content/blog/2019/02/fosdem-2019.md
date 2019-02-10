@@ -45,6 +45,14 @@ As usual, let me summarize some of the talks that I attended (in chronological o
 
 [**Can Anyone Live in Full Software Freedom Today?**](https://fosdem.org/2019/schedule/event/full_software_freedom/), by Bradley M. Kuhn and Karen Sandler
 
+Bradley and Karen are the President and the Executive Director respectively of [Software Freedom Conservancy](https://sfconservancy.org/). They focused on people like themselves (and me) that seek to use only free software in our daily tasks, and the compromises that we sometimes need to do in order to achieve certain goals.
+
+Karen explained her concern when she had to put herself an implantable defibrillator with proprietary code inside, with no access to the code even if the manufacturer somehow recognized that it could cause trouble for pregnant women because their algorithms were not properly tined for that situations. She had to suffer some unnecessary electrical shocks during her pregnancy and could not do anything about it. Another common example they gave is about modern websites that force the users to activate JavaScript in order to load in your device complete applications with proprietary software on it.
+
+Some use cases for the general public have several free alternatives but for others there is no alternative so the users are forced to use privative applications. The main call to action of this keynote was for all the open source developers to re-think and re-prioritize our collaborations to close this gap and improve our general freedom.
+
+This was a good opening keynote, although knowing very well the speakers since a long time ago I expected more explicit suggestions (or accusations).
+
 [**FLOSS, the Internet and the Future**](https://fosdem.org/2019/schedule/event/floss_internet_future/), by	Mitchell Baker
 
 [**Blockchain: The Ethical Considerations**](https://fosdem.org/2019/schedule/event/blockchain_ethics/), by Deb Nicholson
