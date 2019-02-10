@@ -55,6 +55,14 @@ This was a good opening keynote, although knowing very well the speakers since a
 
 [**FLOSS, the Internet and the Future**](https://fosdem.org/2019/schedule/event/floss_internet_future/), by	Mitchell Baker
 
+Mitchell, Executive Chairwoman of the [Mozilla Foundation](https://en.wikipedia.org/wiki/Mozilla_Foundation), insisted in her keynote on some of the key messages from the previous one. She explained how a handful of organizations (Google, Facebook, Amazon, etc.) are a clear threat to privacy and openness despite having their core codebase full of FLOSS software.
+
+She showed some of the projects that Mozilla is offering to increase the privacy rights of the users, for example the [Facebook Container extension](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) that isolates your Facebook identity from the rest of the web so they are not able to track you everywhere.
+
+She also commented an experiment, trying to track every advertisement that appears in the web to see who is paying for that ad (someone is paying, always) and why this ad is being showed to you. Is it because I'm a man? Is it because of my age? Is it because of some specific behavior?
+
+The keynote ended with some comments about the _Addition Economy_ that rules the world in which we live and the effort that is still needed to fight against hate and violence in social networks. She explained how the rejection of those problems is part of the DNA of the FLOSS communities, and how we need to translate those values to the society using handy and attractive tools for users.
+
 [**Blockchain: The Ethical Considerations**](https://fosdem.org/2019/schedule/event/blockchain_ethics/), by Deb Nicholson
 
 [**Mattermost’s Approach to Layered Extensibility in Open Source**](https://fosdem.org/2019/schedule/event/mattermost_layered_extensibility/), by Corey Hulen
