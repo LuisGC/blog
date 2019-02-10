@@ -5,14 +5,14 @@ date = "2019-02-10"
 type = "post"
 categories = ["event", "open-source", "technology", "english", "linux", "programming", "internet", "culture", "computer-science", "personal"]
 status = "published"
-featured = "/img/2019/sfconservancy.jpg"
+featured = "https://farm8.staticflickr.com/7869/32111005427_44b0627a4f_k.jpg"
 featuredalt = "Bradley M. Kuhn and Karen Sandler from Software Freedom Conservancy"
 featuredpath = "Bradley M. Kuhn and Karen Sandler from Software Freedom Conservancy"
 +++
 
-It has been a week since I returned from another intense and though-provoking weekend in Brussels, although it still feels like it was just yesterday. This year, apart from attending **FOSDEM** (as I intend to do every year) I took a very early flight on Friday to visit new (for me) places in the city. In just one day I visited the [**European Parliament Hemicycle**](http://www.europarl.europa.eu/visiting/en/brussels/briefing-hemicycle-visits), the [**House of European History**](http://www.europarl.europa.eu/visiting/en/brussels/house-of-european-history), the [**Parlamentarium**](http://www.europarl.europa.eu/visiting/en/brussels/parlamentarium) and the [**Museum of Natural Sciences**](https://www.naturalsciences.be/). My most productive Friday in months.
+It has been a week since I returned from another intense and though-provoking weekend in Brussels, although it still feels like it was just yesterday. This year, apart from attending **FOSDEM** (as I intend to do every year) I took a very early flight on Friday to visit new (for me) places in the city. In just one day I visited the [**European Parliament Hemicycle**](http://www.europarl.europa.eu/visiting/en/brussels/briefing-hemicycle-visits), the [**House of European History**](http://www.europarl.europa.eu/visiting/en/brussels/house-of-european-history), the [**Parlamentarium**](http://www.europarl.europa.eu/visiting/en/brussels/parlamentarium) and the [**Museum of Natural Sciences**](https://www.naturalsciences.be/). My most productive Friday in months, for sure.
 
-{{< image classes="image lateral" src="/img/2019/FOSDEM_2019_flyer.png" title="FOSDEM 2019" >}}
+{{< image classes="image lateral" src="https://farm8.staticflickr.com/7882/47000679932_093974eef9_o.png" title="FOSDEM 2019 poster" >}}
 
 For those of you who don't know [**FOSDEM**](https://fosdem.org/), it is the biggest conference in Europe (and one of the biggest around the world) related to **Open Source** development and communities. It's a huge event with hundreds of talks, workshops, gatherings and stands from all the relevant projects and communities in the **FOSS (Free and Open Source Software)** ecosystem. It's also a marvelous place to do networking, because there are not only representatives of those projects but normally also the technical leaders of them. If you are good with names and faces you can meet and greet a lot of important and interesting people.
 
@@ -31,7 +31,7 @@ The [numbers of this 2019 edition](https://fosdem.org/2019/schedule/event/closin
 
 To make it more impressive, take into account that FOSDEM is **organized by volunteers**, everything is **community driven** and it's **free to attend**. You don't even need to register beforehand.
 
-{{< image classes="image" src="/img/2019/FOSDEM_2019_banner.png" title="FOSDEM 2019" >}}
+{{< image classes="image" src="https://farm8.staticflickr.com/7805/47052615481_6a1da44b3c_o.png" title="FOSDEM 2019" >}}
 
 As usual, let me summarize some of the talks that I attended (in chronological order):
 
@@ -56,6 +56,8 @@ She showed some of the projects that Mozilla is offering to increase the privacy
 She also commented an experiment, trying to track every advertisement that appears in the web to see who is paying for that ad (someone is paying, always) and why this ad is being showed to you. Is it because I'm a man? Is it because of my age? Is it because of some specific behavior?
 
 The keynote ended with some comments about the _Addition Economy_ that rules the world in which we live and the effort that is still needed to fight against hate and violence in social networks. She explained how the rejection of those problems is part of the DNA of the FLOSS communities, and how we need to translate those values to the society using handy and attractive tools for users.
+
+{{< image classes="image lateral" src="https://farm8.staticflickr.com/7839/32111005517_eb6ddac90a_k.jpg" title="The classic OpenSUSE beer" >}}
 
 [**Blockchain: The Ethical Considerations**](https://fosdem.org/2019/schedule/event/blockchain_ethics/), by Deb Nicholson
 
