@@ -89,11 +89,13 @@ Some of the usual suspects (Facebook, Google, Twitter and Microsoft among others
 
 [**Enough**](https://enough.community) is a set of tools, cloud-based or self-hosted, as well as a community composed of technical people and journalists to empower journalists and Human Rights Defenders when protecting their privacy and their sources.
 
-It provides an easy to use platform for non technical people to securely share any kind of data, typically a leak for a global audience. It is linkable from other platforms to serve as a common source, making it possible for anyone to communicate (if needed) securely and confidentially with the source of the data leak. It also includes training contents to teach the participants how to use PGP, TOR, VPNs and similar stuff.
+It provides an easy to use platform for non technical people to securely share any kind of data, typically a leak for a global audience. It is linkable from other platforms to serve as a common source, making it possible for anyone to communicate (if needed) securely and confidentially with the source of the data leak. It also includes training contents to teach the participants how to use [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy), [TOR](https://en.wikipedia.org/wiki/The_Tor_Project,_Inc), VPNs and similar stuff.
 
 I will consider contributing to the platform, at least to improve the website they have using [Hugo](https://gohugo.io/).
 
 [**The clusterfuck hidden in the Kubernetes code base**](https://fosdem.org/2019/schedule/event/kubernetesclusterfuck/), by Kris Nova
+
+I am not a Kubernetes expert, but I learned a lot in this talk. The speaker explained in a pleasant and concise way all the anti-patterns that are present in the Kubernetes code base.
 
 [**Tested for Business: An Open and Transparent Quality Kit**](https://fosdem.org/2019/schedule/event/tested_business/), by Shelley Lambert
 
