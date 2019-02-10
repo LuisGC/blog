@@ -13,7 +13,7 @@ featuredpath = "Incredible statistics related to food at FOSDEM 2018"
 After an interesting Saturday, finished with a great dinner with some friends in one of our favorite restaurants in Brussels, my Sunday at [**FOSDEM**](https://fosdem.org/) started again very early.
 
 <div class="image lateral">
- <img src="https://farm2.staticflickr.com/1840/42184068590_7487f3a352_o.png" alt="FOSDEM 2018">
+ <img src="https://farm2.staticflickr.com/1840/42184068590_500e7ec774_z.jpg" alt="FOSDEM 2018">
  <div class="caption">FOSDEM 2018</div>
 </div>
 

@@ -15,7 +15,7 @@ After an uncertain landing a few hours ago (the airport in Madrid was barely wor
 I've been there not only to enjoy this wonderful city with its trappist beers and great food, but specially to attend **FOSDEM** as I intend to do every year.
 
 <div class="image lateral">
- <img src="https://farm2.staticflickr.com/1840/42184068590_7487f3a352_o.png" alt="FOSDEM 2018">
+ <img src="https://farm2.staticflickr.com/1840/42184068590_500e7ec774_z.jpg" alt="FOSDEM 2018">
  <div class="caption">FOSDEM 2018</div>
 </div>
 
