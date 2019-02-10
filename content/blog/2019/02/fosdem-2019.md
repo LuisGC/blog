@@ -67,13 +67,17 @@ The keynote ended with some comments about the _Addition Economy_ that rules the
 
 We hear a lot that Blockchain is the future but what kind of world do we want to see blockchain make? We no longer live in a world where we can forget or ignore the consequences and the social impact of our work. Deb explained some of the most controversial aspects of this technology:
 
-* Do the upsides (transparecy, distributed control, etc.) compensate the downsides?
+* Do the upsides (transparency, distributed control, etc.) compensate the downsides?
 * Will Blockchain just make the richest people richer?
 * If not all the contracting parties understand or can even read the contract... is it legitimate enough?
 * What will happen if a corporation or group of them owns the majority of the nodes?
 * Can we maintain this using just solar powered energy?
 
 [**Mattermost’s Approach to Layered Extensibility in Open Source**](https://fosdem.org/2019/schedule/event/mattermost_layered_extensibility/), by Corey Hulen
+
+Corey, CTO and co-founder of Mattermost, explained how their platform enables extensibility by their users. He claimed that almost 100% of what you see in the UI is accessible via standard REST API calls. Another important aspect to enable extensibility is that the complete data model is open enabling easy load, extraction and manipulation. Client side customizations for the interfaces, extensible APIs, incoming and outgoing webhooks and powerful plugins.
+
+I expected more architectural contents but the talk was clear and very detailed so I learned a couple of nice concepts anyway.
 
 [**The right to data portability (and why it's a very bad idea)**](https://fosdem.org/2019/schedule/event/gdpr_and_dtp_vs_data_portability_and_freedom/), by Laurent Chemla
 
