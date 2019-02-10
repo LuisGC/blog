@@ -79,7 +79,11 @@ Corey, CTO and co-founder of Mattermost, explained how their platform enables ex
 
 I expected more architectural contents but the talk was clear and very detailed so I learned a couple of nice concepts anyway.
 
-[**The right to data portability (and why it's a very bad idea)**](https://fosdem.org/2019/schedule/event/gdpr_and_dtp_vs_data_portability_and_freedom/), by Laurent Chemla
+[**GDPR and the right to data portability**](https://fosdem.org/2019/schedule/event/gdpr_and_dtp_vs_data_portability_and_freedom/), by Laurent Chemla
+
+The right to data portability was intended as a way to enforce competition and to give back to the public some control over their personal data, but it fails in both situations. The regulation does not include a standard implementation or interface so everyone is dealing with this in a different way.
+
+Some of the usual suspects (Facebook, Google, Twitter and Microsoft among others) created in 2017 the [**Data Transfer Project** (DTP)](https://datatransferproject.dev/) to create an open-source data portability platform, maybe it's time for a public and central organization to take over the project in order to set it as a global standard.
 
 [**Enough: How journalism can benefit from free software**](https://fosdem.org/2019/schedule/event/enough_how_journalism_can_benefit_from_free_software/), by Veronika Nad
 
