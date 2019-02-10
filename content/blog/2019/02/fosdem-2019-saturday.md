@@ -5,9 +5,9 @@ date = "2019-02-10"
 type = "post"
 categories = ["event", "open-source", "technology", "english", "linux", "programming", "internet", "culture", "computer-science", "personal"]
 status = "published"
-featured = "https://farm2.staticflickr.com/1816/42184071080_56145dbc1b_o.jpg"
-featuredalt = "Simon Phipps speaking about the Open Source Initiative (OSI) in FOSDEM 2018"
-featuredpath = "Simon Phipps speaking about the Open Source Initiative (OSI) in FOSDEM 2018"
+featured = "/img/2019/sfconservancy.jpg"
+featuredalt = "Bradley M. Kuhn and Karen Sandler from Software Freedom Conservancy"
+featuredpath = "Bradley M. Kuhn and Karen Sandler from Software Freedom Conservancy"
 +++
 
 It has been a week since I returned from another intense and though-provoking weekend in Brussels, although it still feels like it was just yesterday. This year, apart from attending **FOSDEM** (as I intend to do every year) I took a very early flight on Friday to visit new (for me) places in the city. In just one day I visited the [**European Parliament Hemicycle**](http://www.europarl.europa.eu/visiting/en/brussels/briefing-hemicycle-visits), the [**House of European History**](http://www.europarl.europa.eu/visiting/en/brussels/house-of-european-history), the [**Parlamentarium**](http://www.europarl.europa.eu/visiting/en/brussels/parlamentarium) and the [**Museum of Natural Sciences**](https://www.naturalsciences.be/). My most productive Friday in months.
@@ -46,8 +46,6 @@ Karen explained her concern when she had to put herself an implantable defibrill
 Some use cases for the general public have several free alternatives but for others there is no alternative so the users are forced to use privative applications. The main call to action of this keynote was for all the open source developers to re-think and re-prioritize our collaborations to close this gap and improve our general freedom.
 
 This was a good opening keynote, although knowing very well the speakers since a long time ago I expected more explicit suggestions (or accusations).
-
-{{< image classes="image" src="/img/2019/sfconservancy.jpg" title="Bradley M. Kuhn and Karen Sandler from Software Freedom Conservancy" >}}
 
 [**FLOSS, the Internet and the Future**](https://fosdem.org/2019/schedule/event/floss_internet_future/), by	Mitchell Baker
 
