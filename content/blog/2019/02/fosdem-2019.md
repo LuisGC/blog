@@ -1,7 +1,7 @@
 +++
 author = "LuisGC"
-title = "FOSDEM 2019"
-date = "2019-02-06"
+title = "FOSDEM 2019: Saturday"
+date = "2019-02-10"
 type = "post"
 categories = ["event", "open-source", "technology", "english", "linux", "programming", "internet", "culture", "computer-science", "personal"]
 status = "published"
@@ -12,10 +12,7 @@ featuredpath = "Simon Phipps speaking about the Open Source Initiative (OSI) in 
 
 It has been a week since I returned from another intense and though-provoking weekend in Brussels, although it still feels like it was just yesterday. This year, apart from attending **FOSDEM** (as I intend to do every year) I took a very early flight on Friday to visit new (for me) places in the city. In just one day I visited the [**European Parliament Hemicycle**](http://www.europarl.europa.eu/visiting/en/brussels/briefing-hemicycle-visits), the [**House of European History**](http://www.europarl.europa.eu/visiting/en/brussels/house-of-european-history), the [**Parlamentarium**](http://www.europarl.europa.eu/visiting/en/brussels/parlamentarium) and the [**Museum of Natural Sciences**](https://www.naturalsciences.be/). My most productive Friday in months.
 
-<div class="image lateral">
- <img src="/img/2019/FOSDEM_2019_flyer.png" alt="FOSDEM 2019">
- <div class="caption">FOSDEM 2019</div>
-</div>
+{{< image classes="image lateral" src="/img/2019/FOSDEM_2019_flyer.png" title="FOSDEM 2019" >}}
 
 For those of you who don't know [**FOSDEM**](https://fosdem.org/), it is the biggest conference in Europe (and one of the biggest around the world) related to **Open Source** development and communities. It's a huge event with hundreds of talks, workshops, gatherings and stands from all the relevant projects and communities in the **FOSS (Free and Open Source Software)** ecosystem. It's also a marvelous place to do networking, because there are not only representatives of those projects but normally also the technical leaders of them. If you are good with names and faces you can meet and greet a lot of important and interesting people.
 
@@ -34,10 +31,7 @@ The [numbers of this 2019 edition](https://fosdem.org/2019/schedule/event/closin
 
 To make it more impressive, take into account that FOSDEM is **organized by volunteers**, everything is **community driven** and it's **free to attend**. You don't even need to register beforehand.
 
-<div class="image">
- <img src="/img/2019/FOSDEM_2019_banner.png" alt="FOSDEM 2019">
- <div class="caption">FOSDEM 2019</div>
-</div>
+{{< image classes="image" src="/img/2019/FOSDEM_2019_banner.png" title="FOSDEM 2019" >}}
 
 As usual, let me summarize some of the talks that I attended (in chronological order):
 
@@ -45,13 +39,15 @@ As usual, let me summarize some of the talks that I attended (in chronological o
 
 [**Can Anyone Live in Full Software Freedom Today?**](https://fosdem.org/2019/schedule/event/full_software_freedom/), by Bradley M. Kuhn and Karen Sandler
 
-Bradley and Karen are the President and the Executive Director respectively of [Software Freedom Conservancy](https://sfconservancy.org/). They focused on people like themselves (and me) that seek to use only free software in our daily tasks, and the compromises that we sometimes need to do in order to achieve certain goals.
+Bradley and [Karen](https://twitter.com/o0karen0o) are the President and the Executive Director respectively of [Software Freedom Conservancy](https://sfconservancy.org/). They focused on people like themselves (and me) that seek to use only free software in our daily tasks, and the compromises that we sometimes need to do in order to achieve certain goals.
 
 Karen explained her concern when she had to put herself an implantable defibrillator with proprietary code inside, with no access to the code even if the manufacturer somehow recognized that it could cause trouble for pregnant women because their algorithms were not properly tined for that situations. She had to suffer some unnecessary electrical shocks during her pregnancy and could not do anything about it. Another common example they gave is about modern websites that force the users to activate JavaScript in order to load in your device complete applications with proprietary software on it.
 
 Some use cases for the general public have several free alternatives but for others there is no alternative so the users are forced to use privative applications. The main call to action of this keynote was for all the open source developers to re-think and re-prioritize our collaborations to close this gap and improve our general freedom.
 
 This was a good opening keynote, although knowing very well the speakers since a long time ago I expected more explicit suggestions (or accusations).
+
+{{< image classes="image" src="/img/2019/sfconservancy.jpg" title="Bradley M. Kuhn and Karen Sandler from Software Freedom Conservancy" >}}
 
 [**FLOSS, the Internet and the Future**](https://fosdem.org/2019/schedule/event/floss_internet_future/), by	Mitchell Baker
 
@@ -105,30 +101,10 @@ I want to highlight the enhancements in the switch (preview feature for v12), pa
 
 [**OpenJDK Governing Board Q&A**](https://fosdem.org/2019/schedule/event/openjdk_gb/), by Mark Reinhold, Georges Saab, Doug Lea, John Duimovich and Andrew Haley
 
-[**Supporting FOSS Community Members with Impostor Syndrome**](https://fosdem.org/2019/schedule/event/community_supporting_foss_community_members_imposter_syndrome/), by Sage Sharp
-
-[**Companies and Communities, Why Can't We All Just Get Along?**](https://fosdem.org/2019/schedule/event/community_why_cant_we_all_just_get_along/), by Deb Nicholson and Nithya Ruff
-
-[**The Open Source Community: its past and future**](https://fosdem.org/2019/schedule/event/community_open_souce_community_past_and_future/), by Nick Vidal
-
-[**Continuous Integration to compile and test Navit**](https://fosdem.org/2019/schedule/event/geo_navit/), by	Patrick Höhn
-
-[**Linking OpenStreetMap and Wikidata**](https://fosdem.org/2019/schedule/event/geo_osmwikidata/), by Edward Betts
-
-[**GraphHopper Routing Engine - New Features**](https://fosdem.org/2019/schedule/event/geo_graphhopper/), by Peter Karich
-
-[**Hikar - Augmented reality for hikers**](https://fosdem.org/2019/schedule/event/geo_augmentedreality/), by Nick Whitelegg
-
-[**Hundred thousand rides a day**](https://fosdem.org/2019/schedule/event/geo_gpxtraces/), by Ilya Zverev
-
-[**Open Source Geolocation**](https://fosdem.org/2019/schedule/event/geo_locationchallenges/), by Zeeshan Ali
-
-[**OpenStreetMaps for emergency prep: The view from San Francisco**](https://fosdem.org/2019/schedule/event/geo_osmqgis/), by Stefano Maffulli
-
-[**OpenTrailView 360, FOSS StreetView for hikers**](https://fosdem.org/2019/schedule/event/geo_streetview/), by Nick Whitelegg
-
-[**2019 - Fifty years of Unix and Linux advances**](https://fosdem.org/2019/schedule/event/keynote_fifty_years_unix/), by Jon 'maddog' Hall
+As usual in FOSDEM, the complete [**OpenJDK**](https://en.wikipedia.org/wiki/OpenJDK) Governing Board offered themselves for an open Q&A session. [Georges Saab](https://twitter.com/gsaab) (Chair, Oracle), [John Duimovich](https://twitter.com/jduimovich) (Vice Chair, IBM), [Mark Reinhold](https://twitter.com/mreinhold) (OpenJDK Lead, Oracle), Prof. [Doug Lea](https://twitter.com/douglea) (SUNY Oswego) and [Andrew Haley](https://developers.redhat.com/blog/author/aphredhat/) (Red Hat) kindly answered all the questions from the audience.
 
 <br />
 
-And that's all. **See you in Brussels in 2020 for the 20th anniversary of FOSDEM!!**
+I will summarize my Sunday experience in FOSDEM as soon as possible, but this article is already long enough to be published.
+
+**Stay tunned!!!**
