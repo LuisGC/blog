@@ -65,6 +65,14 @@ The keynote ended with some comments about the _Addition Economy_ that rules the
 
 [**Blockchain: The Ethical Considerations**](https://fosdem.org/2019/schedule/event/blockchain_ethics/), by Deb Nicholson
 
+We hear a lot that Blockchain is the future but what kind of world do we want to see blockchain make? We no longer live in a world where we can forget or ignore the consequences and the social impact of our work. Deb explained some of the most controversial aspects of this technology:
+
+* Do the upsides (transparecy, distributed control, etc.) compensate the downsides?
+* Will Blockchain just make the richest people richer?
+* If not all the contracting parties understand or can even read the contract... is it legitimate enough?
+* What will happen if a corporation or group of them owns the majority of the nodes?
+* Can we maintain this using just solar powered energy?
+
 [**Mattermost’s Approach to Layered Extensibility in Open Source**](https://fosdem.org/2019/schedule/event/mattermost_layered_extensibility/), by Corey Hulen
 
 [**The right to data portability (and why it's a very bad idea)**](https://fosdem.org/2019/schedule/event/gdpr_and_dtp_vs_data_portability_and_freedom/), by Laurent Chemla
