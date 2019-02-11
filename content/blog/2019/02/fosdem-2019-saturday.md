@@ -10,7 +10,7 @@ featuredalt = "Bradley M. Kuhn and Karen Sandler from Software Freedom Conservan
 featuredpath = "Bradley M. Kuhn and Karen Sandler from Software Freedom Conservancy"
 +++
 
-It has been a week since I returned from another intense and though-provoking weekend in Brussels, although it still feels like it was just yesterday. This year, apart from attending **FOSDEM** (as I intend to do every year) I took a very early flight on Friday to visit new (for me) places in the city. In just one day I visited the [**European Parliament Hemicycle**](http://www.europarl.europa.eu/visiting/en/brussels/briefing-hemicycle-visits), the [**House of European History**](http://www.europarl.europa.eu/visiting/en/brussels/house-of-european-history), the [**Parlamentarium**](http://www.europarl.europa.eu/visiting/en/brussels/parlamentarium) and the [**Museum of Natural Sciences**](https://www.naturalsciences.be/). My most productive Friday in months, for sure.
+It has been a week since I returned from another intense and thought-provoking weekend in Brussels, although it still feels like it was just yesterday. This year, apart from attending **FOSDEM** (as I intend to do every year) I took a very early flight on Friday to visit new (for me) places in the city. In just one day I visited the [**European Parliament Hemicycle**](http://www.europarl.europa.eu/visiting/en/brussels/briefing-hemicycle-visits), the [**House of European History**](http://www.europarl.europa.eu/visiting/en/brussels/house-of-european-history), the [**Parlamentarium**](http://www.europarl.europa.eu/visiting/en/brussels/parlamentarium) and the [**Museum of Natural Sciences**](https://www.naturalsciences.be/). My most productive Friday in months, for sure.
 
 {{< image classes="image lateral" src="https://farm8.staticflickr.com/7882/47000679932_093974eef9_o.png" title="FOSDEM 2019 poster" >}}
 
@@ -107,4 +107,4 @@ As usual in FOSDEM, the complete [**OpenJDK**](https://en.wikipedia.org/wiki/Ope
 
 I will summarize my Sunday experience in FOSDEM as soon as possible, but this article is already long enough to be published.
 
-**Stay tunned!!!**
+**Stay tuned!!!**
