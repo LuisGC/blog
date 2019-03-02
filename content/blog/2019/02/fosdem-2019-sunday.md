@@ -24,7 +24,7 @@ Again, I will summarize some of the talks that I attended (in chronological orde
 
 [**Supporting FOSS Community Members with Impostor Syndrome**](https://fosdem.org/2019/schedule/event/community_supporting_foss_community_members_imposter_syndrome/), by Sage Sharp
 
-The purpose of the speaker was to share advice and tips about how to support people who experience impostor syndrome, focusing on people from underrepresented groups. Sage gave a quick introduction to the concept to go then directly to the topic. I received several good recommendations: normalize questions, how to give praise, what deserves praise, etc.
+The purpose of the speaker was to share advice and tips about how to support people who experience [impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome), focusing on people from underrepresented groups. Sage gave a quick introduction to the concept to go then directly to the topic. I received several good recommendations: normalize questions, how to give praise, what deserves praise, etc.
 
 We have seen lately lots of talks about the syndrome itself, it's quite good to hear about how to counter it efficiently. As the speaker said, we as technical and resourceful people, should be able to improve this.
 
@@ -64,7 +64,7 @@ Peter gave a nice and clear presentation about [GraphHopper](https://www.graphho
 
 [**Hikar - Augmented reality for hikers**](https://fosdem.org/2019/schedule/event/geo_augmentedreality/), by Nick Whitelegg
 
-Another awesome project I discovered in FOSDEM. Nick explained the current status related to geospatial Augmented Reality (AR), tools are scarce and normally closed-source so he, as a developer and hiker, thought about a free tool to cover this gap: Hikar. It is an FOSS Android app aimed for outdoor and geographic AR, that overlays footpaths from OpenStreetMap on the camera feed and generates virtual signposts with relevant POIs around the user.
+Another awesome project I discovered in FOSDEM. Nick explained the current status related to geospatial Augmented Reality (AR), tools are scarce and normally closed-source so he, as a developer and hiker, thought about a free tool to cover this gap: [Hikar](https://wiki.openstreetmap.org/wiki/Hikar). It is an FOSS Android app aimed for outdoor and geographic AR, that overlays footpaths from OpenStreetMap on the camera feed and generates virtual signposts with relevant POIs around the user.
 
 The talk described the technical complexities, the data related issues (elevation is critical) and problems related to the realism of the path and signpost placing. Very interesting and inspiring talk.
 
@@ -86,7 +86,7 @@ Zeeshan explained the history of [GeoClue](https://gitlab.freedesktop.org/geoclu
 
 [**OpenStreetMap for emergency prep: The view from San Francisco**](https://fosdem.org/2019/schedule/event/geo_osmqgis/), by Stefano Maffulli
 
-Stefano moved to San Francisco some years ago with his wife, and they were scared about the next earthquake. The found there a lot of people with the same concerns and some organizations providing support for this. For example the Neighborhood Emergency Response Team (NERT), a group of civilians that take lessons from the fire fighters about how to spot and use water hydrants or police call boxes, to locate the nearest hospitals or schools, or to avoid places with hazardous materials like car repair shops, construction sites or gas stations.
+Stefano moved to San Francisco some years ago with his wife, and they were scared about the next earthquake. The found there a lot of people with the same concerns and some organizations providing support for this. For example the [Neighborhood Emergency Response Team (NERT)](https://en.wikipedia.org/wiki/Community_emergency_response_team), a group of civilians that take lessons from the fire fighters about how to spot and use water hydrants or police call boxes, to locate the nearest hospitals or schools, or to avoid places with hazardous materials like car repair shops, construction sites or gas stations.
 
 They used OpenStreetMap as the base for emergency related preparations, as almost everything is mapped or can be mapped in OSM.They improved the map data related to the Emergency Response tasks using trained NERT volunteers, so they could even research the most and lest _vulnerable_ neighborhoods in the city. They are now adding additional features related to other catastrophes like heat or cold waves.
 
