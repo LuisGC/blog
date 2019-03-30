@@ -69,6 +69,8 @@ This year Iván was not organizing the conference, he even had time to attend lo
 
 [**(Automated) Security Testing in a DevOps world**](https://agenda.greachconf.com/talk/automated-security-testing-in-a-devops-world), by [Kevin Wittek](https://agenda.greachconf.com/speaker/kevin-wittek) ([@kiview](https://twitter.com/kiview))
 
+This was one of the most interesting talks of the conference, at least for me. Kevin explained very clearly how to evolve from the traditional development pipeline to a more DevOps oriented one. Apart from some general recommendations he described all the possible security checks and validations that can be done, when and how to do them. He also created awareness about the lack of an open source reliable catalog of known vulnerabilities.
+
 [**Micronaut performance**](https://agenda.greachconf.com/talk/micronaut-performance), by [Miguel Ángel García Gómez](https://agenda.greachconf.com/speaker/miguel-angel-garcia-gomez) ([@MiguelAngelGG82](https://twitter.com/MiguelAngelGG82))
 
 [**It's a bird, it's a plane, no it's SDKMAN!**](https://agenda.greachconf.com/talk/its-a-bird-its-a-plane-no-its-sdkman), by [Marco Vermeulen](https://agenda.greachconf.com/speaker/marco-vermeulen) ([@marc0der](https://twitter.com/marc0der))
