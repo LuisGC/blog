@@ -25,7 +25,13 @@ Let me summarize some of the talks I attended:
 
 Andrés gave an interesting overview of the JVM Frameworks ecosystem, starting with some history. He reminded us all when [Struts](https://struts.apache.org/) was the king of the hill, and how it surrendered to [Rails](https://rubyonrails.org/), Grails, etc. The microservices appeared and the frameworks evolved as well. Spring Boot has been the dominant player for a while but everything changed last year with the appearance of Micronaut. Others are following the approach like [RedHat](https://www.redhat.com) with [Quarkus](https://quarkus.io/).
 
+A perfect kick-off for a conference centered on frameworks.
+
 [**Micronaut State of the Union**](https://agenda.greachconf.com/talk/micronaut-state-of-the-union), by [Graeme Rocher](https://agenda.greachconf.com/speaker/graeme-rocher) ([@graemerocher](https://twitter.com/graemerocher))
+
+Graeme gave an overview of the features and roadmap for Micronaut. He highlighted several times that it is perfect for Microservices and serverless functions, but not only for them as it's also suitable for bigger applications. The goal of Graeme and his team is to break the correlation between lines of code and startup time and resources consumption. He emphasized their fight against reflection and the consequent reflective data caches, essential in other frameworks like Spring Boot, that have several inconveniences in performance and boot up time.
+
+He also explained why Micronaut behaves amazingly good with GraalVM, but clarified that they are mainly focused on the performance with the standard JVM that most people still use. He ended with an interesting live demo about the Bean Introspection API, released with the last 1.1 version.
 
 [**Boosting your applications with distributed caches/datagrids**](https://agenda.greachconf.com/talk/boosting-your-applications-with-distributed-caches-datagrids), by [Katia Aresti](https://agenda.greachconf.com/speaker/katia-aresti) ([@karesti](https://twitter.com/karesti))
 
