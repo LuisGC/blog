@@ -55,6 +55,10 @@ Another interesting state review of Grails by Graeme. This time it was focused o
 
 [**What's new in Asciidoctor**](https://agenda.greachconf.com/talk/whats-new-in-asciidoctor), by [Schalk Cronjé](https://agenda.greachconf.com/speaker/schalk-cronje) ([@ysb33r](https://twitter.com/ysb33r))
 
+My first choice on Saturday morning was to learn all the new things that [Asciidoctor](https://asciidoctor.org/) is bringing. Schalk explained clearly lots of new features, making everything much more simple and intuitive. Curiously, Schalk released on Friday night [version 2.0.0](https://github.com/asciidoctor/asciidoctor-gradle-plugin/releases/tag/release_2_0_0) of the [Asciidoctor Gradle plugin](https://github.com/asciidoctor/asciidoctor-gradle-plugin), written entirely in Groovy.
+
+I'm not using Asciidoctor enough lately and I regret it, as it's fantastic.
+
 [**What's new in Gradle 5?**](https://agenda.greachconf.com/talk/whats-new-in-gradle-5), by [Andrés Almiray](https://agenda.greachconf.com/speaker/andres-almiray) ([@aalmiray](https://twitter.com/aalmiray))
 
 [**Creating Micronaut Configurations**](https://agenda.greachconf.com/talk/creating-micronaut-configurations), by [Iván López](https://agenda.greachconf.com/speaker/ivan-lopez) ([@ilopmar](https://twitter.com/ilopmar))
