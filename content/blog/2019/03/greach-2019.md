@@ -61,6 +61,8 @@ I'm not using Asciidoctor enough lately and I regret it, as it's fantastic.
 
 [**What's new in Gradle 5?**](https://agenda.greachconf.com/talk/whats-new-in-gradle-5), by [Andrés Almiray](https://agenda.greachconf.com/speaker/andres-almiray) ([@aalmiray](https://twitter.com/aalmiray))
 
+Andrés summarized all the new things that are coming with Gradle 5.0, highlighting Kotlin DSL 1.0 integration for those who are ready to use it. Gradle 5.0 will have better dependency management and several build performance improvements related to composite builds, build cache management and build scans. He even demoed some of the features, I specially liked how the current Gradle build scans looks like.
+
 [**Creating Micronaut Configurations**](https://agenda.greachconf.com/talk/creating-micronaut-configurations), by [Iván López](https://agenda.greachconf.com/speaker/ivan-lopez) ([@ilopmar](https://twitter.com/ilopmar))
 
 [**(Automated) Security Testing in a DevOps world**](https://agenda.greachconf.com/talk/automated-security-testing-in-a-devops-world), by [Kevin Wittek](https://agenda.greachconf.com/speaker/kevin-wittek) ([@kiview](https://twitter.com/kiview))
