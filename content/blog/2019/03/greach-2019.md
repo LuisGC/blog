@@ -47,6 +47,8 @@ Alberto explained how to use GraalVM, the architecture basics (the GraalVM compi
 
 [**Accelerating CI**](https://agenda.greachconf.com/talk/accelerating-ci), by [Felipe Fernández](https://agenda.greachconf.com/speaker/felipe-fernandez) ([@felipefzdz](https://twitter.com/felipefzdz))
 
+Felipe's talk was quite interesting. As a Gradle Enterprise developer he explained basic and advanced recommendations in order to achieve a faster and more reliable CI. He explained how to parallelize workers, how to design an effective pipeline structure and how to avoid maintenance waste in general. He ended with a couple of very good recommendations: measure everything and treat your CI as code, always.
+
 [**Grails State of the Union**](https://agenda.greachconf.com/talk/grails-state-of-theunion), by [Graeme Rocher](https://agenda.greachconf.com/speaker/graeme-rocher) ([@graemerocher](https://twitter.com/graemerocher))
 
 [**What's new in Asciidoctor**](https://agenda.greachconf.com/talk/whats-new-in-asciidoctor), by [Schalk Cronjé](https://agenda.greachconf.com/speaker/schalk-cronje) ([@ysb33r](https://twitter.com/ysb33r))
