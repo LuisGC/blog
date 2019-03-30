@@ -65,6 +65,8 @@ Andrés summarized all the new things that are coming with Gradle 5.0, highlight
 
 [**Creating Micronaut Configurations**](https://agenda.greachconf.com/talk/creating-micronaut-configurations), by [Iván López](https://agenda.greachconf.com/speaker/ivan-lopez) ([@ilopmar](https://twitter.com/ilopmar))
 
+This year Iván was not organizing the conference, he even had time to attend lots of talks, but he delivered as usual one of the most useful talks in the conference. He reviewed how Micronaut configurations work and explained in detail how to create a new one. There are several different options to extend the framework via configurations and looks quite easy.
+
 [**(Automated) Security Testing in a DevOps world**](https://agenda.greachconf.com/talk/automated-security-testing-in-a-devops-world), by [Kevin Wittek](https://agenda.greachconf.com/speaker/kevin-wittek) ([@kiview](https://twitter.com/kiview))
 
 [**Micronaut performance**](https://agenda.greachconf.com/talk/micronaut-performance), by [Miguel Ángel García Gómez](https://agenda.greachconf.com/speaker/miguel-angel-garcia-gomez) ([@MiguelAngelGG82](https://twitter.com/MiguelAngelGG82))
