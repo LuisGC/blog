@@ -35,6 +35,8 @@ He also explained why Micronaut behaves amazingly good with GraalVM, but clarifi
 
 [**Boosting your applications with distributed caches/datagrids**](https://agenda.greachconf.com/talk/boosting-your-applications-with-distributed-caches-datagrids), by [Katia Aresti](https://agenda.greachconf.com/speaker/katia-aresti) ([@karesti](https://twitter.com/karesti))
 
+Katia explained how [Infinispan](https://infinispan.org/) works as a cache or data grid, both as a library or as a external service, and how to configure it in distributed systems. With (sometimes confusing) examples using Harry Potter analogies she also explained concepts like redundant replication or consistent hashing. She finished with a clear demo using Infinispan, [Eclipse Vert.X](https://vertx.io/) and Quarkus.
+
 [**Reactive for the Impatient**](https://agenda.greachconf.com/talk/reactive-for-the-impatient-a-gentle-intro-to-reactive-programming-and-systems), by [Mary Grygleski](https://agenda.greachconf.com/speaker/mary-grygleski) ([@mgrygles](https://twitter.com/mgrygles))
 
 [**AWS + MN = BFF**](https://agenda.greachconf.com/talk/aws-mn-bff), by [Vladimir Orany](https://agenda.greachconf.com/speaker/vladimir-orany) ([@musketyr](https://twitter.com/musketyr))
