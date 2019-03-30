@@ -4,18 +4,18 @@ title = "Greach 2019"
 date = "2019-03-30"
 type = "post"
 categories = ["event", "open-source", "technology", "programming", "internet", "computer-science"]
-featured = "https://farm2.staticflickr.com/1796/29055005757_97973f26e6_o.jpg"
+featured = "/img/Greach-2019-logo.jpg"
 featuredalt = "Greach Conference 2019"
 featuredpath = "Greach Conference 2019"
 +++
 
 {{< image classes="image lateral" src="/img/Greach-2019-poster.png" title="Greach 2019" >}}
 
-I've just arrived home after attending another fantastic [**Greach Conference**](http://greachconf.com/), an international conference that in previous years was focused on the [Apache Groovy](http://www.groovy-lang.org/) language and ecosystem ([Grails](https://grails.org/), [Gradle](https://gradle.org/), etc.) but this year has expanded the scope to other technologies related to the [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) like [Micronaut](https://micronaut.io/), [GraalVM](https://www.graalvm.org/), [Spring Boot](https://spring.io/projects/spring-boot), [Kotlin](https://kotlinlang.org/), [Android](https://developer.android.com/), ...
+This week I could attend another fantastic [**Greach Conference**](http://greachconf.com/), an international conference that in previous years was focused on the [Apache Groovy](http://www.groovy-lang.org/) language and ecosystem ([Grails](https://grails.org/), [Gradle](https://gradle.org/), etc.) but this year has expanded the scope to other technologies related to the [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) like [Micronaut](https://micronaut.io/), [GraalVM](https://www.graalvm.org/), [Spring Boot](https://spring.io/projects/spring-boot), [Kotlin](https://kotlinlang.org/), [Android](https://developer.android.com/), ...
 
-Greach is a **non-profitable** event held in Madrid since 2011. This year for the first time the organizers were [**Sergio del Amo**](http://sergiodelamo.es/) y [**José Miguel Rodríguez**](https://jmiguel.eu/), with some help from colleagues and [a lot of sponsors](https://www.greachconf.com/sponsors).
+Greach is a **non-profitable** event held in Madrid since 2011, I think I missed only one edition. This year for the first time the organizers were [**Sergio del Amo**](http://sergiodelamo.es/) y [**José Miguel Rodríguez**](https://jmiguel.eu/), with some help from colleagues and [a lot of sponsors](https://www.greachconf.com/sponsors).
 
-**TLDR;** The conference was, as expected, great both in content and speakers. It's a must for me, specially being held here in Madrid. This is still a Groovy lovers conference, but this year [**Micronaut**](http://micronaut.io/) was omnipresent. Some speakers also put the focus on [GraalVM](https://www.graalvm.org/) and [Kotlin](https://kotlinlang.org/) as technologies to follow closely.
+**TLDR;** The conference was, as expected, great both in content and speakers. It's a must for me, specially being held here in Madrid. This is still a Groovy lovers conference, but this year [**Micronaut**](http://micronaut.io/) was omnipresent. Some speakers also put the focus on [GraalVM](https://www.graalvm.org/) and [Kotlin](https://kotlinlang.org/) as technologies to follow closely. I will.
 
 Let me summarize some of the talks I attended:
 
