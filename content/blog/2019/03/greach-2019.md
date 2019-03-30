@@ -79,7 +79,13 @@ He showed the audience the results of his benchmark. The overall winner is appar
 
 [**It's a bird, it's a plane, no it's SDKMAN!**](https://agenda.greachconf.com/talk/its-a-bird-its-a-plane-no-its-sdkman), by [Marco Vermeulen](https://agenda.greachconf.com/speaker/marco-vermeulen) ([@marc0der](https://twitter.com/marc0der))
 
+Marco explained the current status of SDKMAN and the next features that this awesome SDK manager will bring. He also explained the architecture behind the project, and the main challenges it face. He also made some very interesting comments about the initial decision to write it in bash to have only [curl](http://curl.haxx.se/) and [zip](http://www.info-zip.org/) as dependencies, and how he is now considering a rewrite in a different language.
+
 [**How I Automated My Barn with Arduino, Raspberry Pi, Kafka, Docker, Kubernetes, Mongo and the Cloud**](https://agenda.greachconf.com/talk/how-i-automated-my-barn-with-arduino-raspberry-pi-kafka-docker-kubernetes-mongo-and-the-cloud), by [Todd Sharp](https://agenda.greachconf.com/speaker/todd-sharp) ([@recursivecodes](https://twitter.com/recursivecodes))
+
+My Greach conference ended with an interesting talk by Todd Sharp. He explained how he managed to create a complex combination of technologies to learn about them and also about some features of the Oracle Cloud offering. He lives in a small town and has a barn with a pig and some chickens, so he wanted to automatize as much as possible the repetitive tasks related to the barn. He started with some sensors and now he is in the way to not only read but also perform some actions like fill a water bowl, open/close the doors or detect predators in the surroundings.
+
+He was very funny and, although the demo didn't perfectly work and made him lose some time, he could explain the complexness of what he built.
 
 <br />
 
