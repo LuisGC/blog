@@ -73,6 +73,10 @@ This was one of the most interesting talks of the conference, at least for me. K
 
 [**Micronaut performance**](https://agenda.greachconf.com/talk/micronaut-performance), by [Miguel Ángel García Gómez](https://agenda.greachconf.com/speaker/miguel-angel-garcia-gomez) ([@MiguelAngelGG82](https://twitter.com/MiguelAngelGG82))
 
+Miguel Angel performed a comparison in terms of performance between the main microservice-oriented frameworks that we have now in the market: Micronaut, Spring Boot and Vert.x. He added a fourth option (Micronaut running on GraalVM) although he confessed that he could not measure everything with it because of the lack of compatibility between GraalVM and [Prometheus](https://prometheus.io/).
+
+He showed the audience the results of his benchmark. The overall winner is apparently Micronaut+GraalVM despite the uncertainty related to the lack of good measurements. Among the other three options, some of them are better in some tests, but none of them is clearly better. Perhaps with larger and/or more challenging benchmarks the degradation in any option could make the difference.
+
 [**It's a bird, it's a plane, no it's SDKMAN!**](https://agenda.greachconf.com/talk/its-a-bird-its-a-plane-no-its-sdkman), by [Marco Vermeulen](https://agenda.greachconf.com/speaker/marco-vermeulen) ([@marc0der](https://twitter.com/marc0der))
 
 [**How I Automated My Barn with Arduino, Raspberry Pi, Kafka, Docker, Kubernetes, Mongo and the Cloud**](https://agenda.greachconf.com/talk/how-i-automated-my-barn-with-arduino-raspberry-pi-kafka-docker-kubernetes-mongo-and-the-cloud), by [Todd Sharp](https://agenda.greachconf.com/speaker/todd-sharp) ([@recursivecodes](https://twitter.com/recursivecodes))
