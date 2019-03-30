@@ -39,6 +39,8 @@ Katia explained how [Infinispan](https://infinispan.org/) works as a cache or da
 
 [**Reactive for the Impatient**](https://agenda.greachconf.com/talk/reactive-for-the-impatient-a-gentle-intro-to-reactive-programming-and-systems), by [Mary Grygleski](https://agenda.greachconf.com/speaker/mary-grygleski) ([@mgrygles](https://twitter.com/mgrygles))
 
+Mary explained what reactive programming is and gave an overview of the the current Java options for this. She spent most of the time with the theoretical basics and terminology to finish with a quick overview of the main alternatives. I'd have preferred more details or examples in the last part, as I am already familiar with the basic concepts, but the talk was overall useful and interesting.
+
 [**AWS + MN = BFF**](https://agenda.greachconf.com/talk/aws-mn-bff), by [Vladimir Orany](https://agenda.greachconf.com/speaker/vladimir-orany) ([@musketyr](https://twitter.com/musketyr))
 
 [**GraalVM with Groovy & Kotlin**](https://agenda.greachconf.com/talk/graalvm-with-groovy-kotlin), by [Alberto de Avila](https://agenda.greachconf.com/speaker/alberto-de-avila) ([@alberto_deavila](https://twitter.com/alberto_deavila))
