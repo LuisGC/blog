@@ -51,6 +51,8 @@ Felipe's talk was quite interesting. As a Gradle Enterprise developer he explain
 
 [**Grails State of the Union**](https://agenda.greachconf.com/talk/grails-state-of-theunion), by [Graeme Rocher](https://agenda.greachconf.com/speaker/graeme-rocher) ([@graemerocher](https://twitter.com/graemerocher))
 
+Another interesting state review of Grails by Graeme. This time it was focused on how Grails is already benefiting from Micronaut, and how to take advantage of those benefits using Grails. He encouraged all the Grails plugin developers to migrate them to Micronaut so they can be used not only from Grails but also in other use cases.
+
 [**What's new in Asciidoctor**](https://agenda.greachconf.com/talk/whats-new-in-asciidoctor), by [Schalk Cronjé](https://agenda.greachconf.com/speaker/schalk-cronje) ([@ysb33r](https://twitter.com/ysb33r))
 
 [**What's new in Gradle 5?**](https://agenda.greachconf.com/talk/whats-new-in-gradle-5), by [Andrés Almiray](https://agenda.greachconf.com/speaker/andres-almiray) ([@aalmiray](https://twitter.com/aalmiray))
