@@ -9,12 +9,7 @@ featuredalt = "Greach Conference 2018"
 featuredpath = "Greach Conference 2018"
 +++
 
-<div class="image lateral">
-  <img src="https://farm2.staticflickr.com/1812/43273840094_a4955a2262_o.png" alt="Greach 2018">
-  <div class="caption">
-   <a href="http://2018.greachconf.com/">Greach 2018</a>
-  </div>
-</div>
+{{< image classes="image lateral" src="https://farm2.staticflickr.com/1812/43273840094_a4955a2262_o.png" title="Greach 2018" >}}
 
 Some days ago I attended as usual to the fantastic [**Greach Conference**](http://2018.greachconf.com/), an international conference about the [Apache Groovy](http://www.groovy-lang.org/) language and ecosystem: Groovy, Grails, Gradle and a lot other things. Greach is held each year in Madrid but everything is in English, and nowadays it's surely one of the Top worldwide events about this technologies.
 
@@ -66,10 +61,7 @@ Dierk's talk was mainly a live coding session. He performed an interesting exerc
 
 Sergio gave a complete talk reviewing the tree data structure, commenting some use cases in which to use it and also comparing several different implementations of a data structure in Groovy: Adjacency lists, path enumeration, nested sets and closure tables. He remarked that the right design and implementation depends on the use case, if you normally need to query the leafs or an entire subtree, if the tree is mostly static or its subject to lots of insertions, etc.
 
-<div class="image">
- <img src="https://farm2.staticflickr.com/1840/29055005897_8955a37e09_o.jpg" alt="Sergio del Amo at Greach 2018">
- <div class="caption">Sergio del Amo at Greach 2018</div>
-</div>
+{{< image classes="image" src="https://farm2.staticflickr.com/1840/29055005897_8955a37e09_o.jpg" title="Sergio del Amo at Greach 2018" >}}
 
 [**Reactive All The Way Down with Ratpack, Groovy, RxJava, React, and RabbitMQ**](http://2018.greachconf.com/sessions/reactive-all-the-way-down-with-ratpack-rxgroovy-react-and-rabbitmq/), by [Steve Pember](http://2018.greachconf.com/speakers/steve-pember/) ([@svpember](https://twitter.com/svpember))
 
@@ -115,10 +107,7 @@ This was my first talk of the Saturday at Greach. After the hype with MicroNaut 
 
 He also made a live demo testing some of the capabilities: service discovery, load balancing, reactive and fault tolerant. He showed a demo project that will be released with the framework: a pet store composed with several microservices built in different technologies (Java and Groovy) and each of them connected to a different backend (PostgreSQL, Redis, Cassandra, Neo4J, etc.).
 
-<div class="image">
- <img src="https://farm2.staticflickr.com/1840/43273840244_9c59c8e742_o.jpg" alt="Álvaro Sánchez Mariscal at Greach 2018">
- <div class="caption">Álvaro Sánchez Mariscal at Greach 2018</div>
-</div>
+{{< image classes="image" src="https://farm2.staticflickr.com/1840/43273840244_9c59c8e742_o.jpg" title="Álvaro Sánchez Mariscal at Greach 2018" >}}
 
 [**GORM Reloaded – Data Services for the Win**](http://2018.greachconf.com/sessions/gorm-reloaded-data-services-for-the-win/), by [Graeme Rocher](http://2018.greachconf.com/speakers/graeme-rocher/) ([@graemerocher](https://twitter.com/graemerocher))
 
@@ -145,10 +134,7 @@ He reminded the audience [Conway's Law](https://en.wikipedia.org/wiki/Conway's_l
 <blockquote>organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations.<br />
 — M. Conway</blockquote>
 
-<div class="image">
- <img src="https://farm1.staticflickr.com/929/43273839984_210c4d0479_o.jpg" alt="Steve Pember at Greach 2018">
- <div class="caption">Steve Pember at Greach 2018</div>
-</div>
+{{< image classes="image" src="https://farm1.staticflickr.com/929/43273839984_210c4d0479_o.jpg" title="Steve Pember at Greach 2018" >}}
 
 <br />
 
