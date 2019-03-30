@@ -41,9 +41,9 @@ Katia explained how [Infinispan](https://infinispan.org/) works as a cache or da
 
 Mary explained what reactive programming is and gave an overview of the the current Java options for this. She spent most of the time with the theoretical basics and terminology to finish with a quick overview of the main alternatives. I'd have preferred more details or examples in the last part, as I am already familiar with the basic concepts, but the talk was overall useful and interesting.
 
-[**AWS + MN = BFF**](https://agenda.greachconf.com/talk/aws-mn-bff), by [Vladimir Orany](https://agenda.greachconf.com/speaker/vladimir-orany) ([@musketyr](https://twitter.com/musketyr))
-
 [**GraalVM with Groovy & Kotlin**](https://agenda.greachconf.com/talk/graalvm-with-groovy-kotlin), by [Alberto de Avila](https://agenda.greachconf.com/speaker/alberto-de-avila) ([@alberto_deavila](https://twitter.com/alberto_deavila))
+
+Alberto explained how to use GraalVM, the architecture basics (the GraalVM compiler, the [Truffle API](https://www.graalvm.org/truffle/javadoc/), etc.), and how to use Groovy and Kotlin with it. It was an interesting and well documented analysis, focusing on the current limitations and the potential benefits. It's quite promising despite GraalVM is still far from being production ready.
 
 [**Accelerating CI**](https://agenda.greachconf.com/talk/accelerating-ci), by [Felipe Fernández](https://agenda.greachconf.com/speaker/felipe-fernandez) ([@felipefzdz](https://twitter.com/felipefzdz))
 
