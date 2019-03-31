@@ -27,11 +27,15 @@ Andrés gave an interesting overview of the JVM Frameworks ecosystem, starting w
 
 A perfect kick-off for a conference centered on frameworks.
 
+{{< image classes="image" src="/img/Greach-2019-Andres-Almiray.jpg" title="Andrés Almiray with a microservices frameworks taxonomy" >}}
+
 [**Micronaut State of the Union**](https://agenda.greachconf.com/talk/micronaut-state-of-the-union), by [Graeme Rocher](https://agenda.greachconf.com/speaker/graeme-rocher) ([@graemerocher](https://twitter.com/graemerocher))
 
 Graeme gave an overview of the features and roadmap for Micronaut. He highlighted several times that it is perfect for Microservices and serverless functions, but not only for them as it's also suitable for bigger applications. The goal of Graeme and his team is to break the correlation between lines of code and startup time and resources consumption. He also emphasized their fight against reflection and the consequent reflective data caches, essential in other frameworks like Spring Boot, that have several inconveniences in performance and start up time.
 
 He also explained why Micronaut behaves amazingly good with GraalVM, but clarified that they are mainly focused on the performance with the standard JVM that most people still use. He ended with an interesting live demo about the Bean Introspection API, released with the last 1.1 version.
+
+{{< image classes="image" src="/img/Greach-2019-Graeme-Rocher.jpg" title="Graeme Rocher explaining Java's problems for Frameworks" >}}
 
 [**Boosting your applications with distributed caches/datagrids**](https://agenda.greachconf.com/talk/boosting-your-applications-with-distributed-caches-datagrids), by [Katia Aresti](https://agenda.greachconf.com/speaker/katia-aresti) ([@karesti](https://twitter.com/karesti))
 
@@ -41,9 +45,11 @@ Katia explained how [Infinispan](https://infinispan.org/) works as a cache or da
 
 Mary explained what reactive programming is and gave an overview of the the current Java options for this. She spent most of the time with the theoretical basics and terminology to finish with a quick overview of the main alternatives. I'd have preferred more details or examples in the last part, as I am already familiar with the basic concepts, but the talk was overall useful and interesting.
 
-[**GraalVM with Groovy & Kotlin**](https://agenda.greachconf.com/talk/graalvm-with-groovy-kotlin), by [Alberto de Avila](https://agenda.greachconf.com/speaker/alberto-de-avila) ([@alberto_deavila](https://twitter.com/alberto_deavila))
+[**GraalVM with Groovy & Kotlin**](https://agenda.greachconf.com/talk/graalvm-with-groovy-kotlin), by [Alberto de Ávila](https://agenda.greachconf.com/speaker/alberto-de-avila) ([@alberto_deavila](https://twitter.com/alberto_deavila))
 
 Alberto explained how to use GraalVM, the architecture basics (the GraalVM compiler, the [Truffle API](https://www.graalvm.org/truffle/javadoc/), etc.), and how to use Groovy and Kotlin with it. It was an interesting and well documented analysis, focusing on the current limitations and the potential benefits. It's quite promising despite GraalVM is still far from being production ready.
+
+{{< image classes="image" src="/img/Greach-2019-Alberto-de-Avila.jpg" title="Alberto de Ávila explains GraalVM Architecture" >}}
 
 [**Accelerating CI**](https://agenda.greachconf.com/talk/accelerating-ci), by [Felipe Fernández](https://agenda.greachconf.com/speaker/felipe-fernandez) ([@felipefzdz](https://twitter.com/felipefzdz))
 
@@ -52,6 +58,8 @@ Felipe's talk was quite interesting. As a Gradle Enterprise developer he explain
 [**Grails State of the Union**](https://agenda.greachconf.com/talk/grails-state-of-theunion), by [Graeme Rocher](https://agenda.greachconf.com/speaker/graeme-rocher) ([@graemerocher](https://twitter.com/graemerocher))
 
 Another interesting status review of Grails by Graeme. This time it was focused on how Grails is already benefiting from Micronaut, and how to take advantage of those benefits using Grails. He encouraged all the Grails plugin developers to migrate them to Micronaut so they can be used not only from Grails but also in other use cases.
+
+{{< image classes="image" src="/img/Greach-2019-Micronaut-vs-Grails.jpg" title="Graeme Rocher explains the differences between Micronaut and Grails" >}}
 
 [**What's new in Asciidoctor**](https://agenda.greachconf.com/talk/whats-new-in-asciidoctor), by [Schalk Cronjé](https://agenda.greachconf.com/speaker/schalk-cronje) ([@ysb33r](https://twitter.com/ysb33r))
 
@@ -71,6 +79,8 @@ This year Iván was not organizing the conference, he even had time to attend lo
 
 This was one of the most interesting talks of the conference, at least for me. Kevin explained very clearly how to evolve from the traditional development pipeline to a more DevOps oriented one. Apart from some general recommendations he described all the possible security checks and validations that can be done, when and how to do them. He also created awareness about the lack of an open source reliable catalog of known vulnerabilities.
 
+{{< image classes="image" src="/img/Greach-2019-Kevin-Wittek.jpg" title="Kevin Wittek with a Linus Torvalds quote" >}}
+
 [**Micronaut performance**](https://agenda.greachconf.com/talk/micronaut-performance), by [Miguel Ángel García Gómez](https://agenda.greachconf.com/speaker/miguel-angel-garcia-gomez) ([@MiguelAngelGG82](https://twitter.com/MiguelAngelGG82))
 
 Miguel Ángel showed a comparison he made in terms of performance between the main microservice-oriented frameworks that we have now in the market: Micronaut, Spring Boot and Vert.x. He added a fourth option (Micronaut running on GraalVM) although he confessed that he could not measure everything properly with it due to the lack of compatibility between GraalVM and [Prometheus](https://prometheus.io/).
@@ -86,6 +96,8 @@ Marco, creator of this awesome SDK manager tool, explained the current status of
 My Greach conference ended with an interesting talk by Todd Sharp. He explained how he managed to create a complex combination of technologies to learn about them and also about some features of the Oracle Cloud offering. He lives in a small town and has a barn with a pig and some chickens, so he wanted to automatize as much as possible the repetitive tasks related to the barn. He started with some sensors and now he is in the way to not only read but also perform some actions like fill a water bowl, open/close the doors or detect predators in the surroundings.
 
 He was very funny and, although the demo didn't perfectly work and made him lose some time, he could explain the complexness of what he built and the technologies he learned in the process.
+
+{{< image classes="image" src="/img/Greach-2019-Todd-Sharp.jpg" title="Todd Sharp explains the architecture of his barn automation project" >}}
 
 <br />
 
