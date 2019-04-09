@@ -24,6 +24,10 @@ I have visited **18 out of 193** countries (among those [recognized by United Na
 
 ## 2019
 
+* <span>APR</span> <p>Logroño and Laguardia (Spain)</p>
+* <span>MAR</span> <p>[Greach 2019](/blog/2019/03/greach-2019/) - Madrid (Spain)</p>
+* <span>MAR</span> <p>Amsterdam (Netherlands)</p>
+* <span>MAR</span> <p>Gredos (Spain)</p>
 * <span>FEB</span> <p>[FOSDEM 2019](/blog/2019/02/fosdem-2019-saturday/) - Brussels (Belgium)</p>
 * <span>JAN</span> <p>Milan (Italy)</p>
 
@@ -43,6 +47,7 @@ I have visited **18 out of 193** countries (among those [recognized by United Na
 * <span>MAY</span> <p>[Scotland](/blog/2018/05/scotland-a-brief-opinionated-guide/) (United Kingdom)</p>
   - Balloch, Luss, Oban, Glencoe Valley, Isle of Skye, Inverness, Cromarty, Cawdor, Glenfiddich Distillery, Pitlochry, Stirling and Glasgow
 * <span>APR</span> <p>SPTA's San George's Shoot - Taunton (United Kingdom)</p>
+* <span>MAR</span> <p>[Greach 2018](/blog/2018/03/greach-2018/) - Madrid (Spain)</p>
 * <span>MAR</span> <p>Pelegrina (Spain)</p>
 * <span>FEB</span> <p>Bucarest (Romania)</p>
 * <span>FEB</span> <p>[FOSDEM 2018](/blog/2018/02/fosdem-2018-saturday/) - Brussels (Belgium)</p>
