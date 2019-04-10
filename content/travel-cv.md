@@ -73,6 +73,7 @@ I have visited **18 out of 193** countries (among those [recognized by United Na
 * <span>MAY</span> <p>[Romantikstrasse, The Romantic Road](/blog/2017/05/romantikstrasse-the-romantic-road_1/) (Austria)</p>
   - Schalaburg, Melk, Steyr, Kremsmünster, Scharnstein, Gmunden, Mondsee, Postalm, St Wolfgang im Salzkammergut, Bad Ischl, Halstatt, Obertraun and Mauthausen
 * <span>APR</span> <p>Amsterdam, Haarlem, Utrecht and Rotterdam (Netherlands)</p>
+* <span>MAR</span> <p>[Greach 2017](/blog/2017/04/greach-2017-groovy-spanish-conference/) - Madrid (Spain)</p>
 * <span>MAR</span> <p>Chinchón (Spain)</p>
 
 ## 2016
@@ -80,6 +81,7 @@ I have visited **18 out of 193** countries (among those [recognized by United Na
 * <span>DEC</span> <p>Teruel (Spain)</p>
   - Albarracín, Peracense, Ojos Negros and Teruel
 * <span>NOV</span> <p>Aldeanueva de la Vera and Monasterio de Yuste (Spain)</p>
+* <span>OCT</span> <p>[Codemotion 2016](/blog/2016/11/codemotion-2016/) - Madrid (Spain)</p>
 * <span>SEP</span> <p>Malleza and Pravia, Asturias (Spain)</p>
 * <span>AUG</span> <p>Poland</p>
   - Krakow, Zakopane, Wroclaw, Wieliczka and Austchwitz
@@ -92,6 +94,7 @@ I have visited **18 out of 193** countries (among those [recognized by United Na
   - Ucero, Neila, Cañón del Río Lobos, Laguna Negra, San Bartolomé and Burgo de Osma
 * <span>MAY</span> <p>El Pardo (Spain)</p>
 * <span>APR</span> <p>ARP-SAPC Annual Assembly - Valencia (Spain)</p>
+* <span>APR</span> <p>[Greach 2016](/blog/2016/04/greach-2016-groovy-spanish-conference/) - Madrid (Spain)</p>
 * <span>MAR</span> <p>Zamora (Spain)</p>
 * <span>JAN</span> <p>[FOSDEM 2016](/blog/2016/03/fosdem-2016-friday/) - Brussels (Belgium)</p>
 
