@@ -24,6 +24,13 @@ I have visited **18 out of 193** countries (among those [recognized by United Na
 
 ## 2019
 
+* <span>JUL</span> <p>Katowice (Poland)</p>
+* <span>JUN</span> <p>Noordwijk (Netherlands)</p>
+* <span>MAY</span> <p>Amsterdam (Netherlands)</p>
+* <span>MAY</span> <p>Salamanca (Spain)</p>
+* <span>MAY</span> <p>I Mereth de Ithilien - Barcelona (Spain)</p>
+* <span>APR</span> <p>Bristol (United Kingdom)</p>
+* <span>APR</span> <p>SPTA's San George's Shoot - Taunton (United Kingdom)</p>
 * <span>APR</span> <p>Logroño and Laguardia (Spain)</p>
 * <span>MAR</span> <p>[Greach 2019](/blog/2019/03/greach-2019/) - Madrid (Spain)</p>
 * <span>MAR</span> <p>Amsterdam (Netherlands)</p>
