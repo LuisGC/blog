@@ -51,13 +51,25 @@ Ted is not only a gifted artist but also proved to be friendly to his fans and m
 
 Richard Medringtone from the _Puppet State Theatre_ showed us how one single person on stage can grab the attention of the audience for more than an hour. He is clearly a top professional in acting, and the adaptation of Leaf by Niggle fitted his acting perfectly. The stage setting, despite being minimalistic, was adequate and the protagonist made good use of almost all its elements. I loved the play and will see it again without hesitation.
 
-**Clothing in Tolkien’s world and what we can see through its historical analysis**, by **Ester Torredelforth** ([@Torredelforth](https://twitter.com/torredelforth))
+**Clothing in Tolkien’s world and what we can see through its historical analysis**, by **Dr. Ester Torredelforth** ([@Torredelforth](https://twitter.com/torredelforth))
+
+Ester, Doctor in medieval art and fashion, made a brilliant exposition of the facts that can be understood or extracted from the way Tolkien describes clothing details. Se used several designs prepared by herself to support her lecture, describing how Tolkien must have known with a decent level about medieval fashion and its utility and symbolism.
 
 **Aratalindalë - The Making of a Myth**, by **Maggie Percival**
 
+I was not sure about this talk, but I'm glad I finally attended it. The purpose of the lecture was to describe the process she and some other colleagues followed to prepare the Masquerade for the London WorldCon of 2014 where [they won several prizes including Best overall](https://en.wikipedia.org/wiki/72nd_World_Science_Fiction_Convention). They prepared a group costume entitled Aratalindalë that included eight Valar as they are described in The Silmarillion.
+
+Maggie explained with lots of details the reasoning after all the designs including the selection of fabrics and how they combined traditional dressmaking skills with modern technology using LED lights in the costumes with certain level of animation designed for each Vala. There are [several pictures online](https://www.tolkiensociety.org/2014/08/tolkien-society-members-triumph-at-worldcon-masquerade/) but I haven't found the full video where all the lighting features can be seen properly.
+
 **Tolkien and Italy**, by **Oronzo Cilli** ([@Tolkieniano](https://twitter.com/Tolkieniano))
 
+Oronzo described his research about the relationship between Tolkien and Italy. He traveled there at least a couple of times and apparently there are several details that show he enjoyed and was influenced by the Italian culture. For example, it is known that Tolkien joined the Oxford Dante Society.
+
 **Tolkien's Library**, by **Oronzo Cilli** ([@Tolkieniano](https://twitter.com/Tolkieniano)) with **Tom Shippey**
+
+One of the editorial releases of the year related to Tolkien studies and scholarship. The book is _just_ a list of what could have been part of the Professor's own library, and for each item Oronzo describes if the entry comes from a primary source, a secondary source, etc. Quite interesting if you are curious about the type of works Tolkien owned or had read. As new evidence appears, the list will have to be expanded with new entries.
+
+The room was full also because Tom Shippey wrote the foreword and also participated in the lecture.
 
 **France 1913. Tolkien's first job**, by **Jose Manuel Ferrández Bru** ([@JosManuelFerrn1](https://twitter.com/JosManuelFerrn1))
 
