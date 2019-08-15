@@ -3,22 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/art/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/computer-science/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
+    <loc>/categories/culture/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/event/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/literature/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/personal/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/tolkien/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019/08/tolkien-2019/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/computer-science/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -29,11 +64,6 @@
   
   <url>
     <loc>/categories/internet/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,11 +83,6 @@
   </url>
   
   <url>
-    <loc>/categories/culture/</loc>
-    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/english/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url>
@@ -69,11 +94,6 @@
   
   <url>
     <loc>/categories/linux/</loc>
-    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/personal/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -95,11 +115,6 @@
   <url>
     <loc>/categories/retrospective/</loc>
     <lastmod>2019-01-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/literature/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -490,11 +505,6 @@
   <url>
     <loc>/blog/2012/11/feliz-dia-del-orgullo-primate/</loc>
     <lastmod>2012-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/art/</loc>
-    <lastmod>2012-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1134,11 +1144,6 @@
   
   <url>
     <loc>/blog/2006/02/bolson-cerrado-en-miniatura/</loc>
-    <lastmod>2006-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/tolkien/</loc>
     <lastmod>2006-02-25T00:00:00+00:00</lastmod>
   </url>
   
