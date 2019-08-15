@@ -21,80 +21,88 @@ Let me summarize some of the talks and activities I attended:
 
 # Talks
 
-_Heirs of Tolkien? The Major Contenders_, by **Tom Shippey**
+**Heirs of Tolkien? The Major Contenders**, by **Tom Shippey**
 
-_To the origins of fairy-tales_, by **Enrico Spadaro** ([@EnricoSpadaro7](https://twitter.com/EnricoSpadaro7))
+The opening keynote was delivered perfectly by Tom Shippey, it was the ideal kickoff for an event like this combining interesting facts and humor. I admire him since long time ago, but even more after having met him in person during the last [XXIV Mereth Aderthad](https://estelcon2019.sociedadtolkien.org/en/). Reading Beowulf together while drinking beer unites a lot, who could have imagined it.
 
-_On the nature and corporeality of Elves and Fairies according to Tolkien_, by **Massimiliano Izzo**
+Shippey, with his usual simple slides, started with the slogan of the [Deustche Tolkien Gesellschaft](https://www.tolkiengesellschaft.de/): _Ohne Tolkien, keine fantasy_ (without Tolkien, no fantasy) stressing how this _motto_ is still correct nowadays. Tolkien was the first author to achieve mass market success with ambitious and top level quality high fantasy, something that was even more difficult in the previous century. Mass market success in fantasy works is more common nowadays, and this is only because of Tolkien's legacy.
 
-_Four Brethren Heroes of the Gondolindrim - Egalmoth, Ecthelion, Glorfindel and Legolas : A mythic and linguistic exploration_, by **Andrew Higgins** ([@asthiggins](https://twitter.com/asthiggins))
+He commented that he is working in a taxonomy of fantasy authors, and also explained who could be a worthy successor of Tolkien. In his opinion only three authors are candidates in quality with their own genuine style: [George RR Martin](https://en.wikipedia.org/wiki/George_R._R._Martin), [Stephen Donaldson](https://en.wikipedia.org/wiki/Stephen_R._Donaldson) and [Michael Swanwick](https://en.wikipedia.org/wiki/Michael_Swanwick), all of them heavily influenced by Tolkien. This part was related to the talk he gave in May in Spain comparing the characters, works and values from Tolkien and Martin.
 
-_Ted Nasmith_, by **Ted Nasmith**
+**To the origins of fairy-tales**, by **Enrico Spadaro** ([@EnricoSpadaro7](https://twitter.com/EnricoSpadaro7))
 
-_Leaf by Niggle_, by **Puppet State Theatre** ([@PuppetStateThtr](https://twitter.com/PuppetStateThtr))
+Enrico reminded us the relationship of Tolkien with fairy-tales, and explained the folklore tales that the Professor received as input for inspiration, being the most acknowledged of them the [Kalevala](https://en.wikipedia.org/wiki/Kalevala). The speaker then explained that the [Brothers Grimm](https://en.wikipedia.org/wiki/Brothers_Grimm) or [Charles Perrault](https://en.wikipedia.org/wiki/Charles_Perrault) were not the first ones to write fairy-tales in Europe, as there was an Italian author [Giambattista Basile](https://en.wikipedia.org/wiki/Giambattista_Basile) that was the first one (that we know) to include fairy-tales tales in [Lo Cunto de Li Cunte](https://en.wikipedia.org/wiki/Pentamerone). His tales included the first appearance of Cinderella, Rapunzel or the Sleeping Beauty.
+
+**On the nature and corporeality of Elves and Fairies according to Tolkien**, by **Massimiliano Izzo**
+
+**Four Brethren Heroes of the Gondolindrim - Egalmoth, Ecthelion, Glorfindel and Legolas : A mythic and linguistic exploration**, by **Andrew Higgins** ([@asthiggins](https://twitter.com/asthiggins))
+
+**Ted Nasmith**, by **Ted Nasmith** himself
+
+**Leaf by Niggle**, by **Puppet State Theatre** ([@PuppetStateThtr](https://twitter.com/PuppetStateThtr))
 
 Richard Medringtone
 
-_Clothing in Tolkien’s world and what we can see through its historical analysis_, by **Ester Torredelforth** ([@Torredelforth](https://twitter.com/torredelforth))
+**Clothing in Tolkien’s world and what we can see through its historical analysis**, by **Ester Torredelforth** ([@Torredelforth](https://twitter.com/torredelforth))
 
-_Aratalindalë - The Making of a Myth_, by **Maggie Percival**
+**Aratalindalë - The Making of a Myth**, by **Maggie Percival**
 
-_Tolkien and Italy_, by **Oronzo Cilli** ([@Tolkieniano](https://twitter.com/Tolkieniano))
+**Tolkien and Italy**, by **Oronzo Cilli** ([@Tolkieniano](https://twitter.com/Tolkieniano))
 
-_Tolkien's Library_, by **Oronzo Cilli** ([@Tolkieniano](https://twitter.com/Tolkieniano)) with **Tom Shippey**
+**Tolkien's Library**, by **Oronzo Cilli** ([@Tolkieniano](https://twitter.com/Tolkieniano)) with **Tom Shippey**
 
-_France 1913. Tolkien's first job_, by **Jose Manuel Ferrández Bru** ([@JosManuelFerrn1](https://twitter.com/JosManuelFerrn1))
+**France 1913. Tolkien's first job**, by **Jose Manuel Ferrández Bru** ([@JosManuelFerrn1](https://twitter.com/JosManuelFerrn1))
 
-_The Two Towers of Birmingham, and other follies_, by **John Garth** ([@JohnGarthWriter](https://twitter.com/JohnGarthWriter))
+**The Two Towers of Birmingham, and other follies**, by **John Garth** ([@JohnGarthWriter](https://twitter.com/JohnGarthWriter))
 
-_LOTR on Prime_ panel, by **Shaun Gunner** ([@ShaunGunner](https://twitter.com/ShaunGunner)) with **Brian Sibley**, **Dimitra Fimi** ([@Dr_Dimitra_Fimi](https://twitter.com/Dr_Dimitra_Fimi)), **Anke Eißmann** ([@khorazir](https://twitter.com/khorazir)), **Jeremy Edmonds** ([@TolkienGuide](https://twitter.com/TolkienGuide)) and **Marcel Aubron-Bülles** ([@The_Tolkienist](https://twitter.com/The_Tolkienist))
+**LOTR on Prime** panel, by **Shaun Gunner** ([@ShaunGunner](https://twitter.com/ShaunGunner)) with **Brian Sibley**, **Dimitra Fimi** ([@Dr_Dimitra_Fimi](https://twitter.com/Dr_Dimitra_Fimi)), **Anke Eißmann** ([@khorazir](https://twitter.com/khorazir)), **Jeremy Edmonds** ([@TolkienGuide](https://twitter.com/TolkienGuide)) and **Marcel Aubron-Bülles** ([@The_Tolkienist](https://twitter.com/The_Tolkienist))
 
-_Alan Lee_, by **Alan Lee** ([@AlanLee11225760](https://twitter.com/AlanLee11225760))
+**Alan Lee**, by **Alan Lee** ([@AlanLee11225760](https://twitter.com/AlanLee11225760))
 
-_Orchestra Concert_, by **The People's Orchestra** ([@ThePeoplesOrch](https://twitter.com/ThePeoplesOrch))
+**Orchestra Concert**, by **The People's Orchestra** ([@ThePeoplesOrch](https://twitter.com/ThePeoplesOrch))
 
-_Grendel's Mother and Tolkien's Women_, by **Jane Chance** ([@janegalv](https://twitter.com/janegalv))
+**Grendel's Mother and Tolkien's Women**, by **Jane Chance** ([@janegalv](https://twitter.com/janegalv))
 
-_Pauline Diana Baynes - An artists inspiration_, by **Jay Johnstone** ([@jaystolkien](https://twitter.com/jaystolkien))
+**Pauline Diana Baynes - An artists inspiration**, by **Jay Johnstone** ([@jaystolkien](https://twitter.com/jaystolkien))
 
-_Artists in Middle- earth: illustrating The Lord of the Rings_, by **Marie Bretagnolle** ([@MarieBreta](https://twitter.com/MarieBreta))
+**Artists in Middle- earth: illustrating The Lord of the Rings**, by **Marie Bretagnolle** ([@MarieBreta](https://twitter.com/MarieBreta))
 
-_The source texts for Tove Jansson's illustrations for The Hobbit_, by **Sonja Virta** ([@SonjaVirta](https://twitter.com/SonjaVirta))
+**The source texts for Tove Jansson's illustrations for The Hobbit**, by **Sonja Virta** ([@SonjaVirta](https://twitter.com/SonjaVirta))
 
-_The Shape of Water in Tolkien's Middle-earth_, by **Norbert Schürer**
+**The Shape of Water in Tolkien's Middle-earth**, by **Norbert Schürer**
 
-_Bilbo, Ulysses and the Greatness of the Unknown_, by **Gloria Larini**
+**Bilbo, Ulysses and the Greatness of the Unknown**, by **Gloria Larini**
 
-_Memory, Lore, Knowledge_, by **Thomas Honegger**
+**Memory, Lore, Knowledge**, by **Thomas Honegger**
 
 Another quite interesting talk. The speaker explained the concepts, remarking the difference that Tolkien made among them. For example, regarding memory we can find _live_ memory (Gandalf, Galadriel, ...) and dormant memory (the ring verse, old Gondor lore). The main part of the talk was about the difference (almost opposition) between knowledge and lore. In Middle-earth, knowledge is perceived as negative (Saruman is the main representative) but Lore is usually positive (Ioreth, as the best example). Lore cannot be learned, it needs to be handed over or it will be lost. That is why knowledge can increase, but Lore can only decline.
 
-_The Hobbits and I: My Travels in Middle-earth_, by **Brian Sibley**
+**The Hobbits and I: My Travels in Middle-earth**, by **Brian Sibley**
 
-_'I met a lot of things on the way that astonished me': Natural Growth in Writing The Lord of the Rings_, by **Christina Scull**
+**'I met a lot of things on the way that astonished me': Natural Growth in Writing The Lord of the Rings**, by **Christina Scull**
 
-_Ten Years of Books in Tengwar_, by **Tsvetelina Krumova**
+**Ten Years of Books in Tengwar**, by **Tsvetelina Krumova**
 
-_Taniquetil: A tale of two cities_, by **Denis Bridoux**
+**Taniquetil: A tale of two cities**, by **Denis Bridoux**
 
-_An Archaeology of Hope and Despair in the Tale of Aragorn and Arwen_, by **John T Whitmire**
+**An Archaeology of Hope and Despair in the Tale of Aragorn and Arwen**, by **John T Whitmire**
 
-_The Dim Echo of the Catcher_, by **Nils Ivar Agøy**
+**The Dim Echo of the Catcher**, by **Nils Ivar Agøy**
 
-_Tolkien and His Publishers_, by **Wayne Hammond**
+**Tolkien and His Publishers**, by **Wayne Hammond**
 
-_Illustrating Tolkien_ panel, by **Shaun Gunner** ([@ShaunGunner](https://twitter.com/ShaunGunner)) with **Alan Lee** ([@AlanLee11225760](https://twitter.com/AlanLee11225760)), **Anke Eißmann** ([@khorazir](https://twitter.com/khorazir)), **Jenny Dolfen** ([@JennyDolfen](https://twitter.com/JennyDolfen)), **Ted Nasmith** and **Jay Johnstone** ([@jaystolkien](https://twitter.com/jaystolkien))
+**Illustrating Tolkien** panel, by **Shaun Gunner** ([@ShaunGunner](https://twitter.com/ShaunGunner)) with **Alan Lee** ([@AlanLee11225760](https://twitter.com/AlanLee11225760)), **Anke Eißmann** ([@khorazir](https://twitter.com/khorazir)), **Jenny Dolfen** ([@JennyDolfen](https://twitter.com/JennyDolfen)), **Ted Nasmith** and **Jay Johnstone** ([@jaystolkien](https://twitter.com/jaystolkien))
 
-_Tolkien and the classics_, by **Claudio A. Testi** with **Tom Shippey** and **Thomas Honegger**
+**Tolkien and the classics**, by **Claudio A. Testi** with **Tom Shippey** and **Thomas Honegger**
 
-_Masquerade_
+**Masquerade**
 
-_Geopolitics in Tolkien’s Works_, by **Lamont Colucci** ([@LamontColucci](https://twitter.com/LamontColucci))
+**Geopolitics in Tolkien’s Works**, by **Lamont Colucci** ([@LamontColucci](https://twitter.com/LamontColucci))
 
-_Gandalf for President: the Politics of Tolkien_, by **Shaun Gunner** ([@ShaunGunner](https://twitter.com/ShaunGunner))
+**Gandalf for President: the Politics of Tolkien**, by **Shaun Gunner** ([@ShaunGunner](https://twitter.com/ShaunGunner))
 
-_Power and Choice in the Second Age: A Political Primer_, by **Sarah Rachel Westvik**
+**Power and Choice in the Second Age: A Political Primer**, by **Sarah Rachel Westvik**
 
-_Five or Six Ponies?_, by **Jessica Yates**
+**Five or Six Ponies?**, by **Jessica Yates**
 
-_Tolkien, Folklore, and Foxes: a thoroughly vulpine talk in which there may be singing!_, by **Dimitra Fimi** ([@Dr_Dimitra_Fimi](https://twitter.com/Dr_Dimitra_Fimi))
+**Tolkien, Folklore, and Foxes: a thoroughly vulpine talk in which there may be singing!**, by **Dimitra Fimi** ([@Dr_Dimitra_Fimi](https://twitter.com/Dr_Dimitra_Fimi))
