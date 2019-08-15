@@ -39,7 +39,13 @@ Very interesting and well documented talk, about how Tolkien speculated on the r
 
 **Four Brethren Heroes of the Gondolindrim - Egalmoth, Ecthelion, Glorfindel and Legolas : A mythic and linguistic exploration**, by **Andrew Higgins** ([@asthiggins](https://twitter.com/asthiggins))
 
-**Ted Nasmith**, by **Ted Nasmith** himself
+Andrew Higgins explained very briefly how these four important characters are related to heroes from the Classical and Medieval works Tolkien could have known. He commented how Tolkien could have thought the names for each of them, linking as usual the meaning with the character. Again, it will be nice to read the final paper in the proceedings.
+
+**Two Realms: Finished and Unfinished Business**, by **Ted Nasmith**
+
+This was the first of many talks focusing on the illustration of Tolkien's works. This time, Ted Nasmith himself showed us some of his recent commissioned works related to Middle-earth and at the end also to The Song of Ice and Fire. It's impossible to articulate in words what he showed us: lots of illustrations including preliminary drafts or color tests that I would happily put in my walls.
+
+Ted is not only a gifted artist but also proved to be friendly to his fans and methodical in his work.
 
 **Leaf by Niggle**, by **Puppet State Theatre** ([@PuppetStateThtr](https://twitter.com/PuppetStateThtr))
 
