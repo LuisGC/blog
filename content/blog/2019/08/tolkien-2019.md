@@ -49,7 +49,7 @@ Ted is not only a gifted artist but also proved to be friendly to his fans and m
 
 **Leaf by Niggle**, by **Puppet State Theatre** ([@PuppetStateThtr](https://twitter.com/PuppetStateThtr))
 
-Richard Medringtone
+Richard Medringtone from the _Puppet State Theatre_ showed us how one single person on stage can grab the attention of the audience for more than an hour. He is clearly a top professional in acting, and the adaptation of Leaf by Niggle fitted his acting perfectly. The stage setting, despite being minimalistic, was adequate and the protagonist made good use of almost all its elements. I loved the play and will see it again without hesitation.
 
 **Clothing in Tolkien’s world and what we can see through its historical analysis**, by **Ester Torredelforth** ([@Torredelforth](https://twitter.com/torredelforth))
 
