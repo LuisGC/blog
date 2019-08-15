@@ -35,6 +35,8 @@ Enrico reminded us the relationship of Tolkien with fairy-tales, and explained t
 
 **On the nature and corporeality of Elves and Fairies according to Tolkien**, by **Massimiliano Izzo**
 
+Very interesting and well documented talk, about how Tolkien speculated on the real nature of elves and how this vision evolved through his life. Metaphysical and sometimes even philosophical discussions that will deserve a quiet read when the proceedings are published.
+
 **Four Brethren Heroes of the Gondolindrim - Egalmoth, Ecthelion, Glorfindel and Legolas : A mythic and linguistic exploration**, by **Andrew Higgins** ([@asthiggins](https://twitter.com/asthiggins))
 
 **Ted Nasmith**, by **Ted Nasmith** himself
