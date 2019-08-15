@@ -23,41 +23,41 @@ Let me summarize some of the talks and activities I attended:
 
 _Heirs of Tolkien? The Major Contenders_, by **Tom Shippey**
 
-_To the origins of fairy-tales_, by **Enrico Spadaro**
+_To the origins of fairy-tales_, by **Enrico Spadaro** ([@EnricoSpadaro7](https://twitter.com/EnricoSpadaro7))
 
 _On the nature and corporeality of Elves and Fairies according to Tolkien_, by **Massimiliano Izzo**
 
-_Four Brethren Heroes of the Gondolindrim - Egalmoth, Ecthelion, Glorfindel and Legolas : A mythic and linguistic exploration_, by **Andrew Higgins**
+_Four Brethren Heroes of the Gondolindrim - Egalmoth, Ecthelion, Glorfindel and Legolas : A mythic and linguistic exploration_, by **Andrew Higgins** ([@asthiggins](https://twitter.com/asthiggins))
 
 _Ted Nasmith_, by **Ted Nasmith**
 
 _Leaf by Niggle_, by ****
 
-_Clothing in Tolkien’s world and what we can see through its historical analysis_, by **Ester Torredelforth**
+_Clothing in Tolkien’s world and what we can see through its historical analysis_, by **Ester Torredelforth** ([@Torredelforth](https://twitter.com/torredelforth))
 
 _Aratalindalë - The Making of a Myth_, by **Maggie Percival**
 
-_Tolkien and Italy_, by **Oronzo Cilli**
+_Tolkien and Italy_, by **Oronzo Cilli** ([@Tolkieniano](https://twitter.com/Tolkieniano))
 
-_Tolkien's Library_, by **Oronzo Cilli** with **Tom Shippey**
+_Tolkien's Library_, by **Oronzo Cilli** ([@Tolkieniano](https://twitter.com/Tolkieniano)) with **Tom Shippey**
 
-_France 1913. Tolkien's first job_, by **Jose Manuel Ferrández Bru**
+_France 1913. Tolkien's first job_, by **Jose Manuel Ferrández Bru** ([@JosManuelFerrn1](https://twitter.com/JosManuelFerrn1))
 
-_The Two Towers of Birmingham, and other follies_, by **John Garth**
+_The Two Towers of Birmingham, and other follies_, by **John Garth** ([@JohnGarthWriter](https://twitter.com/JohnGarthWriter))
 
-_LOTR on Prime_ panel, by ****
+_LOTR on Prime_ panel, by **Shaun Gunner** ([@ShaunGunner](https://twitter.com/ShaunGunner)) with **Brian Sibley**, **Dimitra Fimi** ([@Dr_Dimitra_Fimi](https://twitter.com/Dr_Dimitra_Fimi)), **Anke Eißmann** ([@khorazir](https://twitter.com/khorazir)), **Jeremy Edmonds** ([@TolkienGuide](https://twitter.com/TolkienGuide)) and **Marcel Aubron-Bülles** ([@The_Tolkienist](https://twitter.com/The_Tolkienist))
 
-_Alan Lee_, by **Alan Lee**
+_Alan Lee_, by **Alan Lee** ([@AlanLee11225760](https://twitter.com/AlanLee11225760))
 
-_Orchestra Concert_, by **The People's Orchestra**
+_Orchestra Concert_, by **The People's Orchestra** ([@ThePeoplesOrch](https://twitter.com/ThePeoplesOrch))
 
-_Grendel's Mother and Tolkien's Women_, by **Jane Chance**
+_Grendel's Mother and Tolkien's Women_, by **Jane Chance** ([@janegalv](https://twitter.com/janegalv))
 
-_Pauline Diana Baynes - An artists inspiration_, by **Jay Johnstone**
+_Pauline Diana Baynes - An artists inspiration_, by **Jay Johnstone** ([@jaystolkien](https://twitter.com/jaystolkien))
 
-_Artists in Middle- earth: illustrating The Lord of the Rings_, by **Marie Bretagnolle**
+_Artists in Middle- earth: illustrating The Lord of the Rings_, by **Marie Bretagnolle** ([@MarieBreta](https://twitter.com/MarieBreta))
 
-_The source texts for Tove Jansson's illustrations for The Hobbit_, by **Sonja Virta**
+_The source texts for Tove Jansson's illustrations for The Hobbit_, by **Sonja Virta** ([@SonjaVirta](https://twitter.com/SonjaVirta))
 
 _The Shape of Water in Tolkien's Middle-earth_, by **Norbert Schürer**
 
@@ -79,18 +79,18 @@ _The Dim Echo of the Catcher_, by **Nils Ivar Agøy**
 
 _Tolkien and His Publishers_, by **Wayne Hammond**
 
-_- Ilustrating Tolkien_ panel, by ****
+_Illustrating Tolkien_ panel, by **Shaun Gunner** ([@ShaunGunner](https://twitter.com/ShaunGunner)) with **Alan Lee** ([@AlanLee11225760](https://twitter.com/AlanLee11225760)), **Anke Eißmann** ([@khorazir](https://twitter.com/khorazir)), **Jenny Dolfen** ([@JennyDolfen](https://twitter.com/JennyDolfen)), **Ted Nasmith** and **Jay Johnstone** ([@jaystolkien](https://twitter.com/jaystolkien))
 
 _Tolkien and the classics_, by **Claudio A. Testi** with **Tom Shippey** and **Thomas Honegger**
 
 _Masquerade_
 
-_Geopolitics in Tolkien’s Works_, by **Lamont Colucci**
+_Geopolitics in Tolkien’s Works_, by **Lamont Colucci** ([@LamontColucci](https://twitter.com/LamontColucci))
 
-_Gandalf for President: the Politics of Tolkien_, by **Shaun Gunner**
+_Gandalf for President: the Politics of Tolkien_, by **Shaun Gunner** ([@ShaunGunner](https://twitter.com/ShaunGunner))
 
 _Power and Choice in the Second Age: A Political Primer_, by **Sarah Rachel Westvik**
 
 _Five or Six Ponies?_, by **Jessica Yates**
 
-_Tolkien, Folklore, and Foxes: a thoroughly vulpine talk in which there may be singing!_, by **Dimitra Fimi**
+_Tolkien, Folklore, and Foxes: a thoroughly vulpine talk in which there may be singing!_, by **Dimitra Fimi** ([@Dr_Dimitra_Fimi](https://twitter.com/Dr_Dimitra_Fimi))
