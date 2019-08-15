@@ -13,7 +13,7 @@ featuredpath = "Tolkien 2019, the largest celebration of Tolkien ever held by th
 
 If you are reading this you probably know already that I am a big fan of [**J.R.R. Tolkien**](https://en.wikipedia.org/wiki/J._R._R._Tolkien), to the point that I joined the Spanish Tolkien Society ([**Sociedad Tolkien Española**](http://www.sociedadtolkien.org/)) almost 20 years ago and I usually don't miss any of their events.
 
-Since recently I also belong to the [**Tolkien Society**](https://www.tolkiensociety.org/), and after having missed for probably important (but now unknown) reasons [Tolkien 2005 and Tolkien 2012](https://www.tolkiensociety.org/society/events/conferences/), the last major events that they organized, I was not going to miss [**Tolkien 2019**](https://www.tolkien2019.com/). In 2005 the gathering marked the 50th anniversary of the complete publication of The Lord of The Rings. In 2012 the conference was held to commemorate the 75th anniversary of the publication of The Hobbit. This year the **Tolkien Society** celebrated its own 50th anniversary with the largest celebration of Tolkien ever held.
+Since recently I also belong to the [**Tolkien Society**](https://www.tolkiensociety.org/), and after having missed for probably important (but now unknown) reasons [Tolkien 2005 and Tolkien 2012](https://www.tolkiensociety.org/society/events/conferences/), the last major events that they organized, I was not going to miss [**Tolkien 2019**](https://www.tolkien2019.com/). In 2005 the gathering marked the 50th anniversary of the complete publication of The Lord of The Rings. In 2012 the conference was held to commemorate the 75th anniversary of the publication of The Hobbit. This year the **Tolkien Society** celebrated its own 50th anniversary with the largest celebration of Tolkien ever held. More than **550 attendees** and more than **150 activities** including talks, panels, workshops, signing sessions, music, theater,...
 
 I don't have time right now for a complete review of the event, but I don't want to miss the opportunity to write here some quick impressions of my experience there.
 
@@ -31,7 +31,9 @@ _Four Brethren Heroes of the Gondolindrim - Egalmoth, Ecthelion, Glorfindel and 
 
 _Ted Nasmith_, by **Ted Nasmith**
 
-_Leaf by Niggle_, by ****
+_Leaf by Niggle_, by **Puppet State Theatre** ([@PuppetStateThtr](https://twitter.com/PuppetStateThtr))
+
+Richard Medringtone
 
 _Clothing in Tolkien’s world and what we can see through its historical analysis_, by **Ester Torredelforth** ([@Torredelforth](https://twitter.com/torredelforth))
 
@@ -64,6 +66,8 @@ _The Shape of Water in Tolkien's Middle-earth_, by **Norbert Schürer**
 _Bilbo, Ulysses and the Greatness of the Unknown_, by **Gloria Larini**
 
 _Memory, Lore, Knowledge_, by **Thomas Honegger**
+
+Another quite interesting talk. The speaker explained the concepts, remarking the difference that Tolkien made among them. For example, regarding memory we can find _live_ memory (Gandalf, Galadriel, ...) and dormant memory (the ring verse, old Gondor lore). The main part of the talk was about the difference (almost opposition) between knowledge and lore. In Middle-earth, knowledge is perceived as negative (Saruman is the main representative) but Lore is usually positive (Ioreth, as the best example). Lore cannot be learned, it needs to be handed over or it will be lost. That is why knowledge can increase, but Lore can only decline.
 
 _The Hobbits and I: My Travels in Middle-earth_, by **Brian Sibley**
 
