@@ -83,6 +83,10 @@ The lecture also served somehow as a teaser for his next book, called for the mo
 
 **LOTR on Prime** panel, by **Shaun Gunner** ([@ShaunGunner](https://twitter.com/ShaunGunner)) with **Brian Sibley**, **Dimitra Fimi** ([@Dr_Dimitra_Fimi](https://twitter.com/Dr_Dimitra_Fimi)), **Anke Eißmann** ([@khorazir](https://twitter.com/khorazir)), **Jeremy Edmonds** ([@TolkienGuide](https://twitter.com/TolkienGuide)) and **Marcel Aubron-Bülles** ([@The_Tolkienist](https://twitter.com/The_Tolkienist))
 
+This panel was promising, first of all because the selection of participants was very well balanced with writers, scholars and artists offering different perspectives about their expectations. Of course they did not give any factual data, and probably that is the reason they were there in the panel giving their opinions freely and not Tom Shippey that is directly involved in the project.
+
+I specially liked the contributions by Brian Sibley, who was fully engaged in all the Peter Jackson films, and Anke Eißmann, who is eager like me to see in the new series a more daring production compared specially to The Hobbit films. Let's hope they don't try to imitate the style of Game of Thrones.
+
 **Alan Lee**, by **Alan Lee** ([@AlanLee11225760](https://twitter.com/AlanLee11225760))
 
 **Orchestra Concert**, by **The People's Orchestra** ([@ThePeoplesOrch](https://twitter.com/ThePeoplesOrch))
