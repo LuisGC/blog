@@ -95,6 +95,10 @@ There was also time for him to answer a lot of questions from the audience, some
 
 **Orchestra Concert**, by **The People's Orchestra** ([@ThePeoplesOrch](https://twitter.com/ThePeoplesOrch))
 
+After enjoying a couple of beers in a nearby pub we came back for the concert, we were very lucky and we were able to take seats in the front row just behind the Orchestra director. We were entertained not only with the soundtracks of all the LotR and The Hobbit movies, but also with several other compositions from our vast geek popular culture. Both the orchestra and its conductor demonstrated an impressive quality and charisma, one could see the effort to please the audience.
+
+The [People's Orchestra](https://thepeoplesorchestra.com/) is a charity apart from a standard symphony orchestra. They provide professional musical training and even work opportunities for unemployed people. Impressive.
+
 **Grendel's Mother and Tolkien's Women**, by **Jane Chance** ([@janegalv](https://twitter.com/janegalv))
 
 **Pauline Diana Baynes - An artists inspiration**, by **Jay Johnstone** ([@jaystolkien](https://twitter.com/jaystolkien))
