@@ -1,7 +1,7 @@
 +++
 author = "LuisGC"
 title = "Tolkien 2019"
-date = "2019-08-15"
+date = "2019-08-16"
 type = "post"
 categories = ["event", "culture", "literature", "personal", "art", "tolkien"]
 featured = "/img/tolkien-2019.jpg"
@@ -76,6 +76,10 @@ The room was full also because Tom Shippey wrote the foreword and also participa
 My colleague from the ([**STE**](http://www.sociedadtolkien.org/)) is becoming a regular for these types of events, and no wonder it's like that with the quality and amount of research he has been doing over the last years. This time the lecture was about how a very young Tolkien got a job as tutor of a bunch of kids during a trip to France. Without spoiling the details, let's say that the task was suddenly complicated and could have disrupted Tolkien in a unique way.
 
 **The Two Towers of Birmingham, and other follies**, by **John Garth** ([@JohnGarthWriter](https://twitter.com/JohnGarthWriter))
+
+It was believed that a couple of towers from Birmingham (Perrott's Folly and the Edgbaston Waterworks tower) may have provided the inspiration for the Two Towers in the Lord of the Rings. John Garth started his keynote explaining why he does not consider this argument very solid. First of all, which two towers? Minas Morgul and Minas Tirith? Orthanc and Barad-dûr? It's still ambiguous. Garth reviewed all the early designs that we have from Tolkien about those towers, analyzing the evolution of them.
+
+The lecture also served somehow as a teaser for his next book, called for the moment as _Tolkien's Worlds_.
 
 **LOTR on Prime** panel, by **Shaun Gunner** ([@ShaunGunner](https://twitter.com/ShaunGunner)) with **Brian Sibley**, **Dimitra Fimi** ([@Dr_Dimitra_Fimi](https://twitter.com/Dr_Dimitra_Fimi)), **Anke Eißmann** ([@khorazir](https://twitter.com/khorazir)), **Jeremy Edmonds** ([@TolkienGuide](https://twitter.com/TolkienGuide)) and **Marcel Aubron-Bülles** ([@The_Tolkienist](https://twitter.com/The_Tolkienist))
 
