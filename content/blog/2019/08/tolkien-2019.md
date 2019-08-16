@@ -87,7 +87,11 @@ This panel was promising, first of all because the selection of participants was
 
 I specially liked the contributions by Brian Sibley, who was fully engaged in all the Peter Jackson films, and Anke Eißmann, who is eager like me to see in the new series a more daring production compared specially to The Hobbit films. Let's hope they don't try to imitate the style of Game of Thrones.
 
-**Alan Lee**, by **Alan Lee** ([@AlanLee11225760](https://twitter.com/AlanLee11225760))
+**Alan Lee's Sketchbook**, by **Alan Lee** ([@AlanLee11225760](https://twitter.com/AlanLee11225760))
+
+Despite the main room was completely full, the organization switched off the lights for the audience and everyone was in absolute silence listening to the careful explanations by Alan Lee. It was almost magical and completely amazing. We could see dozens of sketches explained from the genius himself, from watercolor exercises to architectural blueprints. Lee's view on Middle-earth is engraved in the mind of many people (including mine) and we were very lucky that his vision was also omnipresent in Peter Jackson's films.
+
+There was also time for him to answer a lot of questions from the audience, some of them related to their relationship with other artists like John Howe.
 
 **Orchestra Concert**, by **The People's Orchestra** ([@ThePeoplesOrch](https://twitter.com/ThePeoplesOrch))
 
