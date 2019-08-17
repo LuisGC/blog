@@ -185,7 +185,9 @@ The lecture, that will also deserve a slow read in the proceedings, described ho
 * Stratum D is a more refined version, where we find Ivorwen identifying Aragorn personally as hope and Elrond calling Aragorn directly Amir (that means hope)
 * etc.
 
-**The Dim Echo of the Catcher**, by **Nils Ivar Agøy**
+[**The Dim Echo of the Catcher**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/778), by **Nils Ivar Agøy**
+
+In this lecture Nils, that receive during the banquet a badge for belonging to the TS since 25 years ago, describes his research about the connections between Tolkien's comments on the [_Nodens_](https://en.wikipedia.org/wiki/Nodens) Celtic deity and his own legendarium. It is known that the Professor studied about this, to the point [he wrote a paper about the name of the Nodens deity](https://en.wikipedia.org/wiki/Nodens#Etymology) and probably traveled several times to the excavations. The speaker described some parallelisms and the presence in The Silmarillion of mentions to a _catcher_ or hunter deity. Interesting read.
 
 **Tolkien and His Publishers**, by **Wayne Hammond**
 
