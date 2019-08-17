@@ -127,6 +127,10 @@ Third talk in a row about illustration. This time the content was focused on the
 
 **The Shape of Water in Tolkien's Middle-earth**, by **Norbert Schürer**
 
+Another pleasant surprise, thanks to the good work of the speaker. Norbert explained with high detail the research he is doing about the influence of the water in Middle-earth. He started the paper after discovering that there was not a lot of scholar work about it, despite the water is omnipresent in The Lord of the Rings in all its forms/states: liquid, solid and gaseous. I'd add another _shape_ to his list of occurrences: the **absence** of water. After all the tragic journey of Frodo and Sam towards Mount Doom, the absence of water is what finally makes them realize that there is no possible return.
+
+The speaker described as well the taxonomy he is working on, based on the type of representation of the water in each moment: figurative, purely instrumental, only geographical and intentional. This is again a paper I will enjoy reading again once the proceedings are published.
+
 **Bilbo, Ulysses and the Greatness of the Unknown**, by **Gloria Larini**
 
 **Memory, Lore, Knowledge**, by **Thomas Honegger**
