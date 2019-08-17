@@ -29,15 +29,15 @@ Shippey, with his usual simple slides, started with the slogan of the [Deustche 
 
 He commented that he is working in a taxonomy of fantasy authors, and also explained who could be a worthy successor of Tolkien. In his opinion only three authors are candidates in quality with their own genuine style: [George RR Martin](https://en.wikipedia.org/wiki/George_R._R._Martin), [Stephen Donaldson](https://en.wikipedia.org/wiki/Stephen_R._Donaldson) and [Michael Swanwick](https://en.wikipedia.org/wiki/Michael_Swanwick), all of them heavily influenced by Tolkien. This part was related to the talk he gave in May in Spain comparing the characters, works and values from Tolkien and Martin.
 
-**To the origins of fairy-tales**, by **Enrico Spadaro** ([@EnricoSpadaro7](https://twitter.com/EnricoSpadaro7))
+[**To the origins of fairy-tales**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/451), by **Enrico Spadaro** ([@EnricoSpadaro7](https://twitter.com/EnricoSpadaro7))
 
 Enrico reminded us the relationship of Tolkien with fairy-tales, and explained the folklore tales that the Professor received as input for inspiration, being the most acknowledged of them the [Kalevala](https://en.wikipedia.org/wiki/Kalevala). The speaker then explained that the [Brothers Grimm](https://en.wikipedia.org/wiki/Brothers_Grimm) or [Charles Perrault](https://en.wikipedia.org/wiki/Charles_Perrault) were not the first ones to write fairy-tales in Europe, as there was an Italian author [Giambattista Basile](https://en.wikipedia.org/wiki/Giambattista_Basile) that was the first one (that we know) to include fairy-tales tales in [Lo Cunto de Li Cunte](https://en.wikipedia.org/wiki/Pentamerone). His tales included the first appearance of Cinderella, Rapunzel or the Sleeping Beauty.
 
-**On the nature and corporeality of Elves and Fairies according to Tolkien**, by **Massimiliano Izzo**
+[**On the nature and corporeality of Elves and Fairies according to Tolkien**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/460), by **Massimiliano Izzo**
 
 Very interesting and well documented talk, about how Tolkien speculated on the real nature of elves and how this vision evolved through his life. Metaphysical and sometimes even philosophical discussions that will deserve a quiet read when the proceedings are published.
 
-**Four Brethren Heroes of the Gondolindrim - Egalmoth, Ecthelion, Glorfindel and Legolas : A mythic and linguistic exploration**, by **Andrew Higgins** ([@asthiggins](https://twitter.com/asthiggins))
+[**Four Brethren Heroes of the Gondolindrim - Egalmoth, Ecthelion, Glorfindel and Legolas : A mythic and linguistic exploration**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/475), by **Andrew Higgins** ([@asthiggins](https://twitter.com/asthiggins))
 
 Andrew Higgins explained very briefly how these four important characters are related to heroes from the Classical and Medieval works Tolkien could have known. He commented how Tolkien could have thought the names for each of them, linking as usual the meaning with the character. Again, it will be nice to read the final paper in the proceedings.
 
@@ -51,31 +51,31 @@ Ted is not only a gifted artist but also proved to be friendly to his fans and m
 
 Richard Medringtone from the _Puppet State Theatre_ showed us how one single person on stage can grab the attention of the audience for more than an hour. He is clearly a top professional in acting, and the adaptation of Leaf by Niggle fitted his acting perfectly. The stage setting, despite being minimalistic, was adequate and the protagonist made good use of almost all its elements. I loved the play and will see it again without hesitation.
 
-**Clothing in Tolkien’s world and what we can see through its historical analysis**, by **Dr. Ester Torredelforth** ([@Torredelforth](https://twitter.com/torredelforth))
+[**Clothing in Tolkien’s world and what we can see through its historical analysis**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/496), by **Dr. Ester Torredelforth** ([@Torredelforth](https://twitter.com/torredelforth))
 
 Ester, Doctor in medieval art and fashion, made a brilliant exposition of the facts that can be understood or extracted from the way Tolkien describes clothing details. Se used several designs prepared by herself to support her lecture, describing how Tolkien must have known with a decent level about medieval fashion and its utility and symbolism.
 
-**Aratalindalë - The Making of a Myth**, by **Maggie Percival**
+[**Aratalindalë - The Making of a Myth**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/505), by **Maggie Percival**
 
 I was not sure about this talk, but I'm glad I finally attended it. The purpose of the lecture was to describe the process she and some other colleagues followed to prepare the Masquerade for the London WorldCon of 2014 where [they won several prizes including Best overall](https://en.wikipedia.org/wiki/72nd_World_Science_Fiction_Convention). They prepared a group costume entitled Aratalindalë that included eight Valar as they are described in The Silmarillion.
 
 Maggie explained with lots of details the reasoning after all the designs including the selection of fabrics and how they combined traditional dressmaking skills with modern technology using LED lights in the costumes with certain level of animation designed for each Vala. There are [several pictures online](https://www.tolkiensociety.org/2014/08/tolkien-society-members-triumph-at-worldcon-masquerade/) but I haven't found the full video where all the lighting features can be seen properly.
 
-**Tolkien and Italy**, by **Oronzo Cilli** ([@Tolkieniano](https://twitter.com/Tolkieniano))
+[**Tolkien and Italy**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/517), by **Oronzo Cilli** ([@Tolkieniano](https://twitter.com/Tolkieniano))
 
 Oronzo described his research about the relationship between Tolkien and Italy. He traveled there at least a couple of times and apparently there are several details that show he enjoyed and was influenced by the Italian culture. For example, it is known that Tolkien joined the Oxford Dante Society.
 
-**Tolkien's Library**, by **Oronzo Cilli** ([@Tolkieniano](https://twitter.com/Tolkieniano)) with **Tom Shippey**
+[**Tolkien's Library**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/526), by **Oronzo Cilli** ([@Tolkieniano](https://twitter.com/Tolkieniano)) with **Tom Shippey**
 
 One of the editorial releases of the year related to Tolkien studies and scholarship. The book is _just_ a list of what could have been part of the Professor's own library, and for each item Oronzo describes if the entry comes from a primary source, a secondary source, etc. Quite interesting if you are curious about the type of works Tolkien owned or had read. As new evidence appears, the list will have to be expanded with new entries.
 
 The room was full also because Tom Shippey wrote the foreword and also participated in the lecture.
 
-**France 1913. Tolkien's first job**, by **Jose Manuel Ferrández Bru** ([@JosManuelFerrn1](https://twitter.com/JosManuelFerrn1))
+[**France 1913. Tolkien's first job**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/538), by **Jose Manuel Ferrández Bru** ([@JosManuelFerrn1](https://twitter.com/JosManuelFerrn1))
 
 My colleague from the ([**STE**](http://www.sociedadtolkien.org/)) is becoming a regular for these types of events, and no wonder it's like that with the quality and amount of research he has been doing over the last years. This time the lecture was about how a very young Tolkien got a job as tutor of a bunch of kids during a trip to France. Without spoiling the details, let's say that the task was suddenly complicated and could have disrupted Tolkien in a unique way.
 
-**The Two Towers of Birmingham, and other follies**, by **John Garth** ([@JohnGarthWriter](https://twitter.com/JohnGarthWriter))
+[**The Two Towers of Birmingham, and other follies**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/571), by **John Garth** ([@JohnGarthWriter](https://twitter.com/JohnGarthWriter))
 
 It was believed that a couple of towers from Birmingham (Perrott's Folly and the Edgbaston Waterworks tower) may have provided the inspiration for the Two Towers in the Lord of the Rings. John Garth started his keynote explaining why he does not consider this argument very solid. First of all, which two towers? Minas Morgul and Minas Tirith? Orthanc and Barad-dûr? It's still ambiguous. Garth reviewed all the early designs that we have from Tolkien about those towers, analyzing the evolution of them.
 
@@ -87,7 +87,7 @@ This panel was promising, first of all because the selection of participants was
 
 I specially liked the contributions by Brian Sibley, who was fully engaged in all the Peter Jackson films, and Anke Eißmann, who is eager like me to see in the new series a more daring production compared specially to The Hobbit films. Let's hope they don't try to imitate the style of Game of Thrones.
 
-**Alan Lee's Sketchbook**, by **Alan Lee** ([@AlanLee11225760](https://twitter.com/AlanLee11225760))
+[**Alan Lee's Sketchbook**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/592), by **Alan Lee** ([@AlanLee11225760](https://twitter.com/AlanLee11225760))
 
 Despite the main room was completely full, the organization switched off the lights for the audience and everyone was in absolute silence listening to the careful explanations by Alan Lee. It was almost magical and completely amazing. We could see dozens of sketches explained from the genius himself, from watercolor exercises to architectural blueprints. Lee's view on Middle-earth is engraved in the mind of many people (including mine) and we were very lucky that his vision was also omnipresent in Peter Jackson's films.
 
@@ -99,11 +99,11 @@ After enjoying a couple of beers in a nearby pub we came back for the concert, w
 
 The [People's Orchestra](https://thepeoplesorchestra.com/) is a charity apart from a standard symphony orchestra. They provide professional musical training and even work opportunities for unemployed people. Impressive.
 
-**Grendel's Mother and Tolkien's Women**, by **Jane Chance** ([@janegalv](https://twitter.com/janegalv))
+[**Grendel's Mother and Tolkien's Women**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/610), by **Jane Chance** ([@janegalv](https://twitter.com/janegalv))
 
 The speaker was humorous and kind with the audience, taking into account she delivered the talk without any kind of visual support very early on Friday morning. As the recognized expert in the field that she is, Jane spoke clearly and concisely about the role of Grendel's Mother in Beowulf. After that, she managed to link the topic with the attitude of Tolkien about women in his professional academical experience. The talk was interesting but I could not connect some dots on the spot, hopefully I will with the proceedings.
 
-**Pauline Diana Baynes - An artists inspiration**, by **Jay Johnstone** ([@jaystolkien](https://twitter.com/jaystolkien))
+[**Pauline Diana Baynes - An artists inspiration**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/616), by **Jay Johnstone** ([@jaystolkien](https://twitter.com/jaystolkien))
 
 After having met Jay in the Dealer's room and having enjoyed his own amazing pieces of art, I was curious about this talk. I expected him to explain not only his admiration for the artist but also his opinion as a passionate collector. I received what I expected, by far.
 
@@ -113,7 +113,7 @@ I learned in the talk that Pauline illustrated Farmer Giles of Ham by pure chanc
 
 Jay showed us some less known drawings and we were amazed both with the artwork and Jay's explanations during the entire hour. He clearly infected me with his passion, I entered the room knowing Pauline Baynes only a little and left as a new declared fan.
 
-**Artists in Middle-earth: illustrating The Lord of the Rings**, by **Marie Bretagnolle** ([@MarieBreta](https://twitter.com/MarieBreta))
+[**Artists in Middle-earth: illustrating The Lord of the Rings**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/631), by **Marie Bretagnolle** ([@MarieBreta](https://twitter.com/MarieBreta))
 
 The abstract of the talk announced that [Marie Bretagnolle](https://voirtolkien.hypotheses.org/) was going to compare two of the most important British editions of The Lord of the Rings, also the only ones with commissioned illustrations inside. First the 1977 [Folio Society](https://en.wikipedia.org/wiki/Folio_Society) edition, and the second by Alan Lee for the 1991-1992 Centenary edition.
 
@@ -121,33 +121,33 @@ Marie delivered a clear and interesting talk, comparing the illustrations in bot
 
 Maria is also to blame that I just spent a small fortune in the [Folio Society](https://www.foliosociety.com/) website.
 
-**The source texts for Tove Jansson's illustrations for The Hobbit**, by **Sonja Virta** ([@SonjaVirta](https://twitter.com/SonjaVirta))
+[**The source texts for Tove Jansson's illustrations for The Hobbit**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/637), by **Sonja Virta** ([@SonjaVirta](https://twitter.com/SonjaVirta))
 
 Third talk in a row about illustration. This time the content was focused on the controversially illustrated Swedish edition of The Hobbit in 1962. It was (or is) controversial for the somewhat gloomy tone of the drawings but specially because [**Tove Jansson**](https://en.wikipedia.org/wiki/Tove_Jansson) presented [Gollum as a huge moster](https://wharferj.wordpress.com/2016/01/16/tove-janssons-illustrations-for-the-hobbit/). The speaker explained her thorough research on the topic, and the influence that the first Swedish translation of 1947 could have had in Tove Jansson for the 1962 edition.
 
-**The Shape of Water in Tolkien's Middle-earth**, by **Norbert Schürer**
+[**The Shape of Water in Tolkien's Middle-earth**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/649), by **Norbert Schürer**
 
 Another pleasant surprise, thanks to the good work of the speaker. Norbert explained with high detail the research he is doing about the influence of the water in Middle-earth. He started the paper after discovering that there was not a lot of scholar work about it, despite the water is omnipresent in The Lord of the Rings in all its forms/states: liquid, solid and gaseous. I'd add another _shape_ to his list of occurrences: the **absence** of water. After all the tragic journey of Frodo and Sam towards Mount Doom, the absence of water is what finally makes them realize that there is no possible return.
 
 The speaker described as well the taxonomy he is working on, based on the type of representation of the water in each moment: figurative, purely instrumental, only geographical and intentional. This is again a paper I will enjoy reading again once the proceedings are published.
 
-**Bilbo, Ulysses and the Greatness of the Unknown**, by **Gloria Larini**
+[**Bilbo, Ulysses and the Greatness of the Unknown**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/658), by **Gloria Larini**
 
 Bilbo and Ulysses, two great characters in two epic adventures. The speaker, taking advantage of her knowledge in Latin and Greek literature, compared both characters and how they embarked on their adventures. For example, both go for the unknown but the initial step is quite different. Ulysses has no choice but Bilbo on the contrary is suitable for the enterprise (at least according to Gandalf).
 
 Another interesting difference between the stories is that Homer did not include the journeys in the narration, but Tolkien does.
 
-**Memory, Lore, Knowledge**, by **Thomas Honegger**
+[**Memory, Lore, Knowledge**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/673), by **Thomas Honegger**
 
 Another quite interesting talk. The speaker explained the concepts, remarking the difference that Tolkien made among them. For example, regarding memory we can find _live_ memory (Gandalf, Galadriel, ...) and dormant memory (the ring verse, old Gondor lore). The main part of the talk was about the difference (almost opposition) between knowledge and lore. In Middle-earth, knowledge is perceived as negative (Saruman is the main representative) but Lore is usually positive (Ioreth, as the best example). Lore cannot be learned, it needs to be handed over or it will be lost. That is why knowledge can increase, but Lore can only decline.
 
-**The Hobbits and I: My Travels in Middle-earth**, by **Brian Sibley**
+[**The Hobbits and I: My Travels in Middle-earth**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/685), by **Brian Sibley**
 
 I knew [Brian Sibley](https://en.wikipedia.org/wiki/Brian_Sibley) since long time ago, what I didn't knew (shame on me) is that he is still an active tolkienist and such a prolific writer recently.
 
 This keynote was merely self-biographical, as Brian explained in a careful and detailed way his career and complete evolution. He focused first on his biggest hit, the [1981 BBC radio dramatization of The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings#Radio), to finish with his recent projects including [the chronicles of the making](https://www.goodreads.com/book/show/7351.The_Lord_of_the_Rings) and [movie guides](https://www.goodreads.com/book/show/15239.The_Lord_of_the_Rings) of the two trilogies by Peter Jackson, the awesome [The Maps of Tolkien's Middle-earth](https://www.goodreads.com/book/show/7340.The_Maps_of_Tolkien_s_Middle_earth) book with [John Howe](https://en.wikipedia.org/wiki/John_Howe_(illustrator)) and even [an authorized biography of Peter Jackson](https://www.goodreads.com/book/show/621204.Peter_Jackson).
 
-**'I met a lot of things on the way that astonished me': Natural Growth in Writing The Lord of the Rings**, by **Christina Scull**
+[**'I met a lot of things on the way that astonished me': Natural Growth in Writing The Lord of the Rings**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/694), by **Christina Scull**
 
 Christina Scull gave a nice lecture about the creative process of Tolkien. The quote in the title is from Tolkien himself in one of the letters, in which he explained how his own understanding of the characters was changing along the writing process. No surprises here, being Tolkien a huge perfectionist and having spent writing The Lord of the Rings more than 10 years.
 
@@ -159,13 +159,13 @@ I don't have much to say about the banquet, except that maybe in any hypothetica
 
 Anyway, I did like a gesture that I will try to copy in our Spanish association. During the banquet, probably the time with more people in the same place, they gave commemorative badges to those who have been members of the Tolkien Society for 10 (a splendid generation!) and 25 years. It is a recognition that is always welcome and appreciated.
 
-**Ten Years of Books in Tengwar**, by **Tsvetelina Krumova**
+[**Ten Years of Books in Tengwar**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/739), by **Tsvetelina Krumova**
 
 Tsvetelina Krumova thinks that [Tengwar](https://en.wikipedia.org/wiki/Tengwar) should never be written by a machine, as it goes against its nature. According to this reasoning, that I fully share, she began 10 years ago to transcribe some books using Tengwar. She brought some copies to show us and the result is astonishing, even ignoring the infamous amount of hours this woman has spent writing. She also described how the activity itself of writing in Tengwar forces her to focus so much, that she is using this also as a kind of relaxing or meditation experience on a daily basis.
 
 I took another important thought of this talk. Despite the amount of pages and studies that we have today it is still not possible to cook like the elves, to fight like them or it is not clear how could we dance like the elves did. But we can write exactly like the elves, even if we need to write Tengwar in English or Spanish. Food for thought!
 
-**Taniquetil: A tale of two cities**, by **Denis Bridoux**
+[**Taniquetil: A tale of two cities**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/745), by **Denis Bridoux**
 
 I took some risk, choosing this talk instead of a Sword fighting showcase or a Dwarven Beard workshop, but now I know that I did right.
 
@@ -173,7 +173,7 @@ As Denis was researching on Tolkien's [Taniquetil](https://en.wikipedia.org/wiki
 
 It started to make more sense when he noticed that the watercolor drawing by Tolkien is dated in 1925 when he had already written most of what was published as [The Book of Lost Tales](https://en.wikipedia.org/wiki/The_Book_of_Lost_Tales) (written in 1916-1919 according to the speaker) but not yet the main contents of the [Quenta Noldorinwa](https://en.wikipedia.org/wiki/The_Shaping_of_Middle-earth) (written in 1930). This could explain how the drawing depicts more clearly a book that was, in fact, published later.
 
-**An Archaeology of Hope and Despair in the Tale of Aragorn and Arwen**, by **John Whitmire**
+[**An Archaeology of Hope and Despair in the Tale of Aragorn and Arwen**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/760), by **John Whitmire**
 
 This lecture presented the research that John Whitmire is doing, with permission from the [Tolkien Estate](https://en.wikipedia.org/wiki/Tolkien_Estate), using the still unpublished materials in the [Tolkien Collection of the Marquette University](https://www.marquette.edu/library/archives/tolkien.php). His study is about the use of Hope and Despair (as absence of hope) centered in the Characters of Aragorn and Arwen.
 
