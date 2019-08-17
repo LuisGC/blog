@@ -107,7 +107,11 @@ The speaker was humorous and kind with the audience, taking into account she del
 
 After having met Jay in the Dealer's room and having enjoyed his own amazing pieces of art, I was curious about this talk. I expected him to explain not only his admiration for the artist but also his opinion as a passionate collector. I received what I expected, by far.
 
-Pauline was a prolific and very special artist. She illustrated or contributed to more than 200 books, gaining international fame as the first illustrator and cover artist of some Tolkien _minor_ works (Farmer Giles of Ham, The Adventures of Tom Bombadil, Smith of Wootton Major, ...) and [Chronicles of Narnia](https://en.wikipedia.org/wiki/Chronicles_of_Narnia) by [C.S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis). Jay showed us some less known drawings and we were amazed both with the artwork and Jay's explanations during the entire hour. He clearly infected me with his passion, I entered the room knowing Pauline Baynes only a little and left as a new declared fan.
+Pauline was a prolific and very special artist. She illustrated or contributed to more than 200 books, gaining international fame as the first illustrator and cover artist of some Tolkien _minor_ works (Farmer Giles of Ham, The Adventures of Tom Bombadil, Smith of Wootton Major, ...) and [Chronicles of Narnia](https://en.wikipedia.org/wiki/Chronicles_of_Narnia) by [C.S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis). As an example of masterpiece, the speaker showed us [the illustration she did for a Nursery Rhymes book](https://www.agefotostock.com/age/en/Stock-Images/Rights-Managed/MEV-10435133), in which she featured 56 different characters from the collected tales in one single page.
+
+I learned in the talk that Pauline illustrated Farmer Giles of Ham by pure chance, according to Jay Tolkien was visiting his editors to complain about the artwork proposal he had received and luckily a sketchbook by Pauline was open over a table.
+
+Jay showed us some less known drawings and we were amazed both with the artwork and Jay's explanations during the entire hour. He clearly infected me with his passion, I entered the room knowing Pauline Baynes only a little and left as a new declared fan.
 
 **Artists in Middle-earth: illustrating The Lord of the Rings**, by **Marie Bretagnolle** ([@MarieBreta](https://twitter.com/MarieBreta))
 
