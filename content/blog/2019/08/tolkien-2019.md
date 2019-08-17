@@ -123,6 +123,8 @@ Maria is also to blame that I just spent a small fortune in the [Folio Society](
 
 **The source texts for Tove Jansson's illustrations for The Hobbit**, by **Sonja Virta** ([@SonjaVirta](https://twitter.com/SonjaVirta))
 
+Third talk in a row about illustration. This time the content was focused on the controversially illustrated Swedish edition of The Hobbit in 1962. It was (or is) controversial for the somewhat gloomy tone of the drawings but specially because [**Tove Jansson**](https://en.wikipedia.org/wiki/Tove_Jansson) presented [Gollum as a huge moster](https://wharferj.wordpress.com/2016/01/16/tove-janssons-illustrations-for-the-hobbit/). The speaker explained her thorough research on the topic, and the influence that the first Swedish translation of 1947 could have had in Tove Jansson for the 1962 edition.
+
 **The Shape of Water in Tolkien's Middle-earth**, by **Norbert Schürer**
 
 **Bilbo, Ulysses and the Greatness of the Unknown**, by **Gloria Larini**
