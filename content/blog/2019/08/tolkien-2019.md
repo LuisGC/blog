@@ -215,7 +215,11 @@ The Masquerade itself was nice, with some great costumes and/or performances and
 
 The result of the Masquerade contest is the least important thing, but I did not like that they gave prize to practically all but 2-3 participants. I don't think it would have been very difficult to give 2-3 more prizes and a weird situation (at least for me) would have been avoided.
 
-**Geopolitics in Tolkien’s Works**, by **Lamont Colucci** ([@LamontColucci](https://twitter.com/LamontColucci))
+[**Geopolitics in Tolkien’s Works**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/868), by **Lamont Colucci** ([@LamontColucci](https://twitter.com/LamontColucci))
+
+After reading [Colucci's bio](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/participants/357/b0a0e9968127385622ed0e7521661c4f8c4336b4/Lamont+Colucci) I was curious about the talk. I have to say that my worst fears were fulfilled and in the end the talk was 75% a generic International Relations lecture with a not very subtle American imperialism tone, and 25% how geopolitics and strategy reflect in Tolkien's works. He stressed that in Middle-earth wars are never won with magic, they are always won or lost with medieval style war tactics and strategies that apparently Tolkien understood and was able to articulate.
+
+Colucci gave us interesting quotes like "as Americans we feel that we are Gondor, keeping other actors like The Shire in peace" followed by another statement about the willingness of the US to prevent Russian invasions to Sweden despite the Swedish do not want to belong to NATO.
 
 **Gandalf for President: the Politics of Tolkien**, by **Shaun Gunner** ([@ShaunGunner](https://twitter.com/ShaunGunner))
 
