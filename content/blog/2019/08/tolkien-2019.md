@@ -197,6 +197,8 @@ The speaker shared part of this vast knowledge, this time focusing on the relati
 
 **Illustrating Tolkien** panel, by **Shaun Gunner** ([@ShaunGunner](https://twitter.com/ShaunGunner)) with **Alan Lee** ([@AlanLee11225760](https://twitter.com/AlanLee11225760)), **Anke Eißmann** ([@khorazir](https://twitter.com/khorazir)), **Jenny Dolfen** ([@JennyDolfen](https://twitter.com/JennyDolfen)), **Ted Nasmith** and **Jay Johnstone** ([@jaystolkien](https://twitter.com/jaystolkien))
 
+This panel is another hardly repeatable thing that happened in Tolkien 2019. Only [John Howe](https://en.wikipedia.org/wiki/John_Howe_(illustrator)) or the [Hildebrandt Brothers](https://en.wikipedia.org/wiki/Brothers_Hildebrandt) could match them in quality and/or popularity. Shaun did a good job distributing his own questions and the ones from the public, so we could all enjoy an interesting session with genuine views and the most relevant opinions of the industry.
+
 **Tolkien and the classics**, by **Claudio A. Testi** with **Tom Shippey** and **Thomas Honegger**
 
 **Masquerade**
