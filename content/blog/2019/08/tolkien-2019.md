@@ -221,7 +221,11 @@ After reading [Colucci's bio](https://sites.grenadine.co/sites/tolkiensociety/en
 
 Colucci gave us interesting quotes like "as Americans we feel that we are Gondor, keeping other actors like The Shire in peace" followed by another statement about the willingness of the US to prevent Russian invasions to Sweden despite the Swedish do not want to belong to NATO.
 
-**Gandalf for President: the Politics of Tolkien**, by **Shaun Gunner** ([@ShaunGunner](https://twitter.com/ShaunGunner))
+[**Gandalf for President: the Politics of Tolkien**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/874), by **Shaun Gunner** ([@ShaunGunner](https://twitter.com/ShaunGunner))
+
+Second lecture of the day about politics, that also left me with bittersweet feelings. Shaun, current chair of the Tolkien Society, explained what could be the political inclination of Tolkien based on what we know about him and his context. Based on his research he claimed that Tolkien was in favor of the Scottish independent movement despite feeling proud of his country and idealizing England as The Shire. According to Shaun, the Professor was against all kinds of communism or imperialism, to the point that the idealistic Shire was a Benevolent Anarchy with the Thain acting just as a ceremonial figure without real authority.
+
+The speaker also tried to explain why Tolkien is beloved by millions of people from the whole political spectrum. Related to this, he also claimed that the Tolkien Society was created in the sixties to claim Tolkien back from the hippies.
 
 **Power and Choice in the Second Age: A Political Primer**, by **Sarah Rachel Westvik**
 
