@@ -107,9 +107,15 @@ The speaker was humorous and kind with the audience, taking into account she del
 
 After having met Jay in the Dealer's room and having enjoyed his own amazing pieces of art, I was curious about this talk. I expected him to explain not only his admiration for the artist but also his opinion as a passionate collector. I received what I expected, by far.
 
-Pauline was a prolific and very special artist. She illustrated or contributed to more than 200 books, gaining international fame as the first illustrator and cover artist of some Tolkien _minor_ works (Farmer Giles of Ham, The Adventures of Tom Bombadil, Smith of Wootton Major, ...) and [Chronicles of Narnia](https://en.wikipedia.org/wiki/Chronicles_of_Narnia) by [C.S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis). Jay showed us some less known drawings and we were amazed both with the artwork and Jay's explanations during the entire hour. I entered the room knowing Pauline Baynes only a little and left as a new declared fan.
+Pauline was a prolific and very special artist. She illustrated or contributed to more than 200 books, gaining international fame as the first illustrator and cover artist of some Tolkien _minor_ works (Farmer Giles of Ham, The Adventures of Tom Bombadil, Smith of Wootton Major, ...) and [Chronicles of Narnia](https://en.wikipedia.org/wiki/Chronicles_of_Narnia) by [C.S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis). Jay showed us some less known drawings and we were amazed both with the artwork and Jay's explanations during the entire hour. He clearly infected me with his passion, I entered the room knowing Pauline Baynes only a little and left as a new declared fan.
 
-**Artists in Middle- earth: illustrating The Lord of the Rings**, by **Marie Bretagnolle** ([@MarieBreta](https://twitter.com/MarieBreta))
+**Artists in Middle-earth: illustrating The Lord of the Rings**, by **Marie Bretagnolle** ([@MarieBreta](https://twitter.com/MarieBreta))
+
+The abstract of the talk announced that [Marie Bretagnolle](https://voirtolkien.hypotheses.org/) was going to compare two of the most important British editions of The Lord of the Rings, also the only ones with commissioned illustrations inside. First the 1977 [Folio Society](https://en.wikipedia.org/wiki/Folio_Society) edition, and the second by Alan Lee for the 1991-1992 Centenary edition.
+
+Marie delivered a clear and interesting talk, comparing the illustrations in both works and analyzing the importance of each drawing depending on the location. For example, the artist needs to take into account that an illustration that appears before the passage that is portrayed can provide inspiration for some readers but it can also work as a small spoiler for others.
+
+Maria is also to blame that I just spent a small fortune in the [Folio Society](https://www.foliosociety.com/) website.
 
 **The source texts for Tove Jansson's illustrations for The Hobbit**, by **Sonja Virta** ([@SonjaVirta](https://twitter.com/SonjaVirta))
 
