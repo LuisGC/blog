@@ -161,11 +161,17 @@ Anyway, I did like a gesture that I will try to copy in our Spanish association.
 
 **Ten Years of Books in Tengwar**, by **Tsvetelina Krumova**
 
-Tsvetelina Krumova thinks that Tengwar should never be written by a machine, as it goes against its nature. According to that reasoning, that I fully share, she began 10 years ago to transcribe some books using tengwar and she brought some copies to show the audience. The result is astonishing, even ignoring the infamous amount of hours this woman has spent writing. She also described how the activity itself of writing in Tengwar forces her to focus so much, that she is using this also as a kind of relaxing or meditation experience on a daily basis.
+Tsvetelina Krumova thinks that [Tengwar](https://en.wikipedia.org/wiki/Tengwar) should never be written by a machine, as it goes against its nature. According to this reasoning, that I fully share, she began 10 years ago to transcribe some books using Tengwar. She brought some copies to show us and the result is astonishing, even ignoring the infamous amount of hours this woman has spent writing. She also described how the activity itself of writing in Tengwar forces her to focus so much, that she is using this also as a kind of relaxing or meditation experience on a daily basis.
 
 I took another important thought of this talk. Despite the amount of pages and studies that we have today it is still not possible to cook like the elves, to fight like them or it is not clear how could we dance like the elves did. But we can write exactly like the elves, even if we need to write Tengwar in English or Spanish. Food for thought!
 
 **Taniquetil: A tale of two cities**, by **Denis Bridoux**
+
+I took some risk, choosing this talk instead of a Sword fighting showcase or a Dwarven Beard workshop, but now I know that I did right.
+
+As Denis was researching on Tolkien's [Taniquetil](https://en.wikipedia.org/wiki/Minor_places_in_Arda#Taniquetil) drawing for the [Aubusson tapestry](https://www.cite-tapisserie.fr/fr/aubusson-tisse-tolkien/%C5%93uvres-tiss%C3%A9es/halls-manw%C3%AB-%E2%80%93-taniquetil), he realized that there was a mystery to solve in the drawing. At the foot of the Holy Mountain, next to the coast, there are two very very small cities, so small that people usually don't notice them. Would they be Tirion and Alqualondë? The descriptions in The Silmarillion don't match adequately with the drawing, despite the low level of detail.
+
+It started to make more sense when he noticed that the watercolor drawing by Tolkien is dated in 1925 when he had already written most of what was published as [The Book of Lost Tales](https://en.wikipedia.org/wiki/The_Book_of_Lost_Tales) (written in 1916-1919 according to the speaker) but not yet the main contents of the [Quenta Noldorinwa](https://en.wikipedia.org/wiki/The_Shaping_of_Middle-earth) (written in 1930). This could explain how the drawing depicts more clearly a book that was, in fact, published later.
 
 **An Archaeology of Hope and Despair in the Tale of Aragorn and Arwen**, by **John T Whitmire**
 
