@@ -157,9 +157,13 @@ Listening to Christina was a delight but for those that did not attend, calm dow
 
 I don't have much to say about the banquet, except that maybe in any hypothetical next event I will consider seriously not attending. We had a good time and it was fun, but it was due to my companions at the table. Being used to the STE gala dinners, I found this banquet insipid and uninteresting. I can live with only three brief toasts and no songs, but the self buffet format was annoying with some starting dinner while others had already finished... it was almost impossible to interact with people from other tables. On top of all this, it was absurdly expensive even for UK standards.
 
-Anyway, I did like a gesture, that I will try to copy in our Spanish association. During the banquet, probably the time with more people in the same place, they gave commemorative badges to those who have been members of the Tolkien Society for 10 (a splendid generation!) and 25 years. It is a recognition that is always welcome and appreciated.
+Anyway, I did like a gesture that I will try to copy in our Spanish association. During the banquet, probably the time with more people in the same place, they gave commemorative badges to those who have been members of the Tolkien Society for 10 (a splendid generation!) and 25 years. It is a recognition that is always welcome and appreciated.
 
 **Ten Years of Books in Tengwar**, by **Tsvetelina Krumova**
+
+Tsvetelina Krumova thinks that Tengwar should never be written by a machine, as it goes against its nature. According to that reasoning, that I fully share, she began 10 years ago to transcribe some books using tengwar and she brought some copies to show the audience. The result is astonishing, even ignoring the infamous amount of hours this woman has spent writing. She also described how the activity itself of writing in Tengwar forces her to focus so much, that she is using this also as a kind of relaxing or meditation experience on a daily basis.
+
+I took another important thought of this talk. Despite the amount of pages and studies that we have today it is still not possible to cook like the elves, to fight like them or it is not clear how could we dance like the elves did. But we can write exactly like the elves, even if we need to write Tengwar in English or Spanish. Food for thought!
 
 **Taniquetil: A tale of two cities**, by **Denis Bridoux**
 
