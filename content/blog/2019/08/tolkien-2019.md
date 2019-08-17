@@ -143,6 +143,10 @@ Another quite interesting talk. The speaker explained the concepts, remarking th
 
 **The Hobbits and I: My Travels in Middle-earth**, by **Brian Sibley**
 
+I knew [Brian Sibley](https://en.wikipedia.org/wiki/Brian_Sibley) since long time ago, what I didn't knew (shame on me) is that he is still an active tolkienist and such a prolific writer recently.
+
+This keynote was merely self-biographical, as Brian explained in a careful and detailed way his career and complete evolution. He focused first on his biggest hit, the [1981 BBC radio dramatization of The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings#Radio), to finish with his recent projects including [the chronicles of the making](https://www.goodreads.com/book/show/7351.The_Lord_of_the_Rings) and [movie guides](https://www.goodreads.com/book/show/15239.The_Lord_of_the_Rings) of the two trilogies by Peter Jackson, the awesome [The Maps of Tolkien's Middle-earth](https://www.goodreads.com/book/show/7340.The_Maps_of_Tolkien_s_Middle_earth) book with [John Howe](https://en.wikipedia.org/wiki/John_Howe_(illustrator)) and even [an authorized biography of Peter Jackson](https://www.goodreads.com/book/show/621204.Peter_Jackson).
+
 **'I met a lot of things on the way that astonished me': Natural Growth in Writing The Lord of the Rings**, by **Christina Scull**
 
 **Ten Years of Books in Tengwar**, by **Tsvetelina Krumova**
