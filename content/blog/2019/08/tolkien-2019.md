@@ -149,6 +149,10 @@ This keynote was merely self-biographical, as Brian explained in a careful and d
 
 **'I met a lot of things on the way that astonished me': Natural Growth in Writing The Lord of the Rings**, by **Christina Scull**
 
+Christina Scull gave a nice lecture about the creative process of Tolkien. The quote in the title is from Tolkien himself in one of the letters, in which he explained how his own understanding of the characters was changing along the writing process. No surprises here, being Tolkien a huge perfectionist and having spent writing The Lord of the Rings more than 10 years.
+
+Listening to Christina was a delight but for those that did not attend, calm down as it won't change much respect reading the paper yourselves.
+
 **Ten Years of Books in Tengwar**, by **Tsvetelina Krumova**
 
 **Taniquetil: A tale of two cities**, by **Denis Bridoux**
