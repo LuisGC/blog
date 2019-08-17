@@ -101,6 +101,8 @@ The [People's Orchestra](https://thepeoplesorchestra.com/) is a charity apart fr
 
 **Grendel's Mother and Tolkien's Women**, by **Jane Chance** ([@janegalv](https://twitter.com/janegalv))
 
+The speaker was humorous and kind with the audience, taking into account she delivered the talk without any kind of visual support very early on Friday morning. As the recognized expert in the field that she is, Jane spoke clearly and concisely about the role of Grendel's Mother in Beowulf. After that, she managed to link the topic with the attitude of Tolkien about women in his professional academical experience. The talk was interesting but I could not connect some dots on the spot, hopefully I will with the proceedings.
+
 **Pauline Diana Baynes - An artists inspiration**, by **Jay Johnstone** ([@jaystolkien](https://twitter.com/jaystolkien))
 
 **Artists in Middle- earth: illustrating The Lord of the Rings**, by **Marie Bretagnolle** ([@MarieBreta](https://twitter.com/MarieBreta))
