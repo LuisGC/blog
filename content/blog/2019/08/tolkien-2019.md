@@ -13,9 +13,11 @@ featuredpath = "Tolkien 2019, the largest celebration of Tolkien ever held by th
 
 If you are reading this you probably know already that I am a big fan of [**J.R.R. Tolkien**](https://en.wikipedia.org/wiki/J._R._R._Tolkien), to the point that I joined the Spanish Tolkien Society ([**Sociedad Tolkien Española**](http://www.sociedadtolkien.org/)) almost 20 years ago and I usually don't miss any of their events.
 
-Since recently I also belong to the [**Tolkien Society**](https://www.tolkiensociety.org/), and after having missed for probably important (but now unknown) reasons [Tolkien 2005 and Tolkien 2012](https://www.tolkiensociety.org/society/events/conferences/), the last major events that they organized, I was not going to miss [**Tolkien 2019**](https://www.tolkien2019.com/). In 2005 the gathering marked the 50th anniversary of the complete publication of The Lord of The Rings. In 2012 the conference was held to commemorate the 75th anniversary of the publication of The Hobbit. This year the **Tolkien Society** celebrated its own 50th anniversary with the largest celebration of Tolkien ever held. More than **550 attendees** and more than **150 activities** including talks, panels, workshops, signing sessions, music, theater,...
+Since recently I also belong to the [**Tolkien Society**](https://www.tolkiensociety.org/), and after having missed for probably important (but now forgotten) reasons [Tolkien 2005 and Tolkien 2012](https://www.tolkiensociety.org/society/events/conferences/), the last major events that they organized, I was not going to miss [**Tolkien 2019**](https://www.tolkien2019.com/). In 2005 the gathering marked the 50th anniversary of the complete publication of The Lord of The Rings. In 2012 the conference was held to commemorate the 75th anniversary of the publication of The Hobbit. This year the **Tolkien Society** celebrated its own 50th anniversary with the largest celebration of Tolkien ever held. More than **550 attendees** and more than **150 activities** including talks, panels, workshops, signing sessions, music, theater,...
 
-I don't have time right now for a complete review of the event, but I don't want to miss the opportunity to write here some quick impressions of my experience there.
+I have a lot of things to do but I don't want to miss the opportunity to write here some quick impressions of my experience there. (**last minute edit**: Quick is an eufemism, as I have spent several hours writing this article).
+
+**TL;DR**: The **good part**: I attended around 40 activities, most of them top quality content, and I realize know that more than a third of them had a female speaker. That is a lot. I met in person lots of interesting people, and had the opportunity to spend time with people that I admire. **The bad part**: I didn't like the venue, the corridors were too small, it was full of steps and only two of the rooms were big enough for an event like this with 500 participants. The lack of a lunch break not only forced everyone to skip content daily, but also made it much more difficult to meet other people and do proper networking.
 
 Let me summarize some of the talks and activities I attended:
 
@@ -23,7 +25,7 @@ Let me summarize some of the talks and activities I attended:
 
 [**Heirs of Tolkien? The Major Contenders**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/436/%22Heirs%20of%20Tolkien?%20The%20Major%20Contenders%20%22), by **Tom Shippey**
 
-The opening keynote was delivered perfectly by Tom Shippey, it was the ideal kickoff for an event like this combining interesting facts and humor. I admire him since long time ago, but even more after having met him in person during the last [XXIV Mereth Aderthad](https://estelcon2019.sociedadtolkien.org/en/). Reading Beowulf together while drinking beer unites a lot, who could have imagined it.
+The opening keynote was delivered perfectly by [Tom Shippey](https://en.wikipedia.org/wiki/Tom_Shippey), it was the ideal kickoff for an event like this combining interesting facts and humor. I admire him since long time ago, but even more after having met him in person during the last [XXIV Mereth Aderthad](https://estelcon2019.sociedadtolkien.org/en/). Reading Beowulf together while drinking beer unites a lot, who could have imagined it.
 
 Shippey, with his usual simple slides, started with the slogan of the [Deustche Tolkien Gesellschaft](https://www.tolkiengesellschaft.de/): _Ohne Tolkien, keine fantasy_ (without Tolkien, no fantasy) stressing how this _motto_ is still correct nowadays. Tolkien was the first author to achieve mass market success with ambitious and top level quality high fantasy, something that was even more difficult in the previous century. Mass market success in fantasy works is more common nowadays, and this is only because of Tolkien's legacy.
 
@@ -43,13 +45,13 @@ Andrew Higgins explained very briefly how these four important characters are re
 
 [**Two Realms: Finished and Unfinished Business**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/481/Ted%20Nasmith), by **Ted Nasmith**
 
-This was the first of many talks focusing on the illustration of Tolkien's works. This time, Ted Nasmith himself showed us some of his recent commissioned works related to Middle-earth and at the end also to The Song of Ice and Fire. It's impossible to articulate in words what he showed us: lots of illustrations including preliminary drafts or color tests that I would happily put in my walls.
+This was the first of many talks focusing on the illustration of Tolkien's works. This time, [Ted Nasmith](https://en.wikipedia.org/wiki/Ted_Nasmith) himself showed us some of his recent commissioned works related to Middle-earth and at the end also to The Song of Ice and Fire. It's impossible to articulate in words what he showed us: lots of illustrations including preliminary drafts or color tests that I would happily put in my walls.
 
 Ted is not only a gifted artist but also proved to be friendly to his fans and methodical in his work.
 
 **Leaf by Niggle**, by **Puppet State Theatre** ([@PuppetStateThtr](https://twitter.com/PuppetStateThtr))
 
-Richard Medringtone from the _Puppet State Theatre_ showed us how one single person on stage can grab the attention of the audience for more than an hour. He is clearly a top professional in acting, and the adaptation of Leaf by Niggle fitted his acting perfectly. The stage setting, despite being minimalistic, was adequate and the protagonist made good use of almost all its elements. I loved the play and will see it again without hesitation.
+Richard Medringtone from the [_Puppet State Theatre_](http://www.puppetstate.com/) showed us how one single person on stage can grab the attention of the audience for more than an hour. He is clearly a top professional in acting, and the adaptation of _Leaf by Niggle_ fitted his acting perfectly. The stage setting, despite being minimalistic, was adequate and the protagonist made good use of almost all its elements. I loved the play and will see it again without hesitation.
 
 [**Clothing in Tolkien’s world and what we can see through its historical analysis**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/496), by **Dr. Ester Torredelforth** ([@Torredelforth](https://twitter.com/torredelforth))
 
@@ -73,7 +75,7 @@ The room was full also because Tom Shippey wrote the foreword and also participa
 
 [**France 1913. Tolkien's first job**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/538), by **Jose Manuel Ferrández Bru** ([@JosManuelFerrn1](https://twitter.com/JosManuelFerrn1))
 
-My colleague from the ([**STE**](http://www.sociedadtolkien.org/)) is becoming a regular for these types of events, and no wonder it's like that with the quality and amount of research he has been doing over the last years. This time the lecture was about how a very young Tolkien got a job as tutor of a bunch of kids during a trip to France. Without spoiling the details, let's say that the task was suddenly complicated and could have disrupted Tolkien in a unique way.
+My colleague from the [**STE**](http://www.sociedadtolkien.org/) is becoming a regular for these types of events, and no wonder it's like that with the quality and amount of research he has been doing over the last years. This time the lecture was about how a very young Tolkien got a job as tutor of a bunch of kids during a trip to France. Without spoiling the details, let's say that the task was suddenly complicated and could have disrupted Tolkien in a unique way.
 
 [**The Two Towers of Birmingham, and other follies**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/571), by **John Garth** ([@JohnGarthWriter](https://twitter.com/JohnGarthWriter))
 
@@ -89,13 +91,13 @@ I specially liked the contributions by Brian Sibley, who was fully engaged in al
 
 [**Alan Lee's Sketchbook**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/592), by **Alan Lee** ([@AlanLee11225760](https://twitter.com/AlanLee11225760))
 
-Despite the main room was completely full, the organization switched off the lights for the audience and everyone was in absolute silence listening to the careful explanations by Alan Lee. It was almost magical and completely amazing. We could see dozens of sketches explained from the genius himself, from watercolor exercises to architectural blueprints. Lee's view on Middle-earth is engraved in the mind of many people (including mine) and we were very lucky that his vision was also omnipresent in Peter Jackson's films.
+Despite the main room was completely full, the organization switched off the lights for the audience and everyone was in absolute silence listening to the careful explanations by [Alan Lee](https://en.wikipedia.org/wiki/Alan_Lee_(illustrator)). It was almost magical and completely amazing. We could see dozens of sketches explained from the genius himself, from watercolor exercises to architectural blueprints. Lee's view on Middle-earth is engraved in the mind of many people (including mine) and we were very lucky that his vision was also omnipresent in Peter Jackson's films.
 
 There was also time for him to answer a lot of questions from the audience, some of them related to their relationship with other artists like John Howe.
 
 **Orchestra Concert**, by **The People's Orchestra** ([@ThePeoplesOrch](https://twitter.com/ThePeoplesOrch))
 
-After enjoying a couple of beers in a nearby pub we came back for the concert, we were very lucky and we were able to take seats in the front row just behind the Orchestra director. We were entertained not only with the soundtracks of all the LotR and The Hobbit movies, but also with several other compositions from our vast geek popular culture. Both the orchestra and its conductor demonstrated an impressive quality and charisma, one could see the effort to please the audience.
+After enjoying a couple of beers in a nearby pub we came back for the concert, and we were very lucky as we were able to take seats in the front row just behind the Orchestra director. We were entertained not only with the soundtracks of all the LotR and The Hobbit movies, but also with several other compositions from our vast geek popular culture. Both the orchestra and its conductor demonstrated an impressive quality and charisma, one could see the effort to please the audience.
 
 The [People's Orchestra](https://thepeoplesorchestra.com/) is a charity apart from a standard symphony orchestra. They provide professional musical training and even work opportunities for unemployed people. Impressive.
 
