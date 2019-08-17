@@ -211,7 +211,9 @@ The collection is organized in three sections:
 
 **Masquerade**
 
-The Masquerade itself was nice, with some great costumes and/or performances and the rest more or less fine. I have to say that the best part of the evening was during the interlude, when some organizers presented several performances. There were three of them, two portraying the Professor and another one about Sauron motivating his troops, that were hilarious. The parody of the BBC radio show [Just a Minute](https://en.wikipedia.org/wiki/Just_a_Minute) was fine but maybe too long, but I understand that the format was perfect to allow waiting more or less time until the judges agreed the winners of the contest.
+The Masquerade itself was nice, with some great costumes and/or performances and the rest more or less fine. I have to say that the best part of the evening was during the interlude, when some organizers presented several performances. There were three of them, two portraying the Professor and another one about Sauron motivating his troops, that were hilarious. Sadly I don't remember the names, sorry.
+
+The parody of the BBC radio show [Just a Minute](https://en.wikipedia.org/wiki/Just_a_Minute) was fine but maybe too long, but I understand that the format was perfect to allow waiting more or less time until the judges agreed the winners of the contest.
 
 The result of the Masquerade contest is the least important thing, but I did not like that they gave prize to practically all but 2-3 participants. I don't think it would have been very difficult to give 2-3 more prizes and a weird situation (at least for me) would have been avoided.
 
@@ -227,7 +229,9 @@ Second lecture of the day about politics, that also left me with bittersweet fee
 
 The speaker also tried to explain why Tolkien is beloved by millions of people from the whole political spectrum. Related to this, he also claimed that the Tolkien Society was created in the sixties to claim Tolkien back from the hippies.
 
-**Power and Choice in the Second Age: A Political Primer**, by **Sarah Rachel Westvik**
+[**Power and Choice in the Second Age: A Political Primer**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/883), by **Sarah Rachel Westvik**
+
+Luckily this third talk was not as opinionated as the two previous ones. The speaker, a student of International Relations, analyzed all the political context and tensions that we can see in the Second Age. She grouped the explanation in realms to cover Númenor, the Elven kingdoms (Lindon, Eregion and Greenwood), Mordor and the Ainur. Nice presentation from an eloquent speaker. 
 
 **Five or Six Ponies?**, by **Jessica Yates**
 
