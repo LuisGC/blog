@@ -173,7 +173,17 @@ As Denis was researching on Tolkien's [Taniquetil](https://en.wikipedia.org/wiki
 
 It started to make more sense when he noticed that the watercolor drawing by Tolkien is dated in 1925 when he had already written most of what was published as [The Book of Lost Tales](https://en.wikipedia.org/wiki/The_Book_of_Lost_Tales) (written in 1916-1919 according to the speaker) but not yet the main contents of the [Quenta Noldorinwa](https://en.wikipedia.org/wiki/The_Shaping_of_Middle-earth) (written in 1930). This could explain how the drawing depicts more clearly a book that was, in fact, published later.
 
-**An Archaeology of Hope and Despair in the Tale of Aragorn and Arwen**, by **John T Whitmire**
+**An Archaeology of Hope and Despair in the Tale of Aragorn and Arwen**, by **John Whitmire**
+
+This lecture presented the research that John Whitmire is doing, with permission from the [Tolkien Estate](https://en.wikipedia.org/wiki/Tolkien_Estate), using the still unpublished materials in the [Tolkien Collection of the Marquette University](https://www.marquette.edu/library/archives/tolkien.php). His study is about the use of Hope and Despair (as absence of hope) centered in the Characters of Aragorn and Arwen.
+
+The lecture, that will also deserve a slow read in the proceedings, described how he organized the contents in different strata or layers during his research according to the known [archaeological practice](https://en.wikipedia.org/wiki/Stratigraphy_(archaeology)).
+
+* Stratum A is the tale "of Aragorn and Arwen" from the original manuscript
+* Stratum B1, B2, B3,... are the different revisions of the original manuscript
+* Stratum C is the fair copy of the tale after all the B revisions
+* Stratum D is a more refined version, where we find Ivorwen identifying Aragorn personally as hope and Elrond calling Aragorn directly Amir (that means hope)
+* etc.
 
 **The Dim Echo of the Catcher**, by **Nils Ivar Agøy**
 
