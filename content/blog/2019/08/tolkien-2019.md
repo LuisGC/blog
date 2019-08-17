@@ -105,6 +105,10 @@ The speaker was humorous and kind with the audience, taking into account she del
 
 **Pauline Diana Baynes - An artists inspiration**, by **Jay Johnstone** ([@jaystolkien](https://twitter.com/jaystolkien))
 
+After having met Jay in the Dealer's room and having enjoyed his own amazing pieces of art, I was curious about this talk. I expected him to explain not only his admiration for the artist but also his opinion as a passionate collector. I received what I expected, by far.
+
+Pauline was a prolific and very special artist. She illustrated or contributed to more than 200 books, gaining international fame as the first illustrator and cover artist of some Tolkien _minor_ works (Farmer Giles of Ham, The Adventures of Tom Bombadil, Smith of Wootton Major, ...) and [Chronicles of Narnia](https://en.wikipedia.org/wiki/Chronicles_of_Narnia) by [C.S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis). Jay showed us some less known drawings and we were amazed both with the artwork and Jay's explanations during the entire hour. I entered the room knowing Pauline Baynes only a little and left as a new declared fan.
+
 **Artists in Middle- earth: illustrating The Lord of the Rings**, by **Marie Bretagnolle** ([@MarieBreta](https://twitter.com/MarieBreta))
 
 **The source texts for Tove Jansson's illustrations for The Hobbit**, by **Sonja Virta** ([@SonjaVirta](https://twitter.com/SonjaVirta))
