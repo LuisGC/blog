@@ -199,7 +199,15 @@ The speaker shared part of this vast knowledge, this time focusing on the relati
 
 This panel is another hardly repeatable thing that happened in Tolkien 2019. Only [John Howe](https://en.wikipedia.org/wiki/John_Howe_(illustrator)) or the [Hildebrandt Brothers](https://en.wikipedia.org/wiki/Brothers_Hildebrandt) could match them in quality and/or popularity. Shaun did a good job distributing his own questions and the ones from the public, so we could all enjoy an interesting session with genuine views and the most relevant opinions of the industry.
 
-**Tolkien and the classics**, by **Claudio A. Testi** with **Tom Shippey** and **Thomas Honegger**
+[**Tolkien and the Classics**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/838), by **Claudio A. Testi** with **Tom Shippey** and **Thomas Honegger**
+
+Claudio Testi, with the help of Honegger and Shippey, presented a new collection of essays that explore the relationship between the Professor and Classic authors. As they explained, the goal is not always to find connections where there are none but to do the exercise just to assess the result, as is usual in comparative literature.
+
+The collection is organized in three sections:
+
+* Tolkien and Authors from Antiquity
+* Tolkien and Authors from the Middle Ages
+* Tolkien and Authors from the Modern Period
 
 **Masquerade**
 
