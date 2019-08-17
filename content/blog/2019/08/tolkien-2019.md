@@ -239,4 +239,86 @@ The premise of the talk was intriguing. In the 2004-2005 revision of The Lord of
 
 As part of her research, Jessica draw (and shared copies with the audience) a plan of the house of Crickhollow. I won't spoil the surprise, if you want to know the answer wait for the proceedings.
 
-**Tolkien, Folklore, and Foxes: a thoroughly vulpine talk in which there may be singing!**, by **Dimitra Fimi** ([@Dr_Dimitra_Fimi](https://twitter.com/Dr_Dimitra_Fimi))
+[**Tolkien, Folklore, and Foxes: a thoroughly vulpine talk in which there may be singing!**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/901), by **Dr Dimitra Fimi** ([@Dr_Dimitra_Fimi](https://twitter.com/Dr_Dimitra_Fimi))
+
+Shippey's was probably the best opening keynote and undoubtedly this was the perfect closing keynote. Dr Dimitra Fimi taught us and entertained us smartly and passionately.
+
+The keynote started remembering the audience about the _Rhyme of the Troll_, the verses that Sam sung to the rest of the fellowship when they encountered Bilbo's trolls. Dimitra didn't just remind us about the song, she sang and encouraged the audience to sing, so we sung. It was fun and easy.
+
+Then she reminded us that the rhyme is based on [a traditional English folk song called The Fox](https://en.wikipedia.org/wiki/The_Fox_(folk_song)). She encouraged the audience again, and the audience carried it out enthusiastically.
+
+But obviously a folklore song was not written in _our_ English. She researched further until she got the original lyrics in Middle English. As you can imagine Dimitra no longer had to ask us to sing, although this time not everyone could pronounce properly but that was not important. Try to imagine a room with 400-500 people of an average above 40 years singing in Middle English. We only lacked a beer in the hand.
+
+There is no better way to finish this article than with a recording of Tolkien himself singing the Rhyme of the Troll. If you are still here, please enjoy:
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/241948971&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+<blockquote>
+    <h2>“Rhyme of the Troll”</h2>
+    <br />
+    Troll sat alone on his seat of stone,<br />
+    And munched and mumbled a bare old bone;<br />
+    For many a year he had gnawed it near,<br />
+    For meat was hard to come by.<br />
+    Done by! Gum by!<br />
+    In a cave in the hills he dwelt alone,<br />
+    And meat was hard to come by.<br />
+    <br />
+    Up came Tom with his big boots on.<br />
+    Said he to Troll: ‘Pray, what is yon?<br />
+    For it looks like the shin o’ my nuncle Tim,<br />
+    As should be a-lyin’ in graveyard.<br />
+    Caveyard! Paveyard!<br />
+    This many a year has Tim been gone,<br />
+    And I thought he were lyin’ in graveyard.’<br />
+    <br />
+    ‘My lad,’ said Troll, ‘this bone I stole.<br />
+    But what be bones that lie in a hole?<br />
+    Thy nuncle was dead as a lump o’lead,<br />
+    Afore I found his shinbone.<br />
+    Tinbone! Thinbone!<br />
+    He can spare a share for a poor old troll,<br />
+    For he don’t need his shinbone.’<br />
+    <br />
+    Said Tom: ‘I don’t see why the likes o’ thee<br />
+    Without axin’ leave should go makin’ free<br />
+    With the shank or the shin o’ my father’s kin;<br />
+    So hand the old bone over!<br />
+    Rover! Trover!<br />
+    Though dead he be, it belongs to he;<br />
+    So hand the old bone over!’<br />
+    <br />
+    ‘For a couple o’ pins,’ says Troll, and grins,<br />
+    ‘I’ll eat thee too, and gnaw thy shins.<br />
+    A bit o’ fresh meat will go down sweet!<br />
+    I’ll try my teeth on thee now.<br />
+    Hee now! See now!<br />
+    I’m tired o’ gnawing old bones and skins;<br />
+    I’ve a mind to dine on thee now.’<br />
+    <br />
+    But just as he thought his dinner was caught,<br />
+    He found his hands had hold of naught.<br />
+    Before he could mind, Tom slipped behind<br />
+    And gave him the boot to larn him.<br />
+    Warn him! Darn him!<br />
+    A bump o’ the boot on the seat, Tom thought,<br />
+    Would be the way to larn him.<br />
+    <br />
+    But harder than stone is the flesh and bone<br />
+    Of a troll that sits in the hills alone.<br />
+    As well set your boot to the mountain’s root,<br />
+    For the seat of a troll don’t feel it.<br />
+    Peel it! Heal it!<br />
+    Old troll laughed, when he heard Tom groan.<br />
+    And he knew his toes could feel it.<br />
+    <br />
+    Tom’s leg is game, since home he came,<br />
+    And his bootless foot is lasting lame;<br />
+    But Troll don’t care, and he’s still there<br />
+    With the bone he boned from its owner.<br />
+    Doner! Boner!<br />
+    Troll’s old seat is still the same,<br />
+    And the bone he boned from its owner!
+</blockquote>
+
+See you in the next Tolkien gathering!!
