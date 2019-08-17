@@ -21,7 +21,7 @@ Let me summarize some of the talks and activities I attended:
 
 # Talks
 
-**Heirs of Tolkien? The Major Contenders**, by **Tom Shippey**
+[**Heirs of Tolkien? The Major Contenders**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/436/%22Heirs%20of%20Tolkien?%20The%20Major%20Contenders%20%22), by **Tom Shippey**
 
 The opening keynote was delivered perfectly by Tom Shippey, it was the ideal kickoff for an event like this combining interesting facts and humor. I admire him since long time ago, but even more after having met him in person during the last [XXIV Mereth Aderthad](https://estelcon2019.sociedadtolkien.org/en/). Reading Beowulf together while drinking beer unites a lot, who could have imagined it.
 
@@ -41,7 +41,7 @@ Very interesting and well documented talk, about how Tolkien speculated on the r
 
 Andrew Higgins explained very briefly how these four important characters are related to heroes from the Classical and Medieval works Tolkien could have known. He commented how Tolkien could have thought the names for each of them, linking as usual the meaning with the character. Again, it will be nice to read the final paper in the proceedings.
 
-**Two Realms: Finished and Unfinished Business**, by **Ted Nasmith**
+[**Two Realms: Finished and Unfinished Business**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/481/Ted%20Nasmith), by **Ted Nasmith**
 
 This was the first of many talks focusing on the illustration of Tolkien's works. This time, Ted Nasmith himself showed us some of his recent commissioned works related to Middle-earth and at the end also to The Song of Ice and Fire. It's impossible to articulate in words what he showed us: lots of illustrations including preliminary drafts or color tests that I would happily put in my walls.
 
@@ -81,7 +81,7 @@ It was believed that a couple of towers from Birmingham (Perrott's Folly and the
 
 The lecture also served somehow as a teaser for his next book, called for the moment as _Tolkien's Worlds_.
 
-**LOTR on Prime** panel, by **Shaun Gunner** ([@ShaunGunner](https://twitter.com/ShaunGunner)) with **Brian Sibley**, **Dimitra Fimi** ([@Dr_Dimitra_Fimi](https://twitter.com/Dr_Dimitra_Fimi)), **Anke Eißmann** ([@khorazir](https://twitter.com/khorazir)), **Jeremy Edmonds** ([@TolkienGuide](https://twitter.com/TolkienGuide)) and **Marcel Aubron-Bülles** ([@The_Tolkienist](https://twitter.com/The_Tolkienist))
+[**LOTR on Prime**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/580/Panel%20-%20LotR%20on%20Prime) panel, by **Shaun Gunner** ([@ShaunGunner](https://twitter.com/ShaunGunner)) with **Brian Sibley**, **Dimitra Fimi** ([@Dr_Dimitra_Fimi](https://twitter.com/Dr_Dimitra_Fimi)), **Anke Eißmann** ([@khorazir](https://twitter.com/khorazir)), **Jeremy Edmonds** ([@TolkienGuide](https://twitter.com/TolkienGuide)) and **Marcel Aubron-Bülles** ([@The_Tolkienist](https://twitter.com/The_Tolkienist))
 
 This panel was promising, first of all because the selection of participants was very well balanced with writers, scholars and artists offering different perspectives about their expectations. Of course they did not give any factual data, and probably that is the reason they were there in the panel giving their opinions freely and not Tom Shippey that is directly involved in the project.
 
@@ -149,7 +149,7 @@ This keynote was merely self-biographical, as Brian explained in a careful and d
 
 [**'I met a lot of things on the way that astonished me': Natural Growth in Writing The Lord of the Rings**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/694), by **Christina Scull**
 
-Christina Scull gave a nice lecture about the creative process of Tolkien. The quote in the title is from Tolkien himself in one of the letters, in which he explained how his own understanding of the characters was changing along the writing process. No surprises here, being Tolkien a huge perfectionist and having spent writing The Lord of the Rings more than 10 years.
+[Christina Scull](https://en.wikipedia.org/wiki/Christina_Scull) gave a nice lecture about the creative process of Tolkien. The quote in the title is from Tolkien himself in one of the letters, in which he explained how his own understanding of the characters was changing along the writing process. No surprises here, being Tolkien a huge perfectionist and having spent writing The Lord of the Rings more than 10 years.
 
 Listening to Christina was a delight but for those that did not attend, calm down as it won't change much respect reading the paper yourselves.
 
@@ -189,7 +189,11 @@ The lecture, that will also deserve a slow read in the proceedings, described ho
 
 In this lecture Nils, that receive during the banquet a badge for belonging to the TS since 25 years ago, describes his research about the connections between Tolkien's comments on the [_Nodens_](https://en.wikipedia.org/wiki/Nodens) Celtic deity and his own legendarium. It is known that the Professor studied about this, to the point [he wrote a paper about the name of the Nodens deity](https://en.wikipedia.org/wiki/Nodens#Etymology) and probably traveled several times to the excavations. The speaker described some parallelisms and the presence in The Silmarillion of mentions to a _catcher_ or hunter deity. Interesting read.
 
-**Tolkien and His Publishers**, by **Wayne Hammond**
+[**Tolkien and His Publishers**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/823), by **Wayne Hammond**
+
+[Wayne Hammond](https://en.wikipedia.org/wiki/Wayne_G._Hammond) with his wife Christina Scull are a reference about Tolkien and his work. They have published several key books about the art of Tolkien in [Lord of the Rings](https://www.goodreads.com/book/show/24886320-the-art-of-the-lord-of-the-rings-by-j-r-r-tolkien) and [The Hobbit](https://www.goodreads.com/book/show/11870160-the-art-of-the-hobbit-by-j-r-r-tolkien) (that I eagerly possess) and the most important [Reader's Companion](https://www.goodreads.com/book/show/15232.The_Lord_of_the_Rings) and [Companion and Guide](https://www.goodreads.com/book/show/33956541-the-j-r-r-tolkien-companion-and-guide).
+
+The speaker shared part of this vast knowledge, this time focusing on the relationship of the Professor with his publishers and editors. He told some anecdotes in an entertaining way, including a couple about Tolkien being famous among the publishers for making very slow progress. It was really interesting hearing his comments about the economic negotiations, in which Tolkien apparently was very successful as it is clear now, specially for his heirs.
 
 **Illustrating Tolkien** panel, by **Shaun Gunner** ([@ShaunGunner](https://twitter.com/ShaunGunner)) with **Alan Lee** ([@AlanLee11225760](https://twitter.com/AlanLee11225760)), **Anke Eißmann** ([@khorazir](https://twitter.com/khorazir)), **Jenny Dolfen** ([@JennyDolfen](https://twitter.com/JennyDolfen)), **Ted Nasmith** and **Jay Johnstone** ([@jaystolkien](https://twitter.com/jaystolkien))
 
