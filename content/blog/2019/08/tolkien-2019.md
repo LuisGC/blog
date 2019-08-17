@@ -231,8 +231,12 @@ The speaker also tried to explain why Tolkien is beloved by millions of people f
 
 [**Power and Choice in the Second Age: A Political Primer**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/883), by **Sarah Rachel Westvik**
 
-Luckily this third talk was not as opinionated as the two previous ones. The speaker, a student of International Relations, analyzed all the political context and tensions that we can see in the Second Age. She grouped the explanation in realms to cover Númenor, the Elven kingdoms (Lindon, Eregion and Greenwood), Mordor and the Ainur. Nice presentation from an eloquent speaker. 
+Luckily this third talk was not as opinionated as the two previous ones. The speaker, a student of International Relations, analyzed all the political context and tensions that we can see in the Second Age. She grouped the explanation in realms to cover Númenor, the Elven kingdoms (Lindon, Eregion and Greenwood), Mordor and the Ainur. Nice presentation from an eloquent speaker.
 
-**Five or Six Ponies?**, by **Jessica Yates**
+[**Five or Six Ponies?**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/895), by **Jessica Yates**
+
+The premise of the talk was intriguing. In the 2004-2005 revision of The Lord of the Rings, the editors changed Merry's line: "There are six ponies in a stable across the fields..." to "There are five ponies...". The reasoning for the change was that the original six ponies were for five hobbits plus a pack-pony, assuming that when Tolkien reduced the number of adventurers to four, he forgot to alter that line. Apparently there has been some debate about this change, and Jessica researched as much as she could to solve the mystery.
+
+As part of her research, Jessica draw (and shared copies with the audience) a plan of the house of Crickhollow. I won't spoil the surprise, if you want to know the answer wait for the proceedings.
 
 **Tolkien, Folklore, and Foxes: a thoroughly vulpine talk in which there may be singing!**, by **Dimitra Fimi** ([@Dr_Dimitra_Fimi](https://twitter.com/Dr_Dimitra_Fimi))
