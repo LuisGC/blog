@@ -133,6 +133,10 @@ The speaker described as well the taxonomy he is working on, based on the type o
 
 **Bilbo, Ulysses and the Greatness of the Unknown**, by **Gloria Larini**
 
+Bilbo and Ulysses, two great characters in two epic adventures. The speaker, taking advantage of her knowledge in Latin and Greek literature, compared both characters and how they embarked on their adventures. For example, both go for the unknown but the initial step is quite different. Ulysses has no choice but Bilbo on the contrary is suitable for the enterprise (at least according to Gandalf).
+
+Another interesting difference between the stories is that Homer did not include the journeys in the narration, but Tolkien does.
+
 **Memory, Lore, Knowledge**, by **Thomas Honegger**
 
 Another quite interesting talk. The speaker explained the concepts, remarking the difference that Tolkien made among them. For example, regarding memory we can find _live_ memory (Gandalf, Galadriel, ...) and dormant memory (the ring verse, old Gondor lore). The main part of the talk was about the difference (almost opposition) between knowledge and lore. In Middle-earth, knowledge is perceived as negative (Saruman is the main representative) but Lore is usually positive (Ioreth, as the best example). Lore cannot be learned, it needs to be handed over or it will be lost. That is why knowledge can increase, but Lore can only decline.
