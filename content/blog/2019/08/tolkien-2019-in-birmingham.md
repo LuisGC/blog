@@ -1,6 +1,6 @@
 +++
 author = "LuisGC"
-title = "Tolkien 2019"
+title = "Tolkien 2019 in Birmingham"
 date = "2019-08-18"
 type = "post"
 categories = ["event", "culture", "literature", "personal", "art", "tolkien"]
@@ -13,9 +13,9 @@ featuredpath = "Tolkien 2019, the largest celebration of Tolkien ever held by th
 
 If you are reading this you probably know already that I am a big fan of [**J.R.R. Tolkien**](https://en.wikipedia.org/wiki/J._R._R._Tolkien), to the point that I joined the Spanish Tolkien Society ([**Sociedad Tolkien Española**](http://www.sociedadtolkien.org/)) almost 20 years ago and I usually don't miss any of their events.
 
-Since recently I also belong to the [**Tolkien Society**](https://www.tolkiensociety.org/), and after having missed for probably important (but now forgotten) reasons [Tolkien 2005 and Tolkien 2012](https://www.tolkiensociety.org/society/events/conferences/), the last major events that they organized, I was not going to miss [**Tolkien 2019**](https://www.tolkien2019.com/). In 2005 the gathering marked the 50th anniversary of the complete publication of The Lord of The Rings. In 2012 the conference was held to commemorate the 75th anniversary of the publication of The Hobbit. This year the **Tolkien Society** celebrated its own 50th anniversary with the largest celebration of Tolkien ever held. More than **550 attendees** and more than **150 activities** including talks, panels, workshops, signing sessions, music, theater,...
+Since recently I also belong to the [**Tolkien Society**](https://www.tolkiensociety.org/), and after having missed for probably important (but now forgotten) reasons [Tolkien 2005 and Tolkien 2012](https://www.tolkiensociety.org/society/events/conferences/), the last major events that they organized, I was not going to miss [**Tolkien 2019**](https://www.tolkien2019.com/). In 2005 the gathering marked the 50th anniversary of the complete publication of The Lord of The Rings. In 2012 the conference was held to commemorate the 75th anniversary of the publication of The Hobbit. This year the **Tolkien Society** celebrated in Birmingham its own 50th anniversary with the largest celebration of Tolkien ever held. More than **550 attendees** and more than **150 activities** including talks, panels, workshops, signing sessions, music, theater,...
 
-I have a lot of things to do but I don't want to miss the opportunity to write here some quick impressions of my experience there. (**last minute edit**: Quick is an euphemism, as I have spent several hours writing this article).
+I have a lot of things to do but I don't want to miss the opportunity to write here some quick impressions of my experience there. (**last minute edit**: Quick is an euphemism, as I have spent several hours writing this article). Also, [Pablo has published (in Spanish) a fantastic summary of his own experience in Tolkien 2019](https://ghilbrae.com/tolkien-2019-el-evento-del-50o-aniversario-de-la-tolkien-society/) and the scarce overlap between our experiences there has encouraged me to complete the article as much as possible.
 
 **TL;DR**: The **good part**: I attended around 40 activities, most of them top quality content, and I realize know that more than a third of them had a female speaker. That is a lot. I met in person lots of interesting people, and had the opportunity to spend time with people that I admire. **The bad part**: I didn't like the venue, the corridors were too small, it was full of steps and only two of the rooms were big enough for an event like this with 500 participants. The lack of a lunch break not only forced everyone to skip content daily, but also made it much more difficult to meet other people and do proper networking.
 
