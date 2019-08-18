@@ -4,12 +4,12 @@ title = "Tolkien 2019 in Birmingham"
 date = "2019-08-18"
 type = "post"
 categories = ["event", "culture", "literature", "personal", "art", "tolkien"]
-featured = "/img/tolkien-2019.jpg"
+featured = "https://live.staticflickr.com/65535/48565095461_ea29b3021c_k.jpg"
 featuredalt = "Tolkien 2019, the largest celebration of Tolkien ever held by the Tolkien Society"
 featuredpath = "Tolkien 2019, the largest celebration of Tolkien ever held by the Tolkien Society"
 +++
 
-{{< image classes="image lateral" src="/img/tolkien-2019-badge.jpg" title="Showing off my double nationality" >}}
+{{< image classes="image lateral" src="https://live.staticflickr.com/65535/48565095406_47473dba20_k.jpg" title="Showing off my double nationality" >}}
 
 If you are reading this you probably know already that I am a big fan of [**J.R.R. Tolkien**](https://en.wikipedia.org/wiki/J._R._R._Tolkien), to the point that I joined the Spanish Tolkien Society ([**Sociedad Tolkien Española**](http://www.sociedadtolkien.org/)) almost 20 years ago and I usually don't miss any of their events.
 
@@ -17,23 +17,23 @@ Since recently I also belong to the [**Tolkien Society**](https://www.tolkiensoc
 
 I have a lot of things to do but I don't want to miss the opportunity to write here some quick impressions of my experience there. (**last minute edit**: Quick is an euphemism, as I have spent several hours writing this article). Also, [Pablo has published (in Spanish) a fantastic summary of his own experience in Tolkien 2019](https://ghilbrae.com/tolkien-2019-el-evento-del-50o-aniversario-de-la-tolkien-society/) and the scarce overlap between our experiences there has encouraged me to complete the article as much as possible.
 
-**TL;DR**: The **good part**: I attended around 40 activities, most of them top quality content, and I realize know that more than a third of them had a female speaker. That is a lot. I met in person lots of interesting people, and had the opportunity to spend time with people that I admire. **The bad part**: I didn't like the venue, the corridors were too small, it was full of steps and only two of the rooms were big enough for an event like this with 500 participants. The lack of a lunch break not only forced everyone to skip content daily, but also made it much more difficult to meet other people and do proper networking.
+**TL;DR**: The **good part**: I attended around 40 activities, most of them top quality content, and I realize know that more than a third of them had a female speaker. That is a lot. I met in person lots of interesting people, and had the opportunity to spend time and learn from people that I admire. **The bad part**: I didn't like the venue, the corridors were too small, it was full of steps and only two of the rooms were big enough for an event like this with >500 participants. The lack of a lunch break not only forced everyone to skip good contents, but also made it much more difficult to meet other people and do proper networking.
 
-{{< image classes="image" src="/img/Spanish-in-Tolkien-2019.jpg" title="The STE delegation with other friends from Spain also attending Tolkien 2019" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48565095526_fca9116fa9_o.jpg" title="The STE delegation with other friends from Spain also attending Tolkien 2019" >}}
 
 Let me summarize some of the talks and activities I attended:
 
-# Talks
+# Activities
 
 [**Heirs of Tolkien? The Major Contenders**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/436/%22Heirs%20of%20Tolkien?%20The%20Major%20Contenders%20%22), by **Tom Shippey**
 
-The opening keynote was delivered perfectly by [Tom Shippey](https://en.wikipedia.org/wiki/Tom_Shippey), it was the ideal kickoff for an event like this combining interesting facts and humor. I admire him since long time ago, but even more after having met him in person during the last [XXIV Mereth Aderthad](https://estelcon2019.sociedadtolkien.org/en/). Reading Beowulf together while drinking beer unites a lot, who could have imagined it.
+The opening keynote was delivered perfectly by [Tom Shippey](https://en.wikipedia.org/wiki/Tom_Shippey), it was the ideal kickoff for an event like this combining interesting facts and humor. I admire him since long time ago, but even more after having met him in person during the last [XXIV Mereth Aderthad](https://estelcon2019.sociedadtolkien.org/en/). Reading Beowulf together while drinking beer creates some bonding, who could have imagined it.
 
-Shippey, with his usual simple slides, started with the slogan of the [Deustche Tolkien Gesellschaft](https://www.tolkiengesellschaft.de/): _Ohne Tolkien, keine fantasy_ (without Tolkien, no fantasy) stressing how this _motto_ is still correct nowadays. Tolkien was the first author to achieve mass market success with ambitious and top level quality high fantasy, something that was even more difficult in the previous century. Mass market success in fantasy works is more common nowadays, and this is only because of Tolkien's legacy.
+Shippey, with his usual simple (but effective) slides, started with the slogan of the [Deustche Tolkien Gesellschaft](https://www.tolkiengesellschaft.de/): _Ohne Tolkien, Keine Fantasy_ (without Tolkien, no fantasy) stressing how this _motto_ is still correct nowadays. Tolkien was the first author to achieve mass market success with ambitious and top level quality high fantasy, something that was even more difficult in the previous century. Mass market success in fantasy works is more common nowadays, and this is only because of Tolkien's legacy.
 
 He commented that he is working in a taxonomy of fantasy authors, and also explained who could be a worthy successor of Tolkien. In his opinion only three authors are candidates in quality with their own genuine style: [George RR Martin](https://en.wikipedia.org/wiki/George_R._R._Martin), [Stephen Donaldson](https://en.wikipedia.org/wiki/Stephen_R._Donaldson) and [Michael Swanwick](https://en.wikipedia.org/wiki/Michael_Swanwick), all of them heavily influenced by Tolkien. This part was related to the talk he gave in May in Spain comparing the characters, works and values from Tolkien and Martin.
 
-{{< image classes="image" src="/img/Tom-Shippey.jpg" title="Tom Shippey explaining the fantasy types identified by Farah Mendelsohn" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48565238467_014b783125_k.jpg" title="Tom Shippey explaining the fantasy types identified by Farah Mendelsohn" >}}
 
 [**To the origins of fairy-tales**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/451), by **Enrico Spadaro** ([@EnricoSpadaro7](https://twitter.com/EnricoSpadaro7))
 
@@ -51,13 +51,15 @@ Andrew Higgins explained very briefly how these four important characters are re
 
 This was the first of many talks focusing on the illustration of Tolkien's works. This time, [Ted Nasmith](https://en.wikipedia.org/wiki/Ted_Nasmith) himself showed us some of his recent commissioned works related to Middle-earth and at the end also to The Song of Ice and Fire. It's impossible to articulate in words what he showed us: lots of illustrations including preliminary drafts or color tests that I would happily put in my walls.
 
+I specially liked a couple of his recent works: [Rhosgobel](https://www.tednasmith.com/tolkien/rhosgobel/), [Durin’s Crown and the Mirrormere](https://www.tednasmith.com/tolkien/durins-crown-and-the-mirrormere/) and most of all [Turgon at Fingolfin’s Cairn](https://www.tednasmith.com/tolkien/turgon-at-fingolfins-cairn/). Wouldn't mind at all if someone wanted to buy me one.
+
 Ted is not only a gifted artist but also proved to be friendly to his fans and methodical in his work.
 
-{{< image classes="image" src="/img/Ted-Nasmith.jpg" title="Ted Nasmith showing one of his awesome drawings of Treebeard" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48565095496_616499fc03_k.jpg" title="Ted Nasmith showing one of his awesome drawings of Treebeard" >}}
 
 **Leaf by Niggle**, by **Puppet State Theatre** ([@PuppetStateThtr](https://twitter.com/PuppetStateThtr))
 
-Richard Medringtone from the [_Puppet State Theatre_](http://www.puppetstate.com/) showed us how one single person on stage can grab the attention of the audience for more than an hour. He is clearly a top professional in acting, and the adaptation of _Leaf by Niggle_ fitted his acting perfectly. The stage setting, despite being minimalistic, was adequate and the protagonist made good use of almost all its elements. I loved the play and will see it again without hesitation.
+Richard Medringtone from the [_Puppet State Theatre_](http://www.puppetstate.com/) showed us how one single person on stage can grab the attention of the audience for more than an hour. He is clearly a top professional in acting, and the adaptation of _Leaf by Niggle_ fitted his style perfectly. The stage setting, despite being minimalistic, was adequate and the protagonist made good use of almost all its elements. I loved the play and will see it again without hesitation.
 
 [**Clothing in Tolkien’s world and what we can see through its historical analysis**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/496), by **Dr. Ester Torredelforth** ([@Torredelforth](https://twitter.com/torredelforth))
 
@@ -65,7 +67,7 @@ Ester, Doctor in medieval art and fashion, made a brilliant exposition of the fa
 
 [**Aratalindalë - The Making of a Myth**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/505), by **Maggie Percival**
 
-I was not sure about this talk, but I'm glad I finally attended it. The purpose of the lecture was to describe the process she and some other colleagues followed to prepare the Masquerade for the London WorldCon of 2014 where [they won several prizes including Best overall](https://en.wikipedia.org/wiki/72nd_World_Science_Fiction_Convention). They prepared a group costume entitled Aratalindalë that included eight Valar as they are described in The Silmarillion.
+I was not sure about this talk, but I'm glad I finally attended it. The purpose of the lecture was to describe the process she and some other colleagues from the Tolkien Society followed to prepare the Masquerade for the London WorldCon of 2014 where [they won several prizes including Best overall](https://en.wikipedia.org/wiki/72nd_World_Science_Fiction_Convention). They prepared a group costume entitled Aratalindalë that included eight Valar as they are described in The Silmarillion.
 
 Maggie explained with lots of details the reasoning after all the designs including the selection of fabrics and how they combined traditional dressmaking skills with modern technology using LED lights in the costumes with certain level of animation designed for each Vala. There are [several pictures online](https://www.tolkiensociety.org/2014/08/tolkien-society-members-triumph-at-worldcon-masquerade/) but I haven't found the full video where all the lighting features can be seen properly.
 
@@ -83,13 +85,13 @@ The room was full also because Tom Shippey wrote the foreword and also participa
 
 My colleague from the [**STE**](http://www.sociedadtolkien.org/) is becoming a regular for these types of events, and no wonder it's like that with the quality and amount of research he has been doing over the last years. This time the lecture was about how a very young Tolkien got a job as tutor of a bunch of kids during a trip to France. Without spoiling the details, let's say that the task was suddenly complicated and could have disrupted Tolkien in a unique way.
 
-{{< image classes="image" src="/img/Jose-Manuel-Ferrandez-Bru.jpg" title="Jose Manuel Ferrández Bru explaining the intricate relationships of the Martínez del Río Bermejillo brothers" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48565095606_766bfd447a_k.jpg" title="Jose Manuel Ferrández Bru explaining the intricate relationships of the Martínez del Río Bermejillo brothers" >}}
 
 [**The Two Towers of Birmingham, and other follies**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/571), by **John Garth** ([@JohnGarthWriter](https://twitter.com/JohnGarthWriter))
 
 It was believed that a couple of towers from Birmingham (Perrott's Folly and the Edgbaston Waterworks tower) may have provided the inspiration for the Two Towers in the Lord of the Rings. John Garth started his keynote explaining why he does not consider this argument very solid. First of all, which two towers? Minas Morgul and Minas Tirith? Orthanc and Barad-dûr? It's still ambiguous. Garth reviewed all the early designs that we have from Tolkien about those towers, analyzing the evolution of them.
 
-The lecture also served somehow as a teaser for his next book, called for the moment as _Tolkien's Worlds_.
+The lecture also served somehow as a teaser for his next book, titled for the moment as _Tolkien's Worlds_.
 
 [**LOTR on Prime**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/580/Panel%20-%20LotR%20on%20Prime) panel, by **Shaun Gunner** ([@ShaunGunner](https://twitter.com/ShaunGunner)) with **Brian Sibley**, **Dimitra Fimi** ([@Dr_Dimitra_Fimi](https://twitter.com/Dr_Dimitra_Fimi)), **Anke Eißmann** ([@khorazir](https://twitter.com/khorazir)), **Jeremy Edmonds** ([@TolkienGuide](https://twitter.com/TolkienGuide)) and **Marcel Aubron-Bülles** ([@The_Tolkienist](https://twitter.com/The_Tolkienist))
 
@@ -101,9 +103,9 @@ I specially liked the contributions by Brian Sibley, who was fully engaged in al
 
 Despite the main room was completely full, the organization switched off the lights for the audience and everyone was in absolute silence listening to the careful explanations by [Alan Lee](https://en.wikipedia.org/wiki/Alan_Lee_(illustrator)). It was almost magical and completely amazing. We could see dozens of sketches explained from the genius himself, from watercolor exercises to architectural blueprints. Lee's view on Middle-earth is engraved in the mind of many people (including mine) and we were very lucky that his vision was also omnipresent in Peter Jackson's films.
 
-There was also time for him to answer a lot of questions from the audience, some of them related to their relationship with other artists like John Howe.
+There was also time for him to answer a lot of questions from the audience, and perhaps the most interesting were related to their relationship with other artists like John Howe.
 
-{{< image classes="image" src="/img/Alan-Lee.jpg" title="Alan Lee explaining one of his drawings about Orthanc" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48565095786_228a1b2aeb_k.jpg" title="Alan Lee explaining one of his drawings about Orthanc" >}}
 
 **Orchestra Concert**, by **The People's Orchestra** ([@ThePeoplesOrch](https://twitter.com/ThePeoplesOrch))
 
@@ -117,9 +119,9 @@ The speaker was humorous and kind with the audience, taking into account she del
 
 [**Pauline Diana Baynes - An artists inspiration**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/616), by **Jay Johnstone** ([@jaystolkien](https://twitter.com/jaystolkien))
 
-After having met Jay in the Dealer's room and having enjoyed his own amazing pieces of art, I was curious about this talk. I expected him to explain not only his admiration for the artist but also his opinion as a passionate collector. I received what I expected, by far.
+After having met Jay in the Dealer's Room and having enjoyed his own amazing pieces of art, I was curious about this talk. I expected him to explain not only his admiration for the artist but also his opinion as a passionate collector. I received what I expected, by far.
 
-Pauline was a prolific and very special artist. She illustrated or contributed to more than 200 books, gaining international fame as the first illustrator and cover artist of some Tolkien _minor_ works (Farmer Giles of Ham, The Adventures of Tom Bombadil, Smith of Wootton Major, ...) and [Chronicles of Narnia](https://en.wikipedia.org/wiki/Chronicles_of_Narnia) by [C.S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis). As an example of masterpiece, the speaker showed us [the illustration she did for a Nursery Rhymes book](https://www.agefotostock.com/age/en/Stock-Images/Rights-Managed/MEV-10435133), in which she featured 56 different characters from the collected tales in one single page.
+[Pauline Baynes](https://en.wikipedia.org/wiki/Pauline_Baynes) was a prolific and very special artist. She illustrated or contributed to more than 200 books, gaining international fame as the first illustrator and cover artist of some Tolkien _minor_ works (Farmer Giles of Ham, The Adventures of Tom Bombadil, Smith of Wootton Major, ...) and [Chronicles of Narnia](https://en.wikipedia.org/wiki/Chronicles_of_Narnia) by [C.S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis). As an example of masterpiece, the speaker showed us [the illustration she did for a Nursery Rhymes book](https://www.agefotostock.com/age/en/Stock-Images/Rights-Managed/MEV-10435133), in which she featured 56 different characters from the collected tales in one single page.
 
 I learned in the talk that Pauline illustrated Farmer Giles of Ham by pure chance, according to Jay Tolkien was visiting his editors to complain about the artwork proposal he had received and luckily a sketchbook by Pauline was open over a table.
 
@@ -159,7 +161,7 @@ I knew [Brian Sibley](https://en.wikipedia.org/wiki/Brian_Sibley) since long tim
 
 This keynote was merely self-biographical, as Brian explained in a careful and detailed way his career and complete evolution. He focused first on his biggest hit, the [1981 BBC radio dramatization of The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings#Radio), to finish with his recent projects including [the chronicles of the making](https://www.goodreads.com/book/show/7351.The_Lord_of_the_Rings) and [movie guides](https://www.goodreads.com/book/show/15239.The_Lord_of_the_Rings) of the two trilogies by Peter Jackson, the awesome [The Maps of Tolkien's Middle-earth](https://www.goodreads.com/book/show/7340.The_Maps_of_Tolkien_s_Middle_earth) book with [John Howe](https://en.wikipedia.org/wiki/John_Howe_(illustrator)) and even [an authorized biography of Peter Jackson](https://www.goodreads.com/book/show/621204.Peter_Jackson).
 
-{{< image classes="image" src="/img/Brian-Sibley.jpg" title="Brian Sibley showing the audience how he receive a book signed (and fixed) by Tolkien" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48565095721_5f76820363_k.jpg" title="Brian Sibley showing the audience how he receive a book signed (and fixed) by Tolkien" >}}
 
 [**'I met a lot of things on the way that astonished me': Natural Growth in Writing The Lord of the Rings**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/694), by **Christina Scull**
 
@@ -179,7 +181,7 @@ Tsvetelina Krumova thinks that [Tengwar](https://en.wikipedia.org/wiki/Tengwar) 
 
 I took another important thought of this talk. Despite the amount of pages and studies that we have today it is still not possible to cook like the elves, to fight like them or it is not clear how could we dance like the elves did. But we can write exactly like the elves, even if we need to write Tengwar in English or Spanish. Food for thought!
 
-{{< image classes="image" src="/img/Tsvetelina-Krumova.jpg" title="One of the books written marvellously in Tengwar by Tsvetelina Krumova" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48565095331_a172091e6a_k.jpg" title="One of the books written marvelously in Tengwar by Tsvetelina Krumova" >}}
 
 [**Taniquetil: A tale of two cities**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/745), by **Denis Bridoux**
 
@@ -243,7 +245,7 @@ Colucci gave us interesting quotes like "as Americans we feel that we are Gondor
 
 Second lecture of the day about politics, that also left me with bittersweet feelings. Shaun, current chair of the Tolkien Society, explained what could be the political inclination of Tolkien based on what we know about him and his context. Based on his research he claimed that Tolkien was in favor of the Scottish independent movement despite feeling proud of his country and idealizing England as The Shire. According to Shaun, the Professor was against all kinds of communism or imperialism, to the point that the idealistic Shire was a Benevolent Anarchy with the Thain acting just as a ceremonial figure without real authority.
 
-The speaker also tried to explain why Tolkien is beloved by millions of people from the whole political spectrum. Related to this, he also claimed that the Tolkien Society was created in the sixties to claim Tolkien back from the hippies.
+The speaker also tried to explain why Tolkien is beloved by millions of people from the whole political spectrum. Related to this, he also said that the Tolkien Society was created in the sixties to claim Tolkien back from the hippies.
 
 [**Power and Choice in the Second Age: A Political Primer**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/883), by **Sarah Rachel Westvik**
 
@@ -251,7 +253,7 @@ Luckily this third talk was not as opinionated as the two previous ones. The spe
 
 [**Five or Six Ponies?**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/895), by **Jessica Yates**
 
-{{< image classes="image lateral" src="/img/Jessica-Yates.jpg" title="A plan of the house of Crickhollow, by Jessica Yates" >}}
+{{< image classes="image lateral" src="https://live.staticflickr.com/65535/48565095696_37943698a7_k.jpg" title="A plan of the house of Crickhollow, by Jessica Yates" >}}
 
 The premise of the talk was intriguing. In the 2004-2005 revision of The Lord of the Rings, the editors changed Merry's line: "There are six ponies in a stable across the fields..." to "There are five ponies...". The reasoning for the change was that the original six ponies were for five hobbits plus a pack-pony, assuming that when Tolkien reduced the number of adventurers to four, he forgot to alter that line. Apparently there has been some debate about this change, and Jessica researched as much as she could to solve the mystery.
 
