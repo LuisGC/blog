@@ -57,7 +57,7 @@ jobs:
 
     - run:
         name: "Build Website With Hugo"
-        command: hugo -v -d docs --cleanDestinationDir
+        command: hugo -v -d docs --cleanDestinationDir --baseUrl=https://luiyo.net
 
     - run:
         name: commit the changes

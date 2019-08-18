@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://luiyo.net"
 languageCode = "en-us"
 title = "Luiyología"
 theme = "hugo-future-imperfect"
@@ -46,7 +46,7 @@ baseName = "feed"
   socialShare          = true
   # Sets specific share to appear on posts (default behavior is to appear)
   socialShareTwitter   = true
-  socialShareGoogleplus = true
+  socialShareGoogleplus = false
   socialShareFacebook  = true
   socialShareReddit    = true
   socialShareLinkedin  = true
@@ -63,7 +63,7 @@ baseName = "feed"
   customJS             = ["default"]
 
   # options for highlight.js (version, additional languages, and theme)
-  disable_highlight = false # set to true to disable Highlight
+  disable_highlight = true # set to true to disable Highlight
   highlightjsVersion = "9.11.0"
   highlightjsCDN = "//cdn.bootcss.com"
   highlightjsLang = ["r", "yaml", "css"]
