@@ -1,7 +1,7 @@
 +++
 author = "LuisGC"
 title = "Tolkien 2019"
-date = "2019-08-16"
+date = "2019-08-18"
 type = "post"
 categories = ["event", "culture", "literature", "personal", "art", "tolkien"]
 featured = "/img/tolkien-2019.jpg"
@@ -15,9 +15,11 @@ If you are reading this you probably know already that I am a big fan of [**J.R.
 
 Since recently I also belong to the [**Tolkien Society**](https://www.tolkiensociety.org/), and after having missed for probably important (but now forgotten) reasons [Tolkien 2005 and Tolkien 2012](https://www.tolkiensociety.org/society/events/conferences/), the last major events that they organized, I was not going to miss [**Tolkien 2019**](https://www.tolkien2019.com/). In 2005 the gathering marked the 50th anniversary of the complete publication of The Lord of The Rings. In 2012 the conference was held to commemorate the 75th anniversary of the publication of The Hobbit. This year the **Tolkien Society** celebrated its own 50th anniversary with the largest celebration of Tolkien ever held. More than **550 attendees** and more than **150 activities** including talks, panels, workshops, signing sessions, music, theater,...
 
-I have a lot of things to do but I don't want to miss the opportunity to write here some quick impressions of my experience there. (**last minute edit**: Quick is an eufemism, as I have spent several hours writing this article).
+I have a lot of things to do but I don't want to miss the opportunity to write here some quick impressions of my experience there. (**last minute edit**: Quick is an euphemism, as I have spent several hours writing this article).
 
 **TL;DR**: The **good part**: I attended around 40 activities, most of them top quality content, and I realize know that more than a third of them had a female speaker. That is a lot. I met in person lots of interesting people, and had the opportunity to spend time with people that I admire. **The bad part**: I didn't like the venue, the corridors were too small, it was full of steps and only two of the rooms were big enough for an event like this with 500 participants. The lack of a lunch break not only forced everyone to skip content daily, but also made it much more difficult to meet other people and do proper networking.
+
+{{< image classes="image" src="/img/Spanish-in-Tolkien-2019.jpg" title="Nice group picture of our delegation in Tolkien 2019" >}}
 
 Let me summarize some of the talks and activities I attended:
 
@@ -30,6 +32,8 @@ The opening keynote was delivered perfectly by [Tom Shippey](https://en.wikipedi
 Shippey, with his usual simple slides, started with the slogan of the [Deustche Tolkien Gesellschaft](https://www.tolkiengesellschaft.de/): _Ohne Tolkien, keine fantasy_ (without Tolkien, no fantasy) stressing how this _motto_ is still correct nowadays. Tolkien was the first author to achieve mass market success with ambitious and top level quality high fantasy, something that was even more difficult in the previous century. Mass market success in fantasy works is more common nowadays, and this is only because of Tolkien's legacy.
 
 He commented that he is working in a taxonomy of fantasy authors, and also explained who could be a worthy successor of Tolkien. In his opinion only three authors are candidates in quality with their own genuine style: [George RR Martin](https://en.wikipedia.org/wiki/George_R._R._Martin), [Stephen Donaldson](https://en.wikipedia.org/wiki/Stephen_R._Donaldson) and [Michael Swanwick](https://en.wikipedia.org/wiki/Michael_Swanwick), all of them heavily influenced by Tolkien. This part was related to the talk he gave in May in Spain comparing the characters, works and values from Tolkien and Martin.
+
+{{< image classes="image" src="/img/Tom-Shippey.jpg" title="Tom Shippey explaining the fantasy types identified by Farah Mendelsohn" >}}
 
 [**To the origins of fairy-tales**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/451), by **Enrico Spadaro** ([@EnricoSpadaro7](https://twitter.com/EnricoSpadaro7))
 
@@ -48,6 +52,8 @@ Andrew Higgins explained very briefly how these four important characters are re
 This was the first of many talks focusing on the illustration of Tolkien's works. This time, [Ted Nasmith](https://en.wikipedia.org/wiki/Ted_Nasmith) himself showed us some of his recent commissioned works related to Middle-earth and at the end also to The Song of Ice and Fire. It's impossible to articulate in words what he showed us: lots of illustrations including preliminary drafts or color tests that I would happily put in my walls.
 
 Ted is not only a gifted artist but also proved to be friendly to his fans and methodical in his work.
+
+{{< image classes="image" src="/img/Ted-Nasmith.jpg" title="Ted Nasmith showing one of his awesome drawings of Treebeard" >}}
 
 **Leaf by Niggle**, by **Puppet State Theatre** ([@PuppetStateThtr](https://twitter.com/PuppetStateThtr))
 
@@ -77,6 +83,8 @@ The room was full also because Tom Shippey wrote the foreword and also participa
 
 My colleague from the [**STE**](http://www.sociedadtolkien.org/) is becoming a regular for these types of events, and no wonder it's like that with the quality and amount of research he has been doing over the last years. This time the lecture was about how a very young Tolkien got a job as tutor of a bunch of kids during a trip to France. Without spoiling the details, let's say that the task was suddenly complicated and could have disrupted Tolkien in a unique way.
 
+{{< image classes="image" src="/img/Jose-Manuel-Ferrandez-Bru.jpg" title="Jose Manuel Ferrández Bru explaining the intricate relationships of the Martínez del Río Bermejillo brothers" >}}
+
 [**The Two Towers of Birmingham, and other follies**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/571), by **John Garth** ([@JohnGarthWriter](https://twitter.com/JohnGarthWriter))
 
 It was believed that a couple of towers from Birmingham (Perrott's Folly and the Edgbaston Waterworks tower) may have provided the inspiration for the Two Towers in the Lord of the Rings. John Garth started his keynote explaining why he does not consider this argument very solid. First of all, which two towers? Minas Morgul and Minas Tirith? Orthanc and Barad-dûr? It's still ambiguous. Garth reviewed all the early designs that we have from Tolkien about those towers, analyzing the evolution of them.
@@ -94,6 +102,8 @@ I specially liked the contributions by Brian Sibley, who was fully engaged in al
 Despite the main room was completely full, the organization switched off the lights for the audience and everyone was in absolute silence listening to the careful explanations by [Alan Lee](https://en.wikipedia.org/wiki/Alan_Lee_(illustrator)). It was almost magical and completely amazing. We could see dozens of sketches explained from the genius himself, from watercolor exercises to architectural blueprints. Lee's view on Middle-earth is engraved in the mind of many people (including mine) and we were very lucky that his vision was also omnipresent in Peter Jackson's films.
 
 There was also time for him to answer a lot of questions from the audience, some of them related to their relationship with other artists like John Howe.
+
+{{< image classes="image" src="/img/Alan-Lee.jpg" title="Alan Lee explaining one of his drawings about Orthanc" >}}
 
 **Orchestra Concert**, by **The People's Orchestra** ([@ThePeoplesOrch](https://twitter.com/ThePeoplesOrch))
 
@@ -149,6 +159,8 @@ I knew [Brian Sibley](https://en.wikipedia.org/wiki/Brian_Sibley) since long tim
 
 This keynote was merely self-biographical, as Brian explained in a careful and detailed way his career and complete evolution. He focused first on his biggest hit, the [1981 BBC radio dramatization of The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings#Radio), to finish with his recent projects including [the chronicles of the making](https://www.goodreads.com/book/show/7351.The_Lord_of_the_Rings) and [movie guides](https://www.goodreads.com/book/show/15239.The_Lord_of_the_Rings) of the two trilogies by Peter Jackson, the awesome [The Maps of Tolkien's Middle-earth](https://www.goodreads.com/book/show/7340.The_Maps_of_Tolkien_s_Middle_earth) book with [John Howe](https://en.wikipedia.org/wiki/John_Howe_(illustrator)) and even [an authorized biography of Peter Jackson](https://www.goodreads.com/book/show/621204.Peter_Jackson).
 
+{{< image classes="image" src="/img/Brian-Sibley.jpg" title="Brian Sibley showing the audience how he receive a book signed (and fixed) by Tolkien" >}}
+
 [**'I met a lot of things on the way that astonished me': Natural Growth in Writing The Lord of the Rings**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/694), by **Christina Scull**
 
 [Christina Scull](https://en.wikipedia.org/wiki/Christina_Scull) gave a nice lecture about the creative process of Tolkien. The quote in the title is from Tolkien himself in one of the letters, in which he explained how his own understanding of the characters was changing along the writing process. No surprises here, being Tolkien a huge perfectionist and having spent writing The Lord of the Rings more than 10 years.
@@ -166,6 +178,8 @@ Anyway, I did like a gesture that I will try to copy in our Spanish association.
 Tsvetelina Krumova thinks that [Tengwar](https://en.wikipedia.org/wiki/Tengwar) should never be written by a machine, as it goes against its nature. According to this reasoning, that I fully share, she began 10 years ago to transcribe some books using Tengwar. She brought some copies to show us and the result is astonishing, even ignoring the infamous amount of hours this woman has spent writing. She also described how the activity itself of writing in Tengwar forces her to focus so much, that she is using this also as a kind of relaxing or meditation experience on a daily basis.
 
 I took another important thought of this talk. Despite the amount of pages and studies that we have today it is still not possible to cook like the elves, to fight like them or it is not clear how could we dance like the elves did. But we can write exactly like the elves, even if we need to write Tengwar in English or Spanish. Food for thought!
+
+{{< image classes="image" src="/img/Tsvetelina-Krumova.jpg" title="One of the books written marvellously in Tengwar by Tsvetelina Krumova" >}}
 
 [**Taniquetil: A tale of two cities**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/745), by **Denis Bridoux**
 
@@ -236,6 +250,8 @@ The speaker also tried to explain why Tolkien is beloved by millions of people f
 Luckily this third talk was not as opinionated as the two previous ones. The speaker, a student of International Relations, analyzed all the political context and tensions that we can see in the Second Age. She grouped the explanation in realms to cover Númenor, the Elven kingdoms (Lindon, Eregion and Greenwood), Mordor and the Ainur. Nice presentation from an eloquent speaker.
 
 [**Five or Six Ponies?**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/895), by **Jessica Yates**
+
+{{< image classes="image lateral" src="/img/Jessica-Yates.jpg" title="A plan of the house of Crickhollow, by Jessica Yates" >}}
 
 The premise of the talk was intriguing. In the 2004-2005 revision of The Lord of the Rings, the editors changed Merry's line: "There are six ponies in a stable across the fields..." to "There are five ponies...". The reasoning for the change was that the original six ponies were for five hobbits plus a pack-pony, assuming that when Tolkien reduced the number of adventurers to four, he forgot to alter that line. Apparently there has been some debate about this change, and Jessica researched as much as she could to solve the mystery.
 
