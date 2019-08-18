@@ -19,7 +19,7 @@ I have a lot of things to do but I don't want to miss the opportunity to write h
 
 **TL;DR**: The **good part**: I attended around 40 activities, most of them top quality content, and I realize know that more than a third of them had a female speaker. That is a lot. I met in person lots of interesting people, and had the opportunity to spend time with people that I admire. **The bad part**: I didn't like the venue, the corridors were too small, it was full of steps and only two of the rooms were big enough for an event like this with 500 participants. The lack of a lunch break not only forced everyone to skip content daily, but also made it much more difficult to meet other people and do proper networking.
 
-{{< image classes="image" src="/img/Spanish-in-Tolkien-2019.jpg" title="Nice group picture of our delegation in Tolkien 2019" >}}
+{{< image classes="image" src="/img/Spanish-in-Tolkien-2019.jpg" title="The STE delegation with other friends from Spain also attending Tolkien 2019" >}}
 
 Let me summarize some of the talks and activities I attended:
 
