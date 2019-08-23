@@ -71,14 +71,14 @@ jobs:
         paths:
         # This is a broad list of cache paths to include many possible development environments
         # You can probably delete some of these entries
-        - vendor/bundle
-        - ~/virtualenvs
-        - ~/.m2
-        - ~/.ivy2
-        - ~/.bundle
-        - ~/.go_workspace
-        - ~/.gradle
-        - ~/.cache/bower
+        # - vendor/bundle
+        # - ~/virtualenvs
+        # - ~/.m2
+        # - ~/.ivy2
+        # - ~/.bundle
+        # - ~/.go_workspace
+        # - ~/.gradle
+        # - ~/.cache/bower
     # Test
     #   This would typically be a build job when using workflows, possibly combined with build
     # This is based on your 1.0 configuration file or project settings
@@ -106,6 +106,10 @@ jobs:
         command: |
             if [ "${CIRCLE_BRANCH}" = "master" ]; then
               echo -e "Starting to deploy to Github Pages\n"
+              cd ~/repo
+              # using token clone gh-pages branch
+              git clone https://${GH_TOKEN}@github.com/$TARGET_REPO.git built_website > /dev/null
+              ll built_website
             else
               echo "Not master branch, dry run only"
             fi
