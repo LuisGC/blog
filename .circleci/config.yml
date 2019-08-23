@@ -114,7 +114,7 @@ jobs:
               echo -e "Starting to deploy to Github Pages\n"
               cd ~/LuisGC/blog
               # using token clone gh-pages branch
-              git clone https://github.com/$TARGET_REPO built_website > /dev/null
+              git clone --branch=master https://${GH_TOKEN}@github.com/$TARGET_REPO built_website > /dev/null
 
               # go into directory and copy data we're interested in to that directory
               cd built_website
