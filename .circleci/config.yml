@@ -110,7 +110,7 @@ jobs:
         command: |
             if [ "${CIRCLE_BRANCH}" = "master" ]; then
               echo -e "Starting to deploy to Github Pages\n"
-              cd ~/repo
+              cd ~/LuisGC/blog
               # using token clone gh-pages branch
               git clone https://${GH_TOKEN}@github.com/$TARGET_REPO.git built_website > /dev/null
               ll built_website
