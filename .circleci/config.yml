@@ -60,17 +60,6 @@ jobs:
         name: "Build Website With Hugo"
         command: hugo -v -d docs --cleanDestinationDir --baseUrl=${BASE_URL}
 
-    - run:
-        name: commit the changes
-        command: |
-            git add ${HUGO_OUTPUT_FOLDER}
-            if git commit --message "Generated site on $(date) [ci skip]"; then
-              echo "git push files..."
-              git push origin master
-            else
-              echo "Content not changed, nothing to push"
-            fi
-
     # Save dependency cache
     - save_cache:
         key: v1-dep-{{ .Branch }}-{{ epoch }}
@@ -128,7 +117,7 @@ jobs:
               echo "commit files to git repository..."
               if git commit -m "CircleCI build $CIRCLE_BUILD_NUM generated on $(date) pushed to Github Pages" ; then
                 echo "git push files with force..."
-                git push -fq origin master > /dev/null
+                git push -fv origin master > /dev/null
                 echo -e "Deploy completed\n"
               else
                 echo "Content not changed, nothing to deploy"
