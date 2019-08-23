@@ -112,7 +112,7 @@ jobs:
               echo -e "Starting to deploy to Github Pages\n"
               cd ~/LuisGC/blog
               # using token clone gh-pages branch
-              git clone https://${GH_TOKEN}@github.com/$TARGET_REPO.git built_website > /dev/null
+              git clone https://${GH_TOKEN}@github.com/$TARGET_REPO built_website > /dev/null
               ll built_website
             else
               echo "Not master branch, dry run only"
