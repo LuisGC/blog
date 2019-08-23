@@ -118,13 +118,22 @@ jobs:
 
               # go into directory and copy data we're interested in to that directory
               cd built_website
-              echo "Git Status BEFORE:"
-              git status
               echo "rsync built code with checked out code..."
               rsync -r --exclude=.git --exclude=CNAME --exclude=LICENSE --exclude=README.md ../$HUGO_OUTPUT_FOLDER/ .
-              echo "Git Status AFTER:"
+              echo "Git Status after the rsync:"
               git status
 
+              echo "add files to git..."
+              git add -f .
+              echo "commit files to git repository..."
+              if git commit -m "CircleCI build $CIRCLE_BUILD_NUM generated on $(date) pushed to Github Pages" ; then
+                echo "git push files with force..."
+                git push -fq origin master > /dev/null
+                echo -e "Deploy completed\n"
+              else
+                echo "Content not changed, nothing to deploy"
+              fi
+              
             else
               echo "Not master branch, dry run only"
             fi
