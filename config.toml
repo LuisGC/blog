@@ -80,9 +80,9 @@ baseName = "feed"
   repo      = ""
   branch    = ""
 
-  [params.staticman.recaptcha]
-    sitekey = "SITE_KEY"
-    secret  = "ENCRYPTED_SECRET"
+[params.staticman.recaptcha]
+  sitekey = "SITE_KEY"
+  secret  = "ENCRYPTED_SECRET"
 
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
@@ -105,8 +105,8 @@ baseName = "feed"
     alt       = "Luiyología"
 
 [params.postAmount]
-# Sets the number of recent posts to show in the sidebar. The default value is 5.
-    sidebar = 5
+  # Sets the number of recent posts to show in the sidebar. The default value is 5.
+  sidebar = 5
 
 # Sets the menu items in the navigation bar
 # Identifier prepends a Font Awesome icon to the menu item
@@ -193,8 +193,8 @@ baseName = "feed"
   vimeo            = ""
   whatsapp         = "" # WhatsApp Number
     # WeChat and QQ need testing.
-    wechat         = ""
-    qq             = "" # User ID Number
+  wechat           = ""
+  qq               = "" # User ID Number
   instagram        = ""
   tumblr           = ""
   twitter          = "luiyo"
@@ -208,3 +208,9 @@ baseName = "feed"
   researchgate     = ""
   # Email
   email            = "luiyologia@gmail.com"
+
+[frontmatter]
+  date = ["date","publishDate", "lastmod"]
+  lastmod = ["lastmod", "date","publishDate"]
+  publishDate = ["publishDate", "date"]
+  expiryDate = ["expiryDate"]
