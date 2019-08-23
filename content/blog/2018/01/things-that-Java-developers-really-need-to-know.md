@@ -5,7 +5,7 @@ date = "2018-01-23"
 type = "post"
 categories = ["programming", "computer-science", "open-source", "technology"]
 status = "published"
-featured = "/img/2018/01/Java9_Jigsaw.jpg"
+featured = "https://live.staticflickr.com/65535/48609259497_a092b32596_b.jpg"
 featuredalt = "The final overview of the modular JDK, by Mark Reinhold"
 featuredpath = "The final overview of the modular JDK, by Mark Reinhold @ <a href='https://twitter.com/mreinhold/status/882644292036026368'>Twitter</a>"
 +++

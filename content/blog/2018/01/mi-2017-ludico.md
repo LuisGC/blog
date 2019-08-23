@@ -5,7 +5,7 @@ date = "2018-01-04"
 type = "post"
 categories = ["games", "culture", "personal", "retrospective"]
 status = "published"
-featured = "/img/2018/01/gamesTagCloud2017.png"
+featured = "https://live.staticflickr.com/65535/48609259967_796298865a_o.png"
 featuredalt = "games tag cloud 2017"
 featuredpath = "Un tag cloud con los juegos a los que jugué en 2017, el tamaño indica cantidad de partidas"
 +++
@@ -76,7 +76,7 @@ Todo, como ya sabéis, gracias a <strike>la manía</strike> mi hábito de regist
 </table>
 
 <div class="image central">
-    <img src="/img/2018/01/2017_partidas_jugadas_por_mes.png" alt="Partidas jugadas por mes hasta 2017" title="Partidas jugadas por mes hasta 2017">
+    <img src="https://live.staticflickr.com/65535/48608751108_c3e2df5e52_o.png" alt="Partidas jugadas por mes hasta 2017" title="Partidas jugadas por mes hasta 2017">
     <div class="caption">Partidas Jugadas por Mes hasta 2017</div>
 </div>
 
