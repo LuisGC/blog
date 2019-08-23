@@ -54,7 +54,6 @@ jobs:
         # Any branch if there are none on the default branch - this should be unnecessary if you have your default branch configured correctly
         - v1-dep-
 
-
     - run:
         name: "Build Website With Hugo"
         command: hugo -v -d docs --cleanDestinationDir --baseUrl=https://luiyo.net
@@ -84,6 +83,7 @@ jobs:
     #   This would typically be a build job when using workflows, possibly combined with build
     # This is based on your 1.0 configuration file or project settings
     - run: hugo check
+
     # Deployment
     # Your existing circle.yml file contains deployment steps.
     # The config translation tool does not support translating deployment steps
@@ -93,10 +93,19 @@ jobs:
     # Teardown
     #   If you break your build into multiple jobs with workflows, you will probably want to do the parts of this that are relevant in each
     # Save test results
-#    - store_test_results:
-#        path: /tmp/circleci-test-results
+    #    - store_test_results:
+    #        path: /tmp/circleci-test-results
     # Save artifacts
-#    - store_artifacts:
-#        path: /tmp/circleci-artifacts
-#    - store_artifacts:
-#        path: /tmp/circleci-test-results
+    #    - store_artifacts:
+    #        path: /tmp/circleci-artifacts
+    #    - store_artifacts:
+    #        path: /tmp/circleci-test-results
+
+    - deploy:
+        name: Deploy static pages to Github Pages
+        command: |
+            if [ "${CIRCLE_BRANCH}" = "master" ]; then
+              echo -e "Starting to deploy to Github Pages\n"
+            else
+              echo "Not master branch, dry run only"
+            fi
