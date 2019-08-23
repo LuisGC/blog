@@ -122,7 +122,8 @@ jobs:
               # go into directory and copy data we're interested in to that directory
               cd built_website
               echo "rsync built code with checked out code..."
-              rsync -rv --exclude=.git --delete ../$HUGO_OUTPUT_FOLDER/ ./
+              rsync -r --exclude=.git --delete ../$HUGO_OUTPUT_FOLDER/ ./
+              git status
 
             else
               echo "Not master branch, dry run only"
