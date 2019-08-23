@@ -75,10 +75,7 @@ Todo, como ya sabéis, gracias a <strike>la manía</strike> mi hábito de regist
   </tr>
 </table>
 
-<div class="image central">
-    <img src="https://live.staticflickr.com/65535/48608751108_c3e2df5e52_o.png" alt="Partidas jugadas por mes hasta 2017" title="Partidas jugadas por mes hasta 2017">
-    <div class="caption">Partidas Jugadas por Mes hasta 2017</div>
-</div>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48608751108_c3e2df5e52_o.png" title="Partidas jugadas por mes hasta 2017" >}}
 
 ### Análisis
 
