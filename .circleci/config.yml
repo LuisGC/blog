@@ -109,13 +109,11 @@ jobs:
               cd built_website
               echo "rsync built code with checked out code..."
               rsync -r --exclude=.git --exclude=CNAME --exclude=LICENSE --exclude=README.md ../$HUGO_OUTPUT_FOLDER/ .
-              echo "Git Status after the rsync:"
-              git status
 
               echo "add files to git..."
               git add -f .
               echo "commit files to git repository..."
-              if git commit -m "CircleCI build $CIRCLE_BUILD_NUM generated on $(date) pushed to Github Pages" ; then
+              if git commit -m "CircleCI build $CIRCLE_BUILD_NUM on $(date) pushed to Github Pages" ; then
                 echo "git push files with force..."
                 git push -fq origin master > /dev/null
                 echo -e "Deploy completed\n"
