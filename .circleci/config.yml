@@ -103,7 +103,7 @@ jobs:
               echo -e "Starting to deploy to Github Pages\n"
               cd ~/LuisGC/blog
               # using token clone gh-pages branch
-              git clone --branch=master https://${GH_TOKEN}@github.com/$TARGET_REPO built_website > /dev/null
+              git clone --quiet --branch=$CIRCLE_BRANCH https://${GH_TOKEN}@github.com/$TARGET_REPO built_website > /dev/null
 
               # go into directory and copy data we're interested in to that directory
               cd built_website
@@ -117,7 +117,7 @@ jobs:
               echo "commit files to git repository..."
               if git commit -m "CircleCI build $CIRCLE_BUILD_NUM generated on $(date) pushed to Github Pages" ; then
                 echo "git push files with force..."
-                git push -fv origin master > /dev/null
+                git push -fq origin master > /dev/null
                 echo -e "Deploy completed\n"
               else
                 echo "Content not changed, nothing to deploy"
