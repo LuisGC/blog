@@ -123,6 +123,7 @@ jobs:
               cd built_website
               echo "rsync built code with checked out code..."
               rsync -r --exclude=.git --exclude=CNAME --exclude=LICENSE --exclude=README.md ../$HUGO_OUTPUT_FOLDER/ .
+              echo "Git status"
               git status
 
             else
