@@ -18,6 +18,7 @@ jobs:
       CIRCLE_ARTIFACTS: /tmp/circleci-artifacts
       CIRCLE_TEST_REPORTS: /tmp/circleci-test-results
       BASE_URL: https://luiyo.net
+      HUGO_OUTPUT_FOLDER: docs
     # In CircleCI 1.0 we used a pre-configured image with a large number of languages and other packages.
     # In CircleCI 2.0 you can now specify your own image, or use one of our pre-configured images.
     # The following configuration line tells CircleCI to use the specified docker image as the runtime environment for you job.
@@ -62,7 +63,7 @@ jobs:
     - run:
         name: commit the changes
         command: |
-            git add docs
+            git add ${HUGO_OUTPUT_FOLDER}
             if git commit --message "Generated site on $(date) [ci skip]"; then
               echo "git push files..."
               git push origin master
@@ -114,7 +115,15 @@ jobs:
               cd ~/LuisGC/blog
               # using token clone gh-pages branch
               git clone https://${GH_TOKEN}@github.com/$TARGET_REPO built_website > /dev/null
-              ls -laF built_website
+
+              # Installing rsync
+              echo "Installing rsync"
+              sudo apt-get -y install rsync
+              # go into directory and copy data we're interested in to that directory
+              cd built_website
+              echo "rsync built code with checked out code..."
+              rsync -r --exclude=.git --delete ../$HUGO_OUTPUT_FOLDER/ ./
+
             else
               echo "Not master branch, dry run only"
             fi
