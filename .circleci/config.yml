@@ -116,14 +116,13 @@ jobs:
               # using token clone gh-pages branch
               git clone https://${GH_TOKEN}@github.com/$TARGET_REPO built_website > /dev/null
 
-              # Installing rsync
-              echo "Installing rsync"
-              sudo apt-get -y install rsync
               # go into directory and copy data we're interested in to that directory
               cd built_website
+              echo "Git Status BEFORE:"
+              git status
               echo "rsync built code with checked out code..."
               rsync -r --exclude=.git --exclude=CNAME --exclude=LICENSE --exclude=README.md ../$HUGO_OUTPUT_FOLDER/ .
-              echo "Git status"
+              echo "Git Status AFTER:"
               git status
 
             else
