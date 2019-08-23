@@ -62,8 +62,12 @@ jobs:
         name: commit the changes
         command: |
             git add docs
-            git commit --message "Generated site on $(date) [ci skip]"
-            git push origin master
+            if git commit --message "Generated site on $(date) [ci skip]"; then
+              echo "git push files..."
+              git push origin master
+            else
+              echo "Content not changed, nothing to push"
+            fi
 
     # Save dependency cache
     - save_cache:
