@@ -33,10 +33,7 @@ And there, waiting at the entrance of the tower, our luck changed with the stell
 
 The incredible kindness of Anna, her desire to practice spoken English and the fact that there were no more tourists in the visit, made our day radically better. Waiting to see if anyone else was joining the visit we told her about our bad luck and poor understanding of the information for tourists, and she empathized and wanted to compensate us in some way. She couldn't realize that we'd bought like three different tickets to leave without seeing what we expected to see (the main attractions, by the way).
 
-<div class="image lateral">
-  <img src="https://live.staticflickr.com/65535/48610863816_ee0b061606_o.jpg" alt="Xylotheque - Sternwarte Kremsmünster">
-  <div class="caption">Xylotheque - Sternwarte Kremsmünster<br />Source: <a href="https://commons.wikimedia.org/wiki/File:Xylothek-Sternwarte_Kremsm%C3%BCnster.JPG">Reinhard Stiksel in Wikimedia</a> - <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>CC BY-SA</i></a></div>
-</div>
+{{< image classes="image lateral" src="https://live.staticflickr.com/65535/48610863816_ee0b061606_o.jpg" title="Xylotheque - Sternwarte Kremsmünster" source="Reinhard Stiksel in Wikimedia" sourcelink="https://commons.wikimedia.org/wiki/File:Xylothek-Sternwarte_Kremsm%C3%BCnster.JPG" cc-license="by-sa" >}}
 
 We climbed the Tower, but instead of going directly to the top we stopped at each floor and briefly visited the exhibition rooms. One room was a small Natural History collection with several stuffed animals, minerals, all kind of insects, other contained an interesting collection of vintage astronomical devices and globes, another presented diverse regional folklore, ethnology and popular costumes,... We didn't make any picture acknowledging that the visit was unofficial, but I can still remember an amazing cabinet with a curious [**Xylotheque**](https://en.wikipedia.org/wiki/Xylotheque), pieces of different types of wood carved as books that contained their characteristic leaf, fruit or flower. I'd found a picture in Wikimedia, take a look right here.
 
