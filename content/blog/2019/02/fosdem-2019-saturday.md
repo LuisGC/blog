@@ -57,7 +57,7 @@ She also commented an experiment, trying to track every advertisement that appea
 
 The keynote ended with some comments about the _Addition Economy_ that rules the world in which we live and the effort that is still needed to fight against hate and violence in social networks. She explained how the rejection of those problems is part of the DNA of the FLOSS communities, and how we need to translate those values to the society using handy and attractive tools for users.
 
-{{< image classes="image lateral" src="https://farm8.staticflickr.com/7839/32111005517_eb6ddac90a_k.jpg" title="The classic OpenSUSE beer" >}}
+{{< image classes="image lateral" src="https://farm8.staticflickr.com/7839/32111005517_eb6ddac90a_k.jpg" title="The classic OpenSUSE beer" cc-license="by-nc-sa" >}}
 
 [**Blockchain: The Ethical Considerations**](https://fosdem.org/2019/schedule/event/blockchain_ethics/), by Deb Nicholson
 

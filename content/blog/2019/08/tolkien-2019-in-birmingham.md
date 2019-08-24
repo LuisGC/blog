@@ -9,7 +9,7 @@ featuredalt = "Tolkien 2019, the largest celebration of Tolkien ever held by the
 featuredpath = "Tolkien 2019, the largest celebration of Tolkien ever held by the Tolkien Society"
 +++
 
-{{< image classes="image lateral" src="https://live.staticflickr.com/65535/48565095406_47473dba20_k.jpg" title="Showing off my double nationality" >}}
+{{< image classes="image lateral" src="https://live.staticflickr.com/65535/48565095406_47473dba20_k.jpg" title="Showing off my double nationality" cc-license="by-nc-sa" >}}
 
 If you are reading this you probably know already that I am a big fan of [**J.R.R. Tolkien**](https://en.wikipedia.org/wiki/J._R._R._Tolkien), to the point that I joined the Spanish Tolkien Society ([**Sociedad Tolkien Española**](http://www.sociedadtolkien.org/)) almost 20 years ago and I usually don't miss any of their events.
 
@@ -33,7 +33,7 @@ Shippey, with his usual simple (but effective) slides, started with the slogan o
 
 He commented that he is working in a taxonomy of fantasy authors, and also explained who could be a worthy successor of Tolkien. In his opinion only three authors are candidates in quality with their own genuine style: [George RR Martin](https://en.wikipedia.org/wiki/George_R._R._Martin), [Stephen Donaldson](https://en.wikipedia.org/wiki/Stephen_R._Donaldson) and [Michael Swanwick](https://en.wikipedia.org/wiki/Michael_Swanwick), all of them heavily influenced by Tolkien. This part was related to the talk he gave in May in Spain comparing the characters, works and values from Tolkien and Martin.
 
-{{< image classes="image" src="https://live.staticflickr.com/65535/48565238467_014b783125_k.jpg" title="Tom Shippey explaining the fantasy types identified by Farah Mendelsohn" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48565238467_014b783125_k.jpg" title="Tom Shippey explaining the fantasy types identified by Farah Mendelsohn" cc-license="by-nc-sa" >}}
 
 [**To the origins of fairy-tales**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/451), by **Enrico Spadaro** ([@EnricoSpadaro7](https://twitter.com/EnricoSpadaro7))
 
@@ -55,7 +55,7 @@ I specially liked a couple of his recent works: [Rhosgobel](https://www.tednasmi
 
 Ted is not only a gifted artist but also proved to be friendly to his fans and methodical in his work.
 
-{{< image classes="image" src="https://live.staticflickr.com/65535/48565095496_616499fc03_k.jpg" title="Ted Nasmith showing one of his awesome drawings of Treebeard" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48565095496_616499fc03_k.jpg" title="Ted Nasmith showing one of his awesome drawings of Treebeard" cc-license="by-nc-sa" >}}
 
 **Leaf by Niggle**, by **Puppet State Theatre** ([@PuppetStateThtr](https://twitter.com/PuppetStateThtr))
 
@@ -85,7 +85,7 @@ The room was full also because Tom Shippey wrote the foreword and also participa
 
 My colleague from the [**STE**](http://www.sociedadtolkien.org/) is becoming a regular for these types of events, and no wonder it's like that with the quality and amount of research he has been doing over the last years. This time the lecture was about how a very young Tolkien got a job as tutor of a bunch of kids during a trip to France. Without spoiling the details, let's say that the task was suddenly complicated and could have disrupted Tolkien in a unique way.
 
-{{< image classes="image" src="https://live.staticflickr.com/65535/48565095606_766bfd447a_k.jpg" title="Jose Manuel Ferrández Bru explaining the intricate relationships of the Martínez del Río Bermejillo brothers" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48565095606_766bfd447a_k.jpg" title="Jose Manuel Ferrández Bru explaining the intricate relationships of the Martínez del Río Bermejillo brothers" cc-license="by-nc-sa" >}}
 
 [**The Two Towers of Birmingham, and other follies**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/571), by **John Garth** ([@JohnGarthWriter](https://twitter.com/JohnGarthWriter))
 
@@ -105,7 +105,7 @@ Despite the main room was completely full, the organization switched off the lig
 
 There was also time for him to answer a lot of questions from the audience, and perhaps the most interesting were related to their relationship with other artists like John Howe.
 
-{{< image classes="image" src="https://live.staticflickr.com/65535/48565095786_228a1b2aeb_k.jpg" title="Alan Lee explaining one of his drawings about Orthanc" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48565095786_228a1b2aeb_k.jpg" title="Alan Lee explaining one of his drawings about Orthanc" cc-license="by-nc-sa" >}}
 
 **Orchestra Concert**, by **The People's Orchestra** ([@ThePeoplesOrch](https://twitter.com/ThePeoplesOrch))
 
@@ -161,7 +161,7 @@ I knew [Brian Sibley](https://en.wikipedia.org/wiki/Brian_Sibley) since long tim
 
 This keynote was merely self-biographical, as Brian explained in a careful and detailed way his career and complete evolution. He focused first on his biggest hit, the [1981 BBC radio dramatization of The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings#Radio), to finish with his recent projects including [the chronicles of the making](https://www.goodreads.com/book/show/7351.The_Lord_of_the_Rings) and [movie guides](https://www.goodreads.com/book/show/15239.The_Lord_of_the_Rings) of the two trilogies by Peter Jackson, the awesome [The Maps of Tolkien's Middle-earth](https://www.goodreads.com/book/show/7340.The_Maps_of_Tolkien_s_Middle_earth) book with [John Howe](https://en.wikipedia.org/wiki/John_Howe_(illustrator)) and even [an authorized biography of Peter Jackson](https://www.goodreads.com/book/show/621204.Peter_Jackson).
 
-{{< image classes="image" src="https://live.staticflickr.com/65535/48565095721_5f76820363_k.jpg" title="Brian Sibley showing the audience how he receive a book signed (and fixed) by Tolkien" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48565095721_5f76820363_k.jpg" title="Brian Sibley showing the audience how he receive a book signed (and fixed) by Tolkien" cc-license="by-nc-sa" >}}
 
 [**'I met a lot of things on the way that astonished me': Natural Growth in Writing The Lord of the Rings**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/694), by **Christina Scull**
 
@@ -181,7 +181,7 @@ Tsvetelina Krumova thinks that [Tengwar](https://en.wikipedia.org/wiki/Tengwar) 
 
 I took another important thought of this talk. Despite the amount of pages and studies that we have today it is still not possible to cook like the elves, to fight like them or it is not clear how could we dance like the elves did. But we can write exactly like the elves, even if we need to write Tengwar in English or Spanish. Food for thought!
 
-{{< image classes="image" src="https://live.staticflickr.com/65535/48565095331_a172091e6a_k.jpg" title="One of the books written marvelously in Tengwar by Tsvetelina Krumova" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48565095331_a172091e6a_k.jpg" title="One of the books written marvelously in Tengwar by Tsvetelina Krumova" cc-license="by-nc-sa" >}}
 
 [**Taniquetil: A tale of two cities**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/745), by **Denis Bridoux**
 
@@ -253,7 +253,7 @@ Luckily this third talk was not as opinionated as the two previous ones. The spe
 
 [**Five or Six Ponies?**](https://sites.grenadine.co/sites/tolkiensociety/en/tolkien2019/schedule/895), by **Jessica Yates**
 
-{{< image classes="image lateral" src="https://live.staticflickr.com/65535/48565095696_37943698a7_k.jpg" title="A plan of the house of Crickhollow, by Jessica Yates" >}}
+{{< image classes="image lateral" src="https://live.staticflickr.com/65535/48565095696_37943698a7_k.jpg" title="A plan of the house of Crickhollow, by Jessica Yates" cc-license="by-nc-sa" >}}
 
 The premise of the talk was intriguing. In the 2004-2005 revision of The Lord of the Rings, the editors changed Merry's line: "There are six ponies in a stable across the fields..." to "There are five ponies...". The reasoning for the change was that the original six ponies were for five hobbits plus a pack-pony, assuming that when Tolkien reduced the number of adventurers to four, he forgot to alter that line. Apparently there has been some debate about this change, and Jessica researched as much as she could to solve the mystery.
 

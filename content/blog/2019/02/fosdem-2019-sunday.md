@@ -42,7 +42,7 @@ Open Source is more than everything a continuum, it has been with us for more th
 
 The historical overview was great, but I particularly appreciated a message about Open Source being based on the [gift economy](https://en.wikipedia.org/wiki/Gift_economy), with gifts far beyond code like openness, freedom and community.
 
-{{< image classes="image" src="https://farm8.staticflickr.com/7913/46345062575_5feee130ef_k.jpg" title="FOSDEM 2019 - Nick Vidal reviewing the Open Source history" >}}
+{{< image classes="image" src="https://farm8.staticflickr.com/7913/46345062575_5feee130ef_k.jpg" title="FOSDEM 2019 - Nick Vidal reviewing the Open Source history" cc-license="by-nc-sa" >}}
 
 [**Continuous Integration to compile and test Navit**](https://fosdem.org/2019/schedule/event/geo_navit/), by	Patrick Höhn
 
@@ -68,7 +68,7 @@ Another awesome project I discovered in FOSDEM. Nick explained the current statu
 
 The talk described the technical complexities, the data related issues (elevation is critical) and problems related to the realism of the path and signpost placing. Very interesting and inspiring talk.
 
-{{< image classes="image" src="https://farm8.staticflickr.com/7916/40294830713_3db0d67e87_k.jpg" title="FOSDEM 2019 - Nick Whitelegg presenting Hikar" >}}
+{{< image classes="image" src="https://farm8.staticflickr.com/7916/40294830713_3db0d67e87_k.jpg" title="FOSDEM 2019 - Nick Whitelegg presenting Hikar" cc-license="by-nc-sa" >}}
 
 [**Hundred thousand rides a day**](https://fosdem.org/2019/schedule/event/geo_gpxtraces/), by Ilya Zverev
 
@@ -76,7 +76,7 @@ I already attended and reviewed a talk by Ilya Zverev last year and I enjoyed it
 
 He created a set of tools to validate calculated routes, comparing them to the actual traject of the drivers. Using a basic code of colors is easy to check what streets are used in what direction, what turns are abnormally avoided, etc. With this tool, they can notice very fast changes like blocked roads with constructions or reversed streets (temporal or definitive). In order to have reliable data the tracks are as fresh as possible.
 
-{{< image classes="image" src="https://farm8.staticflickr.com/7899/46345062655_1c2027a561_k.jpg" title="FOSDEM 2019 - Ilya Zverev with a visualization of gpx tracks in different colors depending on the angle" >}}
+{{< image classes="image" src="https://farm8.staticflickr.com/7899/46345062655_1c2027a561_k.jpg" title="FOSDEM 2019 - Ilya Zverev with a visualization of gpx tracks in different colors depending on the angle" cc-license="by-nc-sa" >}}
 
 He gave some ideas for himself or for others to start similar projects: checking highway classification, missing turn restrictions, speed limits, etc.
 
@@ -90,7 +90,7 @@ Stefano moved to San Francisco some years ago with his wife, and they were scare
 
 They used OpenStreetMap as the base for emergency related preparations, as almost everything is mapped or can be mapped in OSM.They improved the map data related to the Emergency Response tasks using trained NERT volunteers, so they could even research the most and lest _vulnerable_ neighborhoods in the city. They are now adding additional features related to other catastrophes like heat or cold waves.
 
-{{< image classes="image" src="https://farm8.staticflickr.com/7891/40294830473_92fd5d0694_k.jpg" title="FOSDEM 2019 - Stefano Maffulli presenting his OSM based project for emergency preparation" >}}
+{{< image classes="image" src="https://farm8.staticflickr.com/7891/40294830473_92fd5d0694_k.jpg" title="FOSDEM 2019 - Stefano Maffulli presenting his OSM based project for emergency preparation" cc-license="by-nc-sa" >}}
 
 Very interesting project, even for non [preppers](https://en.wikipedia.org/wiki/Survivalism).
 
@@ -106,7 +106,7 @@ The closing keynote was delivered by [Jon 'maddog' Hall](https://en.wikipedia.or
 
 2019 not only marks the 50th anniversary of [Unix](https://en.wikipedia.org/wiki/Unix), but also the 50th of the [ArpaNet/Internet](https://en.wikipedia.org/wiki/ARPANET) and the [Apollo 11 Moon landing](https://en.wikipedia.org/wiki/Apollo_11). 'maddog' summarized the evolution of Unix, Linux and the Free Software movement in those 50 years in a hilarious but interesting way. A packed full Janson auditorium enjoyed the jokes a lot, so it was a great way to to compensate the sadness of leaving FOSDEM again.
 
-{{< image classes="image" src="https://farm8.staticflickr.com/7824/47207681742_6aea5649e4_k.jpg" title="FOSDEM 2019 - Jon 'maddog' Hall in the closing keynote" >}}
+{{< image classes="image" src="https://farm8.staticflickr.com/7824/47207681742_6aea5649e4_k.jpg" title="FOSDEM 2019 - Jon 'maddog' Hall in the closing keynote" cc-license="by-nc-sa" >}}
 
 <br />
 

@@ -27,7 +27,7 @@ Andrés gave an interesting overview of the JVM Frameworks ecosystem, starting w
 
 A perfect kick-off for a conference centered on frameworks.
 
-{{< image classes="image" src="https://farm8.staticflickr.com/7818/33631536518_81c0e6812c_k.jpg" title="Andrés Almiray with a microservices frameworks taxonomy" >}}
+{{< image classes="image" src="https://farm8.staticflickr.com/7818/33631536518_81c0e6812c_k.jpg" title="Andrés Almiray with a microservices frameworks taxonomy" cc-license="by-nc-sa" >}}
 
 [**Micronaut State of the Union**](https://agenda.greachconf.com/talk/micronaut-state-of-the-union), by [Graeme Rocher](https://agenda.greachconf.com/speaker/graeme-rocher) ([@graemerocher](https://twitter.com/graemerocher))
 
@@ -35,7 +35,7 @@ Graeme gave an overview of the features and roadmap for Micronaut. He highlighte
 
 He also explained why Micronaut behaves amazingly good with GraalVM, but clarified that they are mainly focused on the performance with the standard JVM that most people still use. He ended with an interesting live demo about the Bean Introspection API, released with the last 1.1 version.
 
-{{< image classes="image" src="https://farm8.staticflickr.com/7893/47508138841_bcdde8d3ef_k.jpg" title="Graeme Rocher explaining Java's problems for Frameworks" >}}
+{{< image classes="image" src="https://farm8.staticflickr.com/7893/47508138841_bcdde8d3ef_k.jpg" title="Graeme Rocher explaining Java's problems for Frameworks" cc-license="by-nc-sa" >}}
 
 [**Boosting your applications with distributed caches/datagrids**](https://agenda.greachconf.com/talk/boosting-your-applications-with-distributed-caches-datagrids), by [Katia Aresti](https://agenda.greachconf.com/speaker/katia-aresti) ([@karesti](https://twitter.com/karesti))
 
@@ -49,7 +49,7 @@ Mary explained what reactive programming is and gave an overview of the the curr
 
 Alberto explained how to use GraalVM, the architecture basics (the GraalVM compiler, the [Truffle API](https://www.graalvm.org/truffle/javadoc/), etc.), and how to use Groovy and Kotlin with it. It was an interesting and well documented analysis, focusing on the current limitations and the potential benefits. It's quite promising despite GraalVM is still far from being production ready.
 
-{{< image classes="image" src="https://farm8.staticflickr.com/7839/33631536618_b29d65958c_k.jpg" title="Alberto de Ávila explains the GraalVM Architecture" >}}
+{{< image classes="image" src="https://farm8.staticflickr.com/7839/33631536618_b29d65958c_k.jpg" title="Alberto de Ávila explains the GraalVM Architecture" cc-license="by-nc-sa" >}}
 
 [**Accelerating CI**](https://agenda.greachconf.com/talk/accelerating-ci), by [Felipe Fernández](https://agenda.greachconf.com/speaker/felipe-fernandez) ([@felipefzdz](https://twitter.com/felipefzdz))
 
@@ -59,7 +59,7 @@ Felipe's talk was quite interesting. As a Gradle Enterprise developer he explain
 
 Another interesting status review of Grails by Graeme. This time it was focused on how Grails is already benefiting from Micronaut, and how to take advantage of those benefits using Grails. He encouraged all the Grails plugin developers to migrate them to Micronaut so they can be used not only from Grails but also in other use cases.
 
-{{< image classes="image" src="https://farm8.staticflickr.com/7853/33631536078_da0ee54abf_k.jpg" title="Graeme Rocher explains the differences between Micronaut and Grails" >}}
+{{< image classes="image" src="https://farm8.staticflickr.com/7853/33631536078_da0ee54abf_k.jpg" title="Graeme Rocher explains the differences between Micronaut and Grails" cc-license="by-nc-sa" >}}
 
 [**What's new in Asciidoctor**](https://agenda.greachconf.com/talk/whats-new-in-asciidoctor), by [Schalk Cronjé](https://agenda.greachconf.com/speaker/schalk-cronje) ([@ysb33r](https://twitter.com/ysb33r))
 
@@ -79,7 +79,7 @@ This year Iván was not organizing the conference, he even had time to attend lo
 
 This was one of the most interesting talks of the conference, at least for me. Kevin explained very clearly how to evolve from the traditional development pipeline to a more DevOps oriented one. Apart from some general recommendations he described all the possible security checks and validations that can be done, when and how to do them. He also created awareness about the lack of an open source reliable catalog of known vulnerabilities.
 
-{{< image classes="image" src="https://farm8.staticflickr.com/7815/33631536338_2bf84a58c7_k.jpg" title="Kevin Wittek with a Linus Torvalds quote" >}}
+{{< image classes="image" src="https://farm8.staticflickr.com/7815/33631536338_2bf84a58c7_k.jpg" title="Kevin Wittek with a Linus Torvalds quote" cc-license="by-nc-sa" >}}
 
 [**Micronaut performance**](https://agenda.greachconf.com/talk/micronaut-performance), by [Miguel Ángel García Gómez](https://agenda.greachconf.com/speaker/miguel-angel-garcia-gomez) ([@MiguelAngelGG82](https://twitter.com/MiguelAngelGG82))
 
@@ -97,6 +97,6 @@ My Greach conference ended with an interesting talk by Todd Sharp. He explained 
 
 He was very funny and, although the demo didn't perfectly work and made him lose some time, he could explain the complexness of what he built and the technologies he learned in the process.
 
-{{< image classes="image" src="https://farm8.staticflickr.com/7910/33631535908_106acacad6_k.jpg" title="Todd Sharp explains the architecture of his barn automation project" >}}
+{{< image classes="image" src="https://farm8.staticflickr.com/7910/33631535908_106acacad6_k.jpg" title="Todd Sharp explains the architecture of his barn automation project" cc-license="by-nc-sa" >}}
 
 And that's all. **See you in Greach 2020 !!**
