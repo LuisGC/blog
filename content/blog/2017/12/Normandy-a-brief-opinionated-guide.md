@@ -154,6 +154,4 @@ For me, the most impressive part is not the tides and the water going up and dow
 
 {{< image classes="image central" src="https://live.staticflickr.com/65535/48609145296_8b06bdcd6c_k.jpg" title="Mont Saint-Michel at night" >}}
 
-Let's see when I can write about the other part of the trip, traveling through Brittany.
-
-Stay tuned!
+Follow the link to read about the rest of the trip through [Brittany](/blog/2017/12/brittany-a-brief-opinionated-guide/).
