@@ -26,8 +26,9 @@ Anyway, Óscar gave some interesting concepts. I specially liked the way he expl
 * Second disruption, use distributed applications via microservices
 * Third disruption, smart data centers moving first to IaaS and then to PaaS
 
-<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/omendezsoto?ref_src=twsrc%5Etfw">@omendezsoto</a> talking about the future of <a href="https://twitter.com/hashtag/bigdata?src=hash&amp;ref_src=twsrc%5Etfw">#bigdata</a> and <a href="https://twitter.com/hashtag/ai?src=hash&amp;ref_src=twsrc%5Etfw">#ai</a> with microservices and containers, great message of flexibility and growth. <a href="https://twitter.com/hashtag/BDS17?src=hash&amp;ref_src=twsrc%5Etfw">#BDS17</a> <a href="https://t.co/0i1b7oyemc">pic.twitter.com/0i1b7oyemc</a></p>&mdash; Michael McCune (@FOSSjunkie) <a href="https://twitter.com/FOSSjunkie/status/931099635816509440?ref_src=twsrc%5Etfw">16 de noviembre de 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+<center>
+  {{< tweet 931099635816509440 >}}
+</center>
 
 **[Big Data, Analytics, and Tax Fraud](https://www.bigdataspain.org/2017/talk/big-data-and-tax-fraud) - José Borja Tomé (Agencia Tributaria)**
 
@@ -41,15 +42,17 @@ He ended his talk with several surprising and exciting figures. For example, and
 
 Carlos gave a technical overview of how to protecting the data and services of a company in a Big Data environment when everything is data-centric. He summarized that it is distributed in two areas: protect the data and protect the service. You should review this talk if you are in the security business.
 
-<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Listening to Carlos Gómez&#39;s master class about how to securize a BigData platform <a href="https://twitter.com/hashtag/BDS17?src=hash&amp;ref_src=twsrc%5Etfw">#BDS17</a> <a href="https://t.co/RoSebEwqVc">pic.twitter.com/RoSebEwqVc</a></p>&mdash; Daniel Carroza (@danielcsant) <a href="https://twitter.com/danielcsant/status/931122319573114880?ref_src=twsrc%5Etfw">16 de noviembre de 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+<center>
+  {{< tweet 931122319573114880 >}}
+</center>
 
 **[Playing Well Together: Big Data beyond the JVM w/Spark etc](https://www.bigdataspain.org/2017/talk/apache-spark-machine-learning), by [Holden Karau](https://twitter.com/holdenkarau) (Google)**
 
 Holden gave several good tips and tricks about [Apache Spark](https://spark.apache.org/) in general, and specifically about using it from outside the Java ecosystem in Python. As a Python connoisseur, but not a Spark user (yet), I just learned a couple of usable tips but the talk was great anyway and it was a pleasure to meet Holden.
 
-<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/BDS17?src=hash&amp;ref_src=twsrc%5Etfw">#BDS17</a> <a href="https://twitter.com/holdenkarau?ref_src=twsrc%5Etfw">@holdenkarau</a> starts reminding everyone that we all come from different places, and this is great!! :-) <a href="https://t.co/Sceqz0oh8I">pic.twitter.com/Sceqz0oh8I</a></p>&mdash; Luis GC (@luiyo) <a href="https://twitter.com/luiyo/status/931129784498782208?ref_src=twsrc%5Etfw">16 de noviembre de 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+<center>
+  {{< tweet 931129784498782208 >}}
+</center>
 
 **[Why big data didn’t end causal inference](https://www.bigdataspain.org/2017/talk/why-big-data-didnt-end-causal-inference), by [Totte Harinen](https://twitter.com/totteh) (Uber)**
 
@@ -81,8 +84,9 @@ Tyler based his session on a very simple but interesting concept: "Tables are da
 
 This was a surprisingly interesting talk, despite I entered the room with very low expectations. In summary, Sean emphasized the necessity to think about errors, to prevent them and to estimate the uncertainty based on the fact that there will always be errors. He gave several examples and some useful tips and tricks.
 
-<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/BDS17?src=hash&amp;ref_src=twsrc%5Etfw">#BDS17</a> very interesting insights from  <a href="https://twitter.com/seanjtaylor?ref_src=twsrc%5Etfw">@seanjtaylor</a> explaining his experience dealing with Data Errors in Facebook <a href="https://t.co/W9aiJpP2or">pic.twitter.com/W9aiJpP2or</a></p>&mdash; Luis GC (@luiyo) <a href="https://twitter.com/luiyo/status/931480332599287808?ref_src=twsrc%5Etfw">17 de noviembre de 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+<center>
+  {{< tweet 931480332599287808 >}}
+</center>
 
 **[AI in VR](https://www.bigdataspain.org/2017/talk/tbc-michael-ludden), by [Michael Ludden](https://twitter.com/Michael_Ludden) (IBM Watson)**
 
@@ -96,8 +100,9 @@ My last choice could not be other than my colleague David. He explained what we 
 
 In summary, what ING is building is an event-driven architecture delivered as one platform, with [Apache Kafka](https://kafka.apache.org/), [Apache Flink](https://flink.apache.org/) and [SAS RTDM](https://www.sas.com/en_us/software/real-time-decision-manager.html) in the core. I hope that you'll listen more about this in the future.
 
-<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Time to see how <a href="https://twitter.com/INGTechIT?ref_src=twsrc%5Etfw">@INGTechIT</a> is using streaming thanks to <a href="https://twitter.com/davidvaquero?ref_src=twsrc%5Etfw">@davidvaquero</a> <a href="https://t.co/Mag9BB9kEg">pic.twitter.com/Mag9BB9kEg</a></p>&mdash; David Gómez G. (@dgomezg) <a href="https://twitter.com/dgomezg/status/931523731754815490?ref_src=twsrc%5Etfw">17 de noviembre de 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+<center>
+  {{< tweet 931523731754815490 >}}
+</center>
 
 # Conclusion
 

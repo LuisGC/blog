@@ -41,8 +41,7 @@ Let me also say that it's worthy of praise for a company like ING to allow and p
 Sadly I couldn't participate, but everyone said it was awesome. I'll just leave you with a glimpse:
 
 <center>
-<blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">Con esto, un bot de <a href="https://twitter.com/telegram">@telegram</a> y mucho ingenio se ha currado <a href="https://twitter.com/da3n3rys">@da3n3rys</a> un pedazo de <a href="https://twitter.com/hashtag/ScapeRoom?src=hash">#ScapeRoom</a> 🔦🔒🔑 <a href="https://t.co/HrM1ydDAmt">pic.twitter.com/HrM1ydDAmt</a></p>&mdash; Beatriz (@usr0000) <a href="https://twitter.com/usr0000/status/888418392318898176">21 de julio de 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  {{< tweet 888418392318898176 >}}
 </center>
 
 # Capture The Flag
