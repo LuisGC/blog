@@ -5,11 +5,10 @@ date = "2017-07-26"
 type = "post"
 categories = ["personal", "programming", "internet", "computer-science", "linux", "technology", "culture"]
 status = "published"
-featured = "/img/2017/07/ING_CTF_2017_Map.png"
+featured = "https://live.staticflickr.com/65535/48610763241_2c5618d6a9_o.png"
 featuredalt = "Map status of the ING CTF competition with less than 22h left"
 featuredpath = "Map status of the ING CTF competition with less than 22h left"
 +++
-
 
 Last week I had the huge pleasure to participate in a week-long **Security Summer Camp** organized by the Information Security department of [**ING Spain**](https://www.ing.es/). The agenda was very promising and implied some theory and lots of practice, ending with an **Escape the Room** game and a 2,5 days long **Capture The Flag** hacking competition. Several speakers from the Infosec Squad prepared talks and workshops about different topics, focusing on [Ethical Hacking](https://en.wikipedia.org/wiki/Hacker_ethic), secure development, [server hardening](http://www.linuxjournal.com/content/server-hardening) or [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence).
 
@@ -81,11 +80,6 @@ It was thrilling, very very funny and I learned a lot. The other participants ha
 
 Here you have the Final Scoreboard. It can be observed that there was scoring activity during almost all the weekend, nights included. **Kudos** for all the participants :-)
 
-<center>
-<div class="image">
-  <img src="/img/2017/07/ING_CTF_2017_final_scoreboard.png" alt="ING CTF 2017 - Final Scoreboard">
-  <div class="caption">ING CTF 2017 - Final Scoreboard</div>
-</div>
-</center>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48610914222_10123e4556_o.jpg" title="ING CTF 2017 - Final Scoreboard" >}}
 
 The prize for the winners (I discovered it on Monday, I did not care during the contest) was a fabulous [**Raspberry Pi 3 Model B**](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) Pack. Now I have three different Raspi devices so **I need ideas**, I'm taking advantage of one of them only :-)
