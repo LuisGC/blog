@@ -19,13 +19,13 @@ This is the fourth part of my chronicle about our trip through the [**Romantikst
 
 # Day 4
 
-Our fourth stage started in [_Gästehaus Lauterbacher_](http://www.lauterbacher.at/), a splendid guesthouse in [**Neumarkt am Wallersee**](https://en.wikipedia.org/wiki/Neumarkt_am_Wallersee). Quite off our route because we couldn't find anything affordable in Mondsee. We wanted a good place to rest after a hard day 3, and Lauterbacher was more than good. The place itself was nice and the owners were marvellous with us. I'll seriously consider returning to this place if I ever come back to the region.
+Our fourth stage started in [_Gästehaus Lauterbacher_](http://www.lauterbacher.at/), a splendid guest house in [**Neumarkt am Wallersee**](https://en.wikipedia.org/wiki/Neumarkt_am_Wallersee). Quite off our route because we couldn't find anything affordable in Mondsee. We wanted a good place to rest after a hard day 3, and Lauterbacher was more than good. The place itself was nice and the owners were marvelous with us. I'll seriously consider returning to this place if I ever come back to the region.
 
 And thus it began the most awaited stage of the trip.
 
 ## Postalm
 
-On our way to Hallstatt we drived through [**Postalm**](https://www.postalm.at/), a mountain pass which is part of a very well preserved and protected Natural Park. Just to cross the area you need to pay a tax (5€ per adult, 2 per children and so on). Normally you'll pay to spend the morning, the day or the weekend inside: it's full of hiking routes, mountain bike tracks and even several ski slopes for the winter.
+On our way to Hallstatt we droved through [**Postalm**](https://www.postalm.at/), a mountain pass which is part of a very well preserved and protected Natural Park. Just to cross the area you need to pay a tax (5€ per adult, 2 per children and so on). Normally you'll pay to spend the morning, the day or the weekend inside: it's full of hiking routes, mountain bike tracks and even several ski slopes for the winter.
 
 As it was early in the morning, it was almost empty. We only came across a couple of cars and several herds of cows. The scenery was beautiful: everything was green, mist here and there, and almost no sign of mankind except a few piles of stacked wood and the road itself.
 
@@ -41,7 +41,7 @@ Our next stop was [**Gosau**](https://en.wikipedia.org/wiki/Gosau). We also spen
 
 ## Hallstatt
 
-And finally, we arrived [**Hallstatt**](https://en.wikipedia.org/wiki/Hallstatt), the main destination of the entire trip. I generally liked it and of course it's very beautiful, but I must say that it might be overrated (imho).
+And finally, we arrived [**Hallstatt**](https://en.wikipedia.org/wiki/Hallstatt), the main destination of the entire trip. I generally liked it and of course it's very beautiful, but I must say that it might be overrated (IMHO).
 
 The first thing that we did was to go up to the [_Salz Welten_ (Salt World) complex](https://www.salzwelten.at/en/home/) using a funicular. The views were as amazing as this during the climb:
 
@@ -79,7 +79,7 @@ Apparently it's possible to leave written in your will that you want your skull 
 
 We ended the day (and we could also say our Romantikstraße trip) in [**Obertraun**](https://en.wikipedia.org/wiki/Obertraun), another touristic place just in front of Hallstatt in the lakeshore. Obertraun also has it's own funicular with caves, mines and breath-taking views, the [Dachstein Salzkammergut](http://www.dachstein-salzkammergut.com/en/dachstein/dachstein/), but as it was raining and very foggy we prefered to stay in the lakeshore.
 
-Despite the heavy rain and the mist, we took a couple of glasses of the wine we had bought in Kremsmünster and went for a walk. In the lakeshore there were several floating platforms, ready to receive bathers in the summer. We toured the entire village and we even entered a small forest in the mouth of the Koppentraun river to search for a caché (and it was worth it!).
+Despite the heavy rain and the mist, we took a couple of glasses of the wine we had bought in Kremsmünster and went for a walk. In the lakeshore there were several floating platforms, ready to receive bathers in the summer. We toured the entire village and we even entered a small forest in the mouth of the Koppentraun river to search for a cache (and it was worth it!).
 
 After starting to worry about not find any open restaurant, we discovered the perfect place (and it was beside our hotel): Kegelbahn, a restaurant with typical local food, and a small bowling alley! After a delicious onion soup, a superb goulash and an exquisite cheesecake, we occupied the bowling alley until they closed the place. It was such a fun and unexpected moment.
 
