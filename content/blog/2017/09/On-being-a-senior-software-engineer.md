@@ -24,7 +24,7 @@ In his article (I recommend its complete reading) Allspaw describes a list of tr
 * Mature engineers have an innate sense of anticipation, even if they don’t know they do
 * Mature engineers understand that not all of their projects are filled with rockstar-on-stage work
 * Mature engineers lift the skills and expertise of those around them
-* Mature engineers make their trade-offs explicit when making judgements and decisions
+* Mature engineers make their trade-offs explicit when making judgments and decisions
 * Mature engineers don’t practice CYAE (“Cover Your Ass Engineering”)
 * Mature engineers are empathetic
 * Mature engineers are aware of cognitive biases
