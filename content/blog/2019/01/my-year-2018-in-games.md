@@ -79,10 +79,7 @@ Welcome again to this yearly post, where I try to analyze my gaming behavior dur
   </tr>
 </table>
 
-<div class="image central">
-    <img src="https://farm5.staticflickr.com/4817/46006318134_fbabc52f7c_z.jpg" alt="Games played per year until the end of 2018" title="Games played per year until the end of 2018">
-    <div class="caption">Games played per year until the end of 2018</div>
-</div>
+{{< image classes="image central" src="https://farm5.staticflickr.com/4817/46006318134_fbabc52f7c_z.jpg" title="Games played per year until the end of 2018" >}}
 
 ## Analysis
 
