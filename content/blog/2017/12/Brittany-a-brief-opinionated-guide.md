@@ -32,7 +32,7 @@ Dol-de-Bretagne deserves a quick visit, not only to see its Cathedral and the qu
 
 ## Cancale
 
-We arrived [**Cancale**](https://en.wikipedia.org/wiki/Cancale) at the right time, just before lunch. This fishing village is famous for its oyster beds, its oyster farmers everywhere, its popular oyster market, and its countless restaurants where you can order oysters. [According to Wikipedia](https://en.wikipedia.org/wiki/Cancale#Oysters), the oyster beds of Cancale cover more than 7 square kilometres, and they harvest about 25,000 tons of oysters each year. Impressive, even for someone like me who finds eating raw oysters quite disgusting.
+We arrived [**Cancale**](https://en.wikipedia.org/wiki/Cancale) at the right time, just before lunch. This fishing village is famous for its oyster beds, its oyster farmers everywhere, its popular oyster market, and its countless restaurants where you can order oysters. [According to Wikipedia](https://en.wikipedia.org/wiki/Cancale#Oysters), the oyster beds of Cancale cover more than 7 square kilometers, and they harvest about 25,000 tons of oysters each year. Impressive, even for someone like me who finds eating raw oysters quite disgusting.
 
 {{< image classes="image central" src="https://live.staticflickr.com/65535/48608785703_5d47a9d5ca_k.jpg" title="Panoramic with lots of oysters beds and the popular Oyster Market" >}}
 
@@ -56,7 +56,7 @@ Although the day was windy it was not very cold, and with a _vin chaud_ in the h
 
 After the positive surprise of Saint-Malo we decided to visit [**Dinard**](https://en.wikipedia.org/wiki/Dinard), another famous tourist destination for wealthy people in this case mainly from the United Kingdom. We took a short walk after the sunset that did not allow us to see much but we ended with the feeling that the place looks nice for the spring and summer but it's basically dead in the low season.
 
-The most remarkable moment, and it was not prepared in advance, was the photo that I took next to an statue of **Alfred Hitchcock** with an Alfred Hitchcock's t-shirt. Hitchcock visited several times the town for holidays, to the point that the locals even claim that the house used in _Psycho_ is based on a still standing villa of Dinard. The statue is full size a replica (or viceversa) of the trophies for the winners of the [Dinard British Film Festival](http://www.festivaldufilm-dinard.com/en/home-en/), held here every year since 1989.
+The most remarkable moment, and it was not prepared in advance, was the photo that I took next to an statue of **Alfred Hitchcock** with an Alfred Hitchcock's t-shirt. Hitchcock visited several times the town for holidays, to the point that the locals even claim that the house used in _Psycho_ is based on a still standing villa of Dinard. The statue is full size a replica (or vice versa) of the trophies for the winners of the [Dinard British Film Festival](http://www.festivaldufilm-dinard.com/en/home-en/), held here every year since 1989.
 
 {{< image classes="image central" src="https://live.staticflickr.com/65535/48609294357_ac0361685a_k.jpg" title="In Dinard, with Sir Alfred Hitchcock" >}}
 
@@ -106,7 +106,7 @@ Locronan is a deserved member of the [_Les Plus Beaux Villages de France_](https
 
 Among all the large towns (or small cities) that we visited, [**Quimper**](https://en.wikipedia.org/wiki/Quimper) was one of the ones I liked the most. Several gardens, beautiful houses and the usual town center full of nice shops, boutiques and restaurants. Also, the Cathedral has a feature that makes it special. The main nave is bended in the middle, so much that it is clearly perceived both inside and outside the temple.
 
-**Bonus recommendation**: [Le Sistrot](http://www.openstreetmap.org/node/2027870260), this marvellous place is both cider house and refined restaurant, they served us one of the best meals of the entire trip. They had in the menu dozens of different ciders from all over the world and of many different types, for example I ordered one made of 5 different kinds of apples. I was left wanting to order the add-on for the menu that included a different cider to match with each plate, dessert included.
+**Bonus recommendation**: [Le Sistrot](http://www.openstreetmap.org/node/2027870260), this marvelous place is both cider house and refined restaurant, they served us one of the best meals of the entire trip. They had in the menu dozens of different ciders from all over the world and of many different types, for example I ordered one made of 5 different kinds of apples. I was left wanting to order the add-on for the menu that included a different cider to match with each plate, dessert included.
 
 ## Ville Close
 
@@ -118,7 +118,7 @@ The [**Ville Close**](https://en.wikipedia.org/wiki/Walled_town_of_Concarneau) (
 
 [**Pont-Aven**](https://en.wikipedia.org/wiki/Pont-Aven) is mainly known for the [Pont-Aven School of Arts](https://en.wikipedia.org/wiki/Pont-Aven_School), a group of artists in the 19th century led by [**Émile Bernard**](https://en.wikipedia.org/wiki/%C3%89mile_Bernard) and [**Paul Gauguin**](https://en.wikipedia.org/wiki/Paul_Gauguin) that painted every corner of this town. Now Pont-Aven is full of tourists, restaurants and art galleries.
 
-To reinforce the _impressionist atmosphere_ that inspired (and inspires) the painters and charmes the visitors, the entire village specially around the river was illuminated in a very special way. I'm not sure if this is always like this or only on these pre-XMas dates.
+To reinforce the _impressionist atmosphere_ that inspired (and inspires) the painters and charms the visitors, the entire village specially around the river was illuminated in a very special way. I'm not sure if this is always like this or only on these pre-XMas dates.
 
 {{< image classes="image central" src="https://live.staticflickr.com/65535/48608785388_7d098feb63_o.jpg" title="Panoramic of the River Aven passing through Pont-Aven, with nice colours and lights" >}}
 
@@ -128,7 +128,7 @@ We made a quick visit to [**Auray**](https://en.wikipedia.org/wiki/Auray), just 
 
 ## Carnac
 
-[**Carnac**](https://en.wikipedia.org/wiki/Carnac) is renowned for the Carnac stones, one of the most extensive Neolithic menhir collections in the world. Within the limits of the town you can visit several areas with kilometers of alignments of stones of different sizes, some of them over two metres high. I'm not sure what is more impressive, the fact that they could do that around 4500 BC or that most of them in this area are still standing in the 21st century.
+[**Carnac**](https://en.wikipedia.org/wiki/Carnac) is renowned for the Carnac stones, one of the most extensive Neolithic menhir collections in the world. Within the limits of the town you can visit several areas with kilometers of alignments of stones of different sizes, some of them over two meters high. I'm not sure what is more impressive, the fact that they could do that around 4500 BC or that most of them in this area are still standing in the 21st century.
 
 Near a couple of alignments you can also find a huge menhir, brilliantly called _Le Géant du Manio_, with more than 6m of height. Le Géant is hidden inside a forest, so you need to walk for 10-15' to reach there but the short walk is worth it because the forest is impressive. I would love to have forests like that near my house.
 
@@ -154,7 +154,7 @@ We only had time for a quick walk through the center of [**Malestroit**](https:/
 
 ## Rochefort-en-Terre
 
-[**Rochefort-en-Terre**](https://en.wikipedia.org/wiki/Rochefort-en-Terre) was perhaps the most anticipated destination by Agatha. During the entire year is just another nice village with stone houses, attractive restaurants, galleries, cute shops... but during the last days of the year it changes entirely to transform the entire village into a magnificient XMas market. It's true that after the sunset the environment is magical with all those lights and even some artificial snow flakes in some streets. The magic disappears partially because it was infested with visitors, even more than Mont Saint-Michel.
+[**Rochefort-en-Terre**](https://en.wikipedia.org/wiki/Rochefort-en-Terre) was perhaps the most anticipated destination by Agatha. During the entire year is just another nice village with stone houses, attractive restaurants, galleries, cute shops... but during the last days of the year it changes entirely to transform the entire village into a magnificent XMas market. It's true that after the sunset the environment is magical with all those lights and even some artificial snow flakes in some streets. The magic disappears partially because it was infested with visitors, even more than Mont Saint-Michel.
 
 That night we slept in another small town close to Rochefort-en-Terre so in addition to seeing it at night, the next day we walked by there with sunlight and it was also interesting, specially because we were almost alone. The bad thing is that everything was closed that early in the morning.
 
@@ -186,7 +186,7 @@ As in many other places, we were almost alone so we could make funny things like
 
 {{< image classes="image central" src="https://live.staticflickr.com/65535/48609145416_9f7a5920d8_k.jpg" title="Panoramic inside Fougères Castle" >}}
 
-The town itself is nice, specially because it's located on top of a hill and the views are magnificient both from the village to the castle and from the castle to the village. The garden sorrounding the Cathedral was full of lights and XMas figures (and people).
+The town itself is nice, specially because it's located on top of a hill and the views are magnificient both from the village to the castle and from the castle to the village. The garden surrounding the Cathedral was full of lights and XMas figures (and people).
 
 ## Rennes
 
@@ -206,11 +206,11 @@ I would not mind coming back and spending a quiet weekend here.
 
 ## Le Mans
 
-[**Le Mans**](https://en.wikipedia.org/wiki/Le_Mans) is not in Brittany, but it was on our way to Charles de Gaulle to return the car and flight back home. They claim to be the second most known french city around the world, and this is because since 1923 the city hosts the famous [**24 Hours of Le Mans**](https://en.wikipedia.org/wiki/24_Hours_of_Le_Mans) endurance car race.
+[**Le Mans**](https://en.wikipedia.org/wiki/Le_Mans) is not in Brittany, but it was on our way to Charles de Gaulle to return the car and flight back home. They claim to be the second most known French city around the world, and this is because since 1923 the city hosts the famous [**24 Hours of Le Mans**](https://en.wikipedia.org/wiki/24_Hours_of_Le_Mans) endurance car race.
 
 We couldn't enter the Cathedral but we liked a lot the rest of the town center. It's nice and very lively. They have a cute area around the monument to the 24H of Le Mans race, which is indistinguishable from a shopping mall due to the amount of shops of all kinds.
 
-The [**Museum of the 24 Hours of Le Mans**](https://en.wikipedia.org/wiki/Mus%C3%A9e_des_24_Heures_du_Mans) is full of real sport cars and bikes with a few replicas, very interesing to any aficionado of the races. The vehicles were grouped by category and year, so it was easy and educational to follow the evolution of the technological improvements. One of the most curious things were some showcases with minuatures of all the cars that participated every year.
+The [**Museum of the 24 Hours of Le Mans**](https://en.wikipedia.org/wiki/Mus%C3%A9e_des_24_Heures_du_Mans) is full of real sport cars and bikes with a few replicas, very interesting to any aficionado of the races. The vehicles were grouped by category and year, so it was easy and educational to follow the evolution of the technological improvements. One of the most curious things were some showcases with miniatures of all the cars that participated every year.
 
 {{< image classes="image central" src="https://live.staticflickr.com/65535/48608785498_3c2d9ba3a1_k.jpg" title="The last items in the collection of the Museum of the 24 Hours of Le Mans" >}}
 
