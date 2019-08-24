@@ -5,11 +5,10 @@ date = "2017-09-28"
 type = "post"
 categories = ["programming", "computer-science", "technology", "culture"]
 status = "published"
-featured = "/img/2017/09/worked_fine_in_dev.jpg"
+featured = "https://live.staticflickr.com/65535/48610381293_fb04e7594b_o.jpg"
 featuredalt = "Worked fine in dev..."
 featuredpath = "Worked fine in dev...<br /> Source: <a href='http://lifeofasoftwareengineer.tumblr.com/post/80772102455/an-oldie-but-a-goodie'>Life of a Software Engineer</a>"
 +++
-
 
 For many different reasons I have had to discuss quite a lot recently about the professionalism of some people, technical and non-technical. Sometimes, because a person feels that she (I will use the feminine as neutral gender) is not being treated fairly with respect of her category, or because her performance is disappointing for others, sometimes after unfair comparisons between colleagues, ... As a common element, a diabolical concept was almost always being misused in these situations: **Seniority**.
 

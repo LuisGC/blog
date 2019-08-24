@@ -5,11 +5,10 @@ date = "2017-09-24"
 type = "post"
 categories = ["skeptics-in-the-pub", "outreach", "event", "technology", "skepticism", "science"]
 status = "published"
-featured = "/img/2017/09/Susan_Gerbic_at_SJC.jpg"
+featured = "https://live.staticflickr.com/65535/48610741916_a5bcb82660_o.jpg"
 featuredalt = "Susan Gerbic April 2015 at SJC"
 featuredpath = "Susan Gerbic April 2015 at SJC<br /> Source: <a href='https://commons.wikimedia.org/wiki/User:Sgerbic'>Susan Gerbic</a> @ <a href='https://commons.wikimedia.org/wiki/File:Gerbic_at_SJC.jpg'>Wikimedia Commons</a> - <a href='http://creativecommons.org/licenses/by-sa/4.0/'><i>CC BY-SA</i></a>"
 +++
-
 
 <center><i>This entry is also published in Spanish in <a href="http://www.escepticos.es/node/5374">the website of ARP-SAPC</a></i></center><br />
 
@@ -25,12 +24,7 @@ One important thing. **The talk that Susan has prepared for us will be in Englis
 
 The poster, masterfully designed by Emilio Molina ([@ej_molina_c](https://twitter.com/ej_molina_c)):
 
-<center>
-<div class="image">
-    <img src="/img/2017/09/EeeP_Madrid_8_Octubre_2017.jpg" alt="Susan Gerbic in Skeptics in the Pub Madrid">
-    <div class="caption">Susan Gerbic in Skeptics in the Pub Madrid</div>
-</div>
-</center>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48610893012_bb3a6b96f1_o.jpg" title="Susan Gerbic in Skeptics in the Pub Madrid" >}}
 
 As usual, the entrance is free. During the realization of this cultural activity is allowed the presence of minors under 18, provided they do not consume alcoholic beverages, and children under 16 if accompanied by a parent or guardian.
 
