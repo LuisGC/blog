@@ -84,7 +84,7 @@ Sadly we had to choose between Le Havre and Honfleur (the northern and southern 
 
 {{< image classes="image central" src="https://live.staticflickr.com/65535/48608785558_522099be40_k.jpg" title="Le Vieux Basin, Honfleur" >}}
 
-- **Le Jardin du Tripot**, one of those marvellous places that only locals, very well informed tourists and geocachers get to visit. Don't miss it, I won't tell more to avoid spoiling the surprise.
+- **Le Jardin du Tripot**, one of those marvelous places that only locals, very well informed tourists and geocachers get to visit. Don't miss it, I won't tell more to avoid spoiling the surprise.
 
 **Bonus recommendation**: [L'Homme de Bois](https://www.openstreetmap.org/node/5292329900), Honfleur is full of restaurants for all pockets but this one convinced us just by crossing ahead. We could not have dinner better, I tried their grilled stingray fin and it was delicious.
 
@@ -92,7 +92,7 @@ Sadly we had to choose between Le Havre and Honfleur (the northern and southern 
 
 We visited several landmarks related with Second World War, the Battle of Normandy and the Normandy landings. We didn't enter all the museums as they are apparently very similar, but we probably visited the most relevant ones.
 
-- **Musée Mémorial de la Bataille de Normandie**, one of the biggest colection of vehicles and weapons (mainly originals with some replicas). The way they present the collection may have aged too much, they would improve a lot if they changed the appearance of some posters and displays, and the approach of the signage in some areas.
+- **Musée Mémorial de la Bataille de Normandie**, one of the biggest collection of vehicles and weapons (mainly originals with some replicas). The way they present the collection may have aged too much, they would improve a lot if they changed the appearance of some posters and displays, and the approach of the signage in some areas.
 
 {{< image classes="image central" src="https://live.staticflickr.com/65535/48609145251_f7225f2089_o.jpg" title="Musée Mémorial de la Bataille de Normandie" >}}
 
@@ -100,7 +100,7 @@ We visited several landmarks related with Second World War, the Battle of Norman
 
 {{< image classes="image central" src="https://live.staticflickr.com/65535/48609144821_2aedcc5088_k.jpg" title="German Cemetery" >}}
 
-- **Le Pointe du Hoc**, one of the most representative places of the Normandy landings, as it still concentrates most of the remaining bunkers, and dozens of huge craters caused by the bombings. Again, visiting the place almost alone was specially valuable as you could enjoy the silence and try to imagine the place during those terrible days. The storming of the place by a couple hundred american rangers is one of the most epic episodes of the entire Battle of Normandy.
+- **Le Pointe du Hoc**, one of the most representative places of the Normandy landings, as it still concentrates most of the remaining bunkers, and dozens of huge craters caused by the bombings. Again, visiting the place almost alone was specially valuable as you could enjoy the silence and try to imagine the place during those terrible days. The storming of the place by a couple hundred American rangers is one of the most epic episodes of the entire Battle of Normandy.
 
 {{< image classes="image central" src="https://live.staticflickr.com/65535/48609145221_a4e5c8fdef_o.jpg" title="Le Pointe du Hoc" >}}
 
@@ -112,7 +112,7 @@ We visited several landmarks related with Second World War, the Battle of Norman
 
 {{< image classes="image central" src="https://live.staticflickr.com/65535/48609145551_88756cc715_o.jpg" title="American Cemetery and Memorial at Colleville-sur-Mer" >}}
 
-- **The German Batteries** at	Longues-sur-Mer, another typical visit with several german batteries preserved almost perfectly with only the damages caused by the war conflict itself. Walking by the closest ones to the coast, it's enough to turn yourself to feel still threatened by the batteries that are still standing.
+- **The German Batteries** at	Longues-sur-Mer, another typical visit with several German batteries preserved almost perfectly with only the damages caused by the war conflict itself. Walking by the closest ones to the coast, it's enough to turn yourself to feel still threatened by the batteries that are still standing.
 
 {{< image classes="image central" src="https://live.staticflickr.com/65535/48609294312_b08de178dd_k.jpg" title="German Batteries at Longues-sur-Mer" >}}
 
