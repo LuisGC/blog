@@ -5,11 +5,12 @@ date = "2017-05-19"
 type = "post"
 categories = ["blog", "technology", "design", "programming"]
 status = "published"
-featured = "/img/2017/05/Bake_your_own_site.png"
-featuredalt = "JBake"
+featured = "https://live.staticflickr.com/65535/48611202357_c781558dfa_o.png"
+featuredalt = "Bake your own site with JBake"
+featuredpath = "Bake your own site with JBake"
 +++
 
-Almost since [I created my personal blog](/blog/2003/10/arranca-luiyologia/) in 2003 I thought about moving it from blogger to my own domain, private hosting and so on. My lazyness prevented me from doing so. Not because the migration itself, but for the maintenance it entailed.
+Almost since [I created my personal blog](/blog/2003/10/arranca-luiyologia/) in 2003 I thought about moving it from blogger to my own domain, private hosting and so on. My laziness prevented me from doing so. Not because the migration itself, but for the maintenance it entailed.
 
 Anyhow, I was determined to migrate my blog outside of any blogging platform. I wanted to have complete control over my content, but without wasting lots of time in maintenance. All I needed was a way to do it seamlessly, quickly, and as automated as possible.
 
@@ -87,7 +88,7 @@ Well, thanks to Github and specifically to [Github Pages](https://pages.github.c
 
 After [enabling it for the first time](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/), Github automatically deploys in Github Pages whatever you put in the `docs` directory of your repo.
 
-I'm suffering the misbehaviour of Github Pages with relative paths, but for the moment I'm solving it with a sed command before pushing the baked content.
+I'm suffering the misbehavior of Github Pages with relative paths, but for the moment I'm solving it with a sed command before pushing the baked content.
 
 **Thanks Github Pages !!**
 
