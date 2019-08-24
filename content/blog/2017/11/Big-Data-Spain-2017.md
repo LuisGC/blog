@@ -5,11 +5,10 @@ date = "2017-11-17"
 type = "post"
 categories = ["programming", "computer-science", "technology"]
 status = "published"
-featured = "/img/2017/11/big_data_spain_2017.jpg"
+featured = "https://live.staticflickr.com/65535/48610717071_0c14940e6a_o.jpg"
 featuredalt = "Big Data Spain 2017"
 featuredpath = "Big Data Spain 2017"
 +++
-
 
 Last week I attended [**Big Data Spain**](https://www.bigdataspain.org/) (BDS), a renowned event focused particularly on [Big Data](https://en.wikipedia.org/wiki/Big_data), [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning). It's a reference event about Big Data, not only in Spain but across Europe. The event is almost entirely held in English and attracts top level speakers and public.
 
@@ -36,10 +35,7 @@ José Borja started with the disclaimer "As you can imagine, I'm not here to sho
 
 He ended his talk with several surprising and exciting figures. For example, and according to his own figures, Spain performs better (despite our usual perception) than the EU-27 median regarding the difference between the VAT that should be payed and the one that is really payed.
 
-<center><div class="image">
-  <img src="/img/2017/11/BDS_Jose_Borja.jpg" alt="the difference between the VAT that should be payed and the one that is really payed in the EU-27">
-  <div class="caption">the difference between the VAT that should be payed and the one that is really payed in the EU-27</div>
-</div></center>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48610356308_d98dce7ae7_o.jpg" title="Jose Borja - The difference between the VAT that should be payed and the one that is really payed in the EU-27" >}}
 
 **[Big Data security: Facing the challenge](https://www.bigdataspain.org/2017/talk/big-data-security-facing-the-challenge), by Carlos Gomez (Stratio)**
 
@@ -67,28 +63,19 @@ According to the speaker, causal inference is today more relevant than it’s ev
 
 I probably will watch again this talk if the video is published.
 
-<center><div class="image">
-  <img src="/img/2017/11/BDS_Totte_Harinen.jpg" alt="Some general ways in which Big Data and causal inference complement each other">
-  <div class="caption">Some general ways in which Big Data and causal inference complement each other</div>
-</div></center>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48610717111_a449df357a_o.jpg" title="Totte Harinen - Some general ways in which Big Data and causal inference complement each other" >}}
 
 **[Towards biologically plausible deep learning](https://www.bigdataspain.org/2017/talk/towards-biologically-plausible-deep-learning), by [Nikolay Manchev](https://twitter.com/nikolaymanchev) (IBM)**
 
 Another of my favorite talks of this BDS, and very difficult to summarize. Nikolay reviewed where deep learning currently stands, what are the current limitations and challenges, and how neuroscience and psychology can bring us closer to human-level intelligence (or even beyond).
 
-<center><div class="image">
-  <img src="/img/2017/11/BDS_Nikolay_Manchev.jpg" alt="Deep Learning performance vs human-level performance in object recognition tasks">
-  <div class="caption">Deep Learning performance vs human-level performance in object recognition tasks</div>
-</div></center>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48610717121_80d242c934_o.jpg" title="Nikolay Manchev - Deep Learning performance vs human-level performance in object recognition tasks" >}}
 
 **[Foundations of streaming SQL – learn to love stream & table theory](https://www.bigdataspain.org/2017/talk/Foundations-of-streaming-SQL), by [Tyler Akidau](https://twitter.com/takidau) (Google)**
 
 Tyler based his session on a very simple but interesting concept: "Tables are data at rest, Streams are data in motion". He explained why it's important to know perfectly the status of the data at each stage, and how to make the most of both data structures mastering the operations and transformations between streams and tables.
 
-<center><div class="image">
-  <img src="/img/2017/11/BDS_Tyler_Akidau.jpg" alt="Tables are data at rest, Streams are data in motion">
-  <div class="caption">Tables are data at rest, Streams are data in motion</div>
-</div></center>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48610356283_9a5b3cc7dd_o.jpg" title="Tyler Akidau - Tables are data at rest, Streams are data in motion" >}}
 
 **[The Data Errors we Make](https://www.bigdataspain.org/2017/talk/the-data-errors-we-make), by [Sean J. Taylor](https://twitter.com/seanjtaylor) (Facebook)**
 
