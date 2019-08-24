@@ -10,7 +10,6 @@ featuredalt = "Vannes"
 featuredpath = "Vannes - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
 +++
 
-
 As explained in the previous post, I've recently been in Normandy and Brittany with my friend **Agatha**. After publishing the first part of the trip ([**Normandy: a brief opinionated guide**](/blog/2017/12/normandy-a-brief-opinionated-guide/)) now I proceed to do the same with Brittany.
 
 It has been quite complicated because we saw a lot of awesome things and for me it still takes a lot of time (several hours) to write this kind of articles.
@@ -19,10 +18,7 @@ It has been quite complicated because we saw a lot of awesome things and for me 
 
 I don't like to repeat myself, so I invite you to read the disclaimers in the [Normandy](/blog/2017/12/normandy-a-brief-opinionated-guide/) article. I'll simply put here the map of Brittany prepared by Agatha.
 
-<div class="image central">
-    <img src="https://live.staticflickr.com/65535/48609144931_03b4b40c65_b.jpg" alt="Map with the main places to visit in Brittany">
-    <div class="caption">Map with the main places to visit in Brittany, prepared by Agatha</div>
-</div>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48609144931_03b4b40c65_b.jpg" title="Map with the main places to visit in Brittany, prepared by Agatha" >}}
 
 Let's start!
 
@@ -32,19 +28,13 @@ Our first stop in Brittany from Normandy was precisely in a town that was besieg
 
 Dol-de-Bretagne deserves a quick visit, not only to see its Cathedral and the quaint _Grand Rue des Stuarts_ (Dol is considered the origin of the famous royal [House of Stewart](https://en.wikipedia.org/wiki/House_of_Stewart)) but specially to see a huge menhir (the estimated weight is 125-150 tons).
 
-<div class="image central">
-    <img src="https://live.staticflickr.com/65535/48608785163_c2ffb23d81_k.jpg" alt="Dol-de-Bretagne menhir">
-    <div class="caption">Dol-de-Bretagne menhir</div>
-</div>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48608785163_c2ffb23d81_k.jpg" title="Dol-de-Bretagne menhir" >}}
 
 ## Cancale
 
 We arrived [**Cancale**](https://en.wikipedia.org/wiki/Cancale) at the right time, just before lunch. This fishing village is famous for its oyster beds, its oyster farmers everywhere, its popular oyster market, and its countless restaurants where you can order oysters. [According to Wikipedia](https://en.wikipedia.org/wiki/Cancale#Oysters), the oyster beds of Cancale cover more than 7 square kilometres, and they harvest about 25,000 tons of oysters each year. Impressive, even for someone like me who finds eating raw oysters quite disgusting.
 
-<div class="image central">
-    <img src="https://live.staticflickr.com/65535/48608785703_5d47a9d5ca_k.jpg" alt="Panoramic with lots of oysters beds and the popular Oyster Market">
-    <div class="caption">Panoramic with lots of oysters beds and the popular Oyster Market</div>
-</div>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48608785703_5d47a9d5ca_k.jpg" title="Panoramic with lots of oysters beds and the popular Oyster Market" >}}
 
 Cancale's Oyster Market is famous because in the stalls they sell freshly caught oysters on a plate or tray with a slice of lemon, and people eat them right there by the sea. The initial plan was to visit the market before lunch so that Agatha could satisfy her appetite. After seeing one after another the handful of stalls that were there open, the rumors say that Agatha did not find the idea very pleasant and had to settle for trying the oysters in the restaurant.
 
@@ -58,10 +48,7 @@ There were countless restaurants, I suspect that in high season it will be diffi
 
 Although the day was windy it was not very cold, and with a _vin chaud_ in the hand we took a very cool walk over the city walls. I thought initially that it was the standard insipid posh town with glamorous sites everywhere but I found a charming town with (yes) lots of glamorous places everywhere. Maybe I put a lot of my part, but I perfectly imagined the streets and beaches full of corsairs.
 
-<div class="image central">
-    <img src="https://live.staticflickr.com/65535/48609294002_a371721ce1_o.jpg" alt="Panoramic on top of the Jardin des Petit Murs, Saint-Malo">
-    <div class="caption">Panoramic on top of the Jardin des Petit Murs, Saint-Malo</div>
-</div>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48609294002_a371721ce1_o.jpg" title="Panoramic on top of the Jardin des Petit Murs, Saint-Malo" >}}
 
 **Bonus recommendation**: [Café La Java](http://www.openstreetmap.org/node/3741618983), by pure chance we stopped for a coffee in this spectacular place. The decoration was based on dolls, puppets and lots of circus material. The chairs on the bar were swing chairs hanging from the ceiling... everything was incredible, even the blow they gave us when we asked for the bill.
 
@@ -71,10 +58,7 @@ After the positive surprise of Saint-Malo we decided to visit [**Dinard**](https
 
 The most remarkable moment, and it was not prepared in advance, was the photo that I took next to an statue of **Alfred Hitchcock** with an Alfred Hitchcock's t-shirt. Hitchcock visited several times the town for holidays, to the point that the locals even claim that the house used in _Psycho_ is based on a still standing villa of Dinard. The statue is full size a replica (or viceversa) of the trophies for the winners of the [Dinard British Film Festival](http://www.festivaldufilm-dinard.com/en/home-en/), held here every year since 1989.
 
-<div class="image central">
-    <img src="https://live.staticflickr.com/65535/48609294357_ac0361685a_k.jpg" alt="In Dinard, with Sir Alfred Hitchcock">
-    <div class="caption">In Dinard, with Sir Alfred Hitchcock</div>
-</div>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48609294357_ac0361685a_k.jpg" title="In Dinard, with Sir Alfred Hitchcock" >}}
 
 ## Dinan
 
@@ -82,10 +66,7 @@ The most remarkable moment, and it was not prepared in advance, was the photo th
 
 I think that Dinan was the first town where we enjoyed a town center more or less protected from the cars and the traffic. This helped a lot to improve our sense of comfort there. As happened in Saint-Malo, the town center was full of nice shops and restaurants, giving the pedestrian the feeling of being inside a spectacular outdoor mall.
 
-<div class="image central">
-    <img src="https://live.staticflickr.com/65535/48608785638_dd2db491b6_k.jpg" alt="Panoramic in Dinan">
-    <div class="caption">Panoramic in Dinan</div>
-</div>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48608785638_dd2db491b6_k.jpg" title="Panoramic in Dinan" >}}
 
 ## Côte de Granit Rose
 
@@ -93,10 +74,7 @@ The [**Côte de Granit Rose**](https://en.wikipedia.org/wiki/C%C3%B4te_de_Granit
 
 We went first to some viewpoints inside **Perros-Guirec** and then to **Ploumanac'h**, close to the main area for visitors to the Pink Granite Coast in the **Pors Karmor** bay. It is supposed to be more startling during the summer because there is more sunlight, but it's a recommended visit at any time of the year.
 
-<div class="image central">
-    <img src="https://live.staticflickr.com/65535/48608785653_fb4019dede_k.jpg" alt="Panoramic in the Côte de Granit Rose">
-    <div class="caption">Panoramic in the Côte de Granit Rose</div>
-</div>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48608785653_fb4019dede_k.jpg" title="Panoramic in the Côte de Granit Rose" >}}
 
 **Bonus recommendation**: [Restaurant Le Ker Louis](http://www.openstreetmap.org/way/81970326#map=19/48.83152/-3.48326), again we ended there a little bit by chance, because we tried before in several places that turned out to be closed, and it was a tremendous luck. Our lunch was spectacular, very well prepared and quite inexpensive.
 
@@ -112,10 +90,7 @@ Rumengol has a curious church (Notre-Dame-du-Tout-Remède) that hosts a signific
 
 From the headland, you can see several lighthouses of different sizes located on rocks or small islands. It's the place that I know where more lighthouses can be seen.
 
-<div class="image central">
-    <img src="https://live.staticflickr.com/65535/48608785408_4faafca1ab_o.jpg" alt="Notre Dame des Naufrages looking into the sea">
-    <div class="caption">Notre Dame des Naufrages looking into the sea</div>
-</div>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48608785408_4faafca1ab_o.jpg" title="Notre Dame des Naufrages looking into the sea" >}}
 
 ## Locronan
 
@@ -123,10 +98,7 @@ We really wanted to see [**Locronan**](https://en.wikipedia.org/wiki/Locronan) a
 
 Locronan is a deserved member of the [_Les Plus Beaux Villages de France_](https://en.wikipedia.org/wiki/Les_Plus_Beaux_Villages_de_France) (The most beautiful villages of France) association. Le Faou is also a member but there are huge differences in terms of beauty and care.
 
-<div class="image central">
-    <img src="https://live.staticflickr.com/65535/48608785103_6f4d724085_k.jpg" alt="Panoramic of the Place de l'Église in Locronan">
-    <div class="caption">Panoramic of the Place de l'Église in Locronan</div>
-</div>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48608785103_6f4d724085_k.jpg" title="Panoramic of the Place de l'Église in Locronan" >}}
 
 **Bonus recommendation**: [Ty Kouign Amann](http://www.openstreetmap.org/node/5292491660), one of the finest chocolate shops we've seen in the trip. It was so tempting that we left there with a bag full of chocolates.
 
@@ -140,10 +112,7 @@ Among all the large towns (or small cities) that we visited, [**Quimper**](https
 
 The [**Ville Close**](https://en.wikipedia.org/wiki/Walled_town_of_Concarneau) (Walled Village) is a fortified island forming a medieval small village inside the town of Concarneau. It was nice but somehow disappointing because it's very very small and 90% of the shops and restaurants inside the fortress were closed. It is sized for many people, and they even had an outdoor theater, so surely in other seasons it will be much more attractive.
 
-<div class="image central">
-    <img src="https://live.staticflickr.com/65535/48609293657_99106e002c_o.jpg" alt="Panoramic of the Ville Close and the Marina of Concarneau">
-    <div class="caption">Panoramic of the Ville Close and the Marina of Concarneau</div>
-</div>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48609293657_99106e002c_o.jpg" title="Panoramic of the Ville Close and the Marina of Concarneau" >}}
 
 ## Pont-Aven
 
@@ -151,10 +120,7 @@ The [**Ville Close**](https://en.wikipedia.org/wiki/Walled_town_of_Concarneau) (
 
 To reinforce the _impressionist atmosphere_ that inspired (and inspires) the painters and charmes the visitors, the entire village specially around the river was illuminated in a very special way. I'm not sure if this is always like this or only on these pre-XMas dates.
 
-<div class="image central">
-    <img src="https://live.staticflickr.com/65535/48608785388_7d098feb63_o.jpg" alt="Panoramic of the River Aven passing through Pont-Aven, with nice colours and lights">
-    <div class="caption">Panoramic of the River Aven passing through Pont-Aven, with nice colours and lights</div>
-</div>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48608785388_7d098feb63_o.jpg" title="Panoramic of the River Aven passing through Pont-Aven, with nice colours and lights" >}}
 
 ## Auray
 
@@ -166,10 +132,7 @@ We made a quick visit to [**Auray**](https://en.wikipedia.org/wiki/Auray), just 
 
 Near a couple of alignments you can also find a huge menhir, brilliantly called _Le Géant du Manio_, with more than 6m of height. Le Géant is hidden inside a forest, so you need to walk for 10-15' to reach there but the short walk is worth it because the forest is impressive. I would love to have forests like that near my house.
 
-<div class="image central">
-    <img src="https://live.staticflickr.com/65535/48609294402_72cb9316e6_k.jpg" alt="Inside one of the stone alignments in Carnac">
-    <div class="caption">Inside one of the stone alignments in Carnac</div>
-</div>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48609294402_72cb9316e6_k.jpg" title="Inside one of the stone alignments in Carnac" >}}
 
 ## Vannes
 
@@ -177,10 +140,7 @@ Near a couple of alignments you can also find a huge menhir, brilliantly called 
 
 One of the differential elements of Vannes is his port, built in an elongated way to take the sea into the center of the city.
 
-<div class="image central">
-    <img src="https://live.staticflickr.com/65535/48609144681_e65d996d40_o.jpg" alt="Panoramic of the Port-de-Vannes, with the famous Place Gambetta in the left">
-    <div class="caption">Panoramic of the Port-de-Vannes, with the famous Place Gambetta in the left</div>
-</div>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48609144681_e65d996d40_o.jpg" title="Panoramic of the Port-de-Vannes, with the famous Place Gambetta in the left" >}}
 
 **Bonus recommendation**: [Restaurant Rive Gauche](http://www.openstreetmap.org/node/2429336056), possibly the restaurant that we liked the most. The plates were spectacular, refined and inexpensive. It's very small, so you should book in advance.
 
@@ -198,19 +158,13 @@ We only had time for a quick walk through the center of [**Malestroit**](https:/
 
 That night we slept in another small town close to Rochefort-en-Terre so in addition to seeing it at night, the next day we walked by there with sunlight and it was also interesting, specially because we were almost alone. The bad thing is that everything was closed that early in the morning.
 
-<div class="image central">
-    <img src="https://live.staticflickr.com/65535/48609294072_5231277189_o.jpg" alt="Rochefort-en-Terre at night">
-    <div class="caption">Rochefort-en-Terre at night</div>
-</div>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48609294072_5231277189_o.jpg" title="Rochefort-en-Terre at night" >}}
 
 ## Josselin
 
 [**Josselin**](https://en.wikipedia.org/wiki/Josselin) is considered one of the most beautiful medieval villages in Brittany. In addition to having the typical facades with wooden beams, here I had the impression that they were painted with more care and style. We took a good walk but we could not enter the castle, things that happen when the monuments are privately owned.
 
-<div class="image central">
-    <img src="https://live.staticflickr.com/65535/48609293812_4ef0751548_k.jpg" alt="Josselin's colourful facades">
-    <div class="caption">Josselin's colourful facades</div>
-</div>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48609293812_4ef0751548_k.jpg" title="Josselin's colourful facades" >}}
 
 ## Brocéliande Forest
 
@@ -218,10 +172,7 @@ We really wanted to spend a few hours hiking through the forest of [**Brocélian
 
 Anyway, our limited walk was great specially under the rain.
 
-<div class="image central">
-    <img src="https://live.staticflickr.com/65535/48608785753_23e4574923_k.jpg" alt="Inside Brocéliande forest">
-    <div class="caption">Inside Brocéliande forest</div>
-</div>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48608785753_23e4574923_k.jpg" title="Inside Brocéliande forest" >}}
 
 **Bonus recommendation**: [Crêperie La Fée Gourmande](http://www.openstreetmap.org/way/69883117), we had a lot of trouble finding a place to eat in Paimpont because everything was closed, but in the end someone told us how to get to a creperie in the outskirts that would surely be open. La Fée Gourmande is not in the center of the town but it's amazingly located in the shore of the _Étang de l'Abbaye de Paimpont_ and the galettes were amazing. a total success because they were also very nice with us.
 
@@ -233,10 +184,7 @@ The Château, a huge stronghold built atop a granite ledge, is one of the most f
 
 As in many other places, we were almost alone so we could make funny things like climbing two different towers so we could take each other a picture on top of the other tower. I have several epic pictures in this castle, it's a pity that I didn't have my bow and some arrows to pose properly.
 
-<div class="image central">
-    <img src="https://live.staticflickr.com/65535/48609145416_9f7a5920d8_k.jpg" alt="Panoramic inside Fougères Castle">
-    <div class="caption">Panoramic inside Fougères Castle</div>
-</div>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48609145416_9f7a5920d8_k.jpg" title="Panoramic inside Fougères Castle" >}}
 
 The town itself is nice, specially because it's located on top of a hill and the views are magnificient both from the village to the castle and from the castle to the village. The garden sorrounding the Cathedral was full of lights and XMas figures (and people).
 
@@ -246,19 +194,13 @@ Our visit to [**Rennes**](https://en.wikipedia.org/wiki/Rennes) was slightly dis
 
 I would not mind coming back and spending a quiet weekend here.
 
-<div class="image central">
-    <img src="https://live.staticflickr.com/65535/48609294102_d2e5f97f92_o.jpg" alt="Typical pedestrian street in Rennes, the house on the left is unique because the wood is painted in 3 different colors">
-    <div class="caption">Typical pedestrian street in Rennes, the house on the left is unique because the wood is painted in 3 different colors</div>
-</div>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48609294102_d2e5f97f92_o.jpg" title="Typical pedestrian street in Rennes, the house on the left is unique because the wood is painted in 3 different colors" >}}
 
 ## Vitré
 
 [**Vitré**](https://en.wikipedia.org/wiki/Vitr%C3%A9,_Ille-et-Vilaine) was our last stop in the trip through Normandy and it was not a bad culmination. We were able to take a pleasant walk under a light rain, and after lunch we visited the castle. The part of the castle that you can visit is small but interesting, the other part holds the Town Hall and other official dependencies.
 
-<div class="image central">
-    <img src="https://live.staticflickr.com/65535/48609293607_504223d825_o.jpg" alt="The entrance to Vitre Castle">
-    <div class="caption">The entrance to Vitre Castle</div>
-</div>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48609293607_504223d825_o.jpg" title="The entrance to Vitre Castle" >}}
 
 **Bonus recommendation**: [Restaurant Le Petit Bouchon](http://www.openstreetmap.org/node/3142793928), it's outside the historic center, so it's almost impossible for you to end up eating here if it's not after a recommendation. We ate very well and were treated perfectly. Their Café Gourmand is delicious.
 
@@ -270,16 +212,10 @@ We couldn't enter the Cathedral but we liked a lot the rest of the town center. 
 
 The [**Museum of the 24 Hours of Le Mans**](https://en.wikipedia.org/wiki/Mus%C3%A9e_des_24_Heures_du_Mans) is full of real sport cars and bikes with a few replicas, very interesing to any aficionado of the races. The vehicles were grouped by category and year, so it was easy and educational to follow the evolution of the technological improvements. One of the most curious things were some showcases with minuatures of all the cars that participated every year.
 
-<div class="image central">
-    <img src="https://live.staticflickr.com/65535/48608785498_3c2d9ba3a1_k.jpg" alt="The last items in the collection of the Museum of the 24 Hours of Le Mans">
-    <div class="caption">The last items in the collection of the Museum of the 24 Hours of Le Mans</div>
-</div>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48608785498_3c2d9ba3a1_k.jpg" title="The last items in the collection of the Museum of the 24 Hours of Le Mans" >}}
 
 In addition to the museum, it's possible to do a walking tour through the [**Circuit de la Sarthe**](https://en.wikipedia.org/wiki/Circuit_de_la_Sarthe). The visit includes access to the stands, bleachers and the pelouse area. I enjoyed it but it would have been nice to be able to visit other interesting areas like the boxes, the workshops, the VIP areas... or even lending us a car to make a whole lap to the circuit :-)
 
-<div class="image central">
-    <img src="https://live.staticflickr.com/65535/48608785518_a841e02c9d_k.jpg" alt="Circuit de la Sarthe, the main part of the 24 Hours of Le Mans circuit">
-    <div class="caption">Circuit de la Sarthe, the main part of the 24 Hours of Le Mans circuit</div>
-</div>
+{{< image classes="image central" src="https://live.staticflickr.com/65535/48608785518_a841e02c9d_k.jpg" title="Circuit de la Sarthe, the main part of the 24 Hours of Le Mans Circuit" >}}
 
 I hope that you enjoyed the guide!
