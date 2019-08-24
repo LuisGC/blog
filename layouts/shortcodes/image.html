@@ -1,4 +1,10 @@
 <div class="{{ .Get "classes" }}">
   <img src="{{ .Get "src" }}" alt="{{ .Get "title" }}">
-  <div class="caption">{{ .Get "title" }}</div>
+  <figcaption>
+    {{ .Get "title" }}
+    {{ with .Get "sourcelink"}}<br />Source: <a href="{{.}}"> {{ end }}
+      {{ .Get "source" }}
+    {{ if .Get "sourcelink"}}</a> {{ end }}
+    {{ with .Get "cc-license"}} - <i><a href="https://creativecommons.org/licenses/{{.}}/4.0/">CC License</a></i> {{ end }}
+  </figcaption>
 </div>
