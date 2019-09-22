@@ -27,9 +27,63 @@ Algunas cifras: **11 días** solamente en Beijing visitando decenas de fantásti
 
 A continuación resumiré mi experiencia en las principales visitas del viaje, terminando con algunas consideraciones generales. ¡Empezamos!
 
-## Dachau Concentration Camp Memorial Site
+## Plaza de Tiananmén
 
-After having visited [**Auschwitz**](http://auschwitz.org/en/) and [**Mauthausen**](https://www.mauthausen-memorial.org/en) more or less recently, I was not as impressed as others can be with [**Dachau**](https://en.wikipedia.org/wiki/Dachau_concentration_camp) but that is only my bias, because Dachau Memorial clearly is worth of a visit.
+Despegué de Barajas a las 10 de la mañana del Lunes 9 y llegué al aeropuerto internacional de Pekín el Martes 10 sobre las 9 de la mañana (hora local). Es decir, entre volar, trasbordo y cambio de zona horaria pasaron casi 24 horas. Tras otros tres cuartos de hora de taxi desde el aeropuerto hasta el apartamento en el que me alojaba con mi hermano, a pesar del cansancio estaba deseando sentir el pulso de la ciudad y tras un almuerzo potente me marché acompañado por mi hermano a ver la [Plaza de Tiananmén](https://es.wikipedia.org/wiki/Plaza_de_Tiananm%C3%A9n). Siempre que visito una ciudad nueva me gusta ir al centro neurálgico lo antes posible.
+
+Al llegar me encontré la primera sorpresa. A pesar de que la simbólica plaza mide casi un kilómetro de longitud y 500 metros de anchura, para acceder a ella hay sólo un puñado de puntos de acceso con un fuerte control de identificación, mochilas y cacheos. En otras ocasiones pude entrar a ella sin mucho problema pero justo ese día por algún motivo las colas eran tremendas y pudimos pasar más de media hora pasando el control de seguridad.
+
+Primer momento de masificación, rodeados de chinos pero todos o casi todos eran visitantes de fuera de Pekín. Los habitantes locales evitarán esta zona a toda costa. Esto hace que la sensación desde la plaza sea un poco _artificial_, dado que por ella nadie circula o pasea, sólo se visita como un monumento más. La escena es de todos modos espectacular desde la gran explanada, frente al icónico retrato de [**Mao Zedong**](https://es.wikipedia.org/wiki/Mao_Zedong) en la fachada de la [Puerta de Tiananmén](https://es.wikipedia.org/wiki/Puerta_de_Tiananm%C3%A9n) flanqueado por los lemas "Viva la República Popular China" y "Viva la Unidad de los Pueblos del Mundo".
+
+Todo estaba ya cerrado pero pudimos pasear tranquilos por la plaza viendo por fuera el [Monumento a los Héroes del Pueblo](https://es.wikipedia.org/wiki/Monumento_a_los_H%C3%A9roes_del_Pueblo), el [Mausoleo de Mao](https://es.wikipedia.org/wiki/Mausoleo_de_Mao_Zedong), los impresionantes edificios del [Gran Salón del Pueblo](https://es.wikipedia.org/wiki/Gran_Sal%C3%B3n_del_Pueblo) o el [Museo Nacional de China](https://es.wikipedia.org/wiki/Museo_Nacional_de_China) y la majestuosa [Puerta de Zhengyangmen](https://es.wikipedia.org/wiki/Zhengyangmen) cerrando la plaza por el Sur.
+
+## Calle Qianmen y Hutongs de Dashilan
+
+De hecho, salimos de Tiananmén por la zona sur para rematar el día paseando por la zona comercial de la calle Qianmen y los hutongs de Dashilan.
+
+Inciso: los hutongs son callejones de casas bajas y comercios que están por todas partes en Pekín. Algunos de ellos están en malas condiciones (incluso aunque sean zonas protegidas de interés turístico) pero otros están muy rehabilitados y son casi de lujo. En todos ellos se puede pasear tranquilamente con seguridad.
+
+Pekín está lleno de zonas comerciales como la Calle Qianmen, están por todas partes y son gigantes. Salvo excepciones no son zonas demasiado asequibles y en realidad buena parte de lo que no son tiendas de souvenirs son comercios de marcas _occidentales_. Si en algo destaca esta zona sobre las otras es porque está todo muy decorado con una estética muy cuidada, con esculturas delante de las tiendas más emblemáticas y con buena cantidad de restaurantes tope gama (tampoco necesariamente asequibles). De hecho, quizá está demasiado _bien puesto_ todo, pudiendo causar cierta sensación de parque temático. Se pueden ver rehabilitaciones o nuevas construcciones que usan materiales y acabados indistinguibles de los edificios supuestamente centenarios que están al lado.
+
+Los hutong de esta zona están etiquetados como el antiguo barrio rojo de Pekín, que ya no está operativo. Después de haberlos paseado un par de veces no he visto ningún parecido con otros barrios rojos que todos conocemos como el de Amsterdam. Lo que sí pude ver y disfrute mucho es a mucha gente en la misma calle o en patios jugando al [Xiangqi (ajedrez chino)](https://es.wikipedia.org/wiki/Xiangqi) o a los naipes, incluso una casucha atestada de gente con varias mesas de [Mahjong](https://es.wikipedia.org/wiki/Mahjong). Allí descubrí que existe algo tan alucinante como una mesa mezcladora de Majhong, [vean el vídeo](https://www.youtube.com/watch?v=taydgTfIQ0M).
+
+Terminamos el paseo por unas calles aledañas a Qianmen que aparentemente acaban de ser reconstruidas por completo encima de viejos hutongs existentes. De nuevo, poniendo un empeño enorme en conservar y mejorar su patrimonio imitando el estilo antiguo y usando materiales tradicionales. El paseo nos lleva hasta la zona de las antiguas delegaciones europeas, una ruta muy recomendable y llamativa para turistas americanos o nacionales pero quizá menos interesante para los turistas europeos.
+
+## Jingshan Park
+
+## Beihai Park
+
+## Drum Tower y Bell Tower
+
+## Forbidden City
+
+## National Museum of China
+
+## Military Museum of the Chinese People's Revolution
+
+## Panjiayuan Antique Market
+
+## 798 Art District
+
+## Summer Palace and Yuanmingyuan Park (old Summer Palace)
+
+## Jiankou to Mutianyu Great Wall hike
+
+## Lama Temple and Confucius Temple
+
+## Olympic Park
+
+## Temple of Heaven
+
+## Ancient Architecture Museum
+
+## China Science and Technology Museum
+
+## Sanlitun Shopping Street
+
+## National Art Museum of Beijing
+
+## Pearl and Silk Markets
 
 ## Consideraciones generales
 
