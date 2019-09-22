@@ -1,13 +1,14 @@
 +++
-author = ""
+author = "LuisGC"
+title = ""
+date = {{ .Date }}
+type = "post"
 categories = [""]
-date = ""
-description = ""
+status = "draft"
 featured = ""
 featuredalt = ""
 featuredpath = ""
+description = ""
 linktitle = ""
-title = ""
-type = "post"
 
 +++
