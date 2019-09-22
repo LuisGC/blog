@@ -14,7 +14,7 @@ _(Inspired by the [CV Viajero by Dendarii](https://dendarii.es/cv-viajero/))_
 
 # Visited Countries
 
-I have visited **18 out of 193** countries (among those [recognized by United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations)): Andorra, Austria, Belgium, Czech Republic, France, Germany, Hungary, Ireland, Italy, Netherlands, Poland, Portugal, Romania, Slovakia, Spain, Switzerland, United Kingdom and United States.
+I have visited **19 out of 193** countries (among those [recognized by United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations)): Andorra, Austria, Belgium, China, Czech Republic, France, Germany, Hungary, Ireland, Italy, Netherlands, Poland, Portugal, Romania, Slovakia, Spain, Switzerland, United Kingdom and United States.
 
 <center><div id="map" style="height: 500px; width: 90%"></div></center>
 
@@ -24,6 +24,9 @@ I have visited **18 out of 193** countries (among those [recognized by United Na
 
 ## 2019
 
+* <span>SEP</span> <p>Beijing and the Great Wall (China)</p>
+* <span>SEP</span> <p>Huelva (Spain)</p>
+  - El Rompido, Ayamonte and Vila Real de Santo Antonio (Portugal)
 * <span>AGO</span> <p>Tolkien 2019 - Birmingham (United Kingdom)</p>
 * <span>JUL</span> <p>Katowice (Poland)</p>
 * <span>JUN</span> <p>Noordwijk (Netherlands)</p>
@@ -274,7 +277,7 @@ function onEachFeature(feature, layer) {
     var popupContent = feature.properties.name;
     layer.bindPopup(popupContent);
 }
-var mymap = L.map('map').setView([20, 0], 2);
+var mymap = L.map('map').setView([20, 80], 2);
 L.tileLayer('//api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
     maxZoom: 18,
