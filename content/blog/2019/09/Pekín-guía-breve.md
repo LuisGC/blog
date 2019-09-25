@@ -8,6 +8,7 @@ status = "published"
 featured = "https://placeholder.pics/svg/1024x576/DEDEDE/FF0000/Placeholder%20Pic"
 featuredalt = "Splendid picture of the Neuschwanstein Castle from Marienbrucke"
 featuredpath = "Splendid picture of the Neuschwanstein Castle from Marienbrucke - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
+draft = true
 +++
 
 _**Disclaimer**: Por pura necesidad esta entrada será más breve de lo que me gustaría y en castellano, a pesar de que más del 90% de mis lectores (según Google Analytics) no tienen el castellano como lengua principal. Por primera vez he conseguido ir tomando notas durante el viaje y me tengo que limitar a transcribir dichas notas._
