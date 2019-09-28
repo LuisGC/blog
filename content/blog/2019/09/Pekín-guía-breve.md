@@ -142,7 +142,13 @@ Al final no compré nada. No estaba aún habituado al regateo (que además no me
 
 Lo que me alucinó verdaderamente fue la gran cantidad de puestos vendiendo nueces. Los ejemplares grandes y muy simétricos son especialmente cotizados por temas culturales y tradicionales, pero allí vendían de todo tipo y tamaño. Veías en algunos puestos a compradores revisando durante minutos cada nuez que se llevaban, cuando para unos ojos no entrenados todas eran prácticamente iguales.
 
+**Recomendación bonux**: Como nota de interés para mis lectores habituales, tras buscarlos por todo Beijing creo que Panjiayuan es el mejor sitio para comprar un [ajedrez chino](https://es.wikipedia.org/wiki/Xiangqi) relativamente artesanal.
+
 ## 798 Art District
+
+Este espacio dedicado al arte, que es realmente todo un distrito en el que ya no hay otra cosa, también me fascinó. Innumerables galerías de arte se mezclan con showrooms de grandes estudios y pequeños diseñadores. Han conseguido integrar perfectamente el entorno industrial de una forma fabulosa, sin hacer ningún sacrificio al disfrute de los visitantes. Entramos a unas pocas galerías, algunas de entrada gratuita y otras por un módico precio para evitar paseantes, y en general todas tenían su interés. De hecho, lo que menos nos gustó fue la UCCA, cuya entrada no era para nada barata y la exposición temporal no merecía demasiado la pena.
+
+Junto al arte, las omnipresentes tiendas de todo tipo, bares, restaurantes, ... otro lugar de esparcimiento más para los locales que también engancha a muchos turistas a pesar de estar lejos del centro.
 
 ## Summer Palace and Yuanmingyuan Park (old Summer Palace)
 
