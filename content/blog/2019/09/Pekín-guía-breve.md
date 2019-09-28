@@ -150,7 +150,23 @@ Este espacio dedicado al arte, que es realmente todo un distrito en el que ya no
 
 Junto al arte, las omnipresentes tiendas de todo tipo, bares, restaurantes, ... otro lugar de esparcimiento más para los locales que también engancha a muchos turistas a pesar de estar lejos del centro.
 
-## Summer Palace and Yuanmingyuan Park (old Summer Palace)
+## Palacio de Verano
+
+El Domingo 15 me levanté muy pronto para ver si me daba tiempo a ver primero el Palacio de Verano y después Yuanmingyuan Park (el antiguo Palacio de Verano). Nada más llegar al Summer Palace tuve que dedicar buena parte de mi atención y tiempo a un intento de última hora para conseguir entradas para ver la final del Mundial FIBA de baloncesto esa misma tarde. Al final las gestiones dieron sus frutos, pero tuve que recortar el tiempo dedicado al antiguo Palacio de Verano para poder llegar al partido.
+
+El [Palacio de Verano](https://es.wikipedia.org/wiki/Palacio_de_Verano) me gustó mucho, a pesar de que sólo pude rodear a medias el inmenso Lago Kunming. La parte oeste requería mucho más tiempo, lo dejo pendiente para una futura visita. Todos los palacios y torres del recinto me gustaron pero lo que me encantó fue la disposición en general de todo, se nota que cada detalle está muy cuidado.
+
+Empecé recorriendo muy pausada y tranquilamente toda la zona norte por todos sus caminos, incluyendo el fantástico Jardín de de los Placeres Armoniosos (Xiéqùyuán). Tras disfrutar tranquilo de esa zona, al acercarme al lago empecé a notar una cantidad brutal de gente que enturbió un poco la experiencia.
+
+Bajé caminando hasta cruzar el Puente de los 17 Arcos (Shíqīkǒngqiáo) que comunica con la fantástica Isla Nanhu, que alberga el templo al [Rey Dragón](https://es.wikipedia.org/wiki/Rey_Drag%C3%B3n_(mitolog%C3%ADa)), que no podía dejar de visitar. Tras la isla, nuevamente abarrotada, preferí evitar tener que subir andando de nuevo hacia el norte esquivando gente. En este lago, commo en otros, hay numerosos barcos de distintos tamaños, con y sin piloto, que cruzan el lago en todas las direcciones. Elegí uno que cruzase en diagonal el lago y subí directo hasta el [Barco de Mármol](https://es.wikipedia.org/wiki/Barco_de_M%C3%A1rmol), que con sus 36 metros de largo luce orgulloso a orillas del lago. El trayecto fue rápido y mereció mucho la pena, las vistas a ras de agua son impresionantes tanto de la isla que abandonaba detrás como de la Colina de la Longevidad y sus templos. A pesar nuevamente de la importante cantidad de barcos que te rodean en todo momento.
+
+La orilla norte estaba si cabe aún más llena de gente, siendo la zona más atractiva para los turistas que no pretenden caminar demasiado. Todo estaba lleno de gente, incluyendo especialmente el [Gran Corredor](https://es.wikipedia.org/wiki/Gran_Corredor), un largo pasillo cubierto de de 728 metros de longitud fantásticamente decorado. Merece la pena pasearlo tranquilamente disfrutando de las  más de 14.000 pinturas, que representan episodios tanto históricos como fantásticos.
+
+Dejé para el final la subida a la Colina de la Longevidad, coronada por la imponente Pagoda del Buda Fragante.
+
+## Antiguo Palacio de Verano
+
+Era ya tarde y tenía que comer algo rápido para reunirme con mi hermano en la entrada sur del [Antiguo Palacio de Verano](https://es.wikipedia.org/wiki/Antiguo_Palacio_de_Verano).
 
 https://es.wikipedia.org/wiki/Copa_Mundial_de_Baloncesto_de_2019#Final
 
