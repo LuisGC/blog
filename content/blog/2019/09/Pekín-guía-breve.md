@@ -240,15 +240,29 @@ Sobre arquitectura, hay recreaciones de todo tipo para poder hacerse una idea de
 
 Poco que decir sobre este museo. Es gigante, muy bien organizado y aparentemente (de nuevo, casi todo en chino) contiene bastantes explicaciones. Tiene las típicas zonas de este tipo de museos: geología, biología, naturaleza, etc. para rematar en una planta dedicada a la tecnología muy destacable. No todo estaba operativo, pero tenían multitud de espacios interactivos incluyendo realidad virtual y realidad aumentada. Muy recomendable, especialmente con niños pero también para adultos.
 
-## Sanlitun Shopping Street
+## Zona comercial de Sanlitun
 
 De nuevo, con todo cerrado no queda mucho que seguir paseando o entrando en zonas comerciales que sí abren hasta muy tarde. Uno de los últimos días me pasé por Sanlitun que es de las zonas comerciales más popuares de Beijing.
 
 Sanlitun está pegado al distrito de las embajadas y cerca de la zona donde residen los expatriados, quizá por eso es el lugar donde más concentración hay de tiendas de lujo y marcas occidentales en general. Es una zona muy renovada, con edificios enormes que cambian de color y muchísimos restaurantes. Interesante por el paseo pero de nuevo con poco riesgo para mi economía por los elevados precios.
 
-## National Art Museum of Beijing
+## Museo Nacional de Arte de China
 
-## Pearl and Silk Markets
+No quise irme de Beijing sin visitar el [Museo Nacional de Arte de China](https://es.wikipedia.org/wiki/Museo_Nacional_de_Arte_de_China), cuya nueva sede han construido hace unos poco años muy cerca de la Ciudad Prohibida.
+
+Este museo albergaba la 8ª Bienal de arte de Beijing, que ocupaba tres cuartas partes del museo y tenía previsto acabar en unos días. No me imagino que expondrán a continuación, pero deben rellenar casi todo el edificio. La colección perteneciente a la Bienal era muy interesante, con obras de artistas de todo el mundo y especialmente de China.
+
+## Antiguo Observatorio de Beijing
+
+El [Antiguo Observatorio de Beijing](https://en.wikipedia.org/wiki/Beijing_Ancient_Observatory) es una perla que, de nuevo, poca gente visita pero ahora las delicias de cualquier aficionado a la Astronomía. Es uno de los más antiguos del mundo, construido en el siglo XV por la dinastía Ming, y contiene aún varios instrumentos de precisión sobre una torre de 40 por 40 metros y quince metros de altura.
+
+Además de la torre y sus instrumentos, también puede visitarse una exposición sobre el uso de dichos instrumentos y personalidades importantes de China relacionadas con la Astronomía en toda la historia. Algunas de esas personalidades fueron europeos que viajaron en algún momento y decidieron quedarse a sacar partido a los medios que allí encontraban.
+
+## Mercado de la Perla y Mercado de la Seda
+
+Breve comentario sobre estos dos mercados, seguramente los más populares para los tutistas a la hora de comprar. Siendo similares, me pareció que en el [Mercado de la Seda](https://en.wikipedia.org/wiki/Silk_Street) había mejor mercancía. Los precios son parecidos y, siendo el regateo la base de todo, todo dependerá de lo apurados que estén los vendedores en el momento que llegues. Visité el Mercado de la Seda mi última tarde en Beijing y ya con cierta experiencia en estos mercados pude hacer varias compras interesantes.
+
+Autobuses enteros de turistas plagan estos dos centros y pocos salen con las manos vacías. Son los sitios donde las guías te dicen que puedes tomarte medidas para comprar un traje o camisas a medida muy baratas, pero no llegué a tanto por falta de necesidad e interés.
 
 ## Consideraciones generales
 
