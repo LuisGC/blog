@@ -99,6 +99,8 @@ Una vez dentro confirmo que el sitio dispone de muy pocas explicaciones, y lo po
 
 Después de ver en estas penosas condiciones viendo todo casi a codazos (educados y suaves, pero codazos igualmente), decido salir del circuito principal y visitar las zonas menos concurridas. La primera visita no podía ser otra que el _Pabellón Arquero_, que al final me decepciona ligeramente. La descripción histórica del lugar es muy interesante pero el contenido actual no tiene mucho de arqueril. Hay un arco, un carcaj y un puñado de flechas junto con un buen montón de otros elementos como sillas de montar a caballo. El pabellón no sólo servía como galería de tiro, sino para enfatizar la importancia del tiro con arco en la sociedad. Los emperadores Qianlong y Jiaqing recordaban constantemente a su corte que no debían olvidar sus tradiciones, su eslógan escrito por todas partes era "_Habla el lenguaje Manchú, practica tiro con arco y monta a caballo_".
 
+{{< image classes="image" src="/img/Archery-Pavilion.jpg" title="Objetos expuestos en el Pabellón Arquero de la Ciudad Prohibida" cc-license="by-nc-sa" >}}
+
 Ya dentro de la _Galería del Tesoro_, lo primero que encontramos es una nueva _Pared de los Nueve Dragones_. Me gusta también y se percibe hecha con más detalle que la de Bei Hai pero me impactó más la otra, quizá por ser la primera que he visto o porque al ser de doble cara y estar en mitad de un patio llama mucho más la atención. Aquí escucho una de las pocas anécdotas interesantes que me cuenta la audioguía, relativa a un fragmento de la pared hecho de madera y no de cerámica. Dice la leyenda que los artesanos que fabricaron contrarreloj dicha pared para el emperador cometieron un error de última hora y rompieron un trozo de un dragón. No tenían tiempo para moldear y cocer un nuevo azulejo, así que decidieron montarlo en madera tallada y lacarlo para que no se notara la diferencia. Con el paso de los años la diferencia fue evidente (y ahora salta a la vista desde cierta distancia) pero el truco supuestamente permitió salvar la vida de aquellos artesanos.
 
 La Galería del Tesoro se paga aparte de la visita principal al Palace Museum y no es lo más destacable, pero considerando la cantidad de piezas expuestas y que proporcionalmente ocupa un buen trozo de la Ciudad Prohibida, considero recomendable adquirir este ticket extra aunque sólo sea por recorrer estos patios y templos, disfrutando en cada uno de ellos tanto del contenido expuesto como del continente.
@@ -109,6 +111,8 @@ El _Jardín Imperial_, situado en el extremo norte, me resulto muy agradable per
 
 Otra zona con ticket aparte es el _Museo de Relojes_. Se visita rápido y es muy interesante, siendo una de las colecciones de relojes más completas y espectaculares del mundo. La colección está formada tanto por relojes obsequiados a los emperadores a lo largo de la historia como los fabricados allí mismo en el Palacio. Muy interesante, a pesar de no disponer de información detallada de algunos de ellos, que me habria gustado investigar en profundidad.
 
+{{< image classes="image" src="/img/Forbidden-City.jpg" title="Figuras decorativas en los tejados de la Ciudad Prohibida, exclusivas de los edificios imperiales" cc-license="by-nc-sa" >}}
+
 Termino mi estancia bajando de nuevo a la zona sur para visitar el _Salón de la Eminencia Militar_, subir a la _Puerta del Sur_ y recorrer un trozo de muralla, terminando con una visita al _Salón de la Gloria Literaria_ que sirve de galería de arte, principalmente de pintura. Esta exposición es de lo que más me gustó de todo el Palace Museum. Las obras reflejaban situaciones cotidianas supuestamente reales de los emperadores en Palacio y algunos de los cuadros eran espectaculares.
 
 ## Templo Imperial Ancestral
@@ -117,11 +121,15 @@ Salgo de la ciudad Prohibida por la Puerta Este y me dirijo al [Templo Imperial 
 
 El sitio es en cualquier caso muy pintoresco y lo que sí descubrí fue que estando casi vacío es ideal para fotos de boda. En un paseo breve por los jardines me encontré a más de una decena de parejas posando para sus respectivos séquitos de fotógrafos. En un callejón entre dos templos encontré incluso un par con equipos de rodaje semi-profesional que presumiblemente rodaban algún corto.
 
+{{< image classes="image" src="/img/Imperial-Ancestral-Temple.jpg" title="Una de las múltiples parejas que se fotografiaban en el Templo Imperial Ancestral" cc-license="by-nc-sa" >}}
+
 ## Museo Nacional de China
 
 Aproveché que estaba cerca y quedaban unas 3 horas para su cierre para visitar el [Museo Nacional de China](https://es.wikipedia.org/wiki/Museo_Nacional_de_China). Me di un primer paseo de reconocimiento para ver si merecía la pena volver otro día y después visité con más calma las galerías principales. Apenas hay explicaciones en inglés y buena parte de las salas eran exposiciones temporales o especiales que se pagaban aparte, aunque el museo es gratuito.
 
 Me gustó especialmente la sección Ancient China, que explica y narra la evolución del arte en China desde sus primeros pobladores. Se describe de forma clara y didáctica el paso de la historia por las distintas dinastías, siendo muy perceptible el salto en calidad y riqueza en las Xing y Ming.
+
+Otra exhibición interesante fue la de regalos de estado, donde se exponen todos los obsequios recibidos por otros gobiernos u organizaciones. Resultaba interesante comparar la calidad de los regalos según la riqueza del país donante y su afiliación con el sistema político de China, a veces con cierta desproporción.
 
 **Recomendación bonus**: Hay varios restaurantes especializados en el famoso Pato al estilo Pekín, uno de ellos que probé y recomiendo es: **Quanjude** (30 Qianmen St, Dongcheng, Beijing, China)
 
@@ -135,6 +143,8 @@ La primera parte que se debe visitar (y ojo con hacerlo en orden, no está muy b
 
 La parte central del museo es espectacular. Al estilo del Air & Space Museum del Smithsonian, allí tienen expuestos decenas de aviones, cohetes y barcos. Como complemento en la planta inferior tienen decenas de tanques y sistemas de armamento pesado, y en las plantas superiores todo tipo de armamento ligero: pistolas, espadas, fusiles, armas automáticas, etc. Nos sorprendió (y agradó) ver que tanto en la planta baja como en las superiores junto a las piezas chinas tenían expuestas muchísimas de otros países, destancando de la URSS, USA y Japón pero también muchas europeas e incluso españolas.
 
+{{< image classes="image" src="/img/Militar-Museum-China.jpg" title="Vista parcial de la parte central del Museo Mulitar de la Revolución Popular de China" cc-license="by-nc-sa" >}}
+
 Además de la recopilación interminable e interesante de armamento, tenían varias zonas de exposiciones sobre el potencial chino en armamento aéreo y marítimo, y las posibilidades no bélicas dela energía nuclear. La parte final, que también nos sorprendió positivamente, se centraba en arte de inspiración bélica: cuadros y esculturas principalmente. Había obras fabulosas, varias de las cuales yo colgaría en mi salón sin dudarlo.
 
 ## Wukesong Arena
@@ -144,6 +154,8 @@ Una vez visto el museo nos dirijimos a Wukesong, un area comercial gigante rodea
 La zona comercial principal está muy orientada al exterior y al ocio. Hay varias pistas deportivas, muchos restaurantes e incluso un IKEA que no destacaba en tamaño como suele suceder aquí en España. Aunque estaba muy animado (y aparentemente no era por la competición) no es un sitio que tenga sentido visitar salvo que te alojes muy cerca.
 
 Sobre el baloncesto, [España derrotó por 95-88 a Australia](https://es.wikipedia.org/wiki/Copa_Mundial_de_Baloncesto_de_2019#Semifinales) en un apasionante partido que tuvo perdido casi todo el tiempo pero finalmente se llevó tras dos emocionantes prórrogas.
+
+{{< image classes="image" src="/img/FIBA-Worldcup-Semifinal.jpg" title="Con mi hermano celebrando la victoria después del partido" cc-license="by-nc-sa" >}}
 
 ## Mercado de Antigüedades de Panjiayuan
 
