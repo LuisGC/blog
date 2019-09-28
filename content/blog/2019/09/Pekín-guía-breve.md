@@ -228,13 +228,23 @@ Comencé mi paseo por el [Templo del Cielo](https://es.wikipedia.org/wiki/Templo
 
 Por el camino me encontré gente haciendo todo tipo de deporte y ejercicio, como en cada parque de Beijing. Aquí incluso habían improvisado una pista de tenis en una pequeña explanada pavimentada.
 
-El Templo de la Oración por la Buena Cosecha, el Altar Circular y el Muro del Eco son muy singulares y todos ellos lugares icónicos de Beijing que merece la pena visitar tranquilamente. También visité el Palacio del Ayuno, que es gratuito enseñando el pasaporte pero por algún motivo casi nadie visita. 
+El Templo de la Oración por la Buena Cosecha, el Altar Circular y el Muro del Eco son muy singulares y todos ellos lugares icónicos de Beijing que merece la pena visitar tranquilamente. También visité el Palacio del Ayuno, que es gratuito enseñando el pasaporte pero por algún motivo casi nadie visita.
 
 ## Ancient Architecture Museum
 
+Este museo, que tampoco suele aparecer en ninguna guía o blog de viajes y de hecho estaba casi vacío, cumplió con creces mis espectativas. Está situado en lo que antiguamente fue el Templo de la Agricultura, y por ello tiene una zona dedicada también a esto.
+
+Sobre arquitectura, hay recreaciones de todo tipo para poder hacerse una idea de la técnica y materiales empleados en la construcción tradicional china. Hay zonas dedicadas a las vigas, incluyendo la selección de la madera apropiada; a la cerámica tanto protectora como decorativa; a la talla de piedra, etc. Lástima que como en el resto de Beijing me perdiese el 90% de las explicaciones porque apenas hay contenido en otros idiomas.
+
 ## China Science and Technology Museum
 
+Poco que decir sobre este museo. Es gigante, muy bien organizado y aparentemente (de nuevo, casi todo en chino) contiene bastantes explicaciones. Tiene las típicas zonas de este tipo de museos: geología, biología, naturaleza, etc. para rematar en una planta dedicada a la tecnología muy destacable. No todo estaba operativo, pero tenían multitud de espacios interactivos incluyendo realidad virtual y realidad aumentada. Muy recomendable, especialmente con niños pero también para adultos.
+
 ## Sanlitun Shopping Street
+
+De nuevo, con todo cerrado no queda mucho que seguir paseando o entrando en zonas comerciales que sí abren hasta muy tarde. Uno de los últimos días me pasé por Sanlitun que es de las zonas comerciales más popuares de Beijing.
+
+Sanlitun está pegado al distrito de las embajadas y cerca de la zona donde residen los expatriados, quizá por eso es el lugar donde más concentración hay de tiendas de lujo y marcas occidentales en general. Es una zona muy renovada, con edificios enormes que cambian de color y muchísimos restaurantes. Interesante por el paseo pero de nuevo con poco riesgo para mi economía por los elevados precios.
 
 ## National Art Museum of Beijing
 
