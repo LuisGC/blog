@@ -222,7 +222,13 @@ Es increíble que pudieran disponer de todo este espacio tan cerca del centro de
 
 **Recomendación bonus**: No coge demasiado cerca pero después de esta visita me junté con mi hermano para cenar en un fantástico restaurante especializado en cocinar con pera: **Xiao Diao Li Tang**: Además de muchos platos cocinados con pera, servían una fabulosa bebida melosa de pera que servían por jarras e incluso para llevar en botellas. Riquísimo.
 
-## Temple of Heaven
+## Templo del Cielo
+
+Comencé mi paseo por el [Templo del Cielo](https://es.wikipedia.org/wiki/Templo_del_Cielo) muy temprano en la puerta Este, resistiendo la tentación de entrar de nuevo en el Mercado de la Perla. Recorrí tranquilamente toda la zona este del parque para acceder y recorrer el templo de Sur a Norte como hacían los emperadores.
+
+Por el camino me encontré gente haciendo todo tipo de deporte y ejercicio, como en cada parque de Beijing. Aquí incluso habían improvisado una pista de tenis en una pequeña explanada pavimentada.
+
+El Templo de la Oración por la Buena Cosecha, el Altar Circular y el Muro del Eco son muy singulares y todos ellos lugares icónicos de Beijing que merece la pena visitar tranquilamente. También visité el Palacio del Ayuno, que es gratuito enseñando el pasaporte pero por algún motivo casi nadie visita. 
 
 ## Ancient Architecture Museum
 
