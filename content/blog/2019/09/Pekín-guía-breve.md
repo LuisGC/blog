@@ -216,6 +216,12 @@ El Templo de Confucio tiene, aparte de pabellones de culto, una parte de exposic
 
 ## Olympic Park
 
+Llegué al Parque Olímpico de Beijing antes de lo esperado y no pude disfrutar mucho de él porque aún hacía mucho calor y en toda la explanada apenas hay sombras. Aún así, completé un buen paseo por toda la zona y pude imaginarme allí durante el vibrante ambiente de unas olimpiadas.
+
+Es increíble que pudieran disponer de todo este espacio tan cerca del centro de la ciudad y lo organizaran de esta manera, incluyendo un río artificial con forma de dragón.
+
+**Recomendación bonus**: No coge demasiado cerca pero después de esta visita me junté con mi hermano para cenar en un fantástico restaurante especializado en cocinar con pera: **Xiao Diao Li Tang**: Además de muchos platos cocinados con pera, servían una fabulosa bebida melosa de pera que servían por jarras e incluso para llevar en botellas. Riquísimo.
+
 ## Temple of Heaven
 
 ## Ancient Architecture Museum
