@@ -57,11 +57,15 @@ Terminamos el paseo por unas calles aledañas a Qianmen que aparentemente acaban
 
 ## Parque de Jingshan
 
+{{< image classes="image lateral" src="/img/Jingshan-caligraphy.jpg" title="Arte efímero en Jingshan Park" cc-license="by-nc-sa" >}}
+
 A la mañana siguiente fui directo a visitar el [Parque de Jingshan](https://es.wikipedia.org/wiki/Parque_Jingshan). Quería ver la Ciudad Prohibida desde lo alto antes de adentrarme en ella. De camino a la entrada Este del parque crucé un hutong relativamente moderno en busca (sin éxito) de una tienda de tiro con arco. No sólo era moderno y recién renovado, me atrevería a decir que era casi lujoso. Las parcelas se veían amplias, muros altos, gruesos y regulares, puertas enormes y bellamente rematadas. En varias fachadas había incluso puntos privados de recarga de coche eléctrico.
 
 El parque en sí es fantástico. Nada más entrar me encuentro un grupo de honorables ancianos escribiendo en las baldosas del suelo con agua como única tinta para sus grandes pinceles. Una lástima no entender lo que ponían, pero al menos estéticamente la caligrafía me pareció impecable. El parque está lleno, como en muchos otros parajes de Pekín, de gente haciendo todo tipo de ejercicio.
 
 Los antiguos pabellones de Shou Huang y el famoso mirador situado sobre la cima de la artificial Colina del Carbón no hacen sino acrecentar la sensación de majestuosidad del lugar.
+
+{{< image classes="image" src="/img/Jingshan-viewpoint.jpg" title="Las fabulosas vistas desde el Pabellón de la Primavera Duradera" cc-license="by-nc-sa" >}}
 
 ## Parque de Beihai
 
@@ -69,11 +73,15 @@ Me pareció espectacular allí y ahora en retrospectiva puede que incluso más. 
 
 El [Parque Beihai](https://es.wikipedia.org/wiki/Parque_Beihai) es el jardín imperial más grande del mundo, y sin duda el lago con su isla central le dan al parque un ambiente único. Situado al norte del parque, el palacio de Jingxin (Habitación del Corazón Calmado) es uno de los rincones con más encanto quizá de toda la ciudad. Es también imprescindible la visita al Muro de los 9 Dragones, que es espectacular pero puede pasar inadvertido al turista despistado dado que se encuentra fuera de los caminos principales.
 
+{{< image classes="image" src="/img/Beihai-9-dragons.jpg" title="Muro de los 9 Dragones, en Beihai Park" cc-license="by-nc-sa" >}}
+
 Tras Beihai me dirigí a recorrer los alrededores del lago Houhai, abarrotado de comercios y restaurantes. El hutong de Nanguanfang es una de las zonas más populares para los turistas de fuera, y se nota perfectamente tanto en los precios como en la oferta de tiendas y restaurantes. Es un paseo agradable pero no ví nada que pusiera en peligro mi economía.
 
 ## Torre del Tambor y Campanario
 
 Muy cerca de la calle Nanguanfang se encuentran la [Torre del Tambor y el Campanario](https://es.wikipedia.org/wiki/Gulou_y_Zhonglou_(Pek%C3%ADn)), perfectamente alineadas al norte del eje que forman la Ciudad Prohibida y Tiananmén. Según lo previsto, llegué a la Drum Tower un poco antes del pase que hacen un par de veces al día, con el tiempo justo para subir los chopocientos escalones, poder tomar un poco de aire y coger sitio para grabar en primera fila el espectáculo. El show dura unos dos minutos y recrea el ritual que seguían antiguamente allí. Me llamó entonces la atención que el trío que ejecuta el show es liderado por una mujer, que golpeaba enérgicamente el tambor más grande y (supongo) importante, en una ciudad en la que el 99,99% de los policías y militares eran varones.
+
+{{< image classes="image" src="/img/Drum-Tower.jpg" title="Espectáculo de percusión en la Torre del Tambor" cc-license="by-nc-sa" >}}
 
 Una vez abajo, en principio no debes irte sin subir de nuevo los chopocientos escalones de la Bell Tower, pero lo cierto es que las vistas son peores y lo que encuentras arriba es menos interesante salvo que seas fan de las campanas. Hay una curiosa narración de cómo se forjan las campanas en lo alto de la torre, que pude entender por encima al estar todo casi únicamente en chino.
 
@@ -89,7 +97,7 @@ A las 8:30 abren puntualmente los controles de acceso y allí me encuentro la ú
 
 Una vez dentro confirmo que el sitio dispone de muy pocas explicaciones, y lo poco que hay es en Chino. Un buen porcentaje de gente visita el recinto con guías privados o grupos organizados, que van narrando y explicando la visita. Adquiero una audioguía que me permita ir un poco más libre y voy rápidamente hacia el _Palacio de la Pureza Celestial_, el _Salón de la Unión_ y el _Palacio de la Tranquilidad Terrenal_, que son los principales cuellos de botella. No soy el único que lo piensa y allí nos agolpamos muchísimos detrás de una valla que a su vez se encuentra a varios metros de la puerta del templo, por lo que la visión y percepción de lo que hay allí dentro se hace difícil y definitivamente muy incómoda.
 
-Después de ver en estas penosas condiciones viendo todo casi a codazos (educados y suaves, pero codazos igualmente), decido salir del circuito principal y visitar las zonas menos concurridas. La primera visita no podía ser otra que el _Pabellón Arquero_, que al final me decepciona ligeramente. La descripción histórica del lugar es muy interesante pero el contenido actual no tiene mucho de arqueril. Hay un arco, un carcaj y un puñado de flechas junto con un buen montón de otros elementos como sillas de montar a caballo. El pabellón no sólo servía como galería de tiro, sino para enfatizar la importancia del tiro con arco en la sociedad.
+Después de ver en estas penosas condiciones viendo todo casi a codazos (educados y suaves, pero codazos igualmente), decido salir del circuito principal y visitar las zonas menos concurridas. La primera visita no podía ser otra que el _Pabellón Arquero_, que al final me decepciona ligeramente. La descripción histórica del lugar es muy interesante pero el contenido actual no tiene mucho de arqueril. Hay un arco, un carcaj y un puñado de flechas junto con un buen montón de otros elementos como sillas de montar a caballo. El pabellón no sólo servía como galería de tiro, sino para enfatizar la importancia del tiro con arco en la sociedad. Los emperadores Qianlong y Jiaqing recordaban constantemente a su corte que no debían olvidar sus tradiciones, su eslógan escrito por todas partes era "_Habla el lenguaje Manchú, practica tiro con arco y monta a caballo_".
 
 Ya dentro de la _Galería del Tesoro_, lo primero que encontramos es una nueva _Pared de los Nueve Dragones_. Me gusta también y se percibe hecha con más detalle que la de Bei Hai pero me impactó más la otra, quizá por ser la primera que he visto o porque al ser de doble cara y estar en mitad de un patio llama mucho más la atención. Aquí escucho una de las pocas anécdotas interesantes que me cuenta la audioguía, relativa a un fragmento de la pared hecho de madera y no de cerámica. Dice la leyenda que los artesanos que fabricaron contrarreloj dicha pared para el emperador cometieron un error de última hora y rompieron un trozo de un dragón. No tenían tiempo para moldear y cocer un nuevo azulejo, así que decidieron montarlo en madera tallada y lacarlo para que no se notara la diferencia. Con el paso de los años la diferencia fue evidente (y ahora salta a la vista desde cierta distancia) pero el truco supuestamente permitió salvar la vida de aquellos artesanos.
 
