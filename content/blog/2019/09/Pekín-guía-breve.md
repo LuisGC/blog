@@ -5,9 +5,9 @@ date = "2019-09-28"
 type = "post"
 categories = ["personal", "tourism", "holidays", "history"]
 status = "published"
-featured = "https://placeholder.pics/svg/1024x576/DEDEDE/FF0000/Placeholder%20Pic"
-featuredalt = "Splendid picture of the Neuschwanstein Castle from Marienbrucke"
-featuredpath = "Splendid picture of the Neuschwanstein Castle from Marienbrucke - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
+featured = "/img/Tiananmen.jpg"
+featuredalt = "Quite excited to be in Tiananmen Square"
+featuredpath = "Quite excited to be in Tiananmen Square - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
 +++
 
 _**Disclaimer**: Por pura necesidad esta entrada será más breve de lo que me gustaría (aunque no lo parezca) y en castellano, a pesar de que más del 90% de mis lectores (según Google Analytics) no tienen el castellano como lengua principal. Por primera vez he conseguido ir tomando notas durante el viaje y me tengo que limitar a transcribir dichas notas._
@@ -33,6 +33,8 @@ Despegué de Barajas a las 10 de la mañana del Lunes 9 y llegué al aeropuerto 
 
 Al llegar me encontré la primera sorpresa. A pesar de que la simbólica plaza mide casi un kilómetro de longitud y 500 metros de anchura, para acceder a ella hay sólo un puñado de puntos de acceso con un fuerte control de identificación, mochilas y cacheos. En otras ocasiones pude entrar a ella sin mucho problema pero justo ese día por algún motivo las colas eran tremendas y pudimos pasar más de media hora pasando el control de seguridad.
 
+{{< image classes="image" src="/img/Seguridad.jpg" title="Control de seguridad para acceder a Tiananmen" cc-license="by-nc-sa" >}}
+
 Primer momento de masificación, rodeados de chinos pero todos o casi todos eran visitantes de fuera de Pekín. Los habitantes locales evitarán esta zona a toda costa. Esto hace que la sensación desde la plaza sea un poco _artificial_, dado que por ella nadie circula o pasea, sólo se visita como un monumento más. La escena es de todos modos espectacular desde la gran explanada, frente al icónico retrato de [**Mao Zedong**](https://es.wikipedia.org/wiki/Mao_Zedong) en la fachada de la [Puerta de Tiananmén](https://es.wikipedia.org/wiki/Puerta_de_Tiananm%C3%A9n) flanqueado por los lemas "Viva la República Popular China" y "Viva la Unidad de los Pueblos del Mundo".
 
 Todo estaba ya cerrado pero pudimos pasear tranquilos por la plaza viendo por fuera el [Monumento a los Héroes del Pueblo](https://es.wikipedia.org/wiki/Monumento_a_los_H%C3%A9roes_del_Pueblo), el [Mausoleo de Mao](https://es.wikipedia.org/wiki/Mausoleo_de_Mao_Zedong), los impresionantes edificios del [Gran Salón del Pueblo](https://es.wikipedia.org/wiki/Gran_Sal%C3%B3n_del_Pueblo) o el [Museo Nacional de China](https://es.wikipedia.org/wiki/Museo_Nacional_de_China) y la majestuosa [Puerta de Zhengyangmen](https://es.wikipedia.org/wiki/Zhengyangmen) cerrando la plaza por el Sur.
@@ -43,9 +45,13 @@ De hecho, salimos de Tiananmén por la zona sur para rematar el día paseando po
 
 Inciso: los hutongs son callejones de casas bajas y comercios que están por todas partes en Pekín. Algunos de ellos están en malas condiciones (incluso aunque sean zonas protegidas de interés turístico) pero otros están muy rehabilitados y son casi de lujo. En todos ellos se puede pasear tranquilamente con seguridad.
 
+{{< image classes="image lateral" src="/img/Qianmen.jpg" title="Tienda en la zona comercial de Qianmen" cc-license="by-nc-sa" >}}
+
 Pekín está lleno de zonas comerciales como la Calle Qianmen, están por todas partes y son gigantes. Salvo excepciones no son zonas demasiado asequibles y en realidad buena parte de lo que no son tiendas de souvenirs son comercios de marcas _occidentales_. Si en algo destaca esta zona sobre las otras es porque está todo muy decorado con una estética muy cuidada, con esculturas delante de las tiendas más emblemáticas y con buena cantidad de restaurantes tope gama (tampoco necesariamente asequibles). De hecho, quizá está demasiado _bien puesto_ todo, pudiendo causar cierta sensación de parque temático. Se pueden ver rehabilitaciones o nuevas construcciones que usan materiales y acabados indistinguibles de los edificios supuestamente centenarios que están al lado.
 
 Los hutong de esta zona están etiquetados como el antiguo barrio rojo de Pekín, que ya no está operativo. Después de haberlos paseado un par de veces no he visto ningún parecido con otros barrios rojos que todos conocemos como el de Amsterdam. Lo que sí pude ver y disfrute mucho es a mucha gente en la misma calle o en patios jugando al [Xiangqi (ajedrez chino)](https://es.wikipedia.org/wiki/Xiangqi) o a los naipes, incluso una casucha atestada de gente con varias mesas de [Mahjong](https://es.wikipedia.org/wiki/Mahjong). Allí descubrí que existe algo tan alucinante como una mesa mezcladora de Majhong, [vean el vídeo](https://www.youtube.com/watch?v=taydgTfIQ0M).
+
+{{< image classes="image" src="/img/Xiangqi.jpg" title="Una de las muchas mesas jugando a Xiangqi en la calle" cc-license="by-nc-sa" >}}
 
 Terminamos el paseo por unas calles aledañas a Qianmen que aparentemente acaban de ser reconstruidas por completo encima de viejos hutongs existentes. De nuevo, poniendo un empeño enorme en conservar y mejorar su patrimonio imitando el estilo antiguo y usando materiales tradicionales. El paseo nos lleva hasta la zona de las antiguas delegaciones europeas, una ruta muy recomendable y llamativa para turistas americanos o nacionales pero quizá menos interesante para los turistas europeos.
 
