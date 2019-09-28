@@ -174,7 +174,31 @@ Hay de nuevo muchos lagos y canales conectando unos con otros, y bastantes barco
 
 Desde el Antiguo Palacio de Verano fuimos de nuevo directos a Wukesong para presenciar la fantástica final del Mundial FIBA de baloncesto, que [España conquistó al derrotar a Argentina por 75 a 95](https://es.wikipedia.org/wiki/Copa_Mundial_de_Baloncesto_de_2019#Final). Pasamos un gran rato viendo el partido y toda la ceremonia posterior de entrega de premios, que disfrutamos enormemente sin la intermediación habitual de una televisión. El público, mayoritariamente local, empezó animando claramente a España, para luego posicionarse a favor de Argentina intentando que la final tuviera algo de emoción. La Selección española encarriló muy pronto el partido y la afición local volvió a animar apasionadamente al ganador. Había bastantes aficionados locales con camisetas de los jugadores españoles, principalmente de [Ricky Rubio](https://es.wikipedia.org/wiki/Ricky_Rubio).
 
-## Jiankou to Mutianyu Great Wall hike
+## Senderismo por la Gran Muralla: De Jiankou a Mutianyu
+
+Estuve valorando ir por mi cuenta uno o dos días a recorrer la [Gran Muralla](https://es.wikipedia.org/wiki/Gran_Muralla_China). Al final un dolor en el pie y no tener forma material de llamar por teléfono en caso de emergencia me inclinó a contratar una ruta organizada. Creo que fue un enorme acierto, y debería haberlo hecho aunque no hubiera tenido esos inconvenientes.
+
+Entre las muchas empresas que ofrecen este tipo de rutas me decanté por [China Hiking](http://www.chinahiking.cn), y concretamente por su ruta de Jiankou a Mutianyu de 1 día (http://www.chinahiking.cn/great-wall-hiking/jiankou-to-mutianyu-great-wall-hike-and-tobogan-1-day/). Hay varias zonas de la Muralla visitables, algunas de ellas muy restauradas y _asequibles_ con transporte público casi directo desde Beijing como [Badaling](https://es.wikipedia.org/wiki/Badaling) que están totalmente masificadas. Hay zonas menos visitadas pero más lejos de Beijing, lo que complica mucho poder hacer una ruta interesante de un día. La zona de Mutianyu también se llena, pero sería sólo el final de la ruta.
+
+La excursión comienza en la salida de la estación de metro de Lama Temple, un punto céntrico y muy bien comunicado pero ya orientado hacia las salidas norte de la ciudad. Allí nos recogió el minibus a dos guías y una docena de excursionistas: 4 niños y 9 adultos. Tras dos horas de carretera incluyendo una parada técnica para ir al baño y comprar algún snack en una tienda de ultramarinos, llegamos al punto de inicio de la ruta: el pueblo de Nanjili. Estamos aún algo retirados de la muralla por su fachada norte, justo encima de Jiankou.
+
+Comentario curioso: Jiankou significa "Arrow Nock", debido a la forma de la montaña en este área.
+
+La ruta comienza fuerte, con casi 1 kilómetro de subida bastante empinada por estrechos senderos de monte hasta llegar a la Torre de Zhengbeilou, a la que trepamos de la única manera posible: usando una robusta escalera hecha con ramas. Así acechaban los mongoles,llegando entre los árboles y la maleza y trepando de con elementos improvisados en la zona, aunque en aquella época aparentemente los chinos se encargaban de talar todos los árboles y la maleza cercanos a la muralla por la zona norte para evitar que nadie llegase desapercibido.
+
+Tras una parada en lo alto de la torre para descansar y comer algo ligero, salimos hacia el este por una parte de la muralla bastante salvaje. En todo este trozo, la naturaleza prácticamente ha engullido a la muralla y sólo hay un pequeño sendero transitable por lo alto de la misma. Desde dentro se aprecia perfectamente, pero con cierta altura puede incluso no verse tanto por los árboles colindantes que ya superan en altura la muralla como por los matorrales que crecen en lo alto de la misma. Tal y como noso advierten los guías hay que cruzar con cuidado, el terreno es irregular e incluso el muro lateral se ha desprendido en varios trozos, pero la experiencia es fabulosa. Además, sólo nos encontramos con otro pequeño grupo de tres personas en todo este tramo.
+
+A lo largo de la ruta, los guías nos descubren aspectos curiosos y para mi desconocidos, como que toda la muralla se construía con cierta pendiente y desagües hacia el lado chino de forma que el agua de lluvia nunca llegara al enemigo, o que cada torre es diferente por dentro para evitar que si alguna caía en manos enemigas se pusiera en peligro toda la estructura. Al menos las que atravesé, y fueron unas cuantas, cumplían dicho patrón.
+
+Al final de este tramo sin restaurar llegamos a un trozo semi restaurado, en el que nos encontramos ya un mini puesto de recuerdos y bebidas, básicamente una señora con un tablón con cosas encima. Los guías nos avisaban con escrupuloso detalle y antelación de todo, incluyendo estos puestos, por lo que deben ser viejos conocidos.
+
+Finalmente llegamos a la zona de Mutianyu, mucho más restaurada y plagada de gente que pulula desde el centro de visitantes. En esta zona y con tanta gente hicimos la bajada cada uno a su ritmo hasta la siguiente torre, charlando con unos y con otros. Es curioso pasar en poco tiempo de una zona en la que estabamos prácticamente solos en varios kilómetros de muralla, a otra en la que cada pocos metros había alguien subiendo, bajando o sentado descansando (las pendientes son enormes).A este fragmento de muralla se puede llegar por sendero, por escaleras, por telesilla y por teleférico. Son todo facilidades y se nota.
+
+**Recomendación Bonus**: a estos medios de subida se une un enorme tobogán como opción de bajada, que es la que utilicé yo junto a algunos compañeros de ruta. El tobogán recorre más de 1.500 metros y salva una pendiente bastante importante. Abajo te espera tu foto en el vagón al más puro estilo Parque de Atracciones. Recomendable pero dejad espacio entre el anterior y el siguiente para evitar accidentes y para disfrutar al máximo del descenso.
+
+Una vez abajo, cruzamos innumerables tiendas y restaurantes para llegar al hub de autobuses, con lanzaderas que te bajan al pueblo. El tráfico está restringido y nuestro minibus nos tuvo que esperar en el parking que hay abajo. Como parte de la excursión, nos llevaron a un restaurante enrme a las afueras de Beijing para comer todos juntos. Allí comimos en un comedor privado con la típica mesa redonda enorme con una pieza central que gira. Por dicha pieza giratoria fueron pasando más de 10 platos distintos de exquisita comida local, que nos dejaron a todos muy satisfechos incluyendo los niños y tres de los adultos que eran vegetarianos.
+
+De nuevo, recomiendo ampliamente esta zona y esta manera de visitar la muralla. No he probado con otros, pero desde luego esta empresa resolvió todo de forma fantástica. No resultó mucho más caro que si lo hubiera hecho por mi cuenta y fue más seguro y ameno. Un poco más tarde de la hora convenida nos dejaron de nuevo en la boca de metro y allí nos despedimos todos encantados del día que habíamos pasado juntos. La comida había sido copiosa y tardía, por lo que me marché directo al apartamento sin parar a cenar. 
 
 ## Lama Temple and Confucius Temple
 
@@ -193,5 +217,7 @@ Desde el Antiguo Palacio de Verano fuimos de nuevo directos a Wukesong para pres
 ## Pearl and Silk Markets
 
 ## Consideraciones generales
+
+HolaFly SIM
 
 Esto es todo, ¡Espero que hayáis disfrutado de la guía!
