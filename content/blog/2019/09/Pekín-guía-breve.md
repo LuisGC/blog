@@ -198,9 +198,21 @@ Finalmente llegamos a la zona de Mutianyu, mucho más restaurada y plagada de ge
 
 Una vez abajo, cruzamos innumerables tiendas y restaurantes para llegar al hub de autobuses, con lanzaderas que te bajan al pueblo. El tráfico está restringido y nuestro minibus nos tuvo que esperar en el parking que hay abajo. Como parte de la excursión, nos llevaron a un restaurante enrme a las afueras de Beijing para comer todos juntos. Allí comimos en un comedor privado con la típica mesa redonda enorme con una pieza central que gira. Por dicha pieza giratoria fueron pasando más de 10 platos distintos de exquisita comida local, que nos dejaron a todos muy satisfechos incluyendo los niños y tres de los adultos que eran vegetarianos.
 
-De nuevo, recomiendo ampliamente esta zona y esta manera de visitar la muralla. No he probado con otros, pero desde luego esta empresa resolvió todo de forma fantástica. No resultó mucho más caro que si lo hubiera hecho por mi cuenta y fue más seguro y ameno. Un poco más tarde de la hora convenida nos dejaron de nuevo en la boca de metro y allí nos despedimos todos encantados del día que habíamos pasado juntos. La comida había sido copiosa y tardía, por lo que me marché directo al apartamento sin parar a cenar. 
+De nuevo, recomiendo ampliamente esta zona y esta manera de visitar la muralla. No he probado con otros, pero desde luego esta empresa resolvió todo de forma fantástica. No resultó mucho más caro que si lo hubiera hecho por mi cuenta y fue más seguro y ameno. Un poco más tarde de la hora convenida nos dejaron de nuevo en la boca de metro y allí nos despedimos todos encantados del día que habíamos pasado juntos. La comida había sido copiosa y tardía, por lo que me marché directo al apartamento sin parar a cenar.
 
-## Lama Temple and Confucius Temple
+## Lama Temple
+
+Depués de un lunes intenso, el Martes 17 empecé fuerte con el [Templo de Yonghe o de los Lamas](https://es.wikipedia.org/wiki/Templo_de_Yonghe). Es uno de los sitios con más encanto de Beijing aunque no aparece en el top de muchas guías de viaje. Casi por primera vez, visitaba un monumento que aún está en uso, ya que sigue sirviendo en la actualidad como templo budista.
+
+La visita transcurre a lo largo de varios altares y templos, decorados en una interesante mezcla de arte tradicional chino, mongol y tibetano. Los dos últimos son sin duda los más impresionantes, destacando el último de ellos por contener la talla de una única pieza de madera más grande del mundo (certificado por el Libro Guiness de los Records), en forma de Buda de 26 metros de altura (8 de ellos bajo tierra). Espectacular.
+
+En cada templo y altar, los numerosos feligreses (y algunos turistas con dudoso respeto) quemaban incienso a mansalva y lo ofrecían a sus ídolos tras varias reverencias. Repetían el ritual en cada templo, y en ocasiones varias veces por cada una de las tallas que se encontraban.
+
+## Confucius Temple
+
+Después del Templo Lamaísta visité el cercano [Templo de Confuncio](https://en.wikipedia.org/wiki/Beijing_Temple_of_Confucius), el segundo templo de veneración de [Confucio](https://en.wikipedia.org/wiki/Confucius) más grande de China. Este templo comparte recinto con la Imperial Academy de Beijing, uno de los centros de estudios más prestigiosos de China.
+
+El Templo de Confucio tiene, aparte de pabellones de culto, una parte de exposición donde se explica la vida y obra de Confucio. Todos los edificios se siguen utilizando, incluyendo ceremonias de graduación de estudiantes.
 
 ## Olympic Park
 
