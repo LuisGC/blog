@@ -1,17 +1,16 @@
 +++
 author = "LuisGC"
 title = "Pekín: una guía breve"
-date = "2019-09-22"
+date = "2019-09-28"
 type = "post"
 categories = ["personal", "tourism", "holidays", "history"]
 status = "published"
 featured = "https://placeholder.pics/svg/1024x576/DEDEDE/FF0000/Placeholder%20Pic"
 featuredalt = "Splendid picture of the Neuschwanstein Castle from Marienbrucke"
 featuredpath = "Splendid picture of the Neuschwanstein Castle from Marienbrucke - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
-draft = true
 +++
 
-_**Disclaimer**: Por pura necesidad esta entrada será más breve de lo que me gustaría y en castellano, a pesar de que más del 90% de mis lectores (según Google Analytics) no tienen el castellano como lengua principal. Por primera vez he conseguido ir tomando notas durante el viaje y me tengo que limitar a transcribir dichas notas._
+_**Disclaimer**: Por pura necesidad esta entrada será más breve de lo que me gustaría (aunque no lo parezca) y en castellano, a pesar de que más del 90% de mis lectores (según Google Analytics) no tienen el castellano como lengua principal. Por primera vez he conseguido ir tomando notas durante el viaje y me tengo que limitar a transcribir dichas notas._
 
 Nunca había visitado Asia y llevaba años con esa espinita clavada. Este año no tenía compromisos cerrados y pensé que no tenía excusa. Inicialmente me valía casi cualquier destino porque varios me llaman la atención: Vietnam, Japón, China, Tailandia, ... pero una circunstancia me hizo decantarme por China y en concreto por **Pekín**: ofrecieron a mi hermano un mes de estancia allí y aunque mi plan era viajar sólo, resultaba apetecible y atractivo poder cenar o incluso pernoctar con él.
 
@@ -50,73 +49,73 @@ Los hutong de esta zona están etiquetados como el antiguo barrio rojo de Pekín
 
 Terminamos el paseo por unas calles aledañas a Qianmen que aparentemente acaban de ser reconstruidas por completo encima de viejos hutongs existentes. De nuevo, poniendo un empeño enorme en conservar y mejorar su patrimonio imitando el estilo antiguo y usando materiales tradicionales. El paseo nos lleva hasta la zona de las antiguas delegaciones europeas, una ruta muy recomendable y llamativa para turistas americanos o nacionales pero quizá menos interesante para los turistas europeos.
 
-## Jingshan Park
+## Parque de Jingshan
 
-A la mañana siguiente fui directo a visitar Jingshan Park. Quería ver la Ciudad Prohibida desde lo alto antes de adentrarme en ella. De camino a la entrada Este del parque crucé un hutong relativamente moderno en busca (sin éxito) de una tienda de tiro con arco. No sólo era moderno y recién renovado, me atrevería a decir que era casi lujoso. Las parcelas se veían amplias, muros altos, gruesos y regulares, puertas enormes y bellamente rematadas. En varias fachadas había incluso puntos privados de recarga de coche eléctrico.
+A la mañana siguiente fui directo a visitar el [Parque de Jingshan](https://es.wikipedia.org/wiki/Parque_Jingshan). Quería ver la Ciudad Prohibida desde lo alto antes de adentrarme en ella. De camino a la entrada Este del parque crucé un hutong relativamente moderno en busca (sin éxito) de una tienda de tiro con arco. No sólo era moderno y recién renovado, me atrevería a decir que era casi lujoso. Las parcelas se veían amplias, muros altos, gruesos y regulares, puertas enormes y bellamente rematadas. En varias fachadas había incluso puntos privados de recarga de coche eléctrico.
 
 El parque en sí es fantástico. Nada más entrar me encuentro un grupo de honorables ancianos escribiendo en las baldosas del suelo con agua como única tinta para sus grandes pinceles. Una lástima no entender lo que ponían, pero al menos estéticamente la caligrafía me pareció impecable. El parque está lleno, como en muchos otros parajes de Beijing, de gente haciendo todo tipo de ejercicio.
 
-Los antiguos pabellones de XXXX y el famoso mirador situado sobre la cima del XXXX no hacen sino acrecentar la sensación de majestuosidad del lugar.
+Los antiguos pabellones de Shou Huang y el famoso mirador situado sobre la cima de la artificial Colina del Carbón no hacen sino acrecentar la sensación de majestuosidad del lugar.
 
-## Beihai Park
+## Parque de Beihai
 
 Me pareció espectacular allí y ahora en retrospectiva puede que incluso más. Lo recorrí muy tranquilamente casi por completo, caminando dado que aquí dentro no se permiten las bicicletas debido a la habitual masificación. Yo no encontré demasiada gente, la verdad.
 
-Beihai es el jardín imperial más grande del mundo (BUSCAR REFERENCIA), y sin duda el lago con su isla central le dan al parque un ambiente único. Situado al norte del parque, el palacio de Jing Xing Zhai (?????) (Peaceful Heart) es uno de los rincones con más encanto quizá de toda la ciudad. Es también imprescindible la visita al Muro de los 9 Dragones, que es espectacular pero puede pasar inadvertido al turista despistado dado que se encuentra fuera de los caminos principales.
+El [Parque Beihai](https://es.wikipedia.org/wiki/Parque_Beihai) es el jardín imperial más grande del mundo, y sin duda el lago con su isla central le dan al parque un ambiente único. Situado al norte del parque, el palacio de Jingxin (Habitación del Corazón Calmado) es uno de los rincones con más encanto quizá de toda la ciudad. Es también imprescindible la visita al Muro de los 9 Dragones, que es espectacular pero puede pasar inadvertido al turista despistado dado que se encuentra fuera de los caminos principales.
 
-Tras Beihai me dirigí a recorrer los alrededores del lago XXXX, abarrotado de comercios y restaurantes. El hutong de XXXX es una de las zonas más populares para los turistas de fuera, y se nota perfectamente tanto en los precios como en la oferta de tiendas y restaurantes. Es un paseo agradable pero no ví nada que pusiera en peligro mi economía.
+Tras Beihai me dirigí a recorrer los alrededores del lago Houhai, abarrotado de comercios y restaurantes. El hutong de Nanguanfang es una de las zonas más populares para los turistas de fuera, y se nota perfectamente tanto en los precios como en la oferta de tiendas y restaurantes. Es un paseo agradable pero no ví nada que pusiera en peligro mi economía.
 
-## Drum Tower y Bell Tower
+## Torre del Tambor y Campanario
 
-Muy cerca de la calle XXXX se encuentran la Drum Tower y la Bell Tower, perfectamente alineadas al norte del eje que forman la Ciudad Prohibida y Tiananmén. Según lo previsto, llegué a la Drum Tower un poco antes del pase que hacen un par de veces al día, con el tiempo justo para subir los chopocientos escalones, poder tomar un poco de aire y coger sitio para grabar en primera fila el espectáculo. El show dura unos dos minutos y recrea el ritual que seguían XXXXXX. Me llamó entonces la atención que el trío que ejecuta el show es liderado por una mujer, que golpeaba enérgicamente el tambor más grande y (supongo) importante, en una ciudad en la que el 99,99% de los policías y militares eran varones.
+Muy cerca de la calle Nanguanfang se encuentran la [Torre del Tambor y el Campanario](https://es.wikipedia.org/wiki/Gulou_y_Zhonglou_(Pek%C3%ADn)), perfectamente alineadas al norte del eje que forman la Ciudad Prohibida y Tiananmén. Según lo previsto, llegué a la Drum Tower un poco antes del pase que hacen un par de veces al día, con el tiempo justo para subir los chopocientos escalones, poder tomar un poco de aire y coger sitio para grabar en primera fila el espectáculo. El show dura unos dos minutos y recrea el ritual que seguían antiguamente allí. Me llamó entonces la atención que el trío que ejecuta el show es liderado por una mujer, que golpeaba enérgicamente el tambor más grande y (supongo) importante, en una ciudad en la que el 99,99% de los policías y militares eran varones.
 
 Una vez abajo, en principio no debes irte sin subir de nuevo los chopocientos escalones de la Bell Tower, pero lo cierto es que las vistas son peores y lo que encuentras arriba es menos interesante salvo que seas fan de las campanas. Hay una curiosa narración de cómo se forjan las campanas en lo alto de la torre, que pude entender por encima al estar todo casi únicamente en chino.
 
-Terminé ese día paseando por la zona comercial de la calle XXXXX, mi plan habitual cuando parques, edificios o museos ya han cerrado y está cerca el anochecer. Esta zona comercial es de las más indistinguibles de cualquier centro comercial europeo/occidental. Salvo por algunos carteles y un par de tiendas de souvenirs, la gran mayoría de locales y marcas son las mismas que nos rodean a nosotros.
+Terminé ese día paseando por la zona comercial de Luogu Lane, mi plan habitual cuando parques, edificios o museos ya han cerrado y está cerca el anochecer. Esta zona comercial es de las más indistinguibles de cualquier centro comercial europeo/occidental. Salvo por algunos carteles y un par de tiendas de souvenirs, la gran mayoría de locales y marcas son las mismas que nos rodean a nosotros.
 
-## Forbidden City
+## Ciudad Prohibida
 
-Me levanto de nuevo prontísimo, siguiendo la recomendación de todas las guías y de mi propio hermano, para entrar de los primeros a la Ciudad Prohibida (que ahora se conoce como Palace Museum y así evitar las interminables colas de turistas. Comprar la entrada con antelación te permite evitar una importante y concurrida cola, pero igualmente hay otras colas, y un interesante cuello de botella en el control de seguridad y acceso. Es el principal monumento de la ciudad y se nota. El primer control de seguridad dura no más de 5-10 minutos, es el mismo que ya pasé el primer día para acceder a la Plaza de Tiananmén, pero esta vez hay más cintas y agentes preparados para la hora punta.
+Me levanto de nuevo prontísimo, siguiendo la recomendación de todas las guías y de mi propio hermano, para entrar de los primeros a la [Ciudad Prohibida](https://es.wikipedia.org/wiki/Ciudad_Prohibida) (que ahora se conoce como Palace Museum) y así evitar las interminables colas de turistas. Comprar la entrada con antelación te permite evitar una importante y concurrida cola, pero igualmente hay otras colas, y un interesante cuello de botella en el control de seguridad y acceso. Es el principal monumento de la ciudad y se nota. El primer control de seguridad dura no más de 5-10 minutos, es el mismo que ya pasé el primer día para acceder a la Plaza de Tiananmén, pero esta vez hay más cintas y agentes preparados para la hora punta.
 
 Tras dicho control, accedo ligeramente emocionado al recinto de la Ciudad Prohibida para encontrarme el primer patio ya abarrotado con miles de turistas chinos y unos pocos extranjeros que han madrugado aún más. Los turistas locales guardan innumerables colas ordenada y pacientemente mientras yo y alguno más curioseamos por la zona.
 
 A las 8:30 abren puntualmente los controles de acceso y allí me encuentro la única situación en la que he visto que Beijing no ha conseguido escalar. Gente arrojando sus bolsos y mochilas a la cinta de seguridad y pasando de varios en varios a través de los arcos detectores de metales, que obviamente no paraba de pitar. El personal de seguridad ponía más empeño en que la llegada fuera en filas que en contener la avalancha, aparentemente resignados a lo inevitable. La marabunta de gente esperando en el primer patio no está dispuesta a esperar para visitar, y yo con ellos pensando que después vendrían marabuntas mayores.
 
-Una vez dentro confirmo que el sitio dispone de muy pocas explicaciones, y lo poco que hay es en Chino. Un buen porcentaje de gente visita el recinto con guías privados o grupos organizados, que van narrando y explicando la visita. Adquiero una audioguía que me permita ir un poco más libre y voy rápidamente hacia los pabellones de XXXXXX, que son los principales cuellos de botella. No soy el único que lo piensa y allí nos agolpamos muchísimos detrás de una valla que a su vez se encuentra a varios metros de la puerta del templo, por lo que la visión y percepción de lo que hay allí dentro se hace difícil y definitivamente muy incómoda.
+Una vez dentro confirmo que el sitio dispone de muy pocas explicaciones, y lo poco que hay es en Chino. Un buen porcentaje de gente visita el recinto con guías privados o grupos organizados, que van narrando y explicando la visita. Adquiero una audioguía que me permita ir un poco más libre y voy rápidamente hacia el _Palacio de la Pureza Celestial_, el _Salón de la Unión_ y el _Palacio de la Tranquilidad Terrenal_, que son los principales cuellos de botella. No soy el único que lo piensa y allí nos agolpamos muchísimos detrás de una valla que a su vez se encuentra a varios metros de la puerta del templo, por lo que la visión y percepción de lo que hay allí dentro se hace difícil y definitivamente muy incómoda.
 
-Después de ver en estas penosas condiciones viendo todo casi a codazos (educados y suaves, pero codazos igualmente), decido salir del circuito principal y visitar las zonas menos concurridas. La primera visita no podía ser otra que el Pabellón Arquero, que al final me decepciona ligeramente. La descripción histórica del lugar es muy interesante pero el contenido actual no tiene mucho de arqueril. Hay un arco, un carcaj y un puñado de flechas junto con un buen montón de otros elementos como sillas de montar a caballo. El pabellón no sólo servía como galería de tiro, sino para enfatizar la importancia del tiro con arco en la sociedad. Se dice XXXXXX
+Después de ver en estas penosas condiciones viendo todo casi a codazos (educados y suaves, pero codazos igualmente), decido salir del circuito principal y visitar las zonas menos concurridas. La primera visita no podía ser otra que el _Pabellón Arquero_, que al final me decepciona ligeramente. La descripción histórica del lugar es muy interesante pero el contenido actual no tiene mucho de arqueril. Hay un arco, un carcaj y un puñado de flechas junto con un buen montón de otros elementos como sillas de montar a caballo. El pabellón no sólo servía como galería de tiro, sino para enfatizar la importancia del tiro con arco en la sociedad.
 
-Ya dentro de la Treasure Gallery, lo primero que encontramos es una nueva Pared de los 9 Dragones. Me gusta también y se percibe hecha con más detalle que la de Bei Hai pero me impactó más la otra, quizá por ser la primera que he visto o porque al ser de doble cara y estar en mitad de un patio llama mucho más la atención. Aquí escucho una de las pocas anecdotas interesantes que me cuenta la audioguía, relativa a un fragmento de la pared hecho de madera y no de porcelana ??????? Dice la leyenda que los artesanos que fabricaron contrarreloj dicha pared para el emperador cometieron un error de última hora y rompieron un trozo de un dragón. No tenían tiempo para moldear y cocer un nuevo azulejo, así que decidieron montarlo en madera tallada y lacarlo para que no se notara la diferencia. Con el paso de los años la diferencia fue evidente (y ahora salta a la vista desde cierta distancia) pero el truco supuestamente permitió salvar la vida de aquellos artesanos.
+Ya dentro de la _Galería del Tesoro_, lo primero que encontramos es una nueva _Pared de los Nueve Dragones_. Me gusta también y se percibe hecha con más detalle que la de Bei Hai pero me impactó más la otra, quizá por ser la primera que he visto o porque al ser de doble cara y estar en mitad de un patio llama mucho más la atención. Aquí escucho una de las pocas anécdotas interesantes que me cuenta la audioguía, relativa a un fragmento de la pared hecho de madera y no de cerámica. Dice la leyenda que los artesanos que fabricaron contrarreloj dicha pared para el emperador cometieron un error de última hora y rompieron un trozo de un dragón. No tenían tiempo para moldear y cocer un nuevo azulejo, así que decidieron montarlo en madera tallada y lacarlo para que no se notara la diferencia. Con el paso de los años la diferencia fue evidente (y ahora salta a la vista desde cierta distancia) pero el truco supuestamente permitió salvar la vida de aquellos artesanos.
 
-El Treasure Gallery se paga aparte de la visita principal al Palace Museum y no es lo más destacable, pero considerando la cantidad de piezas expuestas y que proporcionalmente ocupa un buen trozo de la Ciudad Prohibida, considero recomendable adquirir este ticket extra aunque sólo sea por recorrer estos patios y templos, disfrutando en cada uno de ellos tanto del contenido expuesto como del continente.
+La Galería del Tesoro se paga aparte de la visita principal al Palace Museum y no es lo más destacable, pero considerando la cantidad de piezas expuestas y que proporcionalmente ocupa un buen trozo de la Ciudad Prohibida, considero recomendable adquirir este ticket extra aunque sólo sea por recorrer estos patios y templos, disfrutando en cada uno de ellos tanto del contenido expuesto como del continente.
 
 Al regresar al track principal descubro mi error inicial al seguir a la marabunta para ver los principales pabellones. Quizá en temporada alta la marabunta sea continua pero en esta temporada se ve claramente que hay un pico tremendo a primera hora formado por la gente de los viajes organizados (que visitan sólo lo principal y a toda leche) y de los incautos lectores de guías de viajes. Pude ver de nuevo todo con menos de una décima parte de la gente que tuve antes alrededor, sin codazos ni empujones y pudiendo hacer fotos tranquilo desde primera fila. Se puede decir que por el mismo precio yo visité la Ciudad Prohibida 1,3 veces porque repetí las principales zonas :-)
 
-El jardín de XXXX, situado en el extremo norte, me resulto muy agradable pero siendo el sitio más fresco y sombreado también era el más concurrido. De los palacios de la zona Este y Oeste poco puedo decir porque la mitad estaban cerrados y la otra mitad tampoco me pareció que destacaran sobre lo ya visitado.
+El _Jardín Imperial_, situado en el extremo norte, me resulto muy agradable pero siendo el sitio más fresco y sombreado también era el más concurrido. De los palacios de la zona Este y Oeste poco puedo decir porque la mitad estaban cerrados y la otra mitad tampoco me pareció que destacaran sobre lo ya visitado.
 
-Otra zona con ticket aparte es la Clock Gallery ????? Se visita rápido y es muy interesante, siendo una de las colecciones de relojes más completas y espectaculares del mundo. La colección está formada tanto por relojes obsequiados a los emperadores a lo largo de la historia como los fabricados allí mismo en el Palacio. Muy interesante, a pesar de no disponer de información detallada de algunos de ellos, que me habria gustado investigar en profundidad.
+Otra zona con ticket aparte es el _Museo de Relojes_. Se visita rápido y es muy interesante, siendo una de las colecciones de relojes más completas y espectaculares del mundo. La colección está formada tanto por relojes obsequiados a los emperadores a lo largo de la historia como los fabricados allí mismo en el Palacio. Muy interesante, a pesar de no disponer de información detallada de algunos de ellos, que me habria gustado investigar en profundidad.
 
-Termino mi estancia bajando de nuevo a la zona sur para visitar el pabellón de XXXXX, subir a la torre XXXXX y recorrer un trozo de muralla, terminando con una visita al pabellón XXXX que sirve de galería de arte, principalmente de pintura. Esta exposición es de lo que más me gustó de todo el Palace Museum. Las obras reflejaban situaciones cotidianas supuestamente reales de los emperadores en Palacio y algunos de los cuadros eran espectaculares.
+Termino mi estancia bajando de nuevo a la zona sur para visitar el _Salón de la Eminencia Militar_, subir a la _Puerta del Sur_ y recorrer un trozo de muralla, terminando con una visita al _Salón de la Gloria Literaria_ que sirve de galería de arte, principalmente de pintura. Esta exposición es de lo que más me gustó de todo el Palace Museum. Las obras reflejaban situaciones cotidianas supuestamente reales de los emperadores en Palacio y algunos de los cuadros eran espectaculares.
 
-## Imperial Ancestral Temple
+## Templo Imperial Ancestral
 
-Salgo de la ciudad Prohibida por la Puerta Este y me dirijo al Imperial Ancestral Temple, tras descansar un rato frente al magnífico foso. Tenía muchas ganas de visitar este jardín y sus templos, pero me decepcionó un poco. La zona es muy bonita, aunque nada que destaque sobre lo ya visto en el Palace Museum, pero su mayor punto a favor quizá sea que se encuentra casi vacío. Con una Ciudad Prohibida que recibe decenas de miles de visitantes al día, no se explica que casi nadie se tome la molestia de completar la visita viendo esto también, que está junto a la entrada. Tampoco ayuda que de sus varios templos sólo se puede visitar uno y no tiene excesivo contenido. Quizá sea más interesante para aquellos que lo visiten en lugar de entrar a la Ciudad Prohibida, o al menos en fechas diferentes.
+Salgo de la ciudad Prohibida por la Puerta Este y me dirijo al [Templo Imperial Ancestral](https://es.wikipedia.org/wiki/Templo_Imperial_Ancestral), tras descansar un rato frente al magnífico foso. Tenía muchas ganas de visitar este jardín y sus templos, pero me decepcionó un poco. La zona es muy bonita, aunque nada que destaque sobre lo ya visto en el Palace Museum, pero su mayor punto a favor quizá sea que se encuentra casi vacío. Con una Ciudad Prohibida que recibe decenas de miles de visitantes al día, no se explica que casi nadie se tome la molestia de completar la visita viendo esto también, que está junto a la entrada. Tampoco ayuda que de sus varios templos sólo se puede visitar uno y no tiene excesivo contenido. Quizá sea más interesante para aquellos que lo visiten en lugar de entrar a la Ciudad Prohibida, o al menos en fechas diferentes.
 
 El sitio es en cualquier caso muy pintoresco y lo que sí descubrí fue que estando casi vacío es ideal para fotos de boda. En un paseo breve por los jardines me encontré a más de una decena de parejas posando para sus respectivos séquitos de fotógrafos. En un callejón entre dos templos encontré incluso un par con equipos de rodaje semi-profesional que presumiblemente rodaban algún corto.
 
-## National Museum of China
+## Museo Nacional de China
 
-Aproveché que estaba cerca y quedaban unas 3 horas para su cierre para visitar el National Museum of China. Me di un primer paseo de reconocimiento para ver si merecía la pena volver otro día y después visité con más calma las galerías principales. Apenas hay explicaciones en inglés y buena parte de las salas eran exposiciones temporales o especiales que se pagaban aparte, aunque el museo es gratuito.
+Aproveché que estaba cerca y quedaban unas 3 horas para su cierre para visitar el [Museo Nacional de China](https://es.wikipedia.org/wiki/Museo_Nacional_de_China). Me di un primer paseo de reconocimiento para ver si merecía la pena volver otro día y después visité con más calma las galerías principales. Apenas hay explicaciones en inglés y buena parte de las salas eran exposiciones temporales o especiales que se pagaban aparte, aunque el museo es gratuito.
 
 Me gustó especialmente la sección Ancient China, que explica y narra la evolución del arte en China desde sus primeros pobladores. Se describe de forma clara y didáctica el paso de la historia por las distintas dinastías, siendo muy perceptible el salto en calidad y riqueza en las Xing y Ming.
 
-**Bonus recommendation**: Hay varios restaurantes especializados en el famoso Pato al estilo Pekín, uno de ellos que probé y recomiendo es: XXXXXX
+**Recomendación bonus**: Hay varios restaurantes especializados en el famoso Pato al estilo Pekín, uno de ellos que probé y recomiendo es: **Quanjude** (30 Qianmen St, Dongcheng, Beijing, China)
 
-## Military Museum of the Chinese People's Revolution
+## Museo Mulitar de la Revolución Popular de China
 
 Llegó el Viernes 13, y con ello la primera jornada de mi viaje claramente impactada por nuestra asistencia (organizada a ultimísima hora) al Mundial de Baloncesto de la FIBA. Compré la noche anterior entradas para las semifinales (España - Australia) y siendo el partido a las 16:00 la visita de la mañana no podía ser muy lejos. Tenía previsto visitar el Military Museum y estando cerca del pabellón de baloncesto encajaba perfectamente adelantar la visita. Además, siendo festivo nacional en China por el Festival del Medio Otoño, mi hermano pudo acompañarme a ambas cosas dado que en la Universidad habían cerrado.
 
-Al llegar enfrente del Museo, nos recibe orgullosa y esbelta una gran estrella roja encima del edificio principal. Es habitual en todos los edificios oficiales pero quizá aquí se muestra más majestuosa si cabe (no será casual). Nada más entrar al edificio una gran estatua de Mao nos saluda. Todo confirmaba una sensación de propaganda de la que nos habían advertido en blogs y en la Lonely Planet, pero lo cierto es que aunque el Museo hace una gran apología de la grandeza de China y de su poderío lo que yo encontré fue un punto de vista abierto.
+Al llegar enfrente del [Museo Mulitar de la Revolución Popular de China](https://en.wikipedia.org/wiki/Military_Museum_of_the_Chinese_People%27s_Revolution), nos recibe orgullosa y esbelta una gran estrella roja encima del edificio principal. Es habitual en todos los edificios oficiales pero quizá aquí se muestra más majestuosa si cabe (no será casual). Nada más entrar al edificio una gran estatua de Mao nos saluda. Todo confirmaba una sensación de propaganda de la que nos habían advertido en blogs y en la Lonely Planet, pero lo cierto es que aunque el Museo hace una gran apología de la grandeza de China y de su poderío lo que yo encontré fue un punto de vista abierto.
 
 La primera parte que se debe visitar (y ojo con hacerlo en orden, no está muy bien indicado) es un recorrido histórico a lo largo de varias salas, relatando la evolución militar y geopolítica durante toda la complejísima historia China. La exposición es muy detallada, y aunque como siempre echamos de menos más texto en inglés lo cierto es que se entiende que no lo prioricen porque se veía un turista occidental por cada muchísimos locales. Como arquero tradicional, salí encantado de esta zona. Hay bastantes ejemplares expuestos (especialmente de la dinastía Xing) y bastantes dioramas poniendo en valor su uso y la imporancia de su buen manejo tanto a nivel militar como incluso social.
 
@@ -132,9 +131,9 @@ La zona comercial principal está muy orientada al exterior y al ocio. Hay varia
 
 Sobre el baloncesto, [España derrotó por 95-88 a Australia](https://es.wikipedia.org/wiki/Copa_Mundial_de_Baloncesto_de_2019#Semifinales) en un apasionante partido que tuvo perdido casi todo el tiempo pero finalmente se llevó tras dos emocionantes prórrogas.
 
-## Panjiayuan Antique Market
+## Mercado de Antigüedades de Panjiayuan
 
-Este famoso mercado de antigüedades de Panjiayuan ofrece más o menos lo que esperaba: muchos clientes, casi exclusivamente locales, y una gran cantidad y diversidad de productos. No todo son antigüedades (ni siquiera lo que parece serlo), buena parte de la extensión del mercado lo ocupan puestos de venta de piedras pulidas y/o talladas de todo tipo de colores.
+Este famoso [Mercado de Antigüedades de Panjiayuan](https://es.wikipedia.org/wiki/Mercado_de_antig%C3%BCedades_de_Pek%C3%ADn) ofrece más o menos lo que esperaba: muchos clientes, casi exclusivamente locales, y una gran cantidad y diversidad de productos. No todo son antigüedades (ni siquiera lo que parece serlo), buena parte de la extensión del mercado lo ocupan puestos de venta de piedras pulidas y/o talladas de todo tipo de colores.
 
 El sitio me gustó mucho y me parece una visita obligada. Compres o no compres es muy llamativo e interesante recorrer pasillos y pasillos de puestos, organizados más o menos por tipología: cerámica, figuras de barro o metal, tallas en madera, piedras, nueces secas, libros, muebles, ilustraciones, herramientas de caligrafía, bustos e incluso ropa.
 
@@ -142,11 +141,11 @@ Al final no compré nada. No estaba aún habituado al regateo (que además no me
 
 Lo que me alucinó verdaderamente fue la gran cantidad de puestos vendiendo nueces. Los ejemplares grandes y muy simétricos son especialmente cotizados por temas culturales y tradicionales, pero allí vendían de todo tipo y tamaño. Veías en algunos puestos a compradores revisando durante minutos cada nuez que se llevaban, cuando para unos ojos no entrenados todas eran prácticamente iguales.
 
-**Recomendación bonux**: Como nota de interés para mis lectores habituales, tras buscarlos por todo Beijing creo que Panjiayuan es el mejor sitio para comprar un [ajedrez chino](https://es.wikipedia.org/wiki/Xiangqi) relativamente artesanal.
+**Recomendación bonus**: Como nota de interés para mis lectores habituales, tras buscarlos por todo Beijing creo que Panjiayuan es el mejor sitio para comprar un [Xiangqi o ajedrez chino](https://es.wikipedia.org/wiki/Xiangqi) relativamente artesanal.
 
-## 798 Art District
+## Distrito de Arte 798
 
-Este espacio dedicado al arte, que es realmente todo un distrito en el que ya no hay otra cosa, también me fascinó. Innumerables galerías de arte se mezclan con showrooms de grandes estudios y pequeños diseñadores. Han conseguido integrar perfectamente el entorno industrial de una forma fabulosa, sin hacer ningún sacrificio al disfrute de los visitantes. Entramos a unas pocas galerías, algunas de entrada gratuita y otras por un módico precio para evitar paseantes, y en general todas tenían su interés. De hecho, lo que menos nos gustó fue la UCCA, cuya entrada no era para nada barata y la exposición temporal no merecía demasiado la pena.
+Este [Distrito de Arte 798](https://en.wikipedia.org/wiki/798_Art_Zone), un espacio dedicado al arte que es realmente todo un distrito en el que ya no hay otra cosa, también me fascinó. Innumerables galerías de arte se mezclan con showrooms de grandes estudios y pequeños diseñadores. Han conseguido integrar perfectamente el entorno industrial de una forma fabulosa, sin hacer ningún sacrificio al disfrute de los visitantes. Entramos a unas pocas galerías, algunas de entrada gratuita y otras por un módico precio para evitar paseantes, y en general todas tenían su interés. De hecho, lo que menos nos gustó fue la [UCCA](https://es.wikipedia.org/wiki/Ullens_Center_for_Contemporary_Art), cuya entrada no era para nada barata y la exposición temporal no merecía demasiado la pena.
 
 Junto al arte, las omnipresentes tiendas de todo tipo, bares, restaurantes, ... otro lugar de esparcimiento más para los locales que también engancha a muchos turistas a pesar de estar lejos del centro.
 
@@ -200,7 +199,7 @@ Una vez abajo, cruzamos innumerables tiendas y restaurantes para llegar al hub d
 
 De nuevo, recomiendo ampliamente esta zona y esta manera de visitar la muralla. No he probado con otros, pero desde luego esta empresa resolvió todo de forma fantástica. No resultó mucho más caro que si lo hubiera hecho por mi cuenta y fue más seguro y ameno. Un poco más tarde de la hora convenida nos dejaron de nuevo en la boca de metro y allí nos despedimos todos encantados del día que habíamos pasado juntos. La comida había sido copiosa y tardía, por lo que me marché directo al apartamento sin parar a cenar.
 
-## Lama Temple
+## Templo de Yonghe
 
 Depués de un lunes intenso, el Martes 17 empecé fuerte con el [Templo de Yonghe o de los Lamas](https://es.wikipedia.org/wiki/Templo_de_Yonghe). Es uno de los sitios con más encanto de Beijing aunque no aparece en el top de muchas guías de viaje. Casi por primera vez, visitaba un monumento que aún está en uso, ya que sigue sirviendo en la actualidad como templo budista.
 
@@ -208,19 +207,19 @@ La visita transcurre a lo largo de varios altares y templos, decorados en una in
 
 En cada templo y altar, los numerosos feligreses (y algunos turistas con dudoso respeto) quemaban incienso a mansalva y lo ofrecían a sus ídolos tras varias reverencias. Repetían el ritual en cada templo, y en ocasiones varias veces por cada una de las tallas que se encontraban.
 
-## Confucius Temple
+## Templo de Confucio
 
 Después del Templo Lamaísta visité el cercano [Templo de Confuncio](https://en.wikipedia.org/wiki/Beijing_Temple_of_Confucius), el segundo templo de veneración de [Confucio](https://en.wikipedia.org/wiki/Confucius) más grande de China. Este templo comparte recinto con la Imperial Academy de Beijing, uno de los centros de estudios más prestigiosos de China.
 
 El Templo de Confucio tiene, aparte de pabellones de culto, una parte de exposición donde se explica la vida y obra de Confucio. Todos los edificios se siguen utilizando, incluyendo ceremonias de graduación de estudiantes.
 
-## Olympic Park
+## Parque Olímpico
 
-Llegué al Parque Olímpico de Beijing antes de lo esperado y no pude disfrutar mucho de él porque aún hacía mucho calor y en toda la explanada apenas hay sombras. Aún así, completé un buen paseo por toda la zona y pude imaginarme allí durante el vibrante ambiente de unas olimpiadas.
+Llegué al [Parque Olímpico de Beijing](https://es.wikipedia.org/wiki/Parque_Ol%C3%ADmpico_de_Pek%C3%ADn) antes de lo esperado y no pude disfrutar mucho de él porque aún hacía mucho calor y en toda la explanada apenas hay sombras. Aún así, completé un buen paseo por toda la zona y pude imaginarme allí durante el vibrante ambiente de unas olimpiadas.
 
 Es increíble que pudieran disponer de todo este espacio tan cerca del centro de la ciudad y lo organizaran de esta manera, incluyendo un río artificial con forma de dragón.
 
-**Recomendación bonus**: No coge demasiado cerca pero después de esta visita me junté con mi hermano para cenar en un fantástico restaurante especializado en cocinar con pera: **Xiao Diao Li Tang**: Además de muchos platos cocinados con pera, servían una fabulosa bebida melosa de pera que servían por jarras e incluso para llevar en botellas. Riquísimo.
+**Recomendación bonus**: No coge demasiado cerca pero después de esta visita me junté con mi hermano para cenar en un fantástico restaurante especializado en cocinar con pera: **Xiao Diao Li Tang** (Zhongguancun South 1st Alley, Wudaokou, Haidian, Beijing, China): Además de muchos platos cocinados con pera, servían una fabulosa bebida melosa de pera que servían por jarras e incluso para llevar en botellas. Riquísimo.
 
 ## Templo del Cielo
 
@@ -230,13 +229,13 @@ Por el camino me encontré gente haciendo todo tipo de deporte y ejercicio, como
 
 El Templo de la Oración por la Buena Cosecha, el Altar Circular y el Muro del Eco son muy singulares y todos ellos lugares icónicos de Beijing que merece la pena visitar tranquilamente. También visité el Palacio del Ayuno, que es gratuito enseñando el pasaporte pero por algún motivo casi nadie visita.
 
-## Ancient Architecture Museum
+## Museo de la Arquitectura Ancestral
 
-Este museo, que tampoco suele aparecer en ninguna guía o blog de viajes y de hecho estaba casi vacío, cumplió con creces mis espectativas. Está situado en lo que antiguamente fue el Templo de la Agricultura, y por ello tiene una zona dedicada también a esto.
+Este _Museo de la Arquitectura Ancestral_, que tampoco suele aparecer en ninguna guía o blog de viajes y de hecho estaba casi vacío, cumplió con creces mis espectativas. Está situado en lo que antiguamente fue el Templo de la Agricultura, y por ello tiene una zona dedicada también a esto.
 
 Sobre arquitectura, hay recreaciones de todo tipo para poder hacerse una idea de la técnica y materiales empleados en la construcción tradicional china. Hay zonas dedicadas a las vigas, incluyendo la selección de la madera apropiada; a la cerámica tanto protectora como decorativa; a la talla de piedra, etc. Lástima que como en el resto de Beijing me perdiese el 90% de las explicaciones porque apenas hay contenido en otros idiomas.
 
-## China Science and Technology Museum
+## Museo de la Ciencia y la Tecnología de China
 
 Poco que decir sobre este museo. Es gigante, muy bien organizado y aparentemente (de nuevo, casi todo en chino) contiene bastantes explicaciones. Tiene las típicas zonas de este tipo de museos: geología, biología, naturaleza, etc. para rematar en una planta dedicada a la tecnología muy destacable. No todo estaba operativo, pero tenían multitud de espacios interactivos incluyendo realidad virtual y realidad aumentada. Muy recomendable, especialmente con niños pero también para adultos.
 
