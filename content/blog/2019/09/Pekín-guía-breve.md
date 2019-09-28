@@ -166,9 +166,13 @@ Dejé para el final la subida a la Colina de la Longevidad, coronada por la impo
 
 ## Antiguo Palacio de Verano
 
-Era ya tarde y tenía que comer algo rápido para reunirme con mi hermano en la entrada sur del [Antiguo Palacio de Verano](https://es.wikipedia.org/wiki/Antiguo_Palacio_de_Verano).
+Era ya tarde y tenía que comer algo rápido para reunirme con mi hermano en la entrada sur del [Antiguo Palacio de Verano](https://es.wikipedia.org/wiki/Antiguo_Palacio_de_Verano), también conocido como el Jardín del Perfecto Brillo. En su día fue un complejo enorme de palacios y jardines, al igual que el Palacio de Verano fueron destruidos por los británicos y los franceses en el siglo XIX pero esta parte no se ha llegado nunca a restaurar.
 
-https://es.wikipedia.org/wiki/Copa_Mundial_de_Baloncesto_de_2019#Final
+Es inmenso y no teníamos tiempo de verlo todo, por lo que decidimos pasear por la parte oeste del parque que tiene quizá menos encanto pero desde luego estaba menos masificada. Entre las ruinas de antiguos templos y palacios, en la mayoría sólo queda una placa y la silueta en el suelo, destaco el Edificio de la Paz Universal con forma de esvástica. Dicha forma, además de su simbología en el budismo, permitía al emperador elegir la habitación más apropiada según la temporada del año.
+
+Hay de nuevo muchos lagos y canales conectando unos con otros, y bastantes barcos cruzando los mismos. Esta vez predominaban los barcos de uso privado, aunque también los había tipo ferry para paseos colectivos.
+
+Desde el Antiguo Palacio de Verano fuimos de nuevo directos a Wukesong para presenciar la fantástica final del Mundial FIBA de baloncesto, que [España conquistó al derrotar a Argentina por 75 a 95](https://es.wikipedia.org/wiki/Copa_Mundial_de_Baloncesto_de_2019#Final). Pasamos un gran rato viendo el partido y toda la ceremonia posterior de entrega de premios, que disfrutamos enormemente sin la intermediación habitual de una televisión. El público, mayoritariamente local, empezó animando claramente a España, para luego posicionarse a favor de Argentina intentando que la final tuviera algo de emoción. La Selección española encarriló muy pronto el partido y la afición local volvió a animar apasionadamente al ganador. Había bastantes aficionados locales con camisetas de los jugadores españoles, principalmente de [Ricky Rubio](https://es.wikipedia.org/wiki/Ricky_Rubio).
 
 ## Jiankou to Mutianyu Great Wall hike
 
