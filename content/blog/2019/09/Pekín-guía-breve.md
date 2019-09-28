@@ -52,15 +52,77 @@ Terminamos el paseo por unas calles aledañas a Qianmen que aparentemente acaban
 
 ## Jingshan Park
 
+A la mañana siguiente fui directo a visitar Jingshan Park. Quería ver la Ciudad Prohibida desde lo alto antes de adentrarme en ella. De camino a la entrada Este del parque crucé un hutong relativamente moderno en busca (sin éxito) de una tienda de tiro con arco. No sólo era moderno y recién renovado, me atrevería a decir que era casi lujoso. Las parcelas se veían amplias, muros altos, gruesos y regulares, puertas enormes y bellamente rematadas. En varias fachadas había incluso puntos privados de recarga de coche eléctrico.
+
+El parque en sí es fantástico. Nada más entrar me encuentro un grupo de honorables ancianos escribiendo en las baldosas del suelo con agua como única tinta para sus grandes pinceles. Una lástima no entender lo que ponían, pero al menos estéticamente la caligrafía me pareció impecable. El parque está lleno, como en muchos otros parajes de Beijing, de gente haciendo todo tipo de ejercicio.
+
+Los antiguos pabellones de XXXX y el famoso mirador situado sobre la cima del XXXX no hacen sino acrecentar la sensación de majestuosidad del lugar.
+
 ## Beihai Park
+
+Me pareció espectacular allí y ahora en retrospectiva puede que incluso más. Lo recorrí muy tranquilamente casi por completo, caminando dado que aquí dentro no se permiten las bicicletas debido a la habitual masificación. Yo no encontré demasiada gente, la verdad.
+
+Beihai es el jardín imperial más grande del mundo (BUSCAR REFERENCIA), y sin duda el lago con su isla central le dan al parque un ambiente único. Situado al norte del parque, el palacio de Jing Xing Zhai (?????) (Peaceful Heart) es uno de los rincones con más encanto quizá de toda la ciudad. Es también imprescindible la visita al Muro de los 9 Dragones, que es espectacular pero puede pasar inadvertido al turista despistado dado que se encuentra fuera de los caminos principales.
+
+Tras Beihai me dirigí a recorrer los alrededores del lago XXXX, abarrotado de comercios y restaurantes. El hutong de XXXX es una de las zonas más populares para los turistas de fuera, y se nota perfectamente tanto en los precios como en la oferta de tiendas y restaurantes. Es un paseo agradable pero no ví nada que pusiera en peligro mi economía.
 
 ## Drum Tower y Bell Tower
 
+Muy cerca de la calle XXXX se encuentran la Drum Tower y la Bell Tower, perfectamente alineadas al norte del eje que forman la Ciudad Prohibida y Tiananmén. Según lo previsto, llegué a la Drum Tower un poco antes del pase que hacen un par de veces al día, con el tiempo justo para subir los chopocientos escalones, poder tomar un poco de aire y coger sitio para grabar en primera fila el espectáculo. El show dura unos dos minutos y recrea el ritual que seguían XXXXXX. Me llamó entonces la atención que el trío que ejecuta el show es liderado por una mujer, que golpeaba enérgicamente el tambor más grande y (supongo) importante, en una ciudad en la que el 99,99% de los policías y militares eran varones.
+
+Una vez abajo, en principio no debes irte sin subir de nuevo los chopocientos escalones de la Bell Tower, pero lo cierto es que las vistas son peores y lo que encuentras arriba es menos interesante salvo que seas fan de las campanas. Hay una curiosa narración de cómo se forjan las campanas en lo alto de la torre, que pude entender por encima al estar todo casi únicamente en chino.
+
+Terminé ese día paseando por la zona comercial de la calle XXXXX, mi plan habitual cuando parques, edificios o museos ya han cerrado y está cerca el anochecer. Esta zona comercial es de las más indistinguibles de cualquier centro comercial europeo/occidental. Salvo por algunos carteles y un par de tiendas de souvenirs, la gran mayoría de locales y marcas son las mismas que nos rodean a nosotros.
+
 ## Forbidden City
+
+Me levanto de nuevo prontísimo, siguiendo la recomendación de todas las guías y de mi propio hermano, para entrar de los primeros a la Ciudad Prohibida (que ahora se conoce como Palace Museum y así evitar las interminables colas de turistas. Comprar la entrada con antelación te permite evitar una importante y concurrida cola, pero igualmente hay otras colas, y un interesante cuello de botella en el control de seguridad y acceso. Es el principal monumento de la ciudad y se nota. El primer control de seguridad dura no más de 5-10 minutos, es el mismo que ya pasé el primer día para acceder a la Plaza de Tiananmén, pero esta vez hay más cintas y agentes preparados para la hora punta.
+
+Tras dicho control, accedo ligeramente emocionado al recinto de la Ciudad Prohibida para encontrarme el primer patio ya abarrotado con miles de turistas chinos y unos pocos extranjeros que han madrugado aún más. Los turistas locales guardan innumerables colas ordenada y pacientemente mientras yo y alguno más curioseamos por la zona.
+
+A las 8:30 abren puntualmente los controles de acceso y allí me encuentro la única situación en la que he visto que Beijing no ha conseguido escalar. Gente arrojando sus bolsos y mochilas a la cinta de seguridad y pasando de varios en varios a través de los arcos detectores de metales, que obviamente no paraba de pitar. El personal de seguridad ponía más empeño en que la llegada fuera en filas que en contener la avalancha, aparentemente resignados a lo inevitable. La marabunta de gente esperando en el primer patio no está dispuesta a esperar para visitar, y yo con ellos pensando que después vendrían marabuntas mayores.
+
+Una vez dentro confirmo que el sitio dispone de muy pocas explicaciones, y lo poco que hay es en Chino. Un buen porcentaje de gente visita el recinto con guías privados o grupos organizados, que van narrando y explicando la visita. Adquiero una audioguía que me permita ir un poco más libre y voy rápidamente hacia los pabellones de XXXXXX, que son los principales cuellos de botella. No soy el único que lo piensa y allí nos agolpamos muchísimos detrás de una valla que a su vez se encuentra a varios metros de la puerta del templo, por lo que la visión y percepción de lo que hay allí dentro se hace difícil y definitivamente muy incómoda.
+
+Después de ver en estas penosas condiciones viendo todo casi a codazos (educados y suaves, pero codazos igualmente), decido salir del circuito principal y visitar las zonas menos concurridas. La primera visita no podía ser otra que el Pabellón Arquero, que al final me decepciona ligeramente. La descripción histórica del lugar es muy interesante pero el contenido actual no tiene mucho de arqueril. Hay un arco, un carcaj y un puñado de flechas junto con un buen montón de otros elementos como sillas de montar a caballo. El pabellón no sólo servía como galería de tiro, sino para enfatizar la importancia del tiro con arco en la sociedad. Se dice XXXXXX
+
+Ya dentro de la Treasure Gallery, lo primero que encontramos es una nueva Pared de los 9 Dragones. Me gusta también y se percibe hecha con más detalle que la de Bei Hai pero me impactó más la otra, quizá por ser la primera que he visto o porque al ser de doble cara y estar en mitad de un patio llama mucho más la atención. Aquí escucho una de las pocas anecdotas interesantes que me cuenta la audioguía, relativa a un fragmento de la pared hecho de madera y no de porcelana ??????? Dice la leyenda que los artesanos que fabricaron contrarreloj dicha pared para el emperador cometieron un error de última hora y rompieron un trozo de un dragón. No tenían tiempo para moldear y cocer un nuevo azulejo, así que decidieron montarlo en madera tallada y lacarlo para que no se notara la diferencia. Con el paso de los años la diferencia fue evidente (y ahora salta a la vista desde cierta distancia) pero el truco supuestamente permitió salvar la vida de aquellos artesanos.
+
+El Treasure Gallery se paga aparte de la visita principal al Palace Museum y no es lo más destacable, pero considerando la cantidad de piezas expuestas y que proporcionalmente ocupa un buen trozo de la Ciudad Prohibida, considero recomendable adquirir este ticket extra aunque sólo sea por recorrer estos patios y templos, disfrutando en cada uno de ellos tanto del contenido expuesto como del continente.
+
+Al regresar al track principal descubro mi error inicial al seguir a la marabunta para ver los principales pabellones. Quizá en temporada alta la marabunta sea continua pero en esta temporada se ve claramente que hay un pico tremendo a primera hora formado por la gente de los viajes organizados (que visitan sólo lo principal y a toda leche) y de los incautos lectores de guías de viajes. Pude ver de nuevo todo con menos de una décima parte de la gente que tuve antes alrededor, sin codazos ni empujones y pudiendo hacer fotos tranquilo desde primera fila. Se puede decir que por el mismo precio yo visité la Ciudad Prohibida 1,3 veces porque repetí las principales zonas :-)
+
+El jardín de XXXX, situado en el extremo norte, me resulto muy agradable pero siendo el sitio más fresco y sombreado también era el más concurrido. De los palacios de la zona Este y Oeste poco puedo decir porque la mitad estaban cerrados y la otra mitad tampoco me pareció que destacaran sobre lo ya visitado.
+
+Otra zona con ticket aparte es la Clock Gallery ????? Se visita rápido y es muy interesante, siendo una de las colecciones de relojes más completas y espectaculares del mundo. La colección está formada tanto por relojes obsequiados a los emperadores a lo largo de la historia como los fabricados allí mismo en el Palacio. Muy interesante, a pesar de no disponer de información detallada de algunos de ellos, que me habria gustado investigar en profundidad.
+
+Termino mi estancia bajando de nuevo a la zona sur para visitar el pabellón de XXXXX, subir a la torre XXXXX y recorrer un trozo de muralla, terminando con una visita al pabellón XXXX que sirve de galería de arte, principalmente de pintura. Esta exposición es de lo que más me gustó de todo el Palace Museum. Las obras reflejaban situaciones cotidianas supuestamente reales de los emperadores en Palacio y algunos de los cuadros eran espectaculares.
+
+## XXXXX
+
+Salgo de la ciudad Prohibida por la Puerta Este y me dirijo al XXXX, tras descansar un rato frente al magnífico foso. Tenía muchas ganas de visitar este jardín y sus templos, pero me decepcionó un poco. La zona es muy bonita, aunque nada que destaque sobre lo ya visto en el Palace Museum, pero su mayor punto a favor quizá sea que se encuentra casi vacío. Con una Ciudad Prohibida que recibe decenas de miles de visitantes al día, no se explica que casi nadie se tome la molestia de completar la visita viendo esto también, que está junto a la entrada. Tampoco ayuda que de sus varios templos sólo se puede visitar uno y no tiene excesivo contenido. Quizá sea más interesante para aquellos que lo visiten en lugar de entrar a la Ciudad Prohibida, o al menos en fechas diferentes.
+
+El sitio es en cualquier caso muy pintoresco y lo que sí descubrí fue que estando casi vacío es ideal para fotos de boda. En un paseo breve por los jardines me encontré a más de una decena de parejas posando para sus respectivos séquitos de fotógrafos. En un callejón entre dos templos encontré incluso un par con equipos de rodaje semi-profesional que presumiblemente rodaban algún corto.
 
 ## National Museum of China
 
+Aproveché que estaba cerca y quedaban unas 3 horas para su cierre para visitar el National Museum of China. Me di un primer paseo de reconocimiento para ver si merecía la pena volver otro día y después visité con más calma las galerías principales. Apenas hay explicaciones en inglés y buena parte de las salas eran exposiciones temporales o especiales que se pagaban aparte, aunque el museo es gratuito.
+
+Me gustó especialmente la sección Ancient China, que explica y narra la evolución del arte en China desde sus primeros pobladores. Se describe de forma clara y didáctica el paso de la historia por las distintas dinastías, siendo muy perceptible el salto en calidad y riqueza en las Xing y Ming.
+
+**Bonus recommendation**: Hay varios restaurantes especializados en el famoso Pato al estilo Pekín, uno de ellos que probé y recomiendo es: XXXXXX
+
 ## Military Museum of the Chinese People's Revolution
+
+Llegó el Viernes 13, y con ello la primera jornada de mi viaje claramente impactada por nuestra asistencia (organizada a ultimísima hora) al Mundial de Baloncesto de la FIBA. Compré la noche anterior entradas para las semifinales (España - Australia) y siendo el partido a las 16:00 la visita de la mañana no podía ser muy lejos. Tenía previsto visitar el Military Museum y estando cerca del pabellón de baloncesto encajaba perfectamente adelantar la visita. Además, siendo festivo nacional en China por el Festival del Medio Otoño, mi hermano pudo acompañarme a ambas cosas dado que en la Universidad habían cerrado.
+
+Al llegar enfrente del Museo, nos recibe orgullosa y esbelta una gran estrella roja encima del edificio principal. Es habitual en todos los edificios oficiales pero quizá aquí se muestra más majestuosa si cabe (no será casual). Nada más entrar al edificio una gran estatua de Mao nos saluda. Todo confirmaba una sensación de propaganda de la que nos habían advertido en blogs y en la Lonely Planet, pero lo cierto es que aunque el Museo hace una gran apología de la grandeza de China y de su poderío lo que yo encontré fue un punto de vista abierto.
+
+La primera parte que se debe visitar (y ojo con hacerlo en orden, no está muy bien indicado) es un recorrido histórico a lo largo de varias salas, relatando la evolución militar y geopolítica durante toda la complejísima historia China. La exposición es muy detallada, y aunque como siempre echamos de menos más texto en inglés lo cierto es que se entiende que no lo prioricen porque se veía un turista occidental por cada muchísimos locales. Como arquero tradicional, salí encantado de esta zona. Hay bastantes ejemplares expuestos (especialmente de la dinastía Xing) y bastantes dioramas poniendo en valor su uso y la imporancia de su buen manejo tanto a nivel militar como incluso social.
+
+La parte central del museo es espectacular. Al estilo del Air & Space Museum del Smithsonian, allí tienen expuestos decenas de aviones, cohetes y barcos. Como complemento en la planta inferior tienen decenas de tanques y sistemas de armamento pesado, y en las plantas superiores todo tipo de armamento ligero: pistolas, espadas, fusiles, armas automáticas, etc. Nos sorprendió (y agradó) ver que tanto en la planta baja como en las superiores junto a las piezas chinas tenían expuestas muchísimas de otros países, destancando de la URSS, USA y Japón pero también muchas europeas e incluso españolas.
+
+Además de la recopilación interminable e interesante de armamento, tenían varias zonas de exposiciones sobre el potencial chino en armamento aéreo y marítimo,
 
 ## Panjiayuan Antique Market
 
