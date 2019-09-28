@@ -98,9 +98,9 @@ Otra zona con ticket aparte es la Clock Gallery ????? Se visita rápido y es muy
 
 Termino mi estancia bajando de nuevo a la zona sur para visitar el pabellón de XXXXX, subir a la torre XXXXX y recorrer un trozo de muralla, terminando con una visita al pabellón XXXX que sirve de galería de arte, principalmente de pintura. Esta exposición es de lo que más me gustó de todo el Palace Museum. Las obras reflejaban situaciones cotidianas supuestamente reales de los emperadores en Palacio y algunos de los cuadros eran espectaculares.
 
-## XXXXX
+## Imperial Ancestral Temple
 
-Salgo de la ciudad Prohibida por la Puerta Este y me dirijo al XXXX, tras descansar un rato frente al magnífico foso. Tenía muchas ganas de visitar este jardín y sus templos, pero me decepcionó un poco. La zona es muy bonita, aunque nada que destaque sobre lo ya visto en el Palace Museum, pero su mayor punto a favor quizá sea que se encuentra casi vacío. Con una Ciudad Prohibida que recibe decenas de miles de visitantes al día, no se explica que casi nadie se tome la molestia de completar la visita viendo esto también, que está junto a la entrada. Tampoco ayuda que de sus varios templos sólo se puede visitar uno y no tiene excesivo contenido. Quizá sea más interesante para aquellos que lo visiten en lugar de entrar a la Ciudad Prohibida, o al menos en fechas diferentes.
+Salgo de la ciudad Prohibida por la Puerta Este y me dirijo al Imperial Ancestral Temple, tras descansar un rato frente al magnífico foso. Tenía muchas ganas de visitar este jardín y sus templos, pero me decepcionó un poco. La zona es muy bonita, aunque nada que destaque sobre lo ya visto en el Palace Museum, pero su mayor punto a favor quizá sea que se encuentra casi vacío. Con una Ciudad Prohibida que recibe decenas de miles de visitantes al día, no se explica que casi nadie se tome la molestia de completar la visita viendo esto también, que está junto a la entrada. Tampoco ayuda que de sus varios templos sólo se puede visitar uno y no tiene excesivo contenido. Quizá sea más interesante para aquellos que lo visiten en lugar de entrar a la Ciudad Prohibida, o al menos en fechas diferentes.
 
 El sitio es en cualquier caso muy pintoresco y lo que sí descubrí fue que estando casi vacío es ideal para fotos de boda. En un paseo breve por los jardines me encontré a más de una decena de parejas posando para sus respectivos séquitos de fotógrafos. En un callejón entre dos templos encontré incluso un par con equipos de rodaje semi-profesional que presumiblemente rodaban algún corto.
 
@@ -122,13 +122,23 @@ La primera parte que se debe visitar (y ojo con hacerlo en orden, no está muy b
 
 La parte central del museo es espectacular. Al estilo del Air & Space Museum del Smithsonian, allí tienen expuestos decenas de aviones, cohetes y barcos. Como complemento en la planta inferior tienen decenas de tanques y sistemas de armamento pesado, y en las plantas superiores todo tipo de armamento ligero: pistolas, espadas, fusiles, armas automáticas, etc. Nos sorprendió (y agradó) ver que tanto en la planta baja como en las superiores junto a las piezas chinas tenían expuestas muchísimas de otros países, destancando de la URSS, USA y Japón pero también muchas europeas e incluso españolas.
 
-Además de la recopilación interminable e interesante de armamento, tenían varias zonas de exposiciones sobre el potencial chino en armamento aéreo y marítimo,
+Además de la recopilación interminable e interesante de armamento, tenían varias zonas de exposiciones sobre el potencial chino en armamento aéreo y marítimo, y las posibilidades no bélicas dela energía nuclear. La parte final, que también nos sorprendió positivamente, se centraba en arte de inspiración bélica: cuadros y esculturas principalmente. Había obras fabulosas, varias de las cuales yo colgaría en mi salón sin dudarlo.
+
+## Wukesong Arena
+
+Una vez visto el museo nos dirijimos a Wukesong, un area comercial gigante rodeada de grandes eficios de varias plantas con muchas más tiendas. Este mini-barrio comercial alberga en su interior el [Wukesong Arena](https://es.wikipedia.org/wiki/Wukesong_Arena), que fue construido para los [Juegos Olímpicos de Pekín 2008](https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Pek%C3%ADn_2008) como sede para la competición de baloncesto.
+
+La zona comercial principal está muy orientada al exterior y al ocio. Hay varias pistas deportivas, muchos restaurantes e incluso un IKEA que no destacaba en tamaño como suele suceder aquí en España. Aunque estaba muy animado (y aparentemente no era por la competición) no es un sitio que tenga sentido visitar salvo que te alojes muy cerca.
+
+Sobre el baloncesto, [España derrotó por 95-88 a Australia](https://es.wikipedia.org/wiki/Copa_Mundial_de_Baloncesto_de_2019#Semifinales) en un apasionante partido que tuvo perdido casi todo el tiempo pero finalmente se llevó tras dos emocionantes prórrogas.
 
 ## Panjiayuan Antique Market
 
 ## 798 Art District
 
 ## Summer Palace and Yuanmingyuan Park (old Summer Palace)
+
+https://es.wikipedia.org/wiki/Copa_Mundial_de_Baloncesto_de_2019#Final
 
 ## Jiankou to Mutianyu Great Wall hike
 
