@@ -18,12 +18,12 @@ Al final resultó que la elección fue perfecta por varios motivos:
 
 * Septiembre es por defecto una de las mejores épocas del año para visitar Pekín: no está petado de turistas, el tiempo es apacible y con pocas lluvias (no me llovió ningún día, de hecho).
 * Este año se cumplen 70 años de la [**Revolución Comunista China**](https://es.wikipedia.org/wiki/Revoluci%C3%B3n_china_de_1949), todos los edificios oficiales y buena parte de la ciudad están especialmente engalanados para conmemorar la ocasión.
-* Mi estancia coincidió con el [**Festival del Medio Otoño**](https://es.wikipedia.org/wiki/Fiesta_del_Medio_Oto%C3%B1o), la segunda festividad más grande que tienen después del [Año Nuevo Chino](https://es.wikipedia.org/wiki/A%C3%B1o_Nuevo_chino). Los lugareños tienen un día festivo y viajan a sus ciudades de origen, dejando Beijing algo más transitable.
+* Mi estancia coincidió con el [**Festival del Medio Otoño**](https://es.wikipedia.org/wiki/Fiesta_del_Medio_Oto%C3%B1o), la segunda festividad más grande que tienen después del [Año Nuevo Chino](https://es.wikipedia.org/wiki/A%C3%B1o_Nuevo_chino). Los lugareños tienen un día festivo y viajan a sus ciudades de origen, dejando Pekín algo más transitable.
 * Mi estancia también coincidía con la fase final del [**Mundial de Baloncesto de la FIBA**](https://es.wikipedia.org/wiki/Copa_Mundial_de_Baloncesto_de_2019), siendo las semifinales y final en Pekín.
 
 **Resumen para vagos**: Pekín me encantó y me dejó una muy buena impresión. Todo es enorme, alucinante, limpio y fácil de disfrutar. El choque cultural es mucho más pequeño del que pensaba, y el único inconveniente (mínimo) es que las tarjetas bancarias occidentales sirven de poco y en ocasiones el dinero en efectivo tampoco era suficiente.
 
-Algunas cifras: **11 días** solamente en Beijing visitando decenas de fantásticos lugares (incluyendo una increíble ruta de senderismo por la Gran Muralla), en los que hice unas **2.700 fotos** (que se dice pronto), encontré [21 cachés](https://www.geocaching.com/profile/?guid=b78f2e04-cd1c-4199-820c-7ea3bb7fea20) y abrí [455 notas para mejorar OpenStreetMap](https://www.openstreetmap.org/user/Luiyo/notes) !!
+Algunas cifras: **11 días** solamente en Pekín visitando decenas de fantásticos lugares (incluyendo una increíble ruta de senderismo por la Gran Muralla), en los que hice unas **2.700 fotos** (que se dice pronto), encontré [21 cachés](https://www.geocaching.com/profile/?guid=b78f2e04-cd1c-4199-820c-7ea3bb7fea20) y abrí [455 notas para mejorar OpenStreetMap](https://www.openstreetmap.org/user/Luiyo/notes) !!
 
 A continuación resumiré mi experiencia en las principales visitas del viaje, terminando con algunas consideraciones generales. ¡Empezamos!
 
@@ -53,7 +53,7 @@ Terminamos el paseo por unas calles aledañas a Qianmen que aparentemente acaban
 
 A la mañana siguiente fui directo a visitar el [Parque de Jingshan](https://es.wikipedia.org/wiki/Parque_Jingshan). Quería ver la Ciudad Prohibida desde lo alto antes de adentrarme en ella. De camino a la entrada Este del parque crucé un hutong relativamente moderno en busca (sin éxito) de una tienda de tiro con arco. No sólo era moderno y recién renovado, me atrevería a decir que era casi lujoso. Las parcelas se veían amplias, muros altos, gruesos y regulares, puertas enormes y bellamente rematadas. En varias fachadas había incluso puntos privados de recarga de coche eléctrico.
 
-El parque en sí es fantástico. Nada más entrar me encuentro un grupo de honorables ancianos escribiendo en las baldosas del suelo con agua como única tinta para sus grandes pinceles. Una lástima no entender lo que ponían, pero al menos estéticamente la caligrafía me pareció impecable. El parque está lleno, como en muchos otros parajes de Beijing, de gente haciendo todo tipo de ejercicio.
+El parque en sí es fantástico. Nada más entrar me encuentro un grupo de honorables ancianos escribiendo en las baldosas del suelo con agua como única tinta para sus grandes pinceles. Una lástima no entender lo que ponían, pero al menos estéticamente la caligrafía me pareció impecable. El parque está lleno, como en muchos otros parajes de Pekín, de gente haciendo todo tipo de ejercicio.
 
 Los antiguos pabellones de Shou Huang y el famoso mirador situado sobre la cima de la artificial Colina del Carbón no hacen sino acrecentar la sensación de majestuosidad del lugar.
 
@@ -79,7 +79,7 @@ Me levanto de nuevo prontísimo, siguiendo la recomendación de todas las guías
 
 Tras dicho control, accedo ligeramente emocionado al recinto de la Ciudad Prohibida para encontrarme el primer patio ya abarrotado con miles de turistas chinos y unos pocos extranjeros que han madrugado aún más. Los turistas locales guardan innumerables colas ordenada y pacientemente mientras yo y alguno más curioseamos por la zona.
 
-A las 8:30 abren puntualmente los controles de acceso y allí me encuentro la única situación en la que he visto que Beijing no ha conseguido escalar. Gente arrojando sus bolsos y mochilas a la cinta de seguridad y pasando de varios en varios a través de los arcos detectores de metales, que obviamente no paraba de pitar. El personal de seguridad ponía más empeño en que la llegada fuera en filas que en contener la avalancha, aparentemente resignados a lo inevitable. La marabunta de gente esperando en el primer patio no está dispuesta a esperar para visitar, y yo con ellos pensando que después vendrían marabuntas mayores.
+A las 8:30 abren puntualmente los controles de acceso y allí me encuentro la única situación en la que he visto que Pekín no ha conseguido escalar. Gente arrojando sus bolsos y mochilas a la cinta de seguridad y pasando de varios en varios a través de los arcos detectores de metales, que obviamente no paraba de pitar. El personal de seguridad ponía más empeño en que la llegada fuera en filas que en contener la avalancha, aparentemente resignados a lo inevitable. La marabunta de gente esperando en el primer patio no está dispuesta a esperar para visitar, y yo con ellos pensando que después vendrían marabuntas mayores.
 
 Una vez dentro confirmo que el sitio dispone de muy pocas explicaciones, y lo poco que hay es en Chino. Un buen porcentaje de gente visita el recinto con guías privados o grupos organizados, que van narrando y explicando la visita. Adquiero una audioguía que me permita ir un poco más libre y voy rápidamente hacia el _Palacio de la Pureza Celestial_, el _Salón de la Unión_ y el _Palacio de la Tranquilidad Terrenal_, que son los principales cuellos de botella. No soy el único que lo piensa y allí nos agolpamos muchísimos detrás de una valla que a su vez se encuentra a varios metros de la puerta del templo, por lo que la visión y percepción de lo que hay allí dentro se hace difícil y definitivamente muy incómoda.
 
@@ -141,7 +141,7 @@ Al final no compré nada. No estaba aún habituado al regateo (que además no me
 
 Lo que me alucinó verdaderamente fue la gran cantidad de puestos vendiendo nueces. Los ejemplares grandes y muy simétricos son especialmente cotizados por temas culturales y tradicionales, pero allí vendían de todo tipo y tamaño. Veías en algunos puestos a compradores revisando durante minutos cada nuez que se llevaban, cuando para unos ojos no entrenados todas eran prácticamente iguales.
 
-**Recomendación bonus**: Como nota de interés para mis lectores habituales, tras buscarlos por todo Beijing creo que Panjiayuan es el mejor sitio para comprar un [Xiangqi o ajedrez chino](https://es.wikipedia.org/wiki/Xiangqi) relativamente artesanal.
+**Recomendación bonus**: Como nota de interés para mis lectores habituales, tras buscarlos por todo Pekín creo que Panjiayuan es el mejor sitio para comprar un [Xiangqi o ajedrez chino](https://es.wikipedia.org/wiki/Xiangqi) relativamente artesanal.
 
 ## Distrito de Arte 798
 
@@ -177,7 +177,7 @@ Desde el Antiguo Palacio de Verano fuimos de nuevo directos a Wukesong para pres
 
 Estuve valorando ir por mi cuenta uno o dos días a recorrer la [Gran Muralla](https://es.wikipedia.org/wiki/Gran_Muralla_China). Al final un dolor en el pie y no tener forma material de llamar por teléfono en caso de emergencia me inclinó a contratar una ruta organizada. Creo que fue un enorme acierto, y debería haberlo hecho aunque no hubiera tenido esos inconvenientes.
 
-Entre las muchas empresas que ofrecen este tipo de rutas me decanté por [China Hiking](http://www.chinahiking.cn), y concretamente por su ruta de Jiankou a Mutianyu de 1 día (http://www.chinahiking.cn/great-wall-hiking/jiankou-to-mutianyu-great-wall-hike-and-tobogan-1-day/). Hay varias zonas de la Muralla visitables, algunas de ellas muy restauradas y _asequibles_ con transporte público casi directo desde Beijing como [Badaling](https://es.wikipedia.org/wiki/Badaling) que están totalmente masificadas. Hay zonas menos visitadas pero más lejos de Beijing, lo que complica mucho poder hacer una ruta interesante de un día. La zona de Mutianyu también se llena, pero sería sólo el final de la ruta.
+Entre las muchas empresas que ofrecen este tipo de rutas me decanté por [China Hiking](http://www.chinahiking.cn), y concretamente por su ruta de Jiankou a Mutianyu de 1 día (http://www.chinahiking.cn/great-wall-hiking/jiankou-to-mutianyu-great-wall-hike-and-tobogan-1-day/). Hay varias zonas de la Muralla visitables, algunas de ellas muy restauradas y _asequibles_ con transporte público casi directo desde Pekín como [Badaling](https://es.wikipedia.org/wiki/Badaling) que están totalmente masificadas. Hay zonas menos visitadas pero más lejos de Pekín, lo que complica mucho poder hacer una ruta interesante de un día. La zona de Mutianyu también se llena, pero sería sólo el final de la ruta.
 
 La excursión comienza en la salida de la estación de metro de Lama Temple, un punto céntrico y muy bien comunicado pero ya orientado hacia las salidas norte de la ciudad. Allí nos recogió el minibus a dos guías y una docena de excursionistas: 4 niños y 9 adultos. Tras dos horas de carretera incluyendo una parada técnica para ir al baño y comprar algún snack en una tienda de ultramarinos, llegamos al punto de inicio de la ruta: el pueblo de Nanjili. Estamos aún algo retirados de la muralla por su fachada norte, justo encima de Jiankou.
 
@@ -195,13 +195,13 @@ Finalmente llegamos a la zona de Mutianyu, mucho más restaurada y plagada de ge
 
 **Recomendación Bonus**: a estos medios de subida se une un enorme tobogán como opción de bajada, que es la que utilicé yo junto a algunos compañeros de ruta. El tobogán recorre más de 1.500 metros y salva una pendiente bastante importante. Abajo te espera tu foto en el vagón al más puro estilo Parque de Atracciones. Recomendable pero dejad espacio entre el anterior y el siguiente para evitar accidentes y para disfrutar al máximo del descenso.
 
-Una vez abajo, cruzamos innumerables tiendas y restaurantes para llegar al hub de autobuses, con lanzaderas que te bajan al pueblo. El tráfico está restringido y nuestro minibus nos tuvo que esperar en el parking que hay abajo. Como parte de la excursión, nos llevaron a un restaurante enrme a las afueras de Beijing para comer todos juntos. Allí comimos en un comedor privado con la típica mesa redonda enorme con una pieza central que gira. Por dicha pieza giratoria fueron pasando más de 10 platos distintos de exquisita comida local, que nos dejaron a todos muy satisfechos incluyendo los niños y tres de los adultos que eran vegetarianos.
+Una vez abajo, cruzamos innumerables tiendas y restaurantes para llegar al hub de autobuses, con lanzaderas que te bajan al pueblo. El tráfico está restringido y nuestro minibus nos tuvo que esperar en el parking que hay abajo. Como parte de la excursión, nos llevaron a un restaurante enrme a las afueras de Pekín para comer todos juntos. Allí comimos en un comedor privado con la típica mesa redonda enorme con una pieza central que gira. Por dicha pieza giratoria fueron pasando más de 10 platos distintos de exquisita comida local, que nos dejaron a todos muy satisfechos incluyendo los niños y tres de los adultos que eran vegetarianos.
 
 De nuevo, recomiendo ampliamente esta zona y esta manera de visitar la muralla. No he probado con otros, pero desde luego esta empresa resolvió todo de forma fantástica. No resultó mucho más caro que si lo hubiera hecho por mi cuenta y fue más seguro y ameno. Un poco más tarde de la hora convenida nos dejaron de nuevo en la boca de metro y allí nos despedimos todos encantados del día que habíamos pasado juntos. La comida había sido copiosa y tardía, por lo que me marché directo al apartamento sin parar a cenar.
 
 ## Templo de Yonghe
 
-Depués de un lunes intenso, el Martes 17 empecé fuerte con el [Templo de Yonghe o de los Lamas](https://es.wikipedia.org/wiki/Templo_de_Yonghe). Es uno de los sitios con más encanto de Beijing aunque no aparece en el top de muchas guías de viaje. Casi por primera vez, visitaba un monumento que aún está en uso, ya que sigue sirviendo en la actualidad como templo budista.
+Depués de un lunes intenso, el Martes 17 empecé fuerte con el [Templo de Yonghe o de los Lamas](https://es.wikipedia.org/wiki/Templo_de_Yonghe). Es uno de los sitios con más encanto de Pekín aunque no aparece en el top de muchas guías de viaje. Casi por primera vez, visitaba un monumento que aún está en uso, ya que sigue sirviendo en la actualidad como templo budista.
 
 La visita transcurre a lo largo de varios altares y templos, decorados en una interesante mezcla de arte tradicional chino, mongol y tibetano. Los dos últimos son sin duda los más impresionantes, destacando el último de ellos por contener la talla de una única pieza de madera más grande del mundo (certificado por el Libro Guiness de los Records), en forma de Buda de 26 metros de altura (8 de ellos bajo tierra). Espectacular.
 
@@ -215,7 +215,7 @@ El Templo de Confucio tiene, aparte de pabellones de culto, una parte de exposic
 
 ## Parque Olímpico
 
-Llegué al [Parque Olímpico de Beijing](https://es.wikipedia.org/wiki/Parque_Ol%C3%ADmpico_de_Pek%C3%ADn) antes de lo esperado y no pude disfrutar mucho de él porque aún hacía mucho calor y en toda la explanada apenas hay sombras. Aún así, completé un buen paseo por toda la zona y pude imaginarme allí durante el vibrante ambiente de unas olimpiadas.
+Llegué al [Parque Olímpico de Pekín](https://es.wikipedia.org/wiki/Parque_Ol%C3%ADmpico_de_Pek%C3%ADn) antes de lo esperado y no pude disfrutar mucho de él porque aún hacía mucho calor y en toda la explanada apenas hay sombras. Aún así, completé un buen paseo por toda la zona y pude imaginarme allí durante el vibrante ambiente de unas olimpiadas.
 
 Es increíble que pudieran disponer de todo este espacio tan cerca del centro de la ciudad y lo organizaran de esta manera, incluyendo un río artificial con forma de dragón.
 
@@ -225,15 +225,15 @@ Es increíble que pudieran disponer de todo este espacio tan cerca del centro de
 
 Comencé mi paseo por el [Templo del Cielo](https://es.wikipedia.org/wiki/Templo_del_Cielo) muy temprano en la puerta Este, resistiendo la tentación de entrar de nuevo en el Mercado de la Perla. Recorrí tranquilamente toda la zona este del parque para acceder y recorrer el templo de Sur a Norte como hacían los emperadores.
 
-Por el camino me encontré gente haciendo todo tipo de deporte y ejercicio, como en cada parque de Beijing. Aquí incluso habían improvisado una pista de tenis en una pequeña explanada pavimentada.
+Por el camino me encontré gente haciendo todo tipo de deporte y ejercicio, como en cada parque de Pekín. Aquí incluso habían improvisado una pista de tenis en una pequeña explanada pavimentada.
 
-El Templo de la Oración por la Buena Cosecha, el Altar Circular y el Muro del Eco son muy singulares y todos ellos lugares icónicos de Beijing que merece la pena visitar tranquilamente. También visité el Palacio del Ayuno, que es gratuito enseñando el pasaporte pero por algún motivo casi nadie visita.
+El Templo de la Oración por la Buena Cosecha, el Altar Circular y el Muro del Eco son muy singulares y todos ellos lugares icónicos de Pekín que merece la pena visitar tranquilamente. También visité el Palacio del Ayuno, que es gratuito enseñando el pasaporte pero por algún motivo casi nadie visita.
 
-## Museo de la Arquitectura Ancestral
+## Museo de la Arquitectura Antigua
 
-Este _Museo de la Arquitectura Ancestral_, que tampoco suele aparecer en ninguna guía o blog de viajes y de hecho estaba casi vacío, cumplió con creces mis espectativas. Está situado en lo que antiguamente fue el Templo de la Agricultura, y por ello tiene una zona dedicada también a esto.
+Este _Museo de la Arquitectura Antigua_, que tampoco suele aparecer en ninguna guía o blog de viajes y de hecho estaba casi vacío, cumplió con creces mis espectativas. Está situado en lo que antiguamente fue el Templo de la Agricultura, y por ello tiene una zona dedicada también a esto.
 
-Sobre arquitectura, hay recreaciones de todo tipo para poder hacerse una idea de la técnica y materiales empleados en la construcción tradicional china. Hay zonas dedicadas a las vigas, incluyendo la selección de la madera apropiada; a la cerámica tanto protectora como decorativa; a la talla de piedra, etc. Lástima que como en el resto de Beijing me perdiese el 90% de las explicaciones porque apenas hay contenido en otros idiomas.
+Sobre arquitectura, hay recreaciones de todo tipo para poder hacerse una idea de la técnica y materiales empleados en la construcción tradicional china. Hay zonas dedicadas a las vigas, incluyendo la selección de la madera apropiada; a la cerámica tanto protectora como decorativa; a la talla de piedra, etc. Lástima que como en el resto de Pekín me perdiese el 90% de las explicaciones porque apenas hay contenido en otros idiomas.
 
 ## Museo de la Ciencia y la Tecnología de China
 
@@ -241,25 +241,25 @@ Poco que decir sobre este museo. Es gigante, muy bien organizado y aparentemente
 
 ## Zona comercial de Sanlitun
 
-De nuevo, con todo cerrado no queda mucho que seguir paseando o entrando en zonas comerciales que sí abren hasta muy tarde. Uno de los últimos días me pasé por Sanlitun que es de las zonas comerciales más popuares de Beijing.
+De nuevo, con todo cerrado no queda mucho que seguir paseando o entrando en zonas comerciales que sí abren hasta muy tarde. Uno de los últimos días me pasé por Sanlitun que es de las zonas comerciales más popuares de Pekín.
 
 Sanlitun está pegado al distrito de las embajadas y cerca de la zona donde residen los expatriados, quizá por eso es el lugar donde más concentración hay de tiendas de lujo y marcas occidentales en general. Es una zona muy renovada, con edificios enormes que cambian de color y muchísimos restaurantes. Interesante por el paseo pero de nuevo con poco riesgo para mi economía por los elevados precios.
 
 ## Museo Nacional de Arte de China
 
-No quise irme de Beijing sin visitar el [Museo Nacional de Arte de China](https://es.wikipedia.org/wiki/Museo_Nacional_de_Arte_de_China), cuya nueva sede han construido hace unos poco años muy cerca de la Ciudad Prohibida.
+No quise irme de Pekín sin visitar el [Museo Nacional de Arte de China](https://es.wikipedia.org/wiki/Museo_Nacional_de_Arte_de_China), cuya nueva sede han construido hace unos poco años muy cerca de la Ciudad Prohibida.
 
-Este museo albergaba la 8ª Bienal de arte de Beijing, que ocupaba tres cuartas partes del museo y tenía previsto acabar en unos días. No me imagino que expondrán a continuación, pero deben rellenar casi todo el edificio. La colección perteneciente a la Bienal era muy interesante, con obras de artistas de todo el mundo y especialmente de China.
+Este museo albergaba la 8ª Bienal de arte de Pekín, que ocupaba tres cuartas partes del museo y tenía previsto acabar en unos días. No me imagino que expondrán a continuación, pero deben rellenar casi todo el edificio. La colección perteneciente a la Bienal era muy interesante, con obras de artistas de todo el mundo y especialmente de China.
 
-## Antiguo Observatorio de Beijing
+## Antiguo Observatorio de Pekín
 
-El [Antiguo Observatorio de Beijing](https://en.wikipedia.org/wiki/Beijing_Ancient_Observatory) es una perla que, de nuevo, poca gente visita pero ahora las delicias de cualquier aficionado a la Astronomía. Es uno de los más antiguos del mundo, construido en el siglo XV por la dinastía Ming, y contiene aún varios instrumentos de precisión sobre una torre de 40 por 40 metros y quince metros de altura.
+El [Antiguo Observatorio de Pekín](https://en.wikipedia.org/wiki/Beijing_Ancient_Observatory) es una perla que, de nuevo, poca gente visita pero ahora las delicias de cualquier aficionado a la Astronomía. Es uno de los más antiguos del mundo, construido en el siglo XV por la dinastía Ming, y contiene aún varios instrumentos de precisión sobre una torre de 40 por 40 metros y quince metros de altura.
 
 Además de la torre y sus instrumentos, también puede visitarse una exposición sobre el uso de dichos instrumentos y personalidades importantes de China relacionadas con la Astronomía en toda la historia. Algunas de esas personalidades fueron europeos que viajaron en algún momento y decidieron quedarse a sacar partido a los medios que allí encontraban.
 
 ## Mercado de la Perla y Mercado de la Seda
 
-Breve comentario sobre estos dos mercados, seguramente los más populares para los tutistas a la hora de comprar. Siendo similares, me pareció que en el [Mercado de la Seda](https://en.wikipedia.org/wiki/Silk_Street) había mejor mercancía. Los precios son parecidos y, siendo el regateo la base de todo, todo dependerá de lo apurados que estén los vendedores en el momento que llegues. Visité el Mercado de la Seda mi última tarde en Beijing y ya con cierta experiencia en estos mercados pude hacer varias compras interesantes.
+Breve comentario sobre estos dos mercados, seguramente los más populares para los tutistas a la hora de comprar. Siendo similares, me pareció que en el [Mercado de la Seda](https://en.wikipedia.org/wiki/Silk_Street) había mejor mercancía. Los precios son parecidos y, siendo el regateo la base de todo, todo dependerá de lo apurados que estén los vendedores en el momento que llegues. Visité el Mercado de la Seda mi última tarde en Pekín y ya con cierta experiencia en estos mercados pude hacer varias compras interesantes.
 
 Autobuses enteros de turistas plagan estos dos centros y pocos salen con las manos vacías. Son los sitios donde las guías te dicen que puedes tomarte medidas para comprar un traje o camisas a medida muy baratas, pero no llegué a tanto por falta de necesidad e interés.
 
