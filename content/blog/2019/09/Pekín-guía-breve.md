@@ -134,6 +134,14 @@ Sobre el baloncesto, [España derrotó por 95-88 a Australia](https://es.wikiped
 
 ## Panjiayuan Antique Market
 
+Este famoso mercado de antigüedades de Panjiayuan ofrece más o menos lo que esperaba: muchos clientes, casi exclusivamente locales, y una gran cantidad y diversidad de productos. No todo son antigüedades (ni siquiera lo que parece serlo), buena parte de la extensión del mercado lo ocupan puestos de venta de piedras pulidas y/o talladas de todo tipo de colores.
+
+El sitio me gustó mucho y me parece una visita obligada. Compres o no compres es muy llamativo e interesante recorrer pasillos y pasillos de puestos, organizados más o menos por tipología: cerámica, figuras de barro o metal, tallas en madera, piedras, nueces secas, libros, muebles, ilustraciones, herramientas de caligrafía, bustos e incluso ropa.
+
+Al final no compré nada. No estaba aún habituado al regateo (que además no me gusta demasiado) y las dos o tres cosas que sí me habría apetecido comprar no las pude (o supe) negociar bien. Pensaba que encontraría algo similar más adelante y aunque muchas cosas se repiten en varios puestos, sí puedes encontrar piezas que sólo un vendedor tiene. Ellos lo saben y aprietan más en la negociación.
+
+Lo que me alucinó verdaderamente fue la gran cantidad de puestos vendiendo nueces. Los ejemplares grandes y muy simétricos son especialmente cotizados por temas culturales y tradicionales, pero allí vendían de todo tipo y tamaño. Veías en algunos puestos a compradores revisando durante minutos cada nuez que se llevaban, cuando para unos ojos no entrenados todas eran prácticamente iguales.
+
 ## 798 Art District
 
 ## Summer Palace and Yuanmingyuan Park (old Summer Palace)
