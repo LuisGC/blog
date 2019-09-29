@@ -24,6 +24,7 @@ I have visited **19 out of 193** countries (among those [recognized by United Na
 
 ## 2019
 
+* <span>SEP</span> <p>Amsterdam (Netherlands)</p>
 * <span>SEP</span> <p>Beijing and the Great Wall (China)</p>
 * <span>SEP</span> <p>Huelva (Spain)</p>
   - El Rompido, Ayamonte and Vila Real de Santo Antonio (Portugal)
