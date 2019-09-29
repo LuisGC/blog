@@ -6,8 +6,8 @@ type = "post"
 categories = ["personal", "tourism", "holidays", "history"]
 status = "published"
 featured = "/img/Tiananmen.jpg"
-featuredalt = "Quite excited to be in Tiananmen Square"
-featuredpath = "Quite excited to be in Tiananmen Square - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
+featuredalt = "Quite excited to be in Tiananmen Square, and ready to discuss about Software Freedom"
+featuredpath = "Quite excited to be in Tiananmen Square, and ready to discuss about Software Freedom - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
 +++
 
 _**Disclaimer**: Por pura necesidad esta entrada será más breve de lo que me gustaría (aunque no lo parezca) y en castellano, a pesar de que más del 90% de mis lectores (según Google Analytics) no tienen el castellano como lengua principal. Por primera vez he conseguido ir tomando notas durante el viaje y me tengo que limitar a transcribir dichas notas._
@@ -21,9 +21,22 @@ Al final resultó que la elección fue perfecta por varios motivos:
 * Mi estancia coincidió con el [**Festival del Medio Otoño**](https://es.wikipedia.org/wiki/Fiesta_del_Medio_Oto%C3%B1o), la segunda festividad más grande que tienen después del [Año Nuevo Chino](https://es.wikipedia.org/wiki/A%C3%B1o_Nuevo_chino). Los lugareños tienen un día festivo y viajan a sus ciudades de origen, dejando Pekín algo más transitable.
 * Mi estancia también coincidía con la fase final del [**Mundial de Baloncesto de la FIBA**](https://es.wikipedia.org/wiki/Copa_Mundial_de_Baloncesto_de_2019), siendo las semifinales y final en Pekín.
 
-**Resumen para vagos**: Pekín me encantó y me dejó una muy buena impresión. Todo es enorme, alucinante, limpio y fácil de disfrutar. El choque cultural es mucho más pequeño del que pensaba, y el único inconveniente (mínimo) es que las tarjetas bancarias occidentales sirven de poco y en ocasiones el dinero en efectivo tampoco era suficiente.
+## Consideraciones generales
+
+**TL;DR** Pekín me encantó y me dejó una muy buena impresión. Todo es enorme, alucinante, limpio y fácil de disfrutar. El choque cultural es mucho más pequeño del que pensaba, y el único inconveniente (mínimo) es que las tarjetas bancarias occidentales sirven de poco y en ocasiones el dinero en efectivo tampoco era suficiente.
 
 Algunas cifras: **11 días** solamente en Pekín visitando decenas de fantásticos lugares (incluyendo una increíble ruta de senderismo por la Gran Muralla), en los que hice unas **2.700 fotos** (que se dice pronto), encontré [21 cachés](https://www.geocaching.com/profile/?guid=b78f2e04-cd1c-4199-820c-7ea3bb7fea20) y abrí [455 notas para mejorar OpenStreetMap](https://www.openstreetmap.org/user/Luiyo/notes) !!
+
+Cosas que me resultaron útiles:
+
+* Una tarjeta SIM con VPN incorporada, en mi caso comprada en [**Holafly**](https://holafly.com/products/sim-datos-china). No sólo necesitas datos, necesitas la VPN
+* Como siempre, [**OSMAnd**](https://osmand.net/) en el móvil con los mapas de Pekín descargados
+* Para poder usar las WiFis que te puedas encontrar, puede venirte bien una aplicación de VPN aparte. Yo usé [**Express VPN**](https://play.google.com/store/apps/details?id=com.expressvpn.vpn&hl=en) pero podría haber sobrevivido sin ella
+* La aplicación dominante de mapas local: [**Amap**](https://play.google.com/store/apps/details?id=com.autonavi.minimap&hl=en). No se puede usar en inglés pero aún así es útil para calcular rutas en transporte público (te dice hasta lo que vas a caminar, importantísimo porque hay trasbordos de varios cientos de metros), conocer horarios fiables, revisar las puntuaciones de los usuarios en restaurantes y similar. El buscador admite términos en inglés.
+* La aplicación del [**Metro de Pekín**](https://play.google.com/store/apps/details?id=com.xinlukou.metromanbj&hl=en). Aunque para cálculo de rutas es mejor Amap, esta sí es en inglés y podrás buscar mejor paradas concretas, ver directamente el plano completo, confirmar el coste del trayecto, etc. Cuando estés familiarizado con el metro la usarás menos o nada, pero al principio es básica
+* Para traducciones, [**Pleco**](https://play.google.com/store/apps/details?id=com.pleco.chinesesystem) (que yo no llegué a usar) o [**Dear Translate**](https://play.google.com/store/apps/details?id=com.youdao.translator). A esta última le puedes pasar una imagen (de un cartel, un menú o un pantallazo de Amap) y te lo traduce razonablemente bien.
+* [**Mobike**](https://play.google.com/store/apps/details?id=com.mobike.ins&hl=en), la única aplicación de alquiler de bicis que en principio podrás usar como turista. Caminar es genial y me encanta, pero ganarás un montón de tiempo y energía si cada vez que tengas que cruzar varias manzanas lo haces en bici. El precio es ridículo, unos trece céntimos de euro cada 15 minutos. Yo cargué 5 euros y no llegué a consumirlos en unos 34 trayectos para un total de **31 kilómetros recorridos**.
+* Si vas a comunicarte con gente local, necesitarás [**WeChat**](https://play.google.com/store/apps/details?id=com.tencent.mm&hl=en). En caso contrario, con la VPN podrás usar WhatsApp o Telegram con normalidad
 
 A continuación resumiré mi experiencia en las principales visitas del viaje, terminando con algunas consideraciones generales. ¡Empezamos!
 
@@ -167,11 +180,15 @@ Al final no compré nada. No estaba aún habituado al regateo (que además no me
 
 Lo que me alucinó verdaderamente fue la gran cantidad de puestos vendiendo nueces. Los ejemplares grandes y muy simétricos son especialmente cotizados por temas culturales y tradicionales, pero allí vendían de todo tipo y tamaño. Veías en algunos puestos a compradores revisando durante minutos cada nuez que se llevaban, cuando para unos ojos no entrenados todas eran prácticamente iguales.
 
+{{< image classes="image" src="/img/Panjiayuan-walnuts.jpg" title="Escrutinio de nueces" cc-license="by-nc-sa" >}}
+
 **Recomendación bonus**: Como nota de interés para mis lectores habituales, tras buscarlos por todo Pekín creo que Panjiayuan es el mejor sitio para comprar un [Xiangqi o ajedrez chino](https://es.wikipedia.org/wiki/Xiangqi) relativamente artesanal.
 
 ## Distrito de Arte 798
 
 Este [Distrito de Arte 798](https://en.wikipedia.org/wiki/798_Art_Zone), un espacio dedicado al arte que es realmente todo un distrito en el que ya no hay otra cosa, también me fascinó. Innumerables galerías de arte se mezclan con showrooms de grandes estudios y pequeños diseñadores. Han conseguido integrar perfectamente el entorno industrial de una forma fabulosa, sin hacer ningún sacrificio al disfrute de los visitantes. Entramos a unas pocas galerías, algunas de entrada gratuita y otras por un módico precio para evitar paseantes, y en general todas tenían su interés. De hecho, lo que menos nos gustó fue la [UCCA](https://es.wikipedia.org/wiki/Ullens_Center_for_Contemporary_Art), cuya entrada no era para nada barata y la exposición temporal no merecía demasiado la pena.
+
+{{< image classes="image" src="/img/798-Art-District.jpg" title="Fusión de arte y elementos industriales" cc-license="by-nc-sa" >}}
 
 Junto al arte, las omnipresentes tiendas de todo tipo, bares, restaurantes, ... otro lugar de esparcimiento más para los locales que también engancha a muchos turistas a pesar de estar lejos del centro.
 
@@ -181,13 +198,15 @@ El Domingo 15 me levanté muy pronto para ver si me daba tiempo a ver primero el
 
 El [Palacio de Verano](https://es.wikipedia.org/wiki/Palacio_de_Verano) me gustó mucho, a pesar de que sólo pude rodear a medias el inmenso Lago Kunming. La parte oeste requería mucho más tiempo, lo dejo pendiente para una futura visita. Todos los palacios y torres del recinto me gustaron pero lo que me encantó fue la disposición en general de todo, se nota que cada detalle está muy cuidado.
 
-Empecé recorriendo muy pausada y tranquilamente toda la zona norte por todos sus caminos, incluyendo el fantástico Jardín de de los Placeres Armoniosos (Xiéqùyuán). Tras disfrutar tranquilo de esa zona, al acercarme al lago empecé a notar una cantidad brutal de gente que enturbió un poco la experiencia.
+Empecé recorriendo muy pausada y tranquilamente toda la zona norte por todos sus caminos, incluyendo el fantástico _Jardín de de los Placeres Armoniosos_. Tras disfrutar tranquilo de esa zona, al acercarme al lago empecé a notar una cantidad brutal de gente que enturbió un poco la experiencia.
 
-Bajé caminando hasta cruzar el Puente de los 17 Arcos (Shíqīkǒngqiáo) que comunica con la fantástica Isla Nanhu, que alberga el templo al [Rey Dragón](https://es.wikipedia.org/wiki/Rey_Drag%C3%B3n_(mitolog%C3%ADa)), que no podía dejar de visitar. Tras la isla, nuevamente abarrotada, preferí evitar tener que subir andando de nuevo hacia el norte esquivando gente. En este lago, commo en otros, hay numerosos barcos de distintos tamaños, con y sin piloto, que cruzan el lago en todas las direcciones. Elegí uno que cruzase en diagonal el lago y subí directo hasta el [Barco de Mármol](https://es.wikipedia.org/wiki/Barco_de_M%C3%A1rmol), que con sus 36 metros de largo luce orgulloso a orillas del lago. El trayecto fue rápido y mereció mucho la pena, las vistas a ras de agua son impresionantes tanto de la isla que abandonaba detrás como de la Colina de la Longevidad y sus templos. A pesar nuevamente de la importante cantidad de barcos que te rodean en todo momento.
+Bajé caminando hasta cruzar el _Puente de los 17 Arcos_ que comunica con la fantástica Isla Nanhu, que alberga el templo al [Rey Dragón](https://es.wikipedia.org/wiki/Rey_Drag%C3%B3n_(mitolog%C3%ADa)), que no podía dejar de visitar. Tras la isla, nuevamente abarrotada, preferí evitar tener que subir andando de nuevo hacia el norte esquivando gente. En este lago, commo en otros, hay numerosos barcos de distintos tamaños, con y sin piloto, que cruzan el lago en todas las direcciones. Elegí uno que cruzase en diagonal el lago y subí directo hasta el [_Barco de Mármol_](https://es.wikipedia.org/wiki/Barco_de_M%C3%A1rmol), que con sus 36 metros de largo luce orgulloso a orillas del lago. El trayecto fue rápido y mereció mucho la pena, las vistas a ras de agua son impresionantes tanto de la isla que abandonaba detrás como de la Colina de la Longevidad y sus templos. A pesar nuevamente de la importante cantidad de barcos que te rodean en todo momento.
 
-La orilla norte estaba si cabe aún más llena de gente, siendo la zona más atractiva para los turistas que no pretenden caminar demasiado. Todo estaba lleno de gente, incluyendo especialmente el [Gran Corredor](https://es.wikipedia.org/wiki/Gran_Corredor), un largo pasillo cubierto de de 728 metros de longitud fantásticamente decorado. Merece la pena pasearlo tranquilamente disfrutando de las  más de 14.000 pinturas, que representan episodios tanto históricos como fantásticos.
+La orilla norte estaba si cabe aún más llena de gente, siendo la zona más atractiva para los turistas que no pretenden caminar demasiado. Todo estaba lleno de gente, incluyendo especialmente el [_Gran Corredor_](https://es.wikipedia.org/wiki/Gran_Corredor), un largo pasillo cubierto de de 728 metros de longitud fantásticamente decorado. Merece la pena pasearlo tranquilamente disfrutando de las  más de 14.000 pinturas, que representan episodios tanto históricos como fantásticos.
 
-Dejé para el final la subida a la Colina de la Longevidad, coronada por la imponente Pagoda del Buda Fragante.
+Dejé para el final la subida a la _Colina de la Longevidad_, coronada por la imponente _Pagoda del Buda Fragante_.
+
+{{< image classes="image" src="/img/Kunming-Lake.jpg" title="El fantástio Lago Kunming desde lo alto de la Colina de la Longevidad" cc-license="by-nc-sa" >}}
 
 ## Antiguo Palacio de Verano
 
@@ -197,7 +216,11 @@ Es inmenso y no teníamos tiempo de verlo todo, por lo que decidimos pasear por 
 
 Hay de nuevo muchos lagos y canales conectando unos con otros, y bastantes barcos cruzando los mismos. Esta vez predominaban los barcos de uso privado, aunque también los había tipo ferry para paseos colectivos.
 
+{{< image classes="image" src="/img/Old-Summer-Palace.jpg" title="Embarcación de recreo surcando tranquilamente uno de los muchos canales" cc-license="by-nc-sa" >}}
+
 Desde el Antiguo Palacio de Verano fuimos de nuevo directos a Wukesong para presenciar la fantástica final del Mundial FIBA de baloncesto, que [España conquistó al derrotar a Argentina por 75 a 95](https://es.wikipedia.org/wiki/Copa_Mundial_de_Baloncesto_de_2019#Final). Pasamos un gran rato viendo el partido y toda la ceremonia posterior de entrega de premios, que disfrutamos enormemente sin la intermediación habitual de una televisión. El público, mayoritariamente local, empezó animando claramente a España, para luego posicionarse a favor de Argentina intentando que la final tuviera algo de emoción. La Selección española encarriló muy pronto el partido y la afición local volvió a animar apasionadamente al ganador. Había bastantes aficionados locales con camisetas de los jugadores españoles, principalmente de [Ricky Rubio](https://es.wikipedia.org/wiki/Ricky_Rubio).
+
+{{< image classes="image" src="/img/Timeout-Spain.jpg" title="Tiempo muerto, no es mala foto para estar hecha sin trípode y desde el gallinero" cc-license="by-nc-sa" >}}
 
 ## Senderismo por la Gran Muralla: De Jiankou a Mutianyu
 
@@ -209,7 +232,11 @@ La excursión comienza en la salida de la estación de metro de Lama Temple, un 
 
 Comentario curioso: Jiankou significa "Arrow Nock", debido a la forma de la montaña en este área.
 
+{{< image classes="image" src="/img/Great-Wall-Zhengbeilou.jpg" title="Increíbles vistas desde la Torre de Zhengbeilou, viendo cómo la Gram Muralla continúa hacia el Oeste" cc-license="by-nc-sa" >}}
+
 La ruta comienza fuerte, con casi 1 kilómetro de subida bastante empinada por estrechos senderos de monte hasta llegar a la Torre de Zhengbeilou, a la que trepamos de la única manera posible: usando una robusta escalera hecha con ramas. Así acechaban los mongoles,llegando entre los árboles y la maleza y trepando de con elementos improvisados en la zona, aunque en aquella época aparentemente los chinos se encargaban de talar todos los árboles y la maleza cercanos a la muralla por la zona norte para evitar que nadie llegase desapercibido.
+
+{{< image classes="image lateral" src="/img/Great-Wall-wild.jpg" title="La Gran Muralla totalmente inmersa en la naturaleza" cc-license="by-nc-sa" >}}
 
 Tras una parada en lo alto de la torre para descansar y comer algo ligero, salimos hacia el este por una parte de la muralla bastante salvaje. En todo este trozo, la naturaleza prácticamente ha engullido a la muralla y sólo hay un pequeño sendero transitable por lo alto de la misma. Desde dentro se aprecia perfectamente, pero con cierta altura puede incluso no verse tanto por los árboles colindantes que ya superan en altura la muralla como por los matorrales que crecen en lo alto de la misma. Tal y como noso advierten los guías hay que cruzar con cuidado, el terreno es irregular e incluso el muro lateral se ha desprendido en varios trozos, pero la experiencia es fabulosa. Además, sólo nos encontramos con otro pequeño grupo de tres personas en todo este tramo.
 
@@ -217,7 +244,11 @@ A lo largo de la ruta, los guías nos descubren aspectos curiosos y para mi desc
 
 Al final de este tramo sin restaurar llegamos a un trozo semi restaurado, en el que nos encontramos ya un mini puesto de recuerdos y bebidas, básicamente una señora con un tablón con cosas encima. Los guías nos avisaban con escrupuloso detalle y antelación de todo, incluyendo estos puestos, por lo que deben ser viejos conocidos.
 
+{{< image classes="image" src="/img/Great-Wall-half-wild.jpg" title="Una zona mucho más transitable de la Gran Muralla, pero con igual encanto" cc-license="by-nc-sa" >}}
+
 Finalmente llegamos a la zona de Mutianyu, mucho más restaurada y plagada de gente que pulula desde el centro de visitantes. En esta zona y con tanta gente hicimos la bajada cada uno a su ritmo hasta la siguiente torre, charlando con unos y con otros. Es curioso pasar en poco tiempo de una zona en la que estabamos prácticamente solos en varios kilómetros de muralla, a otra en la que cada pocos metros había alguien subiendo, bajando o sentado descansando (las pendientes son enormes).A este fragmento de muralla se puede llegar por sendero, por escaleras, por telesilla y por teleférico. Son todo facilidades y se nota.
+
+{{< image classes="image" src="/img/Great-Wall-slopes.jpg" title="En esta foto se aprecia bastante bien alguna de las increíbles pendientes que tiene la Gran Muralla" cc-license="by-nc-sa" >}}
 
 **Recomendación Bonus**: a estos medios de subida se une un enorme tobogán como opción de bajada, que es la que utilicé yo junto a algunos compañeros de ruta. El tobogán recorre más de 1.500 metros y salva una pendiente bastante importante. Abajo te espera tu foto en el vagón al más puro estilo Parque de Atracciones. Recomendable pero dejad espacio entre el anterior y el siguiente para evitar accidentes y para disfrutar al máximo del descenso.
 
@@ -233,6 +264,8 @@ La visita transcurre a lo largo de varios altares y templos, decorados en una in
 
 En cada templo y altar, los numerosos feligreses (y algunos turistas con dudoso respeto) quemaban incienso a mansalva y lo ofrecían a sus ídolos tras varias reverencias. Repetían el ritual en cada templo, y en ocasiones varias veces por cada una de las tallas que se encontraban.
 
+{{< image classes="image" src="/img/Lama-Temple.jpg" title="El fabuloso Pabellón Wanfuge" cc-license="by-nc-sa" >}}
+
 ## Templo de Confucio
 
 Después del Templo Lamaísta visité el cercano [Templo de Confuncio](https://en.wikipedia.org/wiki/Beijing_Temple_of_Confucius), el segundo templo de veneración de [Confucio](https://en.wikipedia.org/wiki/Confucius) más grande de China. Este templo comparte recinto con la Imperial Academy de Beijing, uno de los centros de estudios más prestigiosos de China.
@@ -245,6 +278,8 @@ Llegué al [Parque Olímpico de Pekín](https://es.wikipedia.org/wiki/Parque_Ol%
 
 Es increíble que pudieran disponer de todo este espacio tan cerca del centro de la ciudad y lo organizaran de esta manera, incluyendo un río artificial con forma de dragón.
 
+{{< image classes="image" src="/img/Olympic-Stadium.jpg" title="Estadio Nacional de Pekín en el soleado Parque Olímpico" cc-license="by-nc-sa" >}}
+
 **Recomendación bonus**: No coge demasiado cerca pero después de esta visita me junté con mi hermano para cenar en un fantástico restaurante especializado en cocinar con pera: **Xiao Diao Li Tang** (Zhongguancun South 1st Alley, Wudaokou, Haidian, Beijing, China): Además de muchos platos cocinados con pera, servían una fabulosa bebida melosa de pera que servían por jarras e incluso para llevar en botellas. Riquísimo.
 
 ## Templo del Cielo
@@ -255,11 +290,15 @@ Por el camino me encontré gente haciendo todo tipo de deporte y ejercicio, como
 
 El Templo de la Oración por la Buena Cosecha, el Altar Circular y el Muro del Eco son muy singulares y todos ellos lugares icónicos de Pekín que merece la pena visitar tranquilamente. También visité el Palacio del Ayuno, que es gratuito enseñando el pasaporte pero por algún motivo casi nadie visita.
 
+{{< image classes="image" src="/img/Temple-of-Heaven.jpg" title="El maravilloso Templo de la Oración por la Buena Cosecha, una de las estampas icónicas de Pekín" cc-license="by-nc-sa" >}}
+
 ## Museo de la Arquitectura Antigua
 
 Este _Museo de la Arquitectura Antigua_, que tampoco suele aparecer en ninguna guía o blog de viajes y de hecho estaba casi vacío, cumplió con creces mis espectativas. Está situado en lo que antiguamente fue el Templo de la Agricultura, y por ello tiene una zona dedicada también a esto.
 
 Sobre arquitectura, hay recreaciones de todo tipo para poder hacerse una idea de la técnica y materiales empleados en la construcción tradicional china. Hay zonas dedicadas a las vigas, incluyendo la selección de la madera apropiada; a la cerámica tanto protectora como decorativa; a la talla de piedra, etc. Lástima que como en el resto de Pekín me perdiese el 90% de las explicaciones porque apenas hay contenido en otros idiomas.
+
+{{< image classes="image" src="/img/Ancient-Architecture-Museum.jpg" title="Museo de la Arquitectura Antigua en el Templo de la Agricultura, donde el continente impresionaba tanto o más que el contenido" cc-license="by-nc-sa" >}}
 
 ## Museo de la Ciencia y la Tecnología de China
 
@@ -283,14 +322,12 @@ El [Antiguo Observatorio de Pekín](https://en.wikipedia.org/wiki/Beijing_Ancien
 
 Además de la torre y sus instrumentos, también puede visitarse una exposición sobre el uso de dichos instrumentos y personalidades importantes de China relacionadas con la Astronomía en toda la historia. Algunas de esas personalidades fueron europeos que viajaron en algún momento y decidieron quedarse a sacar partido a los medios que allí encontraban.
 
+{{< image classes="image" src="/img/Ancient-Observatory.jpg" title="Antiguo Observatorio de Pekín, con sus enormes esferas armilares, sextantes, azimuts, cuadrantes y esferas celestiales" cc-license="by-nc-sa" >}}
+
 ## Mercado de la Perla y Mercado de la Seda
 
 Breve comentario sobre estos dos mercados, seguramente los más populares para los tutistas a la hora de comprar. Siendo similares, me pareció que en el [Mercado de la Seda](https://en.wikipedia.org/wiki/Silk_Street) había mejor mercancía. Los precios son parecidos y, siendo el regateo la base de todo, todo dependerá de lo apurados que estén los vendedores en el momento que llegues. Visité el Mercado de la Seda mi última tarde en Pekín y ya con cierta experiencia en estos mercados pude hacer varias compras interesantes.
 
 Autobuses enteros de turistas plagan estos dos centros y pocos salen con las manos vacías. Son los sitios donde las guías te dicen que puedes tomarte medidas para comprar un traje o camisas a medida muy baratas, pero no llegué a tanto por falta de necesidad e interés.
-
-## Consideraciones generales
-
-HolaFly SIM
 
 Esto es todo, ¡Espero que hayáis disfrutado de la guía!
