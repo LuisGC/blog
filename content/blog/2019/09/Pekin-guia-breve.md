@@ -5,7 +5,7 @@ date = "2019-09-28"
 type = "post"
 categories = ["personal", "tourism", "holidays", "history"]
 status = "published"
-featured = "/img/Tiananmen.jpg"
+featured = "https://live.staticflickr.com/65535/48813003923_398aedd7ec_h.jpg"
 featuredalt = "Quite excited to be in Tiananmen Square, and ready to discuss about Software Freedom"
 featuredpath = "Quite excited to be in Tiananmen Square, and ready to discuss about Software Freedom - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
 +++
@@ -46,7 +46,7 @@ Despegué de Barajas a las 10 de la mañana del Lunes 9 y llegué al aeropuerto 
 
 Al llegar me encontré la primera sorpresa. A pesar de que la simbólica plaza mide casi un kilómetro de longitud y 500 metros de anchura, para acceder a ella hay sólo un puñado de puntos de acceso con un fuerte control de identificación, mochilas y cacheos. En otras ocasiones pude entrar a ella sin mucho problema pero justo ese día por algún motivo las colas eran tremendas y pudimos pasar más de media hora pasando el control de seguridad.
 
-{{< image classes="image" src="/img/Seguridad.jpg" title="Control de seguridad para acceder a Tiananmen" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813355921_b8d822ff70_h.jpg" title="Control de seguridad para acceder a Tiananmen" cc-license="by-nc-sa" >}}
 
 Primer momento de masificación, rodeados de chinos pero todos o casi todos eran visitantes de fuera de Pekín. Los habitantes locales evitarán esta zona a toda costa. Esto hace que la sensación desde la plaza sea un poco _artificial_, dado que por ella nadie circula o pasea, sólo se visita como un monumento más. La escena es de todos modos espectacular desde la gran explanada, frente al icónico retrato de [**Mao Zedong**](https://es.wikipedia.org/wiki/Mao_Zedong) en la fachada de la [Puerta de Tiananmén](https://es.wikipedia.org/wiki/Puerta_de_Tiananm%C3%A9n) flanqueado por los lemas "Viva la República Popular China" y "Viva la Unidad de los Pueblos del Mundo".
 
@@ -58,19 +58,19 @@ De hecho, salimos de Tiananmén por la zona sur para rematar el día paseando po
 
 Inciso: los hutongs son callejones de casas bajas y comercios que están por todas partes en Pekín. Algunos de ellos están en malas condiciones (incluso aunque sean zonas protegidas de interés turístico) pero otros están muy rehabilitados y son casi de lujo. En todos ellos se puede pasear tranquilamente con seguridad.
 
-{{< image classes="image lateral" src="/img/Qianmen.jpg" title="Tienda en la zona comercial de Qianmen" cc-license="by-nc-sa" >}}
+{{< image classes="image lateral" src="https://live.staticflickr.com/65535/48813503687_0328aeaf34_h.jpg" title="Tienda en la zona comercial de Qianmen" cc-license="by-nc-sa" >}}
 
 Pekín está lleno de zonas comerciales como la Calle Qianmen, están por todas partes y son gigantes. Salvo excepciones no son zonas demasiado asequibles y en realidad buena parte de lo que no son tiendas de souvenirs son comercios de marcas _occidentales_. Si en algo destaca esta zona sobre las otras es porque está todo muy decorado con una estética muy cuidada, con esculturas delante de las tiendas más emblemáticas y con buena cantidad de restaurantes tope gama (tampoco necesariamente asequibles). De hecho, quizá está demasiado _bien puesto_ todo, pudiendo causar cierta sensación de parque temático. Se pueden ver rehabilitaciones o nuevas construcciones que usan materiales y acabados indistinguibles de los edificios supuestamente centenarios que están al lado.
 
 Los hutong de esta zona están etiquetados como el antiguo barrio rojo de Pekín, que ya no está operativo. Después de haberlos paseado un par de veces no he visto ningún parecido con otros barrios rojos que todos conocemos como el de Amsterdam. Lo que sí pude ver y disfrute mucho es a mucha gente en la misma calle o en patios jugando al [Xiangqi (ajedrez chino)](https://es.wikipedia.org/wiki/Xiangqi) o a los naipes, incluso una casucha atestada de gente con varias mesas de [Mahjong](https://es.wikipedia.org/wiki/Mahjong). Allí descubrí que existe algo tan alucinante como una mesa mezcladora de Majhong, [vean el vídeo](https://www.youtube.com/watch?v=taydgTfIQ0M).
 
-{{< image classes="image" src="/img/Xiangqi.jpg" title="Una de las muchas mesas jugando a Xiangqi en la calle" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813003583_f548cbeb06_h.jpg" title="Una de las muchas mesas jugando a Xiangqi en la calle" cc-license="by-nc-sa" >}}
 
 Terminamos el paseo por unas calles aledañas a Qianmen que aparentemente acaban de ser reconstruidas por completo encima de viejos hutongs existentes. De nuevo, poniendo un empeño enorme en conservar y mejorar su patrimonio imitando el estilo antiguo y usando materiales tradicionales. El paseo nos lleva hasta la zona de las antiguas delegaciones europeas, una ruta muy recomendable y llamativa para turistas americanos o nacionales pero quizá menos interesante para los turistas europeos.
 
 ## Parque de Jingshan
 
-{{< image classes="image lateral" src="/img/Jingshan-caligraphy.jpg" title="Arte efímero en Jingshan Park" cc-license="by-nc-sa" >}}
+{{< image classes="image lateral" src="https://live.staticflickr.com/65535/48813356561_2252fed5e0_h.jpg" title="Arte efímero en Jingshan Park" cc-license="by-nc-sa" >}}
 
 A la mañana siguiente fui directo a visitar el [Parque de Jingshan](https://es.wikipedia.org/wiki/Parque_Jingshan). Quería ver la Ciudad Prohibida desde lo alto antes de adentrarme en ella. De camino a la entrada Este del parque crucé un hutong relativamente moderno en busca (sin éxito) de una tienda de tiro con arco. No sólo era moderno y recién renovado, me atrevería a decir que era casi lujoso. Las parcelas se veían amplias, muros altos, gruesos y regulares, puertas enormes y bellamente rematadas. En varias fachadas había incluso puntos privados de recarga de coche eléctrico.
 
@@ -78,7 +78,7 @@ El parque en sí es fantástico. Nada más entrar me encuentro un grupo de honor
 
 Los antiguos pabellones de Shou Huang y el famoso mirador situado sobre la cima de la artificial Colina del Carbón no hacen sino acrecentar la sensación de majestuosidad del lugar.
 
-{{< image classes="image" src="/img/Jingshan-viewpoint.jpg" title="Las fabulosas vistas desde el Pabellón de la Primavera Duradera" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813503222_a0374af2c3_h.jpg" title="Las fabulosas vistas desde el Pabellón de la Primavera Duradera" cc-license="by-nc-sa" >}}
 
 ## Parque de Beihai
 
@@ -86,7 +86,7 @@ Me pareció espectacular allí y ahora en retrospectiva puede que incluso más. 
 
 El [Parque Beihai](https://es.wikipedia.org/wiki/Parque_Beihai) es el jardín imperial más grande del mundo, y sin duda el lago con su isla central le dan al parque un ambiente único. Situado al norte del parque, el palacio de Jingxin (Habitación del Corazón Calmado) es uno de los rincones con más encanto quizá de toda la ciudad. Es también imprescindible la visita al Muro de los 9 Dragones, que es espectacular pero puede pasar inadvertido al turista despistado dado que se encuentra fuera de los caminos principales.
 
-{{< image classes="image" src="/img/Beihai-9-dragons.jpg" title="Muro de los 9 Dragones, en Beihai Park" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813005418_e15f6120f6_h.jpg" title="Muro de los 9 Dragones, en Beihai Park" cc-license="by-nc-sa" >}}
 
 Tras Beihai me dirigí a recorrer los alrededores del lago Houhai, abarrotado de comercios y restaurantes. El hutong de Nanguanfang es una de las zonas más populares para los turistas de fuera, y se nota perfectamente tanto en los precios como en la oferta de tiendas y restaurantes. Es un paseo agradable pero no ví nada que pusiera en peligro mi economía.
 
@@ -94,7 +94,7 @@ Tras Beihai me dirigí a recorrer los alrededores del lago Houhai, abarrotado de
 
 Muy cerca de la calle Nanguanfang se encuentran la [Torre del Tambor y el Campanario](https://es.wikipedia.org/wiki/Gulou_y_Zhonglou_(Pek%C3%ADn)), perfectamente alineadas al norte del eje que forman la Ciudad Prohibida y Tiananmén. Según lo previsto, llegué a la Drum Tower un poco antes del pase que hacen un par de veces al día, con el tiempo justo para subir los chopocientos escalones, poder tomar un poco de aire y coger sitio para grabar en primera fila el espectáculo. El show dura unos dos minutos y recrea el ritual que seguían antiguamente allí. Me llamó entonces la atención que el trío que ejecuta el show es liderado por una mujer, que golpeaba enérgicamente el tambor más grande y (supongo) importante, en una ciudad en la que el 99,99% de los policías y militares eran varones.
 
-{{< image classes="image" src="/img/Drum-Tower.jpg" title="Espectáculo de percusión en la Torre del Tambor" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813504767_b7be4591d6_h.jpg" title="Espectáculo de percusión en la Torre del Tambor" cc-license="by-nc-sa" >}}
 
 Una vez abajo, en principio no debes irte sin subir de nuevo los chopocientos escalones de la Bell Tower, pero lo cierto es que las vistas son peores y lo que encuentras arriba es menos interesante salvo que seas fan de las campanas. Hay una curiosa narración de cómo se forjan las campanas en lo alto de la torre, que pude entender por encima al estar todo casi únicamente en chino.
 
@@ -112,7 +112,7 @@ Una vez dentro confirmo que el sitio dispone de muy pocas explicaciones, y lo po
 
 Después de ver en estas penosas condiciones viendo todo casi a codazos (educados y suaves, pero codazos igualmente), decido salir del circuito principal y visitar las zonas menos concurridas. La primera visita no podía ser otra que el _Pabellón Arquero_, que al final me decepciona ligeramente. La descripción histórica del lugar es muy interesante pero el contenido actual no tiene mucho de arqueril. Hay un arco, un carcaj y un puñado de flechas junto con un buen montón de otros elementos como sillas de montar a caballo. El pabellón no sólo servía como galería de tiro, sino para enfatizar la importancia del tiro con arco en la sociedad. Los emperadores Qianlong y Jiaqing recordaban constantemente a su corte que no debían olvidar sus tradiciones, su eslógan escrito por todas partes era "_Habla el lenguaje Manchú, practica tiro con arco y monta a caballo_".
 
-{{< image classes="image" src="/img/Archery-Pavilion.jpg" title="Objetos expuestos en el Pabellón Arquero de la Ciudad Prohibida" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813005458_87f8ab4396_h.jpg" title="Algunos de los objetos expuestos en el Pabellón Arquero de la Ciudad Prohibida" cc-license="by-nc-sa" >}}
 
 Ya dentro de la _Galería del Tesoro_, lo primero que encontramos es una nueva _Pared de los Nueve Dragones_. Me gusta también y se percibe hecha con más detalle que la de Bei Hai pero me impactó más la otra, quizá por ser la primera que he visto o porque al ser de doble cara y estar en mitad de un patio llama mucho más la atención. Aquí escucho una de las pocas anécdotas interesantes que me cuenta la audioguía, relativa a un fragmento de la pared hecho de madera y no de cerámica. Dice la leyenda que los artesanos que fabricaron contrarreloj dicha pared para el emperador cometieron un error de última hora y rompieron un trozo de un dragón. No tenían tiempo para moldear y cocer un nuevo azulejo, así que decidieron montarlo en madera tallada y lacarlo para que no se notara la diferencia. Con el paso de los años la diferencia fue evidente (y ahora salta a la vista desde cierta distancia) pero el truco supuestamente permitió salvar la vida de aquellos artesanos.
 
@@ -124,7 +124,7 @@ El _Jardín Imperial_, situado en el extremo norte, me resulto muy agradable per
 
 Otra zona con ticket aparte es el _Museo de Relojes_. Se visita rápido y es muy interesante, siendo una de las colecciones de relojes más completas y espectaculares del mundo. La colección está formada tanto por relojes obsequiados a los emperadores a lo largo de la historia como los fabricados allí mismo en el Palacio. Muy interesante, a pesar de no disponer de información detallada de algunos de ellos, que me habria gustado investigar en profundidad.
 
-{{< image classes="image" src="/img/Forbidden-City.jpg" title="Figuras decorativas en los tejados de la Ciudad Prohibida, exclusivas de los edificios imperiales" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813005223_dec8a28b22_h.jpg" title="Figuras decorativas en los tejados de la Ciudad Prohibida, exclusivas de los edificios imperiales" cc-license="by-nc-sa" >}}
 
 Termino mi estancia bajando de nuevo a la zona sur para visitar el _Salón de la Eminencia Militar_, subir a la _Puerta del Sur_ y recorrer un trozo de muralla, terminando con una visita al _Salón de la Gloria Literaria_ que sirve de galería de arte, principalmente de pintura. Esta exposición es de lo que más me gustó de todo el Palace Museum. Las obras reflejaban situaciones cotidianas supuestamente reales de los emperadores en Palacio y algunos de los cuadros eran espectaculares.
 
@@ -134,7 +134,7 @@ Salgo de la ciudad Prohibida por la Puerta Este y me dirijo al [Templo Imperial 
 
 El sitio es en cualquier caso muy pintoresco y lo que sí descubrí fue que estando casi vacío es ideal para fotos de boda. En un paseo breve por los jardines me encontré a más de una decena de parejas posando para sus respectivos séquitos de fotógrafos. En un callejón entre dos templos encontré incluso un par con equipos de rodaje semi-profesional que presumiblemente rodaban algún corto.
 
-{{< image classes="image" src="/img/Imperial-Ancestral-Temple.jpg" title="Una de las múltiples parejas que se fotografiaban en el Templo Imperial Ancestral" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813504322_da3ae89c60_h.jpg" title="Una de las múltiples parejas que se fotografiaban en el Templo Imperial Ancestral" cc-license="by-nc-sa" >}}
 
 ## Museo Nacional de China
 
@@ -156,7 +156,7 @@ La primera parte que se debe visitar (y ojo con hacerlo en orden, no está muy b
 
 La parte central del museo es espectacular. Al estilo del Air & Space Museum del Smithsonian, allí tienen expuestos decenas de aviones, cohetes y barcos. Como complemento en la planta inferior tienen decenas de tanques y sistemas de armamento pesado, y en las plantas superiores todo tipo de armamento ligero: pistolas, espadas, fusiles, armas automáticas, etc. Nos sorprendió (y agradó) ver que tanto en la planta baja como en las superiores junto a las piezas chinas tenían expuestas muchísimas de otros países, destancando de la URSS, USA y Japón pero también muchas europeas e incluso españolas.
 
-{{< image classes="image" src="/img/Militar-Museum-China.jpg" title="Vista parcial de la parte central del Museo Mulitar de la Revolución Popular de China" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813503987_b6f32d5297_h.jpg" title="Vista parcial de la parte central del Museo Mulitar de la Revolución Popular de China" cc-license="by-nc-sa" >}}
 
 Además de la recopilación interminable e interesante de armamento, tenían varias zonas de exposiciones sobre el potencial chino en armamento aéreo y marítimo, y las posibilidades no bélicas dela energía nuclear. La parte final, que también nos sorprendió positivamente, se centraba en arte de inspiración bélica: cuadros y esculturas principalmente. Había obras fabulosas, varias de las cuales yo colgaría en mi salón sin dudarlo.
 
@@ -168,7 +168,7 @@ La zona comercial principal está muy orientada al exterior y al ocio. Hay varia
 
 Sobre el baloncesto, [España derrotó por 95-88 a Australia](https://es.wikipedia.org/wiki/Copa_Mundial_de_Baloncesto_de_2019#Semifinales) en un apasionante partido que tuvo perdido casi todo el tiempo pero finalmente se llevó tras dos emocionantes prórrogas.
 
-{{< image classes="image" src="/img/FIBA-Worldcup-Semifinal.jpg" title="Con mi hermano celebrando la victoria después del partido" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813504707_d856f1d051_h.jpg" title="Con mi hermano celebrando la victoria en la semifinal del Mundial FIBA de Baloncesto" cc-license="by-nc-sa" >}}
 
 ## Mercado de Antigüedades de Panjiayuan
 
@@ -180,7 +180,7 @@ Al final no compré nada. No estaba aún habituado al regateo (que además no me
 
 Lo que me alucinó verdaderamente fue la gran cantidad de puestos vendiendo nueces. Los ejemplares grandes y muy simétricos son especialmente cotizados por temas culturales y tradicionales, pero allí vendían de todo tipo y tamaño. Veías en algunos puestos a compradores revisando durante minutos cada nuez que se llevaban, cuando para unos ojos no entrenados todas eran prácticamente iguales.
 
-{{< image classes="image" src="/img/Panjiayuan-walnuts.jpg" title="Escrutinio de nueces" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813503792_c77e14bf76_h.jpg" title="Escrutinio de nueces en Panjiayuan" cc-license="by-nc-sa" >}}
 
 **Recomendación bonus**: Como nota de interés para mis lectores habituales, tras buscarlos por todo Pekín creo que Panjiayuan es el mejor sitio para comprar un [Xiangqi o ajedrez chino](https://es.wikipedia.org/wiki/Xiangqi) relativamente artesanal.
 
@@ -188,7 +188,7 @@ Lo que me alucinó verdaderamente fue la gran cantidad de puestos vendiendo nuec
 
 Este [Distrito de Arte 798](https://en.wikipedia.org/wiki/798_Art_Zone), un espacio dedicado al arte que es realmente todo un distrito en el que ya no hay otra cosa, también me fascinó. Innumerables galerías de arte se mezclan con showrooms de grandes estudios y pequeños diseñadores. Han conseguido integrar perfectamente el entorno industrial de una forma fabulosa, sin hacer ningún sacrificio al disfrute de los visitantes. Entramos a unas pocas galerías, algunas de entrada gratuita y otras por un módico precio para evitar paseantes, y en general todas tenían su interés. De hecho, lo que menos nos gustó fue la [UCCA](https://es.wikipedia.org/wiki/Ullens_Center_for_Contemporary_Art), cuya entrada no era para nada barata y la exposición temporal no merecía demasiado la pena.
 
-{{< image classes="image" src="/img/798-Art-District.jpg" title="Fusión de arte y elementos industriales" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813505117_53c5eddc18_h.jpg" title="Fusión de arte y elementos industriales en el Distrito 798" cc-license="by-nc-sa" >}}
 
 Junto al arte, las omnipresentes tiendas de todo tipo, bares, restaurantes, ... otro lugar de esparcimiento más para los locales que también engancha a muchos turistas a pesar de estar lejos del centro.
 
@@ -206,7 +206,7 @@ La orilla norte estaba si cabe aún más llena de gente, siendo la zona más atr
 
 Dejé para el final la subida a la _Colina de la Longevidad_, coronada por la imponente _Pagoda del Buda Fragante_.
 
-{{< image classes="image" src="/img/Kunming-Lake.jpg" title="El fantástio Lago Kunming desde lo alto de la Colina de la Longevidad" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813504177_24e4e22549_h.jpg" title="El fantástico Lago Kunming desde lo alto de la Colina de la Longevidad" cc-license="by-nc-sa" >}}
 
 ## Antiguo Palacio de Verano
 
@@ -216,11 +216,11 @@ Es inmenso y no teníamos tiempo de verlo todo, por lo que decidimos pasear por 
 
 Hay de nuevo muchos lagos y canales conectando unos con otros, y bastantes barcos cruzando los mismos. Esta vez predominaban los barcos de uso privado, aunque también los había tipo ferry para paseos colectivos.
 
-{{< image classes="image" src="/img/Old-Summer-Palace.jpg" title="Embarcación de recreo surcando tranquilamente uno de los muchos canales" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813356236_b6b306cba1_h.jpg" title="Embarcación de recreo surcando tranquilamente uno de los muchos canales del Antiguo Palacio de Verano" cc-license="by-nc-sa" >}}
 
 Desde el Antiguo Palacio de Verano fuimos de nuevo directos a Wukesong para presenciar la fantástica final del Mundial FIBA de baloncesto, que [España conquistó al derrotar a Argentina por 75 a 95](https://es.wikipedia.org/wiki/Copa_Mundial_de_Baloncesto_de_2019#Final). Pasamos un gran rato viendo el partido y toda la ceremonia posterior de entrega de premios, que disfrutamos enormemente sin la intermediación habitual de una televisión. El público, mayoritariamente local, empezó animando claramente a España, para luego posicionarse a favor de Argentina intentando que la final tuviera algo de emoción. La Selección española encarriló muy pronto el partido y la afición local volvió a animar apasionadamente al ganador. Había bastantes aficionados locales con camisetas de los jugadores españoles, principalmente de [Ricky Rubio](https://es.wikipedia.org/wiki/Ricky_Rubio).
 
-{{< image classes="image" src="/img/Timeout-Spain.jpg" title="Tiempo muerto, no es mala foto para estar hecha sin trípode y desde el gallinero" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813355721_e52fbf2094_h.jpg" title="Tiempo muerto en la final del Mundial FIBA de Baloncesto, no es mala foto para estar hecha sin trípode y desde el gallinero" cc-license="by-nc-sa" >}}
 
 ## Senderismo por la Gran Muralla: De Jiankou a Mutianyu
 
@@ -232,11 +232,11 @@ La excursión comienza en la salida de la estación de metro de Lama Temple, un 
 
 Comentario curioso: Jiankou significa "Arrow Nock", debido a la forma de la montaña en este área.
 
-{{< image classes="image" src="/img/Great-Wall-Zhengbeilou.jpg" title="Increíbles vistas desde la Torre de Zhengbeilou, viendo cómo la Gram Muralla continúa hacia el Oeste" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813356756_af8978b5df_h.jpg" title="Increíbles vistas desde la Torre de Zhengbeilou, viendo cómo la Gram Muralla continúa hacia el Oeste" cc-license="by-nc-sa" >}}
 
 La ruta comienza fuerte, con casi 1 kilómetro de subida bastante empinada por estrechos senderos de monte hasta llegar a la Torre de Zhengbeilou, a la que trepamos de la única manera posible: usando una robusta escalera hecha con ramas. Así acechaban los mongoles,llegando entre los árboles y la maleza y trepando de con elementos improvisados en la zona, aunque en aquella época aparentemente los chinos se encargaban de talar todos los árboles y la maleza cercanos a la muralla por la zona norte para evitar que nadie llegase desapercibido.
 
-{{< image classes="image lateral" src="/img/Great-Wall-wild.jpg" title="La Gran Muralla totalmente inmersa en la naturaleza" cc-license="by-nc-sa" >}}
+{{< image classes="image lateral" src="https://live.staticflickr.com/65535/48813504472_a475efe7b7_h.jpg" title="La Gran Muralla totalmente inmersa en la naturaleza" cc-license="by-nc-sa" >}}
 
 Tras una parada en lo alto de la torre para descansar y comer algo ligero, salimos hacia el este por una parte de la muralla bastante salvaje. En todo este trozo, la naturaleza prácticamente ha engullido a la muralla y sólo hay un pequeño sendero transitable por lo alto de la misma. Desde dentro se aprecia perfectamente, pero con cierta altura puede incluso no verse tanto por los árboles colindantes que ya superan en altura la muralla como por los matorrales que crecen en lo alto de la misma. Tal y como noso advierten los guías hay que cruzar con cuidado, el terreno es irregular e incluso el muro lateral se ha desprendido en varios trozos, pero la experiencia es fabulosa. Además, sólo nos encontramos con otro pequeño grupo de tres personas en todo este tramo.
 
@@ -244,11 +244,11 @@ A lo largo de la ruta, los guías nos descubren aspectos curiosos y para mi desc
 
 Al final de este tramo sin restaurar llegamos a un trozo semi restaurado, en el que nos encontramos ya un mini puesto de recuerdos y bebidas, básicamente una señora con un tablón con cosas encima. Los guías nos avisaban con escrupuloso detalle y antelación de todo, incluyendo estos puestos, por lo que deben ser viejos conocidos.
 
-{{< image classes="image" src="/img/Great-Wall-half-wild.jpg" title="Una zona mucho más transitable de la Gran Muralla, pero con igual encanto" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813357001_58c3395ff4_h.jpg" title="Una zona mucho más transitable de la Gran Muralla, pero con igual encanto" cc-license="by-nc-sa" >}}
 
 Finalmente llegamos a la zona de Mutianyu, mucho más restaurada y plagada de gente que pulula desde el centro de visitantes. En esta zona y con tanta gente hicimos la bajada cada uno a su ritmo hasta la siguiente torre, charlando con unos y con otros. Es curioso pasar en poco tiempo de una zona en la que estabamos prácticamente solos en varios kilómetros de muralla, a otra en la que cada pocos metros había alguien subiendo, bajando o sentado descansando (las pendientes son enormes).A este fragmento de muralla se puede llegar por sendero, por escaleras, por telesilla y por teleférico. Son todo facilidades y se nota.
 
-{{< image classes="image" src="/img/Great-Wall-slopes.jpg" title="En esta foto se aprecia bastante bien alguna de las increíbles pendientes que tiene la Gran Muralla" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813356951_5a4db63280_h.jpg" title="En esta foto se aprecia bastante bien alguna de las increíbles pendientes que tiene la Gran Muralla" cc-license="by-nc-sa" >}}
 
 **Recomendación Bonus**: a estos medios de subida se une un enorme tobogán como opción de bajada, que es la que utilicé yo junto a algunos compañeros de ruta. El tobogán recorre más de 1.500 metros y salva una pendiente bastante importante. Abajo te espera tu foto en el vagón al más puro estilo Parque de Atracciones. Recomendable pero dejad espacio entre el anterior y el siguiente para evitar accidentes y para disfrutar al máximo del descenso.
 
@@ -264,7 +264,7 @@ La visita transcurre a lo largo de varios altares y templos, decorados en una in
 
 En cada templo y altar, los numerosos feligreses (y algunos turistas con dudoso respeto) quemaban incienso a mansalva y lo ofrecían a sus ídolos tras varias reverencias. Repetían el ritual en cada templo, y en ocasiones varias veces por cada una de las tallas que se encontraban.
 
-{{< image classes="image" src="/img/Lama-Temple.jpg" title="El fabuloso Pabellón Wanfuge" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813356376_3c528af4e0_h.jpg" title="El fabuloso Pabellón Wanfuge en Templo de Yonghe" cc-license="by-nc-sa" >}}
 
 ## Templo de Confucio
 
@@ -278,7 +278,7 @@ Llegué al [Parque Olímpico de Pekín](https://es.wikipedia.org/wiki/Parque_Ol%
 
 Es increíble que pudieran disponer de todo este espacio tan cerca del centro de la ciudad y lo organizaran de esta manera, incluyendo un río artificial con forma de dragón.
 
-{{< image classes="image" src="/img/Olympic-Stadium.jpg" title="Estadio Nacional de Pekín en el soleado Parque Olímpico" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813356126_bfa69e73a0_h.jpg" title="Estadio Nacional de Pekín en el soleado Parque Olímpico" cc-license="by-nc-sa" >}}
 
 **Recomendación bonus**: No coge demasiado cerca pero después de esta visita me junté con mi hermano para cenar en un fantástico restaurante especializado en cocinar con pera: **Xiao Diao Li Tang** (Zhongguancun South 1st Alley, Wudaokou, Haidian, Beijing, China): Además de muchos platos cocinados con pera, servían una fabulosa bebida melosa de pera que servían por jarras e incluso para llevar en botellas. Riquísimo.
 
@@ -290,7 +290,7 @@ Por el camino me encontré gente haciendo todo tipo de deporte y ejercicio, como
 
 El Templo de la Oración por la Buena Cosecha, el Altar Circular y el Muro del Eco son muy singulares y todos ellos lugares icónicos de Pekín que merece la pena visitar tranquilamente. También visité el Palacio del Ayuno, que es gratuito enseñando el pasaporte pero por algún motivo casi nadie visita.
 
-{{< image classes="image" src="/img/Temple-of-Heaven.jpg" title="El maravilloso Templo de la Oración por la Buena Cosecha, una de las estampas icónicas de Pekín" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813004003_b247012357_h.jpg" title="El maravilloso Templo de la Oración por la Buena Cosecha, una de las estampas icónicas de Pekín" cc-license="by-nc-sa" >}}
 
 ## Museo de la Arquitectura Antigua
 
@@ -298,7 +298,7 @@ Este _Museo de la Arquitectura Antigua_, que tampoco suele aparecer en ninguna g
 
 Sobre arquitectura, hay recreaciones de todo tipo para poder hacerse una idea de la técnica y materiales empleados en la construcción tradicional china. Hay zonas dedicadas a las vigas, incluyendo la selección de la madera apropiada; a la cerámica tanto protectora como decorativa; a la talla de piedra, etc. Lástima que como en el resto de Pekín me perdiese el 90% de las explicaciones porque apenas hay contenido en otros idiomas.
 
-{{< image classes="image" src="/img/Ancient-Architecture-Museum.jpg" title="Museo de la Arquitectura Antigua en el Templo de la Agricultura, donde el continente impresionaba tanto o más que el contenido" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813504992_45abfb3b9b_h.jpg" title="Museo de la Arquitectura Antigua en el Templo de la Agricultura, donde el continente impresionaba tanto o más que el contenido" cc-license="by-nc-sa" >}}
 
 ## Museo de la Ciencia y la Tecnología de China
 
@@ -322,7 +322,7 @@ El [Antiguo Observatorio de Pekín](https://en.wikipedia.org/wiki/Beijing_Ancien
 
 Además de la torre y sus instrumentos, también puede visitarse una exposición sobre el uso de dichos instrumentos y personalidades importantes de China relacionadas con la Astronomía en toda la historia. Algunas de esas personalidades fueron europeos que viajaron en algún momento y decidieron quedarse a sacar partido a los medios que allí encontraban.
 
-{{< image classes="image" src="/img/Ancient-Observatory.jpg" title="Antiguo Observatorio de Pekín, con sus enormes esferas armilares, sextantes, azimuts, cuadrantes y esferas celestiales" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://live.staticflickr.com/65535/48813003763_203707e736_h.jpg" title="Antiguo Observatorio de Pekín, con sus enormes esferas armilares, sextantes, azimuts, cuadrantes y esferas celestiales" cc-license="by-nc-sa" >}}
 
 ## Mercado de la Perla y Mercado de la Seda
 
