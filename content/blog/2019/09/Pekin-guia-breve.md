@@ -48,7 +48,7 @@ Al llegar me encontré la primera sorpresa. A pesar de que la simbólica plaza m
 
 {{< image classes="image" src="https://live.staticflickr.com/65535/48813355921_b8d822ff70_h.jpg" title="Control de seguridad para acceder a Tiananmen" cc-license="by-nc-sa" >}}
 
-Primer momento de masificación, rodeados de chinos pero todos o casi todos eran visitantes de fuera de Pekín. Los habitantes locales evitarán esta zona a toda costa. Esto hace que la sensación desde la plaza sea un poco _artificial_, dado que por ella nadie circula o pasea, sólo se visita como un monumento más. La escena es de todos modos espectacular desde la gran explanada, frente al icónico retrato de [Mao Zedong](https://es.wikipedia.org/wiki/Mao_Zedong) en la fachada de la [**Puerta de Tiananmén**](https://es.wikipedia.org/wiki/Puerta_de_Tiananm%C3%A9n) flanqueado por los lemas "Viva la República Popular China" y "Viva la Unidad de los Pueblos del Mundo".
+Primer momento de masificación, rodeados de chinos pero todos o casi todos eran visitantes de fuera de Pekín. Los habitantes locales evitarán esta zona a toda costa. Esto hace que la sensación desde la plaza sea un poco _artificial_, dado que por ella nadie circula o pasea, sólo se visita como un monumento más. La escena es de todos modos espectacular desde la gran explanada, frente al icónico retrato de [**Mao Zedong**](https://es.wikipedia.org/wiki/Mao_Zedong) en la fachada de la [**Puerta de Tiananmén**](https://es.wikipedia.org/wiki/Puerta_de_Tiananm%C3%A9n) flanqueado por los lemas "_Viva la República Popular China_" y "_Viva la Unidad de los Pueblos del Mundo_".
 
 Todo estaba ya cerrado pero pudimos pasear tranquilos por la plaza viendo por fuera el [**Monumento a los Héroes del Pueblo**](https://es.wikipedia.org/wiki/Monumento_a_los_H%C3%A9roes_del_Pueblo), el [**Mausoleo de Mao**](https://es.wikipedia.org/wiki/Mausoleo_de_Mao_Zedong), los impresionantes edificios del [**Gran Salón del Pueblo**](https://es.wikipedia.org/wiki/Gran_Sal%C3%B3n_del_Pueblo) o el [**Museo Nacional de China**](https://es.wikipedia.org/wiki/Museo_Nacional_de_China) y la majestuosa [**Puerta de Zhengyangmen**](https://es.wikipedia.org/wiki/Zhengyangmen) cerrando la plaza por el Sur.
 
@@ -76,7 +76,7 @@ A la mañana siguiente fui directo a visitar el [**Parque de Jingshan**](https:/
 
 El parque en sí es fantástico. Nada más entrar me encuentro un grupo de honorables ancianos escribiendo en las baldosas del suelo con agua como única tinta para sus grandes pinceles. Una lástima no entender lo que ponían, pero al menos estéticamente la caligrafía me pareció impecable. El parque está lleno, como en muchos otros parajes de Pekín, de gente haciendo todo tipo de ejercicio.
 
-Los antiguos pabellones de Shou Huang y el famoso mirador situado sobre la cima de la artificial _Colina del Carbón_ no hacen sino acrecentar la sensación de majestuosidad del lugar.
+Los antiguos pabellones de Shou Huang y el famoso mirador situado sobre la cima de la artificial **Colina del Carbón** no hacen sino acrecentar la sensación de majestuosidad del lugar.
 
 {{< image classes="image" src="https://live.staticflickr.com/65535/48813503222_a0374af2c3_h.jpg" title="Las fabulosas vistas desde el Pabellón de la Primavera Duradera" cc-license="by-nc-sa" >}}
 
@@ -84,11 +84,11 @@ Los antiguos pabellones de Shou Huang y el famoso mirador situado sobre la cima 
 
 Me pareció espectacular allí y ahora en retrospectiva puede que incluso más. Lo recorrí muy tranquilamente casi por completo, caminando dado que aquí dentro no se permiten las bicicletas debido a la habitual masificación. Yo no encontré demasiada gente, la verdad.
 
-El [Parque Beihai](https://es.wikipedia.org/wiki/Parque_Beihai) es el jardín imperial más grande del mundo, y sin duda el lago con su isla central le dan al parque un ambiente único. Situado al norte del parque, el _Palacio de Jingxin_ (Habitación del Corazón Calmado) es uno de los rincones con más encanto quizá de toda la ciudad. Es también imprescindible la visita al Muro de los 9 Dragones, que es espectacular pero puede pasar inadvertido al turista despistado dado que se encuentra fuera de los caminos principales.
+El [Parque Beihai](https://es.wikipedia.org/wiki/Parque_Beihai) es el jardín imperial más grande del mundo, y sin duda el lago con su isla central le dan al parque un ambiente único. Situado al norte del parque, el **Palacio de Jingxin** (Habitación del Corazón Calmado) es uno de los rincones con más encanto quizá de toda la ciudad. Es también imprescindible la visita al Muro de los 9 Dragones, que es espectacular pero puede pasar inadvertido al turista despistado dado que se encuentra fuera de los caminos principales.
 
 {{< image classes="image" src="https://live.staticflickr.com/65535/48813005418_e15f6120f6_h.jpg" title="Muro de los 9 Dragones, en Beihai Park" cc-license="by-nc-sa" >}}
 
-Tras Beihai me dirigí a recorrer los alrededores del _Lago Houhai_, abarrotado de comercios y restaurantes. El hutong de _Nanguanfang_ es una de las zonas más populares para los turistas de fuera, y se nota perfectamente tanto en los precios como en la oferta de tiendas y restaurantes. Es un paseo agradable pero no ví nada que pusiera en peligro mi economía.
+Tras Beihai me dirigí a recorrer los alrededores del **Lago Houhai**, abarrotado de comercios y restaurantes. El hutong de **Nanguanfang** es una de las zonas más populares para los turistas de fuera, y se nota perfectamente tanto en los precios como en la oferta de tiendas y restaurantes. Es un paseo agradable pero no ví nada que pusiera en peligro mi economía.
 
 ## Torres del Tambor y del Campanario
 
