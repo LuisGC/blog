@@ -1,5 +1,7 @@
 <div class="{{ .Get "classes" }}">
-  <img src="{{ .Get "src" }}" alt="{{ .Get "title" }}">
+  {{ with .Get "imagelink"}}<a href="{{.}}">{{ end }}
+    <img src="{{ .Get "src" }}" alt="{{ .Get "title" }}">
+  {{ if .Get "imagelink"}}</a> {{ end }}
   <figcaption>
     {{ .Get "title" }}
     {{ with .Get "sourcelink"}}<br />Source: <a href="{{.}}"> {{ end }}
