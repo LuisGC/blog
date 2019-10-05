@@ -10,7 +10,7 @@ featuredalt = "Quite excited to be in Tiananmen Square, and ready to discuss abo
 featuredpath = "Quite excited to be in Tiananmen Square, and ready to discuss about Software Freedom - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
 +++
 
-_**Disclaimer**: Por pura necesidad esta entrada será más breve de lo que me gustaría (aunque no lo parezca) y en castellano, a pesar de que más del 90% de mis lectores (según Google Analytics) no tienen el castellano como lengua principal. Por primera vez he conseguido ir tomando notas durante el viaje y esta vez me tengo que limitar a transcribir dichas notas._
+_**Disclaimer**: Out of necessity, this entry will be shorter than I would like (although it may not seem so) and in Spanish, despite more than 90% of my readers (according to Google Analytics) do not have Spanish as their main language. For the first time I managed to take notes during the trip and I had to limit myself to transcribe those notes._
 
 Nunca había visitado Asia y llevaba años con esa espinita clavada. Este año no tenía compromisos cerrados y pensé que no tenía excusa. Inicialmente me valía casi cualquier destino porque varios me llaman la atención: Vietnam, Japón, China, Tailandia, ... pero una circunstancia me hizo decantarme por China y en concreto por **Pekín**: ofrecieron a mi hermano un mes de estancia allí y aunque mi plan era viajar sólo, resultaba apetecible y atractivo poder cenar o incluso pernoctar con él.
 
