@@ -108,7 +108,7 @@ jobs:
               # go into directory and copy data we're interested in to that directory
               cd built_website
               echo "rsync built code with checked out code..."
-              sudo apt install rsync
+              apt-get -y install rsync
               rsync -r --exclude=.git --exclude=CNAME --exclude=LICENSE --exclude=README.md ../$HUGO_OUTPUT_FOLDER/ .
 
               echo "add files to git..."
