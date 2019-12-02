@@ -25,9 +25,11 @@ Let me summarize some of the talks I attended:
 
 [**Staying Safe in the AI Future**](https://www.bigthingsconference.com/2019/schedule/staying-safe-in-the-ai-future/), by Cassie Kozyrkov ([@quaesita](https://twitter.com/quaesita))
 
+Very interesting and appropriate opening keynote by Cassie, focusing on the problems and lack of reliability that we can introduce to the data if we don't put enough care. I took with me several good tips to apply and nice definitions like Algorithmic bias, that occurs when a computer system reflects the implicit values of the humans that created it.
+
 [**Solving Natural Language problems with scarce data**](https://www.bigthingsconference.com/2019/schedule/solving-natural-language-problems-with-scarce-data/), by Álvaro Barbero Jiménez ([@albarjip](https://twitter.com/albarjip))
 
-[**The present and the future of Cloudera**](https://www.bigthingsconference.com/2019/schedule/the-present-and-the-future-of-cloudera/), by Óscar Martínez Rubi
+This talk by Álvaro was one of my favorites of all the conference. He delivered a complete overview, explaining a lot of concepts and providing valuable learnings. Thanks to him I discovered interesting things like [**FastText**](https://fasttext.cc/) and [**Bert**](https://arxiv.org/abs/1810.04805).
 
 [**Delta Lake: Reliability and Data Quality for Data Lakes and Apache Spark**](https://www.bigthingsconference.com/2019/schedule/delta-lake-reliability-and-data-quality-for-data-lakes-and-apache-spark/), by Michael Armbrust ([@michaelarmbrust](https://twitter.com/michaelarmbrust))
 
