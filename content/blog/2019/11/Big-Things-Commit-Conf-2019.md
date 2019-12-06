@@ -96,6 +96,10 @@ I can not imagine how this talk could have been improved in content or execution
 
 [**Micronaut y GraalVM: La combinación perfecta**](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5137837183729664/5636039834075136), by Iván López ([@ilopmar](https://twitter.com/ilopmar))
 
+Any talk by Ivan is sure success. He knows how to communicate and knows how to develop the storyline of the presentation, usually including a final demo to consolidate the message. In this talk the content was as usual very detailed and tremendously interesting, stressing how [Micronaut](https://micronaut.io/) matches perfectly with [GraalVM](https://www.graalvm.org/), because of the [reflection](https://en.wikipedia.org/wiki/Reflection_(computer_programming))-less, [AoT compilation](https://en.wikipedia.org/wiki/Ahead-of-time_compilation) and [reactive](https://en.wikipedia.org/wiki/Reactive_programming) design of Micronaut.
+
+[Spring](https://spring.io/) and other frameworks are waking up, but Micronaut clearly has a nice starting position in the race to dominate the next era of micro-services.
+
 [**¿Quién manda en tu lenguaje de programación favorito? 2019 Edition!!**](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5137837183729664/5632673116585984), by **me!**
 
 [**¿Quieres un buen modelo de Machine Learning? Empieza por el procesado de datos**](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5137837183729664/5202217602646016), by Axel Blanco
