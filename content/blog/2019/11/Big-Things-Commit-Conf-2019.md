@@ -31,17 +31,34 @@ Very interesting and appropriate opening keynote by Cassie, focusing on the prob
 
 This talk by Álvaro was one of my favorites of all the conference. He delivered a complete overview, explaining a lot of concepts and providing valuable learnings. Thanks to him I discovered interesting things like [**FastText**](https://fasttext.cc/) and [**Bert**](https://arxiv.org/abs/1810.04805).
 
-[**Delta Lake: Reliability and Data Quality for Data Lakes and Apache Spark**](https://www.bigthingsconference.com/2019/schedule/delta-lake-reliability-and-data-quality-for-data-lakes-and-apache-spark/), by Michael Armbrust ([@michaelarmbrust](https://twitter.com/michaelarmbrust))
-
 [**Operationalizing Data Science using the Azure stack**](https://www.bigthingsconference.com/2019/schedule/operationalizing-data-science-using-the-azure-stack/), by María Medina ([@mariamedp](https://twitter.com/mariamedp))
+
+María gave a very good overview of the Microsoft Azure Machine Learning stack, focusing specially on what she called the MLOps approach, using Azure capabilities to build a complete CI and CD pipelines for your ML models.
 
 [**From Big Data to Artificial Intelligence. Descriptive Vs predictive**](https://www.bigthingsconference.com/2019/schedule/from-big-data-to-artificial-intelligence-descriptive-vs-predictive/), by Marco Benjumeda
 
+Marco explained what could be the dream job for a soccer fan, working for a company that provides advanced analytics and insights for top clubs related to performance (past and expected) of any soccer player. He did not gave a detailed explanation on the technology side, but instead showed with passion all the capabilities provided by the tools (one by one) they are building. Interesting talk, although it could have been marked as _business_ instead of _technical_.
+
 [**From HBDM (Human-Based Data Management) to AIDM (Artificial Intelligence Data Management)**](https://www.bigthingsconference.com/2019/speakers/oscar-mendez/), by Óscar Méndez ([@omendezsoto](https://twitter.com/omendezsoto))
+
+Óscar gave a nice opening session for the second conference day. In summary, he explained the importance of trusted data as a concept to build on top of the rest. He also stressed the relevance of a strong business data layer, abstracting business users from the data assets complexity.
+
+A couple of good remarks, although he lost me with the frequent marketing messages and some bold assumptions about what others are (or aren't doing).
 
 [**Omni-Channel Customer-Centric Strategies in a Modern Architecture**](https://www.bigthingsconference.com/2019/schedule/omni-channel-customer-centric-strategies-in-a-modern-architecture/), by **me** and Pablo Ruiz Subira ([@prsubi](https://twitter.com/prsubi))
 
+I've been working with Pablo on this topic during the last months (I could say years even). Before last Summer we decided that this could provide valuable insights for others working on similar things, so we sent a proposal. We wanted to deliver the talk we would have loved to receive a couple of years ago.
 
+The talk is about the design choices, strategies and patterns that we strongly recommend to build a modern, flexible and powerful communications architecture. It contains theoretical concepts, detailed tips and an opinionated section with several lessons learned by us during this (ongoing) effort. Key messages:
+
+* You cannot be relevant if your strategy is not customer-centric, learning from the behavior and responses of your customers
+* You cannot be coherent if your strategy is not fully omni-channel, with advisory, commercial and operative communications serving the same purpose and strategy
+* A micro-services architecture will help you, but focus on a proper isolation of responsibilities regardless your overall architecture design
+* _Big Data capabilities_ will be required for an advance and mature proposal, but it is not the first or most important component
+
+You can check the slides in my [talks](/talks) section, but the complete message is not in the deck so consider waiting for the video (the session was recorded by the organization).
+
+I will not judge the value or success of the talk, but we are very happy with the result and the execution. The feedback that we have received is also very positive so I suppose it was worthy also for the audience.
 
 # Commit Conf 2019
 
