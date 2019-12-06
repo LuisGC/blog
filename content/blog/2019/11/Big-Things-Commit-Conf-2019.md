@@ -62,9 +62,23 @@ I will not judge the value or success of the talk, but we are very happy with th
 
 # Commit Conf 2019
 
-[**Commit Conf 2019**](https://2019.commit-conf.com/) is also one of the biggest conferences in Spain related to software development. The contents are more generic and the public is completely different, as the target audience is developers or students. The numbers for 2019 were impressive: 9 tracks in parallel (+ 3 workshop tracks), more than 2,000 attendees and 140 talks/workshops.
+[**Commit Conf 2019**](https://2019.commit-conf.com/) is also one of the biggest conferences in Spain related to software development. The contents are more generic and the public is completely different, as the target audience are developers or students. The numbers for 2019 were impressive: 9 tracks in parallel (+ 3 workshop tracks), more than 2,000 attendees and 140 talks/workshops.
 
 [**Design principles for an Event Driven Architecture in an Event Driven World**](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5690945286701056/5749033075212288), by **me** and Pablo Ruiz Subira ([@prsubi](https://twitter.com/prsubi))
+
+Second talk of the week for Pablo and me. First slot after the opening keynote in one of the largest spaces of the conference, and the room was packed full with people even in the floor and against the lateral walls. It's quite thrilling to start a conference like this.
+
+This is not strictly a talk about what we do in ING (although we do most of this) and neither is about encouraging anyone to build micro-services. Our objective was to explain, for those that have already decided to build a micro-services architecture, the benefits of going one step forward building a complete [Event-Driven Architecture](https://en.wikipedia.org/wiki/Event-driven_architecture).
+
+We explained several concepts, with theoretical and practical explanations combined with real examples: Event taxonomy, correlation, inference, reference data management, choreography, orchestration, data lineage, data segregation, ...
+
+This time our engagement with the audience was much bigger, most probably because in Spanish we are more fluent and comfortable but also because the audience in Commit Conf is much more technical. The questions from the audience complemented perfectly the message, as a proof that they got the content perfectly to the point they were thinking on the next level and the corner cases.
+
+The slides can be found as well in the [talks](/talks) section, but again if you are interested it's probably better to watch the recording as it is already online (in Spanish):
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/eNWyPV7wcaY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+Again, very happy with the result and our execution, and the feedback we are receiving is impressively positive.
 
 [**En un mundo hiperconectado, las bases de datos de grafos son tu arma secreta**](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5690945286701056/6331574253518848), by Javier Ramírez ([@supercoco9](https://twitter.com/supercoco9))
 
