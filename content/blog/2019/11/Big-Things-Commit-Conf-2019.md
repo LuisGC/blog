@@ -82,11 +82,17 @@ Again, very happy with the result and our execution, and the feedback we are rec
 
 [**En un mundo hiperconectado, las bases de datos de grafos son tu arma secreta**](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5690945286701056/6331574253518848), by Javier Ramírez ([@supercoco9](https://twitter.com/supercoco9))
 
-Yet another talk about graph databases, and again about the basic concepts. I was suspicious, and the talk was clearly tagged as _beginner_ content, but I attended anyway because I like this speaker. I discovered later that the deck was more extensive for longer sessions and sadly (for me) we skipped most of the slides I was more interested. Having said that, I discovered Gremlin and how Amazon Neptune works, and both look nice.
+Yet another talk about graph databases, and again about the basic concepts. I was suspicious, and the talk was clearly tagged as _beginner_ content, but I attended anyway because I like this speaker. I discovered later that the deck was more extensive for longer sessions and sadly (for me) we skipped most of the slides I was more interested. Having said that, I discovered [Gremlin](https://tinkerpop.apache.org/gremlin.html) and how [Amazon Neptune](https://aws.amazon.com/es/neptune/) works, and both look nice.
 
 Very good talk by Javier, reinforcing my eagerness to go deeper into this topic (as soon as I can park the other million things I'm dealing with nowadays).
 
 [**Python para administradores de sistemas**](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5690945286701056/5700831059902464), by Alejandro Guirao Rodríguez ([@lekum](https://twitter.com/lekum))
+
+Alejandro, apart from a very good friend, is also an extremely good speaker. He always prepares the contents thoroughly, and he is clearly gaining confidence talk after talk, conference after conference. Proof of that was the intro and closure playing the ukelele, as an analogy of Python as a multi-purpose simple but powerful and joyful instrument.
+
+I loved the storyline putting the audience under the skin of Nerea, explaining how she can deal with diverse and different problems in her daily job as system administrator using just Python. Alex gave not only the examples but also useful references to the standard libraries and modules used on those examples.
+
+I can not imagine how this talk could have been improved in content or execution. You shouldn't miss it.
 
 [**Micronaut y GraalVM: La combinación perfecta**](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5137837183729664/5636039834075136), by Iván López ([@ilopmar](https://twitter.com/ilopmar))
 
