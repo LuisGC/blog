@@ -78,7 +78,7 @@ The slides can be found as well in the [talks](/talks) section, but again if you
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/eNWyPV7wcaY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-Again, very happy with the result and our execution, and the feedback we are receiving is impressively positive.
+Again, very happy with the result and our execution, and the [feedback we are receiving](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5690945286701056/5749033075212288) is impressively positive.
 
 [**En un mundo hiperconectado, las bases de datos de grafos son tu arma secreta**](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5690945286701056/6331574253518848), by Javier Ramírez ([@supercoco9](https://twitter.com/supercoco9))
 
@@ -102,7 +102,18 @@ Any talk by Ivan is sure success. He knows how to communicate and knows how to d
 
 [**¿Quién manda en tu lenguaje de programación favorito? 2019 Edition!!**](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5137837183729664/5632673116585984), by **me!**
 
-[**¿Quieres un buen modelo de Machine Learning? Empieza por el procesado de datos**](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5137837183729664/5202217602646016), by Axel Blanco
+The last and for sure the most difficult of the three talks I delivered. I already gave this talk in Codemotion 2015, but in just four years the ecosystem has changed completely so it was not just doing a few small updates. Just collecting the contents takes weeks, arranging them together in a comprehensible and interesting way (at least attempting to) takes more weeks... I will consider offering this talk to other upcoming events to make up for the invested effort. The good news is that I love this topic and I really enjoy researching for it.
+
+I have always wondered why we always focus on the technical details, forgetting about the ethical aspects of technology. Back in 2015 I chose to focus on programming languages, but the approach can be applied to other concepts. This talk is not about which programming language has this or that capability, or which one has more functional traits. What I wanted to analyze is how ethical, diverse and healthy is a programming language and the community around it.
+
+In this talk I explain what can be measured and analyzed regarding ethics and governance in programming languages, and I present a critical analysis of **fourteen** different languages (two more than in 2015), not just the most popular ones but specially those with some special peculiarity. Furthermore, I can spend hours talking about this but I need to be fast and concise to end in about 35-40 minutes.
+
+The [slides are already online](https://luiyo.net/concerning-governance-programming-languages-2019/) and the storyline should be easy to follow, but I will share the link to the video as soon as the organization makes it available.
+
+Again, I'm very happy with the final materials and my execution, and the attendees gave me a [extremely good feedback](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5137837183729664/5632673116585984). I'm very glad they enjoyed it as much as I did.
+
+[**¿Quieres un buen modelo de Machine Learning? Empieza por el procesado de datos**](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5137837183729664/5202217602646016), by Axel Blanco ([@drimmark](https://twitter.com/drimmark))
+
 
 [**Déjame que te hable de Perl 6**](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5137837183729664/5752839255097344), by JJ Merelo ([@jjmerelo](https://twitter.com/jjmerelo))
 
