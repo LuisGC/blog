@@ -120,6 +120,10 @@ Axel presented the basic concepts of Big Data and Machine Learning, explaining t
 
 [**Déjame que te hable de Perl 6**](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5137837183729664/5752839255097344), by JJ Merelo ([@jjmerelo](https://twitter.com/jjmerelo))
 
+After my research about Raku (formerly called Perl 6) for my own talk, and knowing JJ Merelo since long time ago, I was curious about this presentation. JJ is very involved internationally in the Perl community and now especially in the Raku community. Neither the talk nor the speaker disappointed.
+
+JJ made a nice overview of the important traits that a modern programming language needs to have, and reviewed each of them with a different language: Scala, Julia, Kotlin, Python, TypeScript, Elixir, F#, Rust, ... When we were all wondering where Raku would appear, the speaker showed us how all those capabilities are also in Raku. As a consequence, he ended his talk promoting Raku as an unbeatable language for teaching and learning, since with it you can use and understand modern patterns and usages.
+
 [**Construyendo Cultura de Datos**](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5137837183729664/5767262292148224), by Rodrigo Quintana and Javier Serrano
 
 
