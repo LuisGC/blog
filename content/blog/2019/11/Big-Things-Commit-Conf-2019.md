@@ -11,11 +11,13 @@ featuredpath = "Greach Conference 2019"
 
 {{< image classes="image lateral" src="https://placeholder.pics/svg/576x1024/DEDEDE/FF0000/Placeholder%20Pic" title="Greach 2019" >}}
 
-Last week it was very special, as I had the opportunity and the privilege to deliver [three different talks, in three consecutive days, in two international events](https://twitter.com/luiyo/status/1194750663428837381): **Big Things Conference 2019** and **Commit Conf 2019**. This crazy coincidence forces me to write one single post to summarize my experience in both events, starting with an overview of my three talks.
+A few days ago I had the opportunity and the privilege to deliver [**three** different talks, in **three** consecutive days, in **two** international events](https://twitter.com/luiyo/status/1194750663428837381): **Big Things Conference 2019** and **Commit Conf 2019**. This crazy coincidence forces me to write one single post to summarize my experience in both events, including an overview of my three talks.
 
-**TLDR;**
+Taking advantage of this, I have also created a new section on this website to publish the [main public talks](/talks) that I'm proudly giving. For each talk you will find some basic data, a link to the slides, and also a link to the video for those that are recorded and published.
 
-Taking advantage of this, I've created a new section on this website to publish the [main public talks](/talks) I'm proudly giving. For each talk you will find some basic data, a link to the slides, and also a link to the video for those talks that are recorded and published.
+Before continuing, I want to thank **Pablo Ruiz Subira** publicly again for letting me mess with his time. I encouraged him to give a talk, and he has not only done it (three times, if we also count a Meetup talk in October) but also at a great level. It has been especially hard for him to prepare all this, at a time when his family (with a small child and a baby) deserve much more attention than everything else.
+
+**TLDR;** Delivering three talks in just three days is tough, but as usual the feedback from your peers makes the effort worthwhile. I'm very happy with how the three talks turned out, and despite skipping several slots to prepare things and talk with as many colleagues as possible, my selection of talks was also nice and I learned a lot.
 
 Let me summarize some of the talks I attended:
 
