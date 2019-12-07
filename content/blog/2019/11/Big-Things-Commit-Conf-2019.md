@@ -126,5 +126,8 @@ JJ made a nice overview of the important traits that a modern programming langua
 
 [**Construyendo Cultura de Datos**](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5137837183729664/5767262292148224), by Rodrigo Quintana and Javier Serrano
 
+Rodrigo and Javier explained how their employer, [Clarity](https://clarity.ai/), is nurturing a Data Culture across the company, including a complete transformation in the structure of the teams. They also showed, with total transparency, their technology stack both for for traditional services and data science.
+
+I was surprised to see the similarities between what Clarity does with their client companies data and what we do with different platforms. Well structured and very well explained talk about strategies, languages and technologies they use in their daily challenges. I hope to see other Clarity talks one day in more detail
 
 And that's all. **See you in Big Things Conference 2020 and Commit Conf 2020 !!**
