@@ -114,6 +114,9 @@ Again, I'm very happy with the final materials and my execution, and the attende
 
 [**¿Quieres un buen modelo de Machine Learning? Empieza por el procesado de datos**](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5137837183729664/5202217602646016), by Axel Blanco ([@drimmark](https://twitter.com/drimmark))
 
+A well structured talk, it's a pity that he did not enter into something more detailed but it's fine as the talk was labeled as _beginner_. As a suggestion to improve, sometimes the talk was more like a commercial presentation about what Keepler (his employer) offers (both to customers and engineers).
+
+Axel presented the basic concepts of Big Data and Machine Learning, explaining the life cycle of the data and highlighting the importance of the data processing step not only in traditional data warehousing environments but specially in Big Data architectures where any inconsistency might introduce a terrible bias. Very interesting insights about when to apply batch or streaming processing.
 
 [**Déjame que te hable de Perl 6**](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5137837183729664/5752839255097344), by JJ Merelo ([@jjmerelo](https://twitter.com/jjmerelo))
 
