@@ -13,7 +13,7 @@ A few days ago I had the opportunity and the privilege to deliver [**three** dif
 
 Taking advantage of this, I have also created a new section on this website to publish the [main public talks](/talks) that I'm proudly giving. For each talk you will find some basic data, a link to the slides, and also a link to the video for those that are recorded and published.
 
-Before continuing, I want to thank **Pablo Ruiz Subira** publicly again for letting me mess with his time. I encouraged him to give a talk, and he has not only done it (three times, if we also count a Meetup talk in October) but also at a great level. It has been especially hard for him to prepare all this, at a time when his family (with a small child and a newborn baby) deserve much more attention than everything else.
+Before continuing, I want to thank **Pablo Ruiz Subira** publicly again for letting me complicate his life. I encouraged him to give a talk, and he has not only done it (three times, if we also count a Meetup talk in October) but also at a great level. It has been especially hard for him to prepare all this, at a time when his family (with a small child and a newborn baby) deserve much more attention than everything else.
 
 {{< image classes="image" src="https://live.staticflickr.com/65535/49188501382_4f0187ad25_k.jpg" title="With Pablo before our packed full session at Commit Conf 2019" >}}
 
