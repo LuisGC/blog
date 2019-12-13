@@ -25,7 +25,7 @@ I have visited **19 out of 193** countries (among those [recognized by United Na
 ## 2019
 
 * <span>OCT</span> <p>[Commit Conf](/blog/2019/12/big-things-commit-conf-2019/), Madrid (Spain)</p>
-* <span>OCT</span> <p>[Big Things Conference](blog/2019/12/big-things-commit-conf-2019/), Madrid (Spain)</p>
+* <span>OCT</span> <p>[Big Things Conference](/blog/2019/12/big-things-commit-conf-2019/), Madrid (Spain)</p>
 * <span>SEP</span> <p>Amsterdam (Netherlands)</p>
 * <span>SEP</span> <p>[Beijing and the Great Wall](/blog/2019/09/pekin-guia-breve/) (China)</p>
 * <span>SEP</span> <p>Huelva (Spain)</p>
