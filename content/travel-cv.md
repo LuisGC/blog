@@ -24,13 +24,13 @@ I have visited **19 out of 193** countries (among those [recognized by United Na
 
 ## 2019
 
-* <span>OCT</span> <p>Commit Conf, Madrid (Spain)</p>
-* <span>OCT</span> <p>Big Things Conference, Madrid (Spain)</p>
+* <span>OCT</span> <p>[Commit Conf](/blog/2019/12/big-things-commit-conf-2019/), Madrid (Spain)</p>
+* <span>OCT</span> <p>[Big Things Conference](blog/2019/12/big-things-commit-conf-2019/), Madrid (Spain)</p>
 * <span>SEP</span> <p>Amsterdam (Netherlands)</p>
-* <span>SEP</span> <p>Beijing and the Great Wall (China)</p>
+* <span>SEP</span> <p>[Beijing and the Great Wall](/blog/2019/09/pekin-guia-breve/) (China)</p>
 * <span>SEP</span> <p>Huelva (Spain)</p>
   - El Rompido, Ayamonte and Vila Real de Santo Antonio (Portugal)
-* <span>AGO</span> <p>Tolkien 2019 - Birmingham (United Kingdom)</p>
+* <span>AGO</span> <p>[Tolkien 2019](/blog/2019/08/tolkien-2019-in-birmingham/) - Birmingham (United Kingdom)</p>
 * <span>JUL</span> <p>Katowice (Poland)</p>
 * <span>JUN</span> <p>Noordwijk (Netherlands)</p>
 * <span>MAY</span> <p>Amsterdam (Netherlands)</p>
