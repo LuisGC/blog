@@ -136,7 +136,9 @@ In this talk I explain what can be measured and analyzed regarding ethics and go
 
 {{< image classes="image" src="https://live.staticflickr.com/65535/49188307861_7c0abafef8_k.jpg" title="Thats me talking about Clojure at Commit Conf 2019" source="CommitConf" sourcelink="https://www.flickr.com/photos/145448896@N02/49157530163/" >}}
 
-The [slides are already online](https://luiyo.net/concerning-governance-programming-languages-2019/) and the storyline should be easy to follow, but I will share the link to the video as soon as the organization makes it available.
+The [slides are already online](https://luiyo.net/concerning-governance-programming-languages-2019/) and the storyline should be easy to follow, but if you understand Spanish I recommend you to watch the video:
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/3hKzgz1eNqA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Again, I'm very happy with the final materials and my execution, and the attendees gave me a [extremely good feedback](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5137837183729664/5632673116585984). I'm very glad they enjoyed it as much as I did.
 
