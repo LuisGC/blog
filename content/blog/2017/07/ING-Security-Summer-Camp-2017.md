@@ -4,7 +4,6 @@ title = "ING Security Summer Camp 2017"
 date = "2017-07-26"
 type = "post"
 categories = ["post"]
-tags = ["post"]
 tags = ["personal", "programming", "internet", "computer-science", "linux", "technology", "culture"]
 status = "published"
 featured = "https://live.staticflickr.com/65535/48610763241_2c5618d6a9_o.png"

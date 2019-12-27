@@ -4,7 +4,6 @@ title = "Susan Gerbic in Skeptics in the Pub Madrid"
 date = "2017-09-24"
 type = "post"
 categories = ["post"]
-tags = ["post"]
 tags = ["skeptics-in-the-pub", "outreach", "event", "technology", "skepticism", "science"]
 status = "published"
 featured = "https://live.staticflickr.com/65535/48610741916_a5bcb82660_o.jpg"

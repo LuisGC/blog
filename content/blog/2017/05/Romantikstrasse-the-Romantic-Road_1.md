@@ -4,7 +4,6 @@ title = "Romantikstraße, the Romantic Road (1 of 5)"
 date = "2017-05-28"
 type = "post"
 categories = ["post"]
-tags = ["post"]
 tags = ["personal", "tourism", "holidays"]
 status = "published"
 featured = "https://live.staticflickr.com/65535/48611202407_32db4d7746_o.jpg"

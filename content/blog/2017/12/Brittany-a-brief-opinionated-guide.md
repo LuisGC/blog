@@ -4,7 +4,6 @@ title = "Brittany: a brief opinionated guide"
 date = "2017-12-31"
 type = "post"
 categories = ["post"]
-tags = ["post"]
 tags = ["personal", "tourism", "holidays", "history"]
 status = "published"
 featured = "https://live.staticflickr.com/65535/48609293977_2cc32f1872_o.jpg"
