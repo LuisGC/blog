@@ -28,6 +28,8 @@ disableLanguages        = [""]
   # Sets which Social Share links appear in posts.
   # Options are twitter, facebook, reddit, linkedin, pinterest, email
   socialShare           = [""]
+  # Order tags by count
+  tagsByCount           = true
 
   [params.meta]
     # Sets the meta tag description
