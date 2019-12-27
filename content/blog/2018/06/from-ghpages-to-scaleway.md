@@ -3,7 +3,8 @@ author = "LuisGC"
 title = "From GitHub Pages to Scaleway"
 date = "2018-06-02"
 type = "post"
-categories = ["open-source", "technology", "english", "linux", "programming", "internet", "computer-science", "personal"]
+categories = ["post"]
+tags = ["open-source", "technology", "english", "linux", "programming", "internet", "computer-science", "personal"]
 draft = true
 +++
 
