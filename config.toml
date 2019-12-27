@@ -110,10 +110,10 @@ disableLanguages        = [""]
     weight            = 3
 
   [[menu.main]]
-    name              = "Categories"
-    identifier        = "categories"
-    url               = "/categories/"
-    pre               = "<i class='fas fa-sitemap'></i>"
+    name              = "Tags"
+    identifier        = "tags"
+    url               = "/tags/"
+    pre               = "<i class='fas fa-tags'></i>"
     weight            = 4
 
   [[menu.main]]
