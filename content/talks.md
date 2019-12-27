@@ -3,6 +3,7 @@ author = "LuisGC"
 title = "Main public talks"
 date = "2019-10-05"
 type = "page"
+categories = ["page"]
 status = "published"
 +++
 

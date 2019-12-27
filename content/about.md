@@ -3,6 +3,7 @@ author = "LuisGC"
 title = "About the author"
 date = "2003-10-07"
 type = "page"
+categories = ["page"]
 status = "published"
 +++
 

@@ -3,6 +3,7 @@ author = "LuisGC"
 title = "My Curriculum Vitae as a traveler"
 date = "2018-08-25"
 type = "page"
+categories = ["page"]
 status = "published"
 +++
 
