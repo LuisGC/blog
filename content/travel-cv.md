@@ -6,9 +6,9 @@ type = "page"
 status = "published"
 +++
 
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.css" />
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" />
-<link rel="stylesheet" href="/css/travel-cv.css" />
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.css" />
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" />
+<link rel="stylesheet" type="text/css" href="/css/travel-cv.css" />
 
 _(Inspired by the [CV Viajero by Dendarii](https://dendarii.es/cv-viajero/))_
 
