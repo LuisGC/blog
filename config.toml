@@ -10,7 +10,7 @@ pluralizeListTitles     = false
 disableLanguages        = [""]
 
 [params]
-  mainSections = ["blog", "post"]
+  mainSections          = ["blog", "post"]
   # Loads CSS and JavaScript files. The variable is an array so that you can load
   # multiple/additional files if necessary. The standard theme files can be loaded
   # by adding the value, "default". Default includes the add-on.css and and-on.js.
@@ -58,19 +58,19 @@ disableLanguages        = [""]
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
-    header                = ""
-    paragraph             = "The Science that studies my interests and concerns"
-    rssIntro              = true
-    socialIntro           = true
+    header              = ""
+    paragraph           = "The Science that studies my interests and concerns"
+    rssIntro            = true
+    socialIntro         = true
 
     # This appears at the top of the sidebar above params.intro.header.
     # A width of less than 100px is recommended from a design perspective.
     [params.intro.pic]
-      src                 = "/img/main/Luiyologia-twitterlogo.png"
+      src               = "/img/main/Luiyologia-twitterlogo.png"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
-      shape               = ""
-      width               = "300"
-      alt                 = "Luiyología"
+      shape             = ""
+      width             = "300"
+      alt               = "Luiyología"
 
   [params.sidebar]
     about               = "Ludopath, technopath, cinephile, skeptic and, by every definition, early adopter"
@@ -86,6 +86,11 @@ disableLanguages        = [""]
     rssFooter           = false
     # Sets Social Media icons to appear on the sidebar
     socialFooter        = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe              = true
 
 [menu]
   # Sets the menu items in the navigation bar
