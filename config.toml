@@ -175,10 +175,10 @@ disableLanguages        = [""]
       weight            = 3
 
     [[Languages.es.menu.main]]
-      name              = "Categorías"
-      identifier        = "categories"
-      url               = "/categories/"
-      pre               = "<i class='fas fa-sitemap'></i>"
+      name              = "Etiquetas"
+      identifier        = "tags"
+      url               = "/tags/"
+      pre               = "<i class='fas fa-tags'></i>"
       weight            = 4
 
     [[Languages.es.menu.main]]
@@ -201,8 +201,6 @@ disableLanguages        = [""]
       url               = "/blog/feed.xml"
       pre               = "<i class='fas fa-rss'></i>"
       weight            = 7
-
-
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
