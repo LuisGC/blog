@@ -17,7 +17,7 @@ _(Inspired by the [CV Viajero by Dendarii](https://dendarii.es/cv-viajero/))_
 
 I have visited **19 out of 193** countries (among those [recognized by United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations)): Andorra, Austria, Belgium, China, Czech Republic, France, Germany, Hungary, Ireland, Italy, Netherlands, Poland, Portugal, Romania, Slovakia, Spain, Switzerland, United Kingdom and United States.
 
-<center><div id="map" style="height: 500px; width: 90%"></div></center>
+<center><div id="travel-cv-map" /></center>
 
 <br />
 
@@ -25,8 +25,8 @@ I have visited **19 out of 193** countries (among those [recognized by United Na
 
 ## 2019
 
-* <span>OCT</span> <p>[Commit Conf](/blog/2019/12/big-things-commit-conf-2019/), Madrid (Spain)</p>
-* <span>OCT</span> <p>[Big Things Conference](/blog/2019/12/big-things-commit-conf-2019/), Madrid (Spain)</p>
+* <span>NOV</span> <p>[Commit Conf](/blog/2019/12/big-things-commit-conf-2019/), Madrid (Spain)</p>
+* <span>NOV</span> <p>[Big Things Conference](/blog/2019/12/big-things-commit-conf-2019/), Madrid (Spain)</p>
 * <span>SEP</span> <p>Amsterdam (Netherlands)</p>
 * <span>SEP</span> <p>[Beijing and the Great Wall](/blog/2019/09/pekin-guia-breve/) (China)</p>
 * <span>SEP</span> <p>Huelva (Spain)</p>
@@ -128,7 +128,7 @@ I have visited **19 out of 193** countries (among those [recognized by United Na
 * <span>JUN</span> <p>South of Burgos (Spain)</p>
   - Peñaranda de Duero, Caleruega and Clunia
 * <span>MAY</span> <p>Zona Lúdica 2015 - Málaga (Spain)</p>
-* <span>APR</span> <p>_Ruta de los Dinosaurios_ - Cuenca (Spain)</p>
+* <span>APR</span> <p><i>Ruta de los Dinosaurios</i> - Cuenca (Spain)</p>
 * <span>MAR</span> <p>ARP-SAPC Annual Assembly - Sevilla (Spain)</p>
 * <span>MAR</span> <p>Barcelona Beer Festival (Spain)</p>
 * <span>FEB</span> <p>Ávila (Spain)</p>
@@ -190,7 +190,7 @@ I have visited **19 out of 193** countries (among those [recognized by United Na
 * <span>OCT</span> <p>[ARP-SAPC Annual Assembly](/blog/2011/10/i-congreso-esceptico-2011-antes-del-fin/) - L'Alfàs del Pi (Spain)</p>
 * <span>AUG</span> <p>León and La Bañeza (Spain)</p>
 * <span>AUG</span> <p>Tierra de Nadie 2011 - Málaga (Spain)</p>
-* <span>JUL</span> <p>_Semana Negra_ 2011 - Gijón (Spain)</p>
+* <span>JUL</span> <p><i>Semana Negra</i> 2011 - Gijón (Spain)</p>
 * <span>JUN</span> <p>Canyoning in Pirineos (Spain)</p>
 * <span>APR</span> <p>Évora, Lisboa and Sintra (Portugal)</p>
 
@@ -233,7 +233,7 @@ I have visited **19 out of 193** countries (among those [recognized by United Na
 * <span>DEC</span> <p>Córdoba (Spain)</p>
 * <span>DEC</span> <p>Salamanca (Spain)</p>
 * <span>OCT</span> <p>Barcelona (Spain)</p>
-* <span>AUG</span> <p>_Xiringüelu_ 2005 (Spain)</p>
+* <span>AUG</span> <p><i>Xiringüelu</i> 2005 (Spain)</p>
 * <span>MAY</span> <p>Cuenca (Spain)</p>
 * <span>MAY</span> <p>Titirimundi 2005 - Segovia (Spain)</p>
 * <span>APR</span> <p>[Jerez de la Frontera](/blog/2005/04/fin-de-semana-en-jerez/) (Spain)</p>
@@ -245,7 +245,7 @@ I have visited **19 out of 193** countries (among those [recognized by United Na
 * <span>DEC</span> <p>Segovia (Spain)</p>
 * <span>NOV</span> <p>El Escorial (Spain)</p>
 * <span>NOV</span> <p>Monte Santiago and Frías (Spain)</p>
-* <span>AUG</span> <p>_Xiringüelu_ 2004 (Spain)</p>
+* <span>AUG</span> <p><i>Xiringüelu</i> 2004 (Spain)</p>
 * <span>MAY</span> <p>[Montmeló](/blog/2004/05/apuntes-breves-para-un-fin-de-semana/) and Barcelona (Spain)</p>
 * <span>APR</span> <p>Horcajo de los Montes, Ciudad Real (Spain)</p>
 
@@ -262,7 +262,7 @@ I have visited **19 out of 193** countries (among those [recognized by United Na
 ## 2000
 
 * <span>OCT</span> <p>Bilbao (Spain)</p>
-* <span>AUG</span> <p>_Xiringüelu_ 2000 (Spain)</p>
+* <span>AUG</span> <p><i>Xiringüelu</i> 2000 (Spain)</p>
 * <span>JUN</span> <p>Cáceres (Spain)</p>
 * <span>MAY</span> <p>Bilbao (Spain)</p>
 
@@ -281,7 +281,7 @@ function onEachFeature(feature, layer) {
     var popupContent = feature.properties.name;
     layer.bindPopup(popupContent);
 }
-var mymap = L.map('map').setView([20, 80], 2);
+var mymap = L.map('travel-cv-map').setView([20, 0], 2);
 L.tileLayer('//api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
     maxZoom: 18,
