@@ -37,8 +37,9 @@ I have visited **19 out of 193** countries (among those [recognized by United Na
 * <span>MAY</span> <p>Amsterdam (Netherlands)</p>
 * <span>MAY</span> <p>Salamanca (Spain)</p>
 * <span>MAY</span> <p>I Mereth de Ithilien - Barcelona (Spain)</p>
-* <span>APR</span> <p>Bristol (United Kingdom)</p>
 * <span>APR</span> <p>SPTA's San George's Shoot - Taunton (United Kingdom)</p>
+* <span>APR</span> <p>Easter in the United Kingdom</p>
+  - London, Durham, Newcastle upon Tyne & Bristol
 * <span>APR</span> <p>Logroño and Laguardia (Spain)</p>
 * <span>MAR</span> <p>[Greach 2019](/blog/2019/03/greach-2019/) - Madrid (Spain)</p>
 * <span>MAR</span> <p>Amsterdam (Netherlands)</p>
@@ -59,13 +60,17 @@ I have visited **19 out of 193** countries (among those [recognized by United Na
   - Leiro, Fervenza do Toxa, Pazo de Oca, Santiago de Compostela, Fisterra, Cambados, Sanxenxo, Combarro, O Grove, Isla de Ons, Vigo, Bayona, Oia and Ribadavia
 * <span>AUG</span> <p>Tierra de Nadie 2018 - Málaga (Spain)</p>
 * <span>JUN</span> <p>Torneo Medieval de Tiro con Arco - Torrijos (Spain)</p>
+* <span>MAY</span> <p>Prague (Czech Republic)</p>
+* <span>MAY</span> <p>Amsterdam (Netherlands)</p>
 * <span>MAY</span> <p>[Scotland](/blog/2018/05/scotland-a-brief-opinionated-guide/) (United Kingdom)</p>
   - Balloch, Luss, Oban, Glencoe Valley, Isle of Skye, Inverness, Cromarty, Cawdor, Glenfiddich Distillery, Pitlochry, Stirling and Glasgow
 * <span>APR</span> <p>SPTA's San George's Shoot - Taunton (United Kingdom)</p>
+* <span>APR</span> <p>Amsterdam (Netherlands)</p>
 * <span>MAR</span> <p>[Greach 2018](/blog/2018/03/greach-2018/) - Madrid (Spain)</p>
 * <span>MAR</span> <p>Pelegrina (Spain)</p>
-* <span>FEB</span> <p>Bucarest (Romania)</p>
+* <span>FEB</span> <p>Bucharest (Romania)</p>
 * <span>FEB</span> <p>[FOSDEM 2018](/blog/2018/02/fosdem-2018-saturday/) - Brussels (Belgium)</p>
+* <span>JAN</span> <p>Prague (Czech Republic)</p>
 
 ## 2017
 
@@ -75,6 +80,7 @@ I have visited **19 out of 193** countries (among those [recognized by United Na
   - Rouen, Honfleur, Caen, Bayeaux and Mont Sant Michel
 * <span>NOV</span> <p>Amsterdam, Edam, Volendam and Marken (Netherlands)</p>
 * <span>NOV</span> <p>La Granja de San Ildefonso (Spain)</p>
+* <span>SEP</span> <p>Amsterdam (Netherlands)</p>
 * <span>SEP</span> <p>Milan (Italy)</p>
 * <span>AUG</span> <p>Huelva (Spain)</p>
   - El Rompido, Palos de la Frontera, Moguer, Ayamonte and Tavira (Portugal)
@@ -84,6 +90,7 @@ I have visited **19 out of 193** countries (among those [recognized by United Na
 * <span>AUG</span> <p>SPTA's Cream Tea Shoot 2018 - Tiverton (England)</p>
 * <span>AUG</span> <p>Wye Valley Archery, Wales (United Kingdom)</p>
 * <span>JUN</span> <p>Paris and Euro Disney (France)</p>
+* <span>APR</span> <p>Amsterdam (Netherlands)</p>
 * <span>MAY</span> <p>Katowice (Poland)</p>
 * <span>MAY</span> <p>[Romantikstrasse, The Romantic Road](/blog/2017/05/romantikstrasse-the-romantic-road_1/) (Austria)</p>
   - Schalaburg, Melk, Steyr, Kremsmünster, Scharnstein, Gmunden, Mondsee, Postalm, St Wolfgang im Salzkammergut, Bad Ischl, Halstatt, Obertraun and Mauthausen
@@ -217,7 +224,7 @@ I have visited **19 out of 193** countries (among those [recognized by United Na
 
 ## 2006
 
-* <span>NOV</span> <p>Roma (Italy)</p>
+* <span>NOV</span> <p>Roma (Italy) & Vatican City (Vatican City State)</p>
 * <span>OCT</span> <p>[Costa Dorada](/blog/2006/10/descansando-en-la-costa-dorada/) (Spain)</p>
   - Salou, Sitges, Tarragona and Port Aventura
 * <span>MAY</span> <p>Titirimundi 2006 - Segovia (Spain)</p>
@@ -232,6 +239,7 @@ I have visited **19 out of 193** countries (among those [recognized by United Na
 
 * <span>DEC</span> <p>Córdoba (Spain)</p>
 * <span>DEC</span> <p>Salamanca (Spain)</p>
+* <span>OCT</span> <p>Andorra (Andorra)</p>
 * <span>OCT</span> <p>Barcelona (Spain)</p>
 * <span>AUG</span> <p><i>Xiringüelu</i> 2005 (Spain)</p>
 * <span>MAY</span> <p>Cuenca (Spain)</p>
