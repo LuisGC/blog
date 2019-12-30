@@ -15,9 +15,32 @@ _(Inspired by the [CV Viajero by Dendarii](https://dendarii.es/cv-viajero/))_
 
 # Visited Countries
 
-I have visited **19 out of 193** countries (among those [recognized by United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations)): Andorra, Austria, Belgium, China, Czech Republic, France, Germany, Hungary, Ireland, Italy, Netherlands, Poland, Portugal, Romania, Slovakia, Spain, Switzerland, United Kingdom and United States.
-
 <center><div id="travel-cv-map" /></center>
+
+I have visited **20 out of 193** countries (among those [recognized by United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) plus the [observer states](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations#Observers_and_non-members)). This is the list in alphabetical order:
+
+| Country (visiting order) | Main visited places (x times) |
+|---|---|
+| Andorra (#2) | Andorra la Vella |
+| Austria (#15) | Romantikstrasse & Vienna |
+| Belgium (#13) | Brussels (x4) |
+| China (#20) | Beijing & Great Wall |
+| Czech Republic (#14) | Kutná Hora & Prague (x4) |
+| France (#10) | Annecy, Auray, Bayeaux, Bordeaux, Caen, Cancale, Carcassonne, Carnac, Concarneau, Dinard, Euro Disney, Fougeres, Grenoble, Honfleur, La Loire à Vélo, Le Mans, Mont Sant Michel, Morlaix, Paris (x2), Pointe du Raz, Pont-Aven, Quimper, Rennes, Rochefort-en-Terre, Rouen, Saint Malo, Tolouse, Vannes & Vitré |
+| Germany (#3) | Aachen, Augsburg, Bad Mergentheim, Bonn, Cologne, Dachau, Dinkelsbühl, Donauwörth, Düsseldorf, Feuchtwangen, Füssen, Landsberg am Lech, Munich, Nördlingen, Nuremberg, Rothenburg ob der Tauber, Röttingen, Schwangau, Tauberbischofsheim, Weikersheim & Würzburg |
+| Hungary (#17) | Budapest |
+| Ireland (#9) | Connemara, Dublín & Galway |
+| Italy (#4) | Milan (x2) & Rome |
+| Netherlands (#6) | Amsterdam (x10), Edam, Haarlem, Marken, Noordwijk, Rotterdam (x2), Utrecht & Volendam |
+| Poland (#18) | Austchwitz, Katowice (x2), Krakow, Wieliczka, Wroclaw & Zakopane |
+| Portugal (#8) | Évora, Lisboa, Sintra, Tavira & Vila Real de Santo Antonio |
+| Romania (#19) | Bucharest |
+| Slovakia (#16) | Bratislava |
+| Spain (#1) | _too many_ |
+| Switzerland (#12) | Aareschlucht, Almendhubel, CERN, Chillon, Geneve, Gruyeres, Interlaken, Jungfraujoch, Lausanne, Meiringen, Montreux, Mürren & Reichenbackfall |
+| United Kingdom (#7) | Balloch, Bath, Birmingham, Blenheim Palace, Bristol, Cambridge, Cawdor, Cromarty, Durham, Edinburgh, Glasgow, Glencoe Valley, Inverness, Isle of Skye, Loch Ness, London (x5), Luss, Manchester, Newcastle upon Tyne, Oban, Pitlochry, Oxford (x2), Stirling, Stonehenge & Taunton (x3) |
+| United States (#11) | New York & Washington D.C. |
+| Vatican City State (#5) | Vatican City |
 
 <br />
 
