@@ -13,7 +13,7 @@ featuredpath = "Juan Gómez Jurado during the presentation of Reina Roja in Mál
 
 Any [**Goodreads**](https://www.goodreads.com/) user has access to a yearly report with some statistics and basically the covers of all the books read in one year. In order to have it the user only has to set the books as _read_ and the _read date_ to any time in that year.
 
-Taking advantage of this nice feature I will summarize [My 2018 in Books]([**Goodreads**](https://www.goodreads.com/)) from Goodreads:
+Taking advantage of this nice feature I will summarize [My 2018 in Books](https://www.goodreads.com/user/year_in_books/2018/12155365) from Goodreads:
 
 * I read **7,224 pages** across **56 books**, a 112% of my 50 books read in 2018 goal
 * The average length was **129 pages**
