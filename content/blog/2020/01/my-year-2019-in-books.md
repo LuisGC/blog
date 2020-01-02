@@ -19,7 +19,7 @@ Any [**Goodreads**](https://www.goodreads.com/) user has access to a yearly repo
 * That's **20 novels** (not taking into account comics or short stories)
 * The average length was **138 pages**
 * My average rating was **3.6** (up to 5)
-* The longest book I read was [The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings), by [**J.R.R. Tolkien**](https://en.wikipedia.org/wiki/J._R._R._Tolkien)
+* The longest book I read was my nth reading of [The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings), by [**J.R.R. Tolkien**](https://en.wikipedia.org/wiki/J._R._R._Tolkien)
 
 The featured image goes to [Nnedi Okorafor](https://en.wikipedia.org/wiki/Nnedi_Okorafor), as my main discovery of the year after reading her [Binti trilogy](https://en.wikipedia.org/wiki/Binti_(novel)). She has won a Hugo, a Nebula, a World Fantasy Award and a Locus Award.
 
