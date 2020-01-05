@@ -22,12 +22,12 @@ Welcome again to this yearly post, where I try to analyze my gaming behavior dur
 * [2012](/blog/2013/01/partidas-jugadas-en-2012/) (in Spanish)
 * [2011](/blog/2012/01/juegos-los-que-mas-he-jugado-en-2011/) (in Spanish)
 
-|  | 2019 | 2018 | 2017 | 2016 | 2015 | Total since 2006 |
-|---|---|---|---|---|---|---|
-| Total amount of plays | **69** | 101 | 84 | 98 | 84 | 1142 |
-| Different games played | **33** | 61 | 72 | 55 | 71 | 430 |
-| Games with 2 or more plays | **9** | 14 | 9 | 15 | 13 | 186 |
-| Amount of gaming sessions  | **36** | 43 | 36 | 35 | 30 | 401 |
+|  | 2019 | 2018 | 2017 | 2016 | 2015 | ... | Total since 2006 |
+|---|---|---|---|---|---|---|---|
+| Total amount of plays | **69** | 101 | 84 | 98 | 84 | | 1142 |
+| Different games played | **33** | 61 | 72 | 55 | 71 | | 430 |
+| Games with 2 or more plays | **9** | 14 | 9 | 15 | 13 | | 186 |
+| Amount of gaming sessions  | **36** | 43 | 36 | 35 | 30 | | 401 |
 
 <figcaption>Evolution of my game plays over the last 5 years</figcaption>
 
@@ -35,12 +35,16 @@ Welcome again to this yearly post, where I try to analyze my gaming behavior dur
 
 ## Analysis
 
-* In this yearly post I used to include a graph with the games played by month, but it turned more or less complex and meaningless as the trend was clear year by year. I tend to play more or less the same along the year with some peaks in the gaming conventions.
-* In 2018 I went back to the 2016 numbers in amount of plays, with a higher amount of different games played.
-* I've played 61 different games this year, 41 of them were totally new (to me). A very high proportion.
-* I recorded 43 gaming sessions, almost 4 per month.
-* Again, in 2018 I have **zero** hours recorded in the Steam platform. I miss it and I will give it some priority in 2019.
-* My <a href="https://en.wikipedia.org/wiki/H-index"><b><i>h-index</i></b></a> as a player is still at <b>11</b>. Reading carefully the data, I expect to go up at least one level in the next period, as I have several games near the h-index frontier.
+* 2019 has been the year with less plays since 2009. Nothing unexpected as this year I haven't been able to go to [Tierra de Nadie (TdN)](http://jornadas-tdn.org/) or any similar convention. Not attending TdN implies for at least 25-30 plays less.
+* I've played only 33 different games this year, and incredibly most of them were new (to me).
+* I recorded 36 gaming sessions, 3 per month.
+* This year I've played from time to time in [Steam](https://store.steampowered.com/). Chronologically:
+  - I completed [Baldur's Gate II](https://store.steampowered.com/app/257350/Baldurs_Gate_II_Enhanced_Edition/)
+  - I played for a while to [Icewind Dale](https://store.steampowered.com/app/321800/Icewind_Dale_Enhanced_Edition/)
+  - I finished [Life is Strange: Episode 1](https://store.steampowered.com/app/319630/Life_is_Strange__Episode_1/)
+  - I also completed [The Witcher](https://store.steampowered.com/app/20900/The_Witcher_Enhanced_Edition_Directors_Cut/)
+* By the end of the year I acquired [Stadia Founder's Edition](https://stadia.google.com/). I started trying it with [Destiny 2](https://en.wikipedia.org/wiki/Destiny_2) but definitely enjoyed my new Stadia with [Tomb Raider: Definitive Edition](https://en.wikipedia.org/wiki/Tomb_Raider_(2013_video_game)).
+* My <a href="https://en.wikipedia.org/wiki/H-index"><b><i>h-index</i></b></a> as a player is still at <b>11</b>. I expected to raise it this year, but I haven't since I almost played new games.
 
 ## Retrospective
 
