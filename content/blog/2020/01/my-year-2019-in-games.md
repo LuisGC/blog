@@ -1,0 +1,51 @@
++++
+author = "LuisGC"
+title = "My Year 2019 in Games"
+date = "2020-01-05"
+type = "post"
+categories = ["post"]
+tags = ["games", "culture", "personal", "retrospective"]
+status = "published"
+featured = "https://placeholder.pics/svg/1024x576/DEDEDE/FF0000/Placeholder%20Pic"
+featuredalt = "A tag cloud with all the games that I have played in 2018"
+featuredpath = "A tag cloud with all the games that I have played in 2018"
++++
+
+Welcome again to this yearly post, where I try to analyze my gaming behavior during the previous year. I have been doing this since 2011 in Spanish, but this time I will do it in English as with the rest of my posts. You can read about my previous years:
+
+* [2018](/blog/2019/01/my-year-2018-in-games/)
+* [2017](/blog/2018/01/mi-2017-ludico/) (in Spanish)
+* [2016](/blog/2017/01/mi-2016-ludico/) (in Spanish)
+* [2015](/blog/2016/01/mi-2015-ludico/) (in Spanish)
+* [2014](/blog/2015/01/mi-2014-ludico/) (in Spanish)
+* [2013](/blog/2014/01/partidas-jugadas-en-2013/) (in Spanish)
+* [2012](/blog/2013/01/partidas-jugadas-en-2012/) (in Spanish)
+* [2011](/blog/2012/01/juegos-los-que-mas-he-jugado-en-2011/) (in Spanish)
+
+|  | 2019 | 2018 | 2017 | 2016 | 2015 | Total since 2006 |
+|---|---|---|---|---|---|---|
+| Total amount of plays | **69** | 101 | 84 | 98 | 84 | 1142 |
+| Different games played | **33** | 61 | 72 | 55 | 71 | 430 |
+| Games with 2 or more plays | **9** | 14 | 9 | 15 | 13 | 186 |
+| Amount of gaming sessions  | **36** | 43 | 36 | 35 | 30 | 401 |
+
+<figcaption>Evolution of my game plays over the last 5 years</figcaption>
+
+{{< image classes="image central" src="/img/games-played-per-year-2019.png" title="Games played per year until the end of 2019" >}}
+
+## Analysis
+
+* In this yearly post I used to include a graph with the games played by month, but it turned more or less complex and meaningless as the trend was clear year by year. I tend to play more or less the same along the year with some peaks in the gaming conventions.
+* In 2018 I went back to the 2016 numbers in amount of plays, with a higher amount of different games played.
+* I've played 61 different games this year, 41 of them were totally new (to me). A very high proportion.
+* I recorded 43 gaming sessions, almost 4 per month.
+* Again, in 2018 I have **zero** hours recorded in the Steam platform. I miss it and I will give it some priority in 2019.
+* My <a href="https://en.wikipedia.org/wiki/H-index"><b><i>h-index</i></b></a> as a player is still at <b>11</b>. Reading carefully the data, I expect to go up at least one level in the next period, as I have several games near the h-index frontier.
+
+## Retrospective
+
+* I still enjoy a lot playing boardgames, role playing games and video games so I will keep this as one of my main leisure activities for 2019
+* In January 2018 we finished [Pandemic Legacy Season 1](https://rpggeek.com/boardgame/161936/pandemic-legacy-season-1) the campaign we started back in 2016, but after that I haven't played any other legacy game. I still love cooperative games and I would not reject starting one with a stable playing group, maybe the recently announced [**Journeys in the Middle Earth**](https://www.fantasyflightgames.com/en/news/2019/1/11/the-lord-of-the-rings-journeys-in-middle-earth/)?
+* I am becoming addicted to **escape room inspired board games**. In 2018 I have played several [Unlock!](https://rpggeek.com/boardgamefamily/39442/unlock) and [Exit](https://rpggeek.com/boardgamefamily/36963/exit-das-spiel) and for 2019 my goal is to play all the published games of those two families
+* I managed (with my party and DM) to maintain since March a monthly [**Dungeons & Dragons 5th Edition**](https://rpggeek.com/rpg/17181/dungeons-dragons-5th-edition) campaign, and I only missed one session because of a trip. That is very good news for me and for the entire group, we are [enjoying it a lot](http://ghilbrae.com/tag/storm-kings-thunder/) so we will hopefully continue with the same frequency and passion.
+* I'm still eager to play prototypes, but since early 2018 I am no longer a member of [**Asociación Ludo**](http://www.asociacionludo.com/). I was not involved at all so, although I miss some of my colleagues there, I decided to leave after realizing that the association does not benefit from me if I'm only providing economic support. I will consider returning when I'm capable of offering more :-(
