@@ -43,7 +43,7 @@ Welcome again to this yearly post, where I try to analyze my gaming behavior dur
     <td>81</td>
     <td>117</td>
     <td>161</td>
-    <td>952</td>
+    <td>1039</td>
   </tr>
   <tr>
     <td>Different games played</td>
@@ -54,7 +54,7 @@ Welcome again to this yearly post, where I try to analyze my gaming behavior dur
     <td>52</td>
     <td>81</td>
     <td>80</td>
-    <td>356</td>
+    <td>397</td>
   </tr>
   <tr>
     <td>Games with 2 or more plays (in the year)</td>
@@ -65,7 +65,7 @@ Welcome again to this yearly post, where I try to analyze my gaming behavior dur
     <td>14</td>
     <td>19</td>
     <td>40</td>
-    <td>161</td>
+    <td>175</td>
   </tr>
   <tr>
     <td>Amount of gaming sessions</td>
@@ -76,7 +76,7 @@ Welcome again to this yearly post, where I try to analyze my gaming behavior dur
     <td>44</td>
     <td>41</td>
     <td>36</td>
-    <td>322</td>
+    <td>365</td>
   </tr>
 </table>
 
