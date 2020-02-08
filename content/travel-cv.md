@@ -19,32 +19,36 @@ _(Inspired by the [CV Viajero by Dendarii](https://dendarii.es/cv-viajero/))_
 
 I have visited **20 out of 193** countries (among those [recognized by United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) plus the [observer states](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations#Observers_and_non-members)). This is the list in alphabetical order:
 
-| Country (visiting order) | Main visited places (x times) |
-|---|---|
-| Andorra (#2) | Andorra la Vella |
-| Austria (#15) | Romantikstrasse & Vienna |
-| Belgium (#13) | Brussels (x4) |
-| China (#20) | Beijing & Great Wall |
-| Czech Republic (#14) | Kutná Hora & Prague (x4) |
-| France (#10) | Annecy, Auray, Bayeaux, Bordeaux, Caen, Cancale, Carcassonne, Carnac, Concarneau, Dinard, Euro Disney, Fougeres, Grenoble, Honfleur, La Loire à Vélo, Le Mans, Mont Sant Michel, Morlaix, Paris (x2), Pointe du Raz, Pont-Aven, Quimper, Rennes, Rochefort-en-Terre, Rouen, Saint Malo, Tolouse, Vannes & Vitré |
-| Germany (#3) | Aachen, Augsburg, Bad Mergentheim, Bonn, Cologne, Dachau, Dinkelsbühl, Donauwörth, Düsseldorf, Feuchtwangen, Füssen, Landsberg am Lech, Munich, Nördlingen, Nuremberg, Rothenburg ob der Tauber, Röttingen, Schwangau, Tauberbischofsheim, Weikersheim & Würzburg |
-| Hungary (#17) | Budapest |
-| Ireland (#9) | Connemara, Dublín & Galway |
-| Italy (#4) | Milan (x2) & Rome |
-| Netherlands (#6) | Amsterdam (x10), Edam, Haarlem, Marken, Noordwijk, Rotterdam (x2), Utrecht & Volendam |
-| Poland (#18) | Austchwitz, Katowice (x2), Krakow, Wieliczka, Wroclaw & Zakopane |
-| Portugal (#8) | Évora, Lisboa, Sintra, Tavira & Vila Real de Santo Antonio |
-| Romania (#19) | Bucharest |
-| Slovakia (#16) | Bratislava |
-| Spain (#1) | _too many_ |
-| Switzerland (#12) | Aareschlucht, Almendhubel, CERN, Chillon, Geneve, Gruyeres, Interlaken, Jungfraujoch, Lausanne, Meiringen, Montreux, Mürren & Reichenbackfall |
-| United Kingdom (#7) | Balloch, Bath, Birmingham, Blenheim Palace, Bristol, Cambridge, Cawdor, Cromarty, Durham, Edinburgh, Glasgow, Glencoe Valley, Inverness, Isle of Skye, Loch Ness, London (x5), Luss, Manchester, Newcastle upon Tyne, Oban, Pitlochry, Oxford (x2), Stirling, Stonehenge & Taunton (x3) |
-| United States (#11) | New York & Washington D.C. |
-| Vatican City State (#5) | Vatican City |
+| Country | Main visited places (x times) | Visiting order |
+|---|---|---|
+| Andorra | Andorra la Vella | 2 |
+| Austria | Romantikstrasse & Vienna | 15 |
+| Belgium | Brussels (x5) | 13 |
+| China | Beijing & Great Wall | 20 |
+| Czech Republic | Kutná Hora & Prague (x4) | 14 |
+| France | Annecy, Auray, Bayeaux, Bordeaux, Caen, Cancale, Carcassonne, Carnac, Concarneau, Dinard, Euro Disney, Fougeres, Grenoble, Honfleur, La Loire à Vélo, Le Mans, Mont Sant Michel, Morlaix, Paris (x2), Pointe du Raz, Pont-Aven, Quimper, Rennes, Rochefort-en-Terre, Rouen, Saint Malo, Tolouse, Vannes & Vitré | 10 |
+| Germany | Aachen, Augsburg, Bad Mergentheim, Bonn, Cologne, Dachau, Dinkelsbühl, Donauwörth, Düsseldorf, Feuchtwangen, Füssen, Landsberg am Lech, Munich, Nördlingen, Nuremberg, Rothenburg ob der Tauber, Röttingen, Schwangau, Tauberbischofsheim, Weikersheim & Würzburg | 3 |
+| Hungary | Budapest | 17 |
+| Ireland | Connemara, Dublín & Galway | 9 |
+| Italy | Milan (x2) & Rome | 4 |
+| Netherlands | Amsterdam (x10), Edam, Haarlem, Marken, Noordwijk, Rotterdam (x2), Utrecht & Volendam | 6 |
+| Poland | Austchwitz, Katowice (x2), Krakow, Wieliczka, Wroclaw & Zakopane | 18 |
+| Portugal | Évora, Lisboa, Sintra, Tavira & Vila Real de Santo Antonio | 8 |
+| Romania | Bucharest | 19 |
+| Slovakia | Bratislava | 16 |
+| Spain | _too many_ | 1 |
+| Switzerland | Aareschlucht, Almendhubel, CERN, Chillon, Geneve, Gruyeres, Interlaken, Jungfraujoch, Lausanne, Meiringen, Montreux, Mürren & Reichenbackfall | 12 |
+| United Kingdom | Balloch, Bath, Birmingham, Blenheim Palace, Bristol, Cambridge, Cawdor, Cromarty, Durham, Edinburgh, Glasgow, Glencoe Valley, Inverness, Isle of Skye, Loch Ness, London (x5), Luss, Manchester, Newcastle upon Tyne, Oban, Pitlochry, Oxford (x2), Stirling, Stonehenge & Taunton (x3) | 7 |
+| United States | New York & Washington D.C. | 11 |
+| Vatican City State | Vatican City | 5 |
 
 <br />
 
 # In chronological order
+
+## 2020
+
+* <span>FEB</span> <p>FOSDEM 2020 - Brussels (Belgium)</p>
 
 ## 2019
 
