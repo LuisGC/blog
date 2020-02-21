@@ -24,13 +24,13 @@ I already wrote about it in previous years:
 * **FOSDEM 2018**: [Saturday](/blog/2018/02/fosdem-2018-saturday/) and [Sunday](/blog/2018/02/fosdem-2018-sunday/)
 * **FOSDEM 2019**: [Saturday](/blog/2019/02/fosdem-2019-saturday/) and [Sunday](/blog/2019/02/fosdem-2019-sunday/)
 
-The [numbers of this 2019 edition](https://fosdem.org/2019/schedule/event/closing_fosdem/) speak for themselves, improving all the figures from 2018:
+The [numbers of this 2019 edition](https://twitter.com/vishwajeets3/status/1224021852349255682) speak for themselves, improving all the figures from previous years:
 
 * more than 8,000 attendees in only two days
-* [730 speakers](https://fosdem.org/2019/schedule/speakers/) in [788 different events](https://fosdem.org/2019/schedule/events/) (talks or workshops, mainly)
-* [63 tracks](https://fosdem.org/2019/schedule/rooms/) in 47 different rooms
-* [more than 400 hours of content](https://video.fosdem.org/), almost all of the events are [available online with live streaming](https://fosdem.org/2019/schedule/streaming/) during the conference
-* [65 stands](https://fosdem.org/2019/stands/) of all kinds of projects: [FSFE](https://fsfe.org/), [Python Software Foundation](https://www.python.org/psf), [the Apache Software Foundation](http://www.apache.org/), [OSI](https://opensource.org/), [the Eclipse Foundation](https://eclipse.org/), [Software Freedom Conservancy](https://sfconservancy.org/), [O'Reilly](http://www.oreilly.com/), [Fedora](http://getfedora.org/), [OpenSUSE](https://www.opensuse.org/), [Debian](https://www.debian.org/) [KDE](http://www.kde.org/), [Gnome](http://gnome.org/), [LibreOffice](http://www.libreoffice.org/), [VideoLAN](https://videolan.org/), [Mozilla](https://mozilla.org/), ...
+* [781 speakers](https://fosdem.org/2020/schedule/speakers/) in [817 different events](https://fosdem.org/2020/schedule/events/) (talks or workshops, mainly)
+* [71 tracks](https://fosdem.org/2020/schedule/rooms/) in 35 different rooms
+* [more than 400 hours of content](https://video.fosdem.org/), almost all of the events are [available online with live streaming](https://fosdem.org/2020/schedule/streaming/) during the conference
+* [63 stands](https://fosdem.org/2020/stands/) of all kinds of projects: [FSFE](https://fsfe.org/), [the Apache Software Foundation](http://www.apache.org/), [OSI](https://opensource.org/), [the Eclipse Foundation](https://eclipse.org/), [Software Freedom Conservancy](https://sfconservancy.org/), [Fedora](http://getfedora.org/), [OpenSUSE](https://www.opensuse.org/), [Debian](https://www.debian.org/) [KDE](http://www.kde.org/), [Gnome](http://gnome.org/), [LibreOffice](http://www.libreoffice.org/), [Mattermost](https://www.mattermost.com/), [Mozilla](https://mozilla.org/), [Jenkins](https://jenkins.io/), ...
 
 To make it more impressive, take into account that FOSDEM is **organized by volunteers**, everything is **community driven** and it's **free to attend**. You don't even need to register beforehand.
 
