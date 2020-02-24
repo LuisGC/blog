@@ -55,6 +55,10 @@ In his first announcement explaining that he was working in a new Operating Syst
 
 [**The Ethics Behind Your IoT**](https://fosdem.org/2020/schedule/event/iot_ethics/), by Molly de Blanc
 
+Molly de Blanc ([@mmillions](https://twitter.com/mmillions)), Strategic Initiatives Manager at [Gnome](https://en.wikipedia.org/wiki/GNOME) and President of the [Open Source Initiative](https://en.wikipedia.org/wiki/Open_Source_Initiative), explained how the Internet of Things is creating new risks and potential security issues due to the lack of free and open alternatives in the ecosystem.
+
+She explained several examples, mainly focused on home surveillance, smart locks and smart doorbells. Smart locks are enabling a new type of abuse. If hacked (or a violent ex-partner) someone can lock you out, open without your consent, etc.
+
 [**Freedom and AI: Can Free Software include ethical AI systems?**](https://fosdem.org/2020/schedule/event/ethical_ai/), by Justin W. Flory & Michael Nolan
 
 [**Applying Open Culture Practices across Distributed Teams**](https://fosdem.org/2020/schedule/event/distributedteams/), by Katrina Novakovic
