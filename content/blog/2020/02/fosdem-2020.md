@@ -70,9 +70,11 @@ They continued their presentation introducing some new Freedoms applicable to AI
 
 They also suggested how we, as a global community, could respect and enforce these freedoms: reproducibility, liability and responsible design, and specially human centered appealing mechanisms.
 
-[**Applying Open Culture Practices across Distributed Teams**](https://fosdem.org/2020/schedule/event/distributedteams/), by Katrina Novakovic
-
 [**Organizing Open Source for Cities**](https://fosdem.org/2020/schedule/event/ospoforcities/), by Jacob Green
+
+The second talk I attended about the same topic, this time from Jacob Green ([@jacoblyopen](https://twitter.com/jacoblyopen)), founder of Mosslabs.io ([@Moss4Cities](https://twitter.com/Moss4Cities)) and open source strategist for both the City of Paris and Johns Hopkins University.
+
+He explained with more detail how to enable a sustainable and free innovation in our cities, through structured collaboration and community. We need a clear, but flexible, institutional interface or framework to advance in cooperation and scaling. He showed some examples from his own initiatives in Johns Hopkins University, the City of Baltimore or the City of Paris with Lutèce (already mentioned in my summary).
 
 [**The next generation of contributors is not on IRC**](https://fosdem.org/2020/schedule/event/nextgencontributors/), by Matthew Broberg
 
