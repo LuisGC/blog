@@ -49,6 +49,10 @@ This international open source platform is [**Lutèce**](https://github.com/lute
 
 [**The Selfish Contributor Explained**](https://fosdem.org/2020/schedule/event/selfish_contributor/), by James Bottomley
 
+Throughout the years I've attended several times to James Bottomley ([@jejb_](https://twitter.com/jejb_)) talks, and it's always worthy. This time the talk was focused on how Open Source begins as a selfish activity. According to James, managing engineers has always been a problem, even before software exists, because they tend to be opinionated. It's better to keep a technical motivation than a managerial motivation, but _scratching your own itch_ provides a strong self motivation.
+
+In his first announcement explaining that he was working in a new Operating System, Linus Torvalds wanted just suggestions as he expected to code everything by himself, but he was flooded by suggestions and eventually patches. All successful projects run into scaling issues, so how your community or project deals with contributions is essential. Linux solved this _success issue_ with tooling, first with [BitKeeper](https://en.wikipedia.org/wiki/BitKeeper) in 2002 and later with [Git](https://en.wikipedia.org/wiki/Git) in 2005.
+
 [**The Ethics Behind Your IoT**](https://fosdem.org/2020/schedule/event/iot_ethics/), by Molly de Blanc
 
 [**Freedom and AI: Can Free Software include ethical AI systems?**](https://fosdem.org/2020/schedule/event/ethical_ai/), by Justin W. Flory & Michael Nolan
