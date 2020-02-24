@@ -61,6 +61,15 @@ She explained several examples, mainly focused on home surveillance, smart locks
 
 [**Freedom and AI: Can Free Software include ethical AI systems?**](https://fosdem.org/2020/schedule/event/ethical_ai/), by Justin W. Flory & Michael Nolan
 
+Justin ([@jflory7](https://twitter.com/jflory7)) and Mike ([@__nolski__](https://twitter.com/__nolski__)) gave another interesting talk about Ethics and Open Source. They started with an historical overview of [GNU](https://en.wikipedia.org/wiki/GNU_Project), the [FSF](https://en.wikipedia.org/wiki/Free_Software_Foundation) and the [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License), to explain why the [four essential freedoms](https://en.wikipedia.org/wiki/Free_software#Definition_and_the_Four_Freedoms), written by [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) in 1986, need to be adapted for AI systems. To create awareness about this, the main initiatives are the [AI Now Institute](https://ainowinstitute.org/) and [Partnership on AI](https://www.partnershiponai.org/).
+
+They continued their presentation introducing some new Freedoms applicable to AI:
+1. Freedom to... audit automated decision-making systems
+2. Freedom to... deliver accountability and responsibility
+3. Freedom to... appeal a decision
+
+They also suggested how we, as a global community, could respect and enforce these freedoms: reproducibility, liability and responsible design, and specially human centered appealing mechanisms.
+
 [**Applying Open Culture Practices across Distributed Teams**](https://fosdem.org/2020/schedule/event/distributedteams/), by Katrina Novakovic
 
 [**Organizing Open Source for Cities**](https://fosdem.org/2020/schedule/event/ospoforcities/), by Jacob Green
