@@ -1,7 +1,7 @@
 +++
 author = "LuisGC"
 title = "FOSDEM 2020, 20 Years of FOSDEM"
-date = "2020-02-05"
+date = "2020-02-24"
 type = "post"
 categories = ["post"]
 tags = ["event", "open-source", "technology", "english", "linux", "programming", "internet", "culture", "computer-science", "personal"]
@@ -11,7 +11,7 @@ featuredalt = "TBD"
 featuredpath = "TBD"
 +++
 
-It has been almost a month since I returned from another intense and thought-provoking weekend in Brussels, although it still feels like it was just yesterday. I couldn't write this before, I have had a busy month both at work and at home.
+It has been more than a month since I returned from another intense and thought-provoking weekend in Brussels, although it still feels like it was just yesterday. I couldn't write this before, as I have been quite busy both at work and at home.
 
 {{< image classes="image lateral" src="/img/FOSDEM-2020-tower.png" title="FOSDEM 2020 poster" >}}
 
@@ -77,6 +77,10 @@ The second talk I attended about the same topic, this time from Jacob Green ([@j
 He explained with more detail how to enable a sustainable and free innovation in our cities, through structured collaboration and community. We need a clear, but flexible, institutional interface or framework to advance in cooperation and scaling. He showed some examples from his own initiatives in Johns Hopkins University, the City of Baltimore or the City of Paris with Lutèce (already mentioned in my summary).
 
 [**The next generation of contributors is not on IRC**](https://fosdem.org/2020/schedule/event/nextgencontributors/), by Matthew Broberg
+
+I was curious about this talk by Matthew Broberg ([@mbbroberg](https://twitter.com/mbbroberg)), technical editor at [OpenSource.com](https://opensource.com/). He explained how the communication channels can be more or less inclusive, and how they impact the community itself. He claimed that he does not get IRC, but felt great after creating easily a Github user and having solved an issue in a friendly manner. Most of the modern capabilities are not in IRC, and that is why the communities are shifting to new platforms.
+
+Also, he highlighted that we should move more to asynchronous communication tools, depending on the purpose. He explained how for some people that communication platforms are the third place (after home and your workplace) where you need to feel comfortable and secure. He stressed his message explaining how different projects or companies are distributing their communication needs.
 
 [**The Ethics of Open Source**](https://fosdem.org/2020/schedule/event/ethicsoss/), by Don Goodman-Wilson
 
