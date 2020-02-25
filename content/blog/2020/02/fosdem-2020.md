@@ -84,6 +84,13 @@ Also, he highlighted that we should move more to asynchronous communication tool
 
 [**The Ethics of Open Source**](https://fosdem.org/2020/schedule/event/ethicsoss/), by Don Goodman-Wilson
 
+Don ([@DEGoodmanWilson](https://twitter.com/DEGoodmanWilson)) offered the audience another view about the theme of my FOSDEM, Ethics and Open Source. Free Software gives freedom to everyone, and it can be argued that it creates opportunities for the already privileged part of the society. It exacerbates existing injustices, encourages exploiting volunteer labor force. This is reflected in the _Paradox of Openness_, the tension between encouraging knowledge sharing and ensuring sufficient protection for those who share.
+
+We cannot settle with Open Source (as it is described today). It's necessary but not enough to ask if something is Open Source, we need to ask ourselves other questions like:
+* What are the forces that have led us to this point?
+* What do we owe to each other as people?
+* How do we evolve as a community?
+
 [**Engineers, Call Your Policy People!**](https://fosdem.org/2020/schedule/event/corppolicyteamoutreach/), by Astor Nummelin Carlberg & Paula Grzegorzewska
 
 [**Building Ethical Software Under Capitalism**](https://fosdem.org/2020/schedule/event/capitalismethicaloss/), by Deb Nicholson
