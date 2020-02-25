@@ -93,6 +93,10 @@ We cannot settle with Open Source (as it is described today). It's necessary but
 
 [**Engineers, Call Your Policy People!**](https://fosdem.org/2020/schedule/event/corppolicyteamoutreach/), by Astor Nummelin Carlberg & Paula Grzegorzewska
 
+Astor and Paula from OpenForum Europe ([@OpenForumEurope](https://twitter.com/OpenForumEurope)) explained their mission, connecting FOSS communities and projects with policy makers (specially in the EU). They explained what they learned during the recent campaign against the Copyright Directive, and how they created the [SaveCodeShare.eu](https://www.savecodeshare.eu/) portal.
+
+Regulations affect for profit business, but what happens with Open Source? Activism and FOSS advocacy is needed for the future of Europe, but policy makers need evidence. They help collecting use cases showing the impact of Open Source Software and Hardware on technological independence, competitiveness and innovation. If you can provide one of those examples, please contact them. 
+
 [**Building Ethical Software Under Capitalism**](https://fosdem.org/2020/schedule/event/capitalismethicaloss/), by Deb Nicholson
 
 [**UXBOX, the time for an open source online prototyping platform has arrived**](https://fosdem.org/2020/schedule/event/uxbox_open_source_online_prototyping_platform/), by Pablo Ruiz Múzquiz
