@@ -6,14 +6,14 @@ type = "post"
 categories = ["post"]
 tags = ["event", "open-source", "technology", "english", "linux", "programming", "internet", "culture", "computer-science", "personal"]
 status = "published"
-featured = "https://placeholder.pics/svg/1024x576/DEDEDE/FF0000/Placeholder%20Pic"
-featuredalt = "TBD"
-featuredpath = "TBD"
+featured = "https://live.staticflickr.com/65535/49585666592_700db085cf_k.jpg"
+featuredalt = "Pablo Ruiz presenting UXBOX at FOSDEM 2020"
+featuredpath = "Pablo Ruiz presenting UXBOX at FOSDEM 2020"
 +++
 
 It has been almost a month since I returned from another intense and thought-provoking weekend in Brussels, although it still feels like it was just yesterday. I couldn't write this before, as I have been quite busy both at work and at home.
 
-{{< image classes="image lateral" src="/img/FOSDEM-2020-tower.png" title="FOSDEM 2020 poster" >}}
+{{< image classes="image lateral" src="https://live.staticflickr.com/65535/49584930633_20a5c8bd62_o.png" title="FOSDEM 2020 poster" >}}
 
 For those of you who don't know [**FOSDEM**](https://fosdem.org/), it is the biggest conference in Europe (and one of the biggest around the world) related to **Open Source** development and communities. It's a huge event with hundreds of talks, workshops, gatherings and stands from all the relevant projects and communities in the **FOSS (Free and Open Source Software)** ecosystem. It's also a marvelous place to do networking, because there are not only representatives of those projects but normally also the technical leaders of them. If you are good with names and faces you can meet and greet a lot of important and interesting people.
 
@@ -47,6 +47,8 @@ For example: **Jason Hibbets** ([@jhibbets](https://twitter.com/jhibbets)) makes
 
 This international open source platform is [**Lutèce**](https://github.com/lutece-platform) ([@LuteceNews](https://twitter.com/LuteceNews)), developed by the City of Paris. Lutèce is a 12 years old modular and extensible platform, covering hundreds of city services. Through several projects, mainly built in Java EE, it covers from basic web capabilities to voting systems or workflow functions. Awesome.
 
+{{< image classes="image" src="https://live.staticflickr.com/65535/49585666702_fec7d4716a_k.jpg" title="Lutèce facts presented in FOSDEM 2020" >}}
+
 [**The Selfish Contributor Explained**](https://fosdem.org/2020/schedule/event/selfish_contributor/), by James Bottomley
 
 Throughout the years I've attended several times to James Bottomley ([@jejb_](https://twitter.com/jejb_)) talks, and it's always worthy. This time the talk was focused on how Open Source begins as a selfish activity. According to James, managing engineers has always been a problem, even before software exists, because they tend to be opinionated. It's better to keep a technical motivation than a managerial motivation, but _scratching your own itch_ provides a strong self motivation.
@@ -59,6 +61,8 @@ Molly de Blanc ([@mmillions](https://twitter.com/mmillions)), Strategic Initiati
 
 She explained several examples, mainly focused on home surveillance, smart locks and smart doorbells. Smart locks are enabling a new type of abuse. If hacked (or a violent ex-partner) someone can lock you out, open without your consent, etc.
 
+{{< image classes="image" src="https://live.staticflickr.com/65535/49585666747_0e92faa18b_k.jpg" title="Molly de Blanc presenting at FOSDEM 2020" >}}
+
 [**Freedom and AI: Can Free Software include ethical AI systems?**](https://fosdem.org/2020/schedule/event/ethical_ai/), by Justin W. Flory & Michael Nolan
 
 Justin ([@jflory7](https://twitter.com/jflory7)) and Mike ([@_ _nolski_ _](https://twitter.com/__nolski__)) gave another interesting talk about Ethics and Open Source. They started with an historical overview of [**GNU**](https://en.wikipedia.org/wiki/GNU_Project), the [**FSF**](https://en.wikipedia.org/wiki/Free_Software_Foundation) and the [**GPL**](https://en.wikipedia.org/wiki/GNU_General_Public_License), to explain why the [four essential freedoms](https://en.wikipedia.org/wiki/Free_software#Definition_and_the_Four_Freedoms), written by [**Richard Stallman**](https://en.wikipedia.org/wiki/Richard_Stallman) in 1986, need to be adapted for AI systems. To create awareness about this, the main initiatives are the [**AI Now Institute**](https://ainowinstitute.org/) and [**Partnership on AI**](https://www.partnershiponai.org/).
@@ -69,6 +73,8 @@ They continued their presentation introducing some new Freedoms applicable to AI
 3. Freedom to... appeal a decision
 
 They also suggested how we, as a global community, could respect and enforce these freedoms: reproducibility, liability and responsible design, and specially human centered appealing mechanisms.
+
+{{< tweet 1223579974923358209 >}}
 
 [**Organizing Open Source for Cities**](https://fosdem.org/2020/schedule/event/ospoforcities/), by Jacob Green
 
@@ -82,6 +88,8 @@ I was curious about this talk by Matthew Broberg ([@mbbroberg](https://twitter.c
 
 Also, he highlighted that we should move more to asynchronous communication tools, depending on the purpose. He explained how for some people that communication platforms are the third place (after home and your workplace) where you need to feel comfortable and secure. He stressed his message explaining how different projects or companies are distributing their communication needs.
 
+{{< image classes="image" src="https://live.staticflickr.com/65535/49584930718_5e6d3d0999_k.jpg" title="Matthew Broberg about the communications platform adoption in FOSDEM 2020" >}}
+
 [**The Ethics of Open Source**](https://fosdem.org/2020/schedule/event/ethicsoss/), by Don Goodman-Wilson
 
 Don ([@DEGoodmanWilson](https://twitter.com/DEGoodmanWilson)) offered the audience another view about the theme of my FOSDEM, Ethics and Open Source. Free Software gives freedom to everyone, and it can be argued that it creates opportunities for the already privileged part of the society. It exacerbates existing injustices, encourages exploiting volunteer labor force. This is reflected in the _Paradox of Openness_, the tension between encouraging knowledge sharing and ensuring sufficient protection for those who share.
@@ -90,6 +98,8 @@ We cannot settle with Open Source (as it is described today). It's necessary but
 * What are the forces that have led us to this point?
 * What do we owe to each other as people?
 * How do we evolve as a community?
+
+{{< tweet 1223903221523066880 >}}
 
 [**Engineers, Call Your Policy People!**](https://fosdem.org/2020/schedule/event/corppolicyteamoutreach/), by Astor Nummelin Carlberg & Paula Grzegorzewska
 
@@ -102,6 +112,8 @@ Regulations affect for profit business, but what happens with Open Source? Activ
 Deb Nicholson ([@baconandcoconut](https://twitter.com/baconandcoconut)), Director of Community Operations at **Software Freedom Conservancy** ([@conservancy](https://twitter.com/conservancy)), shared her view about ethical software in the most vindictive talk of the weekend. FOSS still depends on funding, and affinity is key. It's easy to see the [ROI](https://en.wikipedia.org/wiki/Return_on_investment) in big FOSS projects, but how can we justify (and measure) helping people as the main business model?
 
 Rainbow capitalism... is still capitalism. Open Source exploitation... is still exploitation. How can we fix things from the inside? Encouraging self-reporting, organizing strikes or walkouts if needed, but mainly building our own alternatives. We should bind our future and our software to ethical choices. She closed with two interesting thoughts: What policy changes are needed? Should we require ethical audits and ethical boards in the companies/projects?
+
+{{< tweet 1223917428272508928 >}}
 
 [**UXBOX, the time for an open source online prototyping platform has arrived**](https://fosdem.org/2020/schedule/event/uxbox_open_source_online_prototyping_platform/), by Pablo Ruiz Múzquiz
 
