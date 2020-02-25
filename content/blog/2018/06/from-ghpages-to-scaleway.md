@@ -4,7 +4,7 @@ title = "From GitHub Pages to Scaleway"
 date = "2018-06-02"
 type = "post"
 categories = ["post"]
-tags = ["open-source", "technology", "english", "linux", "programming", "internet", "computer-science", "personal"]
+tags = ["open-source", "technology", "linux", "programming", "internet", "computer-science", "personal"]
 draft = true
 +++
 
