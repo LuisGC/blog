@@ -48,6 +48,7 @@ I have visited **20 out of 193** countries (among those [recognized by United Na
 
 ## 2020
 
+* <span>AUG</span> <p>Val d'Aran Walking Festival (Spain)</p>
 * <span>FEB</span> <p>FOSDEM 2020 - Brussels (Belgium)</p>
 
 ## 2019
