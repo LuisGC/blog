@@ -42,10 +42,6 @@ Puneet, Software Engineer at OCI, started with a brief introduction to DSLs, for
 
 Iván made, as usual, a well prepared an amusing talk about some mistakes that he has seen in the recent months in several Groovy projects. Names were changed and the code was partially blurred but it was clear enough to recognize the errors. Most of them were obvious and could have been detected with any static code analysis tool (like [CodeNARC](http://codenarc.sourceforge.net/)) but in other examples the static analysis is not enough and someone needs to read the code and think about what is written. That's why the main recommendation that Iván gave for this kind of errors is the proper usage of Code Reviews with other peers.
 
-<center>
-  {{< tweet 974590398306844673 >}}
-</center>
-
 [**Groovy GString magic**](http://2018.greachconf.com/sessions/groovy-gstring-magic/), by [Jacob Aae Mikkelsen](http://2018.greachconf.com/speakers/jacob-aae-mikkelsen/) ([@JacobAae](https://twitter.com/JacobAae))
 
 I wasn't sure if Jacob's talk was going to be too basic, but knowing the speaker from other conferences I was confident that I could learn something. I was right in both assumptions, the talk was a complete review of the GString class in Groovy covering all the basic usages and the differences with the Java String class, the template engines, and the main caveats but the speaker also gave several interesting tips and tricks, and I didn't knew all of them. It was specially nice the _stripIndent_ method.
