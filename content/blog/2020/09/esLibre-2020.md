@@ -46,6 +46,16 @@ Esta keynote fue una fantástica charla de apertura para un congreso como este.
 
 [**Sobre la gobernanza en lenguajes de programación**](https://propuestas.eslib.re/2020/charlas/gobernanza-lenguajes-programacion), by **me**
 
+Me encanta esta charla. Prepararla me lleva muchísimo tiempo pero disfruto cada minuto. No me cansaré de actualizarla y repetirla siempre que perciba que sigue siendo relevante y bien recibida. Por el feedback que obtengo cada vez, diría que a la gente también le gusta mucho. En cualquier caso no espero repetirla en bastante tiempo, salvo que tenga claro que la audiencia es claramente nueva.
+
+Es una charla compleja de preparar y muy difícil de contar. Normalmente la hago bastante interactiva pero en esta ocasión siendo online y teniendo sólo 20 minutos el desafío era importante. Omitiendo unas cuantas slides, mencionando sólo lo más importante y hablando extremadamente rápido conseguí que me sobrasen incluso algunos segundos.
+
+Sobre la charla en sí, ya comenté más detalles sobre ella cuando [la impartí el año pasado en Commit Conf](/blog/2019/12/big-things-commit-conf-2019/). El propósito (que espero lograr) es llamar a la reflexión sobre los aspectos más relativos a la ética y menos a la tecnología que son importantes en relación a la gobernanza y comunidad de un lenguaje de programación. Creo que todos deberíamos conocer y tener en cuenta este tipo de factores a la hora de elegir un lenguaje para nuestro nuevo proyecto (especialmente si es abierto). Como siempre que actualizo la charla, investigué a fondo los entresijos de varios lenguajes y comunidades para poder destacar lo más reciente o importante en relación a los aspectos éticos de dichos lenguajes o comunidades.
+
+Cuando se publique el vídeo podéis incluso ver ambas charlas porque siendo la misma estructura el contenido cambia bastante.
+
+{{< tweet 1306595952279470088 >}}
+
 [**Java sigue siendo libre (y gratis)**](https://propuestas.eslib.re/2020/charlas/java-sigue-siendo-libre), by David Gómez G.
 
 [**Código colaborativo: el gobierno del futuro**](https://propuestas.eslib.re/2020/charlas/codigo-colaborativo-gobierno-futuro), by Alba Roza
