@@ -42,6 +42,8 @@ Además del factor cultural, el proyecto tiene interesantes implicaciones desde 
 
 Esta keynote fue una fantástica charla de apertura para un congreso como este.
 
+{{< tweet 700184001701478400 >}}
+
 [**Sobre la gobernanza en lenguajes de programación**](https://propuestas.eslib.re/2020/charlas/gobernanza-lenguajes-programacion), by **me**
 
 [**Java sigue siendo libre (y gratis)**](https://propuestas.eslib.re/2020/charlas/java-sigue-siendo-libre), by David Gómez G.
