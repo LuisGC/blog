@@ -21,26 +21,26 @@ I have visited **20 out of 193** countries (among those [recognized by United Na
 
 | Country | Main visited places (x times) | Visiting order |
 |---|---|---|
-| Andorra | Andorra la Vella | 2 |
-| Austria | Romantikstrasse & Vienna | 15 |
-| Belgium | Brussels (x5) | 13 |
-| China | Beijing & Great Wall | 20 |
-| Czech Republic | Kutná Hora & Prague (x4) | 14 |
-| France | Annecy, Auray, Bayeaux, Bordeaux, Caen, Cancale, Carcassonne, Carnac, Concarneau, Dinard, Euro Disney, Fougeres, Grenoble, Honfleur, La Loire à Vélo, Le Mans, Mont Sant Michel, Morlaix, Paris (x3), Pointe du Raz, Pont-Aven, Quimper, Rennes, Rochefort-en-Terre, Rouen, Saint Malo, Tolouse, Vannes & Vitré | 10 |
-| Germany | Aachen, Augsburg, Bad Mergentheim, Bonn, Cologne, Dachau, Dinkelsbühl, Donauwörth, Düsseldorf, Feuchtwangen, Füssen, Landsberg am Lech, Munich, Nördlingen, Nuremberg, Rothenburg ob der Tauber, Röttingen, Schwangau, Tauberbischofsheim, Weikersheim & Würzburg | 3 |
-| Hungary | Budapest | 17 |
-| Ireland | Connemara, Dublín & Galway | 9 |
-| Italy | Milan (x2) & Rome | 4 |
-| Netherlands | Amsterdam (x10), Edam, Haarlem, Marken, Noordwijk, Rotterdam (x2), Utrecht & Volendam | 6 |
-| Poland | Austchwitz, Katowice (x2), Krakow, Wieliczka, Wroclaw & Zakopane | 18 |
-| Portugal | Évora, Lisboa, Sintra, Tavira & Vila Real de Santo Antonio | 8 |
-| Romania | Bucharest | 19 |
-| Slovakia | Bratislava | 16 |
-| Spain | _too many_ | 1 |
-| Switzerland | Aareschlucht, Almendhubel, CERN, Chillon, Geneve, Gruyeres, Interlaken, Jungfraujoch, Lausanne, Meiringen, Montreux, Mürren & Reichenbackfall | 12 |
-| United Kingdom | Balloch, Bath, Birmingham, Blenheim Palace, Bristol, Cambridge, Cawdor, Cromarty, Durham, Edinburgh, Glasgow, Glencoe Valley, Inverness, Isle of Skye, Loch Ness, London (x5), Luss, Manchester, Newcastle upon Tyne, Oban, Pitlochry, Oxford (x2), Stirling, Stonehenge & Taunton (x3) | 7 |
-| United States | New York & Washington D.C. | 11 |
-| Vatican City State | Vatican City | 5 |
+| Andorra | Andorra la Vella | 2<sup>nd</sup> |
+| Austria | Romantikstrasse & Vienna | 15<sup>th</sup> |
+| Belgium | Brussels (x5) | 13<sup>th</sup> |
+| China | Beijing & Great Wall | 20<sup>th</sup> |
+| Czech Republic | Kutná Hora & Prague (x4) | 14<sup>th</sup> |
+| France | Annecy, Auray, Bayeaux, Bordeaux, Caen, Cancale, Carcassonne, Carnac, Concarneau, Dinard, Euro Disney, Fougeres, Grenoble, Honfleur, La Loire à Vélo, Le Mans, Mont Sant Michel, Morlaix, Paris (x3), Pointe du Raz, Pont-Aven, Quimper, Rennes, Rochefort-en-Terre, Rouen, Saint Malo, Tolouse, Vannes & Vitré | 10<sup>th</sup> |
+| Germany | Aachen, Augsburg, Bad Mergentheim, Bonn, Cologne, Dachau, Dinkelsbühl, Donauwörth, Düsseldorf, Feuchtwangen, Füssen, Landsberg am Lech, Munich, Nördlingen, Nuremberg, Rothenburg ob der Tauber, Röttingen, Schwangau, Tauberbischofsheim, Weikersheim & Würzburg | 3<sup>rd</sup> |
+| Hungary | Budapest | 17<sup>th</sup> |
+| Ireland | Connemara, Dublín & Galway | 9<sup>th</sup> |
+| Italy | Milan (x2) & Rome | 4<sup>th</sup> |
+| Netherlands | Amsterdam (x10), Edam, Haarlem, Marken, Noordwijk, Rotterdam (x2), Utrecht & Volendam | 6<sup>th</sup> |
+| Poland | Austchwitz, Katowice (x2), Krakow, Wieliczka, Wroclaw & Zakopane | 18<sup>th</sup> |
+| Portugal | Évora, Lisboa, Sintra, Tavira & Vila Real de Santo Antonio | 8<sup>th</sup> |
+| Romania | Bucharest | 19<sup>th</sup> |
+| Slovakia | Bratislava | 16<sup>th</sup> |
+| Spain | _too many_ | 1<sup>st</sup> |
+| Switzerland | Aareschlucht, Almendhubel, CERN, Chillon, Geneve, Gruyeres, Interlaken, Jungfraujoch, Lausanne, Meiringen, Montreux, Mürren & Reichenbackfall | 12<sup>th</sup> |
+| United Kingdom | Balloch, Bath, Birmingham, Blenheim Palace, Bristol, Cambridge, Cawdor, Cromarty, Durham, Edinburgh, Glasgow, Glencoe Valley, Inverness, Isle of Skye, Loch Ness, London (x5), Luss, Manchester, Newcastle upon Tyne, Oban, Pitlochry, Oxford (x2), Stirling, Stonehenge & Taunton (x3) | 7<sup>th</sup> |
+| United States | New York & Washington D.C. | 11<sup>th</sup> |
+| Vatican City State | Vatican City | 5<sup>th</sup> |
 
 <br />
 
