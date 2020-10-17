@@ -29,7 +29,8 @@ jobs:
     # To see the list of pre-built images that CircleCI provides for most common languages see
     # https://circleci.com/docs/2.0/circleci-images/
     docker:
-    - image: cibuilds/hugo:0.60.1
+    # https://hub.docker.com/r/cibuilds/hugo/tags
+    - image: cibuilds/hugo:0.76
 
     steps:
     # Machine Setup
