@@ -1,6 +1,6 @@
 /* Custom styles for the blog
 -------------------------------------------------- */
-#content p{
+.content p{
   text-align: justify;
 }
 
