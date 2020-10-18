@@ -69,10 +69,6 @@ article.post h4 {
     color: #646464;
 }
 
-#recent-posts .mini-post section .image img {
-	height: auto !important;
-}
-
-#recent-posts article.mini-post section a.image.featured div.caption{
-	display: none !important;
+#socnet-share {
+  display: none !important;
 }

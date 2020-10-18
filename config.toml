@@ -33,10 +33,10 @@ disableLanguages        = [""]
   viewMorePostsLink     = "/blog/"
   # Activate Estimated Reading Times, which appear in the post headers
   readingTime           = true
+  imageStretch          = ""
+  removeBlur            = true
   # Sets which Social Share links appear in posts.
   # Options are twitter, facebook, reddit, linkedin, pinterest, email
-  imageStretch          = ""
-  removeBlur            = false
   socialShare           = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
   hideEmptyStats        = false
 
@@ -61,7 +61,7 @@ disableLanguages        = [""]
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
-    shareMenu           = false
+    shareMenu           = true
     languageMenu        = false
 
   # These are optional params related to the sidebar. They are recommended, but not
