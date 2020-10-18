@@ -1,13 +1,20 @@
+# For a description of these parameters, please visit the theme wiki.
+# https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
 baseurl                 = "https://luiyo.net"
 DefaultContentLanguage  = "en"
 title                   = "Luiyología"
 theme                   = "hugo-future-imperfect-slim"
-preserveTaxonomyNames   = true
 paginate                = 10
 disqusShortname         = "luiyologia"
 googleAnalytics         = "UA-555064-1"
 pluralizeListTitles     = false
 disableLanguages        = [""]
+
+[markup.goldmark.renderer]
+  unsafe                = true
+
+[outputs]
+  home                  = ["html", "json", "rss"]
 
 [params]
   mainSections          = ["blog", "post"]
@@ -16,6 +23,7 @@ disableLanguages        = [""]
   # by adding the value, "default". Default includes the add-on.css and and-on.js.
   # Example: ["default", "/path/to/file"]
   cssFiles              = ["default", "/css/luiyologia.css"]
+  enableCDN             = false
   jsFiles               = ["default"]
   # Sets options for highlight.js
   highlightjs           = true
@@ -27,9 +35,10 @@ disableLanguages        = [""]
   readingTime           = true
   # Sets which Social Share links appear in posts.
   # Options are twitter, facebook, reddit, linkedin, pinterest, email
-  socialShare           = [""]
-  # Order tags by count
-  tagsByCount           = true
+  imageStretch          = ""
+  removeBlur            = false
+  socialShare           = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
+  hideEmptyStats        = false
 
   [params.meta]
     # Sets the meta tag description
@@ -43,14 +52,14 @@ disableLanguages        = [""]
     favicon             = false
     svg                 = true
     faviconVersion      = "1"
-    msColor             = "#ffffff" # Copy from the https://realfavicongenerator.net
-    iOSColor            = "#ffffff" # Copy from the https://realfavicongenerator.net
+    msColor             = "#ffffff"
+    iOSColor            = "#ffffff"
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
     navbarTitle         = "Luiyología"
     # Sets navbarTitle to match the section of the website
-    dynamicTitles       = false
+    dynamicTitles       = true
     searchMenu          = true
     shareMenu           = false
     languageMenu        = false
@@ -58,19 +67,21 @@ disableLanguages        = [""]
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
-    header              = ""
-    paragraph           = "The Science that studies my interests and concerns"
-    rssIntro            = true
-    socialIntro         = true
+    header                = ""
+    paragraph             = "The Science that studies my interests and concerns"
+    rssIntro              = true
+    socialIntro           = true
+    hideWhenSingleColumn  = false
+    alwaysOnHomepage      = false
 
     # This appears at the top of the sidebar above params.intro.header.
     # A width of less than 100px is recommended from a design perspective.
     [params.intro.pic]
-      src               = "/img/main/Luiyologia-twitterlogo.png"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
-      shape             = ""
-      width             = "300"
-      alt               = "Luiyología"
+      shape               = ""
+      width               = "300"
+      alt                 = "Luiyología"
+      src                 = "/img/main/Luiyologia-twitterlogo.png"
 
   [params.sidebar]
     about               = "Ludopath, technopath, cinephile, skeptic and, by every definition, early adopter"
@@ -87,14 +98,22 @@ disableLanguages        = [""]
     # Sets Social Media icons to appear on the sidebar
     socialFooter        = false
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-    unsafe              = true
+  [params.staticman]
+    enabled             = true
+    api                 = ""  # No Trailing Slash
+    gitProvider         = ""
+    username            = ""
+    repo                = ""
+    branch              = ""
+
+    [params.staticman.recaptcha]
+      siteKey           = ""
+      encryptedKey      = ""
 
 [menu]
   # Sets the menu items in the navigation bar
   # Identifier prepends a Font Awesome icon to the menu item
+
   [[menu.main]]
     name              = "Home"
     identifier        = "home"
@@ -140,12 +159,13 @@ disableLanguages        = [""]
   [[menu.main]]
     name              = "RSS"
     identifier        = "rss"
-    url               = "/blog/feed.xml"
+    url               = "/feed.xml"
     pre               = "<i class='fas fa-rss'></i>"
     weight            = 7
 
 [Languages]
   # Each language has its own menu.
+
   [Languages.en]
     LanguageCode        = "en"
     LanguageName        = "English"
@@ -246,6 +266,7 @@ disableLanguages        = [""]
   instagram             = ""
   tumblr                = ""
   twitter               = "luiyo"
+  strava                = ""
   skype                 = ""
   snapchat              = ""
   pinterest             = ""
