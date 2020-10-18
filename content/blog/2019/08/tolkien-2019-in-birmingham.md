@@ -5,9 +5,10 @@ date = "2019-08-18"
 type = "post"
 categories = ["post"]
 tags = ["event", "culture", "literature", "personal", "art", "tolkien"]
-featured = "https://live.staticflickr.com/65535/48565095461_ea29b3021c_k.jpg"
-featuredalt = "Tolkien 2019, the largest celebration of Tolkien ever held by the Tolkien Society"
-featuredpath = "Tolkien 2019, the largest celebration of Tolkien ever held by the Tolkien Society"
+[[images]]
+  src = "https://live.staticflickr.com/65535/48565095461_ea29b3021c_k.jpg"
+  alt = "Tolkien 2019, the largest celebration of Tolkien ever held by the Tolkien Society"
+  caption = "Tolkien 2019, the largest celebration of Tolkien ever held by the Tolkien Society"
 +++
 
 {{< image classes="image lateral" src="https://live.staticflickr.com/65535/48565095406_47473dba20_k.jpg" title="Showing off my double nationality" cc-license="by-nc-sa" >}}

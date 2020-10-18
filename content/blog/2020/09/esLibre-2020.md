@@ -6,9 +6,10 @@ type = "post"
 categories = ["post"]
 tags = ["event", "open-source", "technology", "linux", "programming", "internet", "culture", "computer-science", "personal"]
 status = "published"
-featured = "https://picsum.photos/1024/576?blur=5"
-featuredalt = "TBC"
-featuredpath = "TBC"
+[[images]]
+  src = "https://picsum.photos/1024/576?blur=5"
+  alt = "TBC"
+  stretch = ""
 +++
 
 _**Disclaimer**: Out of necessity, this entry will be shorter than I would like and in Spanish, despite most of my readers (according to Google Analytics) do not have Spanish as their main language._

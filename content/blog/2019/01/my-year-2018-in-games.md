@@ -6,9 +6,10 @@ type = "post"
 categories = ["post"]
 tags = ["games", "culture", "personal", "retrospective"]
 status = "published"
-featured = "https://farm8.staticflickr.com/7840/39765897143_cb630f9045_b.jpg"
-featuredalt = "A tag cloud with all the games that I have played in 2018"
-featuredpath = "A tag cloud with all the games that I have played in 2018"
+[[images]]
+  src = "https://farm8.staticflickr.com/7840/39765897143_cb630f9045_b.jpg"
+  alt = "A tag cloud with all the games that I have played in 2018"
+  caption = "A tag cloud with all the games that I have played in 2018"
 +++
 
 Welcome again to this yearly post, where I try to analyze my gaming behavior during the previous year. I have been doing this since 2011 in Spanish, but this time I will do it in English as with the rest of my posts. You can read about my previous years (in Spanish):

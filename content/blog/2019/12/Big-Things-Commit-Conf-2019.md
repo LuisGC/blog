@@ -5,9 +5,10 @@ date = "2019-12-08"
 type = "post"
 categories = ["post"]
 tags = ["event", "open-source", "technology", "programming", "internet", "computer-science"]
-featured = "https://live.staticflickr.com/65535/49188308296_420b0c82e1_k.jpg"
-featuredalt = "Finishing our talk at Big Things Conference 2019"
-featuredpath = "Finishing our talk at Big Things Conference 2019"
+[[images]]
+  src = "https://live.staticflickr.com/65535/49188308296_420b0c82e1_k.jpg"
+  alt = "Finishing our talk at Big Things Conference 2019"
+  caption = "Finishing our talk at Big Things Conference 2019"
 +++
 
 A few days ago I had the opportunity and the privilege to deliver [**three** different talks, in **three** consecutive days, in **two** international events](https://twitter.com/luiyo/status/1194750663428837381): **Big Things Conference 2019** and **Commit Conf 2019**. This crazy coincidence forces me to write one single post to summarize my experience in both events, including an overview of my three talks.

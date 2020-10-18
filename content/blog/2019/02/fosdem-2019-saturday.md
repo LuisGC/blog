@@ -6,9 +6,10 @@ type = "post"
 categories = ["post"]
 tags = ["event", "open-source", "technology", "linux", "programming", "internet", "culture", "computer-science", "personal"]
 status = "published"
-featured = "https://farm8.staticflickr.com/7869/32111005427_44b0627a4f_k.jpg"
-featuredalt = "Bradley M. Kuhn and Karen Sandler from Software Freedom Conservancy"
-featuredpath = "Bradley M. Kuhn and Karen Sandler from Software Freedom Conservancy"
+[[images]]
+  src = "https://farm8.staticflickr.com/7869/32111005427_44b0627a4f_k.jpg"
+  alt = "Bradley M. Kuhn and Karen Sandler from Software Freedom Conservancy"
+  caption = "Bradley M. Kuhn and Karen Sandler from Software Freedom Conservancy"
 +++
 
 It has been a week since I returned from another intense and thought-provoking weekend in Brussels, although it still feels like it was just yesterday. This year, apart from attending **FOSDEM** (as I intend to do every year) I took a very early flight on Friday to visit new (for me) places in the city. In just one day I visited the [**European Parliament Hemicycle**](http://www.europarl.europa.eu/visiting/en/brussels/briefing-hemicycle-visits), the [**House of European History**](http://www.europarl.europa.eu/visiting/en/brussels/house-of-european-history), the [**Parlamentarium**](http://www.europarl.europa.eu/visiting/en/brussels/parlamentarium) and the [**Museum of Natural Sciences**](https://www.naturalsciences.be/). My most productive Friday in months, for sure.
