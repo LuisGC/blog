@@ -6,9 +6,10 @@ type = "post"
 categories = ["post"]
 tags = ["review", "literature", "culture"]
 status = "published"
-featured = "https://live.staticflickr.com/65535/49317041298_002333c8c5_k.jpg"
-featuredalt = "Nnedi Okorafor speaking at TEDGlobal 2017"
-featuredpath = "Nnedi Okorafor speaking at TEDGlobal 2017<br /> Source: <a href='https://www.flickr.com/photos/tedconference/36679400552'>TED Conference @ Flickr</a>"
+[[images]]
+  src = "https://live.staticflickr.com/65535/49317041298_002333c8c5_k.jpg"
+  alt = "Nnedi Okorafor speaking at TEDGlobal 2017"
+  caption = "Nnedi Okorafor speaking at TEDGlobal 2017<br /> Source: <a href='https://www.flickr.com/photos/tedconference/36679400552'>TED Conference @ Flickr</a>"
 +++
 
 Any [**Goodreads**](https://www.goodreads.com/) user has access to a yearly report with some statistics and basically the covers of all the books read in one year. In order to have it the user only has to set the books as _read_ and the _read date_ to any time in that year. Taking advantage of this nice feature I will summarize [My 2019 in Books](https://www.goodreads.com/user/year_in_books/2019/12155365) from Goodreads, as I did one year ago for [my read books in 2018](/blog/2019/01/my-year-2018-in-books/).

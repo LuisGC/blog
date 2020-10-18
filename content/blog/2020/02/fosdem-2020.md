@@ -6,9 +6,9 @@ type = "post"
 categories = ["post"]
 tags = ["event", "open-source", "technology", "linux", "programming", "internet", "culture", "computer-science", "personal"]
 status = "published"
-featured = "https://live.staticflickr.com/65535/49585666592_700db085cf_k.jpg"
-featuredalt = "Pablo Ruiz presenting UXBOX at FOSDEM 2020"
-featuredpath = "Pablo Ruiz presenting UXBOX at FOSDEM 2020"
+[[images]]
+  src = "https://live.staticflickr.com/65535/49585666592_700db085cf_k.jpg"
+  alt = "Pablo Ruiz presenting UXBOX at FOSDEM 2020"
 +++
 
 It has been almost a month since I returned from another intense and thought-provoking weekend in Brussels, although it still feels like it was just yesterday. I couldn't write this before, as I have been quite busy both at work and at home.
