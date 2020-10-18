@@ -12,5 +12,6 @@ removeBlur = false
 [[images]]
   src = "https://picsum.photos/1024/576?blur=3"
   alt = ""
+  caption = ""
   stretch = ""
 +++
