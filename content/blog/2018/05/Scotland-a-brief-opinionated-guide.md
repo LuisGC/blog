@@ -6,9 +6,10 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "holidays", "history"]
 status = "published"
-featured = "https://farm1.staticflickr.com/938/30123448178_702ab6987d_o.jpg"
-featuredalt = "the most common local on the Isle of Skye, in Scotland"
-featuredpath = "the most common local on the Isle of Skye, in Scotland - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
+[[images]]
+  src = "https://farm1.staticflickr.com/938/30123448178_702ab6987d_o.jpg"
+  alt = "The most common local on the Isle of Skye, in Scotland"
+  caption = "The most common local on the Isle of Skye, in Scotland - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
 +++
 
 Some weeks ago I had the pleasure to make an awesome road trip through Scotland with my friend **Agatha**, my travel companion lately. You can read about our trips together through [Austria](/blog/2017/05/romantikstrasse-the-romantic-road_1/), [Brittany](/blog/2017/12/brittany-a-brief-opinionated-guide/) or [Normandy](/blog/2017/12/normandy-a-brief-opinionated-guide/).

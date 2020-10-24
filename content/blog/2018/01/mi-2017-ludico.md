@@ -6,9 +6,10 @@ type = "post"
 categories = ["post"]
 tags = ["games", "culture", "personal", "retrospective"]
 status = "published"
-featured = "https://live.staticflickr.com/65535/48609259967_796298865a_o.png"
-featuredalt = "games tag cloud 2017"
-featuredpath = "Un tag cloud con los juegos a los que jugué en 2017, el tamaño indica cantidad de partidas"
+[[images]]
+  src = "https://live.staticflickr.com/65535/48609259967_796298865a_o.png"
+  alt = "games tag cloud 2017"
+  caption = "Un tag cloud con los juegos a los que jugué en 2017, el tamaño indica cantidad de partidas"
 +++
 
 Vuelvo al castellano, para dar continuidad a esta serie de análisis sobre las partidas que he jugado durante el año anterior. Podéis leer lo que escribí anteriormente en:
