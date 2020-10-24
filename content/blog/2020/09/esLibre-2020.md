@@ -31,7 +31,7 @@ El Congreso esLibre 2020 fue montado y organizado por voluntarios utilizando tec
 
 Voy a resumir un poco algunas de las charlas a las que pude asistir (en orden cronológico):
 
-# Talks
+# Charlas
 
 [**Software Heritage: Una Infraestructura común para preservar nuestro software comunitario**](https://propuestas.eslib.re/2020/charlas/software-heritage), by Roberto Di Cosmo ([@rdicosmo](https://twitter.com/rdicosmo))
 
