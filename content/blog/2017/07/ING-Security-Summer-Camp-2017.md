@@ -6,9 +6,10 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "programming", "internet", "computer-science", "linux", "technology", "culture"]
 status = "published"
-featured = "https://live.staticflickr.com/65535/48610763241_2c5618d6a9_o.png"
-featuredalt = "Map status of the ING CTF competition with less than 22h left"
-featuredpath = "Map status of the ING CTF competition with less than 22h left"
+[[images]]
+  src = "https://live.staticflickr.com/65535/48610763241_2c5618d6a9_o.png"
+  alt = "Map status of the ING CTF competition with less than 22h left"
+  caption = "Map status of the ING CTF competition with less than 22h left"
 +++
 
 Last week I had the huge pleasure to participate in a week-long **Security Summer Camp** organized by the Information Security department of [**ING Spain**](https://www.ing.es/). The agenda was very promising and implied some theory and lots of practice, ending with an **Escape the Room** game and a 2,5 days long **Capture The Flag** hacking competition. Several speakers from the Infosec Squad prepared talks and workshops about different topics, focusing on [Ethical Hacking](https://en.wikipedia.org/wiki/Hacker_ethic), secure development, [server hardening](http://www.linuxjournal.com/content/server-hardening) or [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence).

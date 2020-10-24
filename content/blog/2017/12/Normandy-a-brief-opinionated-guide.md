@@ -6,9 +6,10 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "holidays", "history"]
 status = "published"
-featured = "https://live.staticflickr.com/65535/48609145286_091d596859_k.jpg"
-featuredalt = "Mont Saint-Michel"
-featuredpath = "Mont Saint-Michel - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
+[[images]]
+  src = "https://live.staticflickr.com/65535/48609145286_091d596859_k.jpg"
+  alt = "Mont Saint-Michel"
+  caption = "Mont Saint-Michel - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
 +++
 
 Some months ago I wrote in the blog about [my road trip through the Romantikstraße in Austria](/blog/2017/05/romantikstrasse-the-romantic-road_1/). I shared the trip with Agatha and it went great, so we took advantage of the fact that we both had several pending holidays for this year and repeated the experience in two of the most beautiful regions in France: Normandy and Brittany. This post will be a summary of our experience in Normandy and hopefully I'll be able to write a similar one for Brittany.

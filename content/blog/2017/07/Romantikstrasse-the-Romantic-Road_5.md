@@ -6,9 +6,10 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "holidays", "history", "politics"]
 status = "published"
-featured = "https://live.staticflickr.com/65535/48610763261_2e54019036_o.jpg"
-featuredalt = "Mauthausen Spanish memorial"
-featuredpath = "Mauthausen Spanish memorial - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
+[[images]]
+  src = "https://live.staticflickr.com/65535/48610763261_2e54019036_o.jpg"
+  alt = "Mauthausen Spanish memorial"
+  caption = "Mauthausen Spanish memorial - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
 +++
 
 This is the fifth and last part of my chronicle about our trip through the [**Romantikstraße**](http://www.romantikstrasse.at/es/), you can read the rest here:
