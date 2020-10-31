@@ -7,7 +7,7 @@ categories = ["post"]
 tags = ["event", "open-source", "technology", "linux", "programming", "internet", "culture", "computer-science", "personal"]
 status = "published"
 [[images]]
-  src = "https://picsum.photos/1024/325?blur=5"
+  src = "https://picsum.photos/880/280?blur=5"
   alt = "TBC"
   stretch = ""
 +++
@@ -77,21 +77,19 @@ Esta charla me sorprendió muchísimo. Tenía cierto conocimiento de oídas sobr
 
 {{< tweet 1306918777003573250 >}}
 
-[**¿Está (realmente) roto el open source?**](https://propuestas.eslib.re/2020/charlas/esta-roto-open-source), por José Manrique López de la Fuente
-
-[**Public Money Public Code – Global problems need global solutions!**](https://propuestas.eslib.re/2020/charlas/public-money-public-code), por Alexander Sander
-
-[**Comunicar el impacto social de la industria del software libre**](https://propuestas.eslib.re/2020/charlas/comunicar-impacto-social-software-libre), por Jesús García García
-
-[**Software libre y soberanía tecnológica en la ONG Ingeniería Sin Fronteras**](https://propuestas.eslib.re/2020/charlas/software-libre-ongd), por Sergio Soto
-
 [**Linux, The Gothic Cathedral of our times**](https://propuestas.eslib.re/2020/charlas/linux-gothic-cathedral), por Daniel Germán
 
-[**Taller de Introducción a Raku**](https://propuestas.eslib.re/2020/talleres/raku), por JJ Merelo
+Otra charla interesantísima y muy recomendable, en la que el ponente desarrolla su opinión sobre la premisa lanzada por Eric Raymond en [_The Cathedral and the Bazaar_](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar). En esta obra Raymond define básicamente dos modelos de desarrollo de software:
+* El modelo _Catedral_, en el que un grupo reducido de gente desarrolla el código y lo libera en releases más o menos frecuentes.
+* El modelo _Bazar_, en el que todo el código se desarrolla a la vista del público
 
-[**Lo que te puede enamorar de Groovy (si no lo ha hecho ya)**](https://propuestas.eslib.re/2020/charlas/puede-enamorar-groovy), por Miguel Rueda García
+Ambos modelos coexisten en el software libre, siendo mucho más apropiado el segundo. Para ejemplificarlo, Eric Raymond incluso acuñó lo que llamó la [Ley de Linus](https://en.wikipedia.org/wiki/Linus%27s_law): _Dado un número suficientemente elevado de ojos, todos los errores se vuelven obvios_.
 
-[**Un bot (no inteligente) multiinterfaz y distribuido como asistente personal**](https://propuestas.eslib.re/2020/charlas/bot-no-inteligente-distribuido-asistente), por Fernando Tricas García
+Para Daniel Germán, las grandes catedrales de nuestro tiempo serían aquellas desarrolladas de forma abierta, sirviendo de referente y guía para el resto del mundo. El gran ejemplo de esto, que el ponente desarrollo con varios ejemplos y análisis, sería el [kernel de Linux](https://en.wikipedia.org/wiki/Linux_kernel). Aprendí mucho en esta charla, y me quedé con ganas de investigar más sobre aspectos como el papel del repositorio del propio Linus Torvalds en el ecosistema Linux.
+
+{{< tweet 1307239806599135237 >}}
+
+[**Un bot (no inteligente) multi-interfaz y distribuido como asistente personal**](https://propuestas.eslib.re/2020/charlas/bot-no-inteligente-distribuido-asistente), por Fernando Tricas García
 
 [**Doc-As-Code**](https://propuestas.eslib.re/2020/charlas/doc-as-code), por Jorge Aguilera
 
@@ -104,6 +102,12 @@ Otras charlas a las que asistí y que os recomiendo ver cuando publiquen el víd
 * [**Código colaborativo: el gobierno del futuro**](https://propuestas.eslib.re/2020/charlas/codigo-colaborativo-gobierno-futuro), por Alba Roza
 * [**LibreOffice 10th anniversary: the many faces of a global FOSS community**](https://propuestas.eslib.re/2020/charlas/libreoffice-10th-anniversary), por Italo Vignoli
 * [**Hackeando la comunicación: consejos para evitar conflictos y colaborar en comunidades abiertas**](https://propuestas.eslib.re/2020/charlas/hackeando-comunicacion-conflictos-comunidades-abiertas), por Nuritzi Sanchez
+* [**¿Está (realmente) roto el open source?**](https://propuestas.eslib.re/2020/charlas/esta-roto-open-source), por José Manrique López de la Fuente
+* [**Public Money Public Code – Global problems need global solutions!**](https://propuestas.eslib.re/2020/charlas/public-money-public-code), por Alexander Sander
+* [**Comunicar el impacto social de la industria del software libre**](https://propuestas.eslib.re/2020/charlas/comunicar-impacto-social-software-libre), por Jesús García García
+* [**Software libre y soberanía tecnológica en la ONG Ingeniería Sin Fronteras**](https://propuestas.eslib.re/2020/charlas/software-libre-ongd), por Sergio Soto
+* [**Taller de Introducción a Raku**](https://propuestas.eslib.re/2020/talleres/raku), por JJ Merelo
+* [**Lo que te puede enamorar de Groovy (si no lo ha hecho ya)**](https://propuestas.eslib.re/2020/charlas/puede-enamorar-groovy), por Miguel Rueda García
 
 
 And that's all. **See you in Brussels in FOSDEM 2021!!**
