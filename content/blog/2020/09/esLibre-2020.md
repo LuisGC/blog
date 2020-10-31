@@ -89,13 +89,13 @@ Para Daniel Germán, las grandes catedrales de nuestro tiempo serían aquellas d
 
 {{< tweet 1307239806599135237 >}}
 
-[**Un bot (no inteligente) multi-interfaz y distribuido como asistente personal**](https://propuestas.eslib.re/2020/charlas/bot-no-inteligente-distribuido-asistente), por Fernando Tricas García
-
-[**Doc-As-Code**](https://propuestas.eslib.re/2020/charlas/doc-as-code), por Jorge Aguilera
-
 [**UXBOX, la solución libre para diseño y prototipado**](https://propuestas.eslib.re/2020/charlas/uxbox-solucion-libre-dise%C3%B1o-prototipado), por Juan de la Cruz
 
-[**Web scrapeando las tecnologías más usadas de la Web**](https://propuestas.eslib.re/2020/charlas/web-scrapeando-tecnologias-usadas), por David Vaquero Santiago
+Ya estuve en su día en la presentación que Pablo Ruiz ([@diactritica](https://twitter.com/diacritica)) hizo en FOSDEM, y no podía faltar a la primera presentación en castellano.
+
+La charla es un resumen conciso y bien trabajado. Juan empezó con una descripción del producto, su breve historia y su propósito, y terminó con una demo bastante completa e ilustrativa de las capacidades actuales de [UXBOX](https://uxbox.io/).
+
+UXBOX es una herramienta open source para diseño y prototipado. Las claves fundamentales son que es multi plataforma (al ser 100% web), está basado en estándares abiertos (principalmente SVG) y ha sido diseñado desde cero para ser usado por equipos multi disciplinares.
 
 Otras charlas a las que asistí y que os recomiendo ver cuando publiquen el vídeo:
 * [**Java sigue siendo libre (y gratis)**](https://propuestas.eslib.re/2020/charlas/java-sigue-siendo-libre), por David Gómez
@@ -107,7 +107,8 @@ Otras charlas a las que asistí y que os recomiendo ver cuando publiquen el víd
 * [**Comunicar el impacto social de la industria del software libre**](https://propuestas.eslib.re/2020/charlas/comunicar-impacto-social-software-libre), por Jesús García García
 * [**Software libre y soberanía tecnológica en la ONG Ingeniería Sin Fronteras**](https://propuestas.eslib.re/2020/charlas/software-libre-ongd), por Sergio Soto
 * [**Taller de Introducción a Raku**](https://propuestas.eslib.re/2020/talleres/raku), por JJ Merelo
-* [**Lo que te puede enamorar de Groovy (si no lo ha hecho ya)**](https://propuestas.eslib.re/2020/charlas/puede-enamorar-groovy), por Miguel Rueda García
+* [**Un bot (no inteligente) multi-interfaz y distribuido como asistente personal**](https://propuestas.eslib.re/2020/charlas/bot-no-inteligente-distribuido-asistente), por Fernando Tricas García
+* [**Doc-As-Code**](https://propuestas.eslib.re/2020/charlas/doc-as-code), por Jorge Aguilera
 
 
-And that's all. **See you in Brussels in FOSDEM 2021!!**
+Y esto es todo. **Nos vemos en el Congreso esLibre 2021!!**
