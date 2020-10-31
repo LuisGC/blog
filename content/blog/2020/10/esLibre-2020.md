@@ -1,7 +1,7 @@
 +++
 author = "LuisGC"
 title = "Congreso esLibre 2020"
-date = "2020-09-23"
+date = "2020-10-31"
 type = "post"
 categories = ["post"]
 tags = ["event", "open-source", "technology", "linux", "programming", "internet", "culture", "computer-science", "personal"]
@@ -25,7 +25,7 @@ El [**Congreso esLibre**](https://eslib.re/) está pensado para cualquier person
 * **FOSDEM 2019**: [Sábado](/blog/2019/02/fosdem-2019-saturday/) y [Domingo](/blog/2019/02/fosdem-2019-sunday/)
 * **FOSDEM 2020**: [Sábado y Domingo](/blog/2020/02/fosdem-2020/)
 
-El evento de este año, coordinado por [la **OfiLibre**](https://ofilibre.gitlab.io/) de la [Universidad Rey Juan Carlos](https://www.urjc.es) estaba previsto inicialmente para primeros de Junio y se celebraría en el campus de la propia URJC (ya no recuerdo si en la [ETSII](https://www.urjc.es/etsii) de Móstoles o la [ETSIT](https://www.urjc.es/etsit) de Fuenlabrada). Debido a la llegada de una pandemia mundial de la que habréis oído hablar, el evento fue primero aplazado indefinidamente para poco después convocarse de nuevo en Septiembre para celebrarse íntegramente online. Por suerte las nuevas fechas permitieron que pudiera cumplir mi doble propósito de asistir e impartir la charla que me aceptaron.
+El evento de este año, coordinado por [la **OfiLibre**](https://ofilibre.gitlab.io/) de la [Universidad Rey Juan Carlos](https://www.urjc.es) estaba previsto inicialmente para primeros de Junio y se celebraría en el campus de la propia URJC (ya no recuerdo si en la [ETSII](https://www.urjc.es/etsii) de Móstoles o la [ETSIT](https://www.urjc.es/etsit) de Fuenlabrada). Debido a la llegada de una pandemia mundial de la que habréis oído hablar, el evento fue primero aplazado indefinidamente para poco después convocarse de nuevo para celebrarse íntegramente online del 18 al 19 de Septiembre. Por suerte las nuevas fechas permitieron que pudiera cumplir mi doble propósito de asistir e impartir la charla que me aceptaron.
 
 El Congreso esLibre 2020 fue montado y organizado por voluntarios utilizando tecnologías libres: principalmente [BigBlueButton](https://bigbluebutton.org/) para compartir las charlas, [Rocket.Chat](https://rocket.chat/) para comentar de forma organizada cada ponencia y ofrecer/conseguir ayuda; y [Mozilla Hubs](https://hubs.mozilla.com/) para el encuentro más social tras las charlas del primer día. Yo mismo me dejé _engañar_ para moderar uno de los slots de charlas.
 
@@ -35,7 +35,7 @@ Voy a resumir un poco algunas de las charlas a las que pude asistir (en orden cr
 
 [**Software Heritage: Una Infraestructura común para preservar nuestro software comunitario**](https://propuestas.eslib.re/2020/charlas/software-heritage), por Roberto Di Cosmo ([@rdicosmo](https://twitter.com/rdicosmo))
 
-[Software Heritage](https://www.softwareheritage.org/), que en 2016 co-fundó y desde entonces dirige el ponente, es una fantástica iniciativa sin ánimo de lucro destinada a preservar la mayor parte posible de código fuente de cualquier proyecto. Desde hace muchos años, y cada vez más, el código fuente es también un reflejo de nuestra cultura y nuestras costumbres.
+[**Software Heritage**](https://www.softwareheritage.org/), que en 2016 co-fundó y desde entonces dirige el ponente, es una fantástica iniciativa sin ánimo de lucro destinada a preservar la mayor parte posible de código fuente de cualquier proyecto. Desde hace muchos años, y cada vez más, el código fuente es también un reflejo de nuestra cultura y nuestras costumbres.
 
 Entre sus objetivos, además de recopilar y preservar, también está compartir. Pretende ser una plataforma ideal para revisar, comentar y enlazar fragmentos de código. Ahora mismo alberga más de 142 millones de proyectos, entre otros una copia (no actualizada) de [este mismo blog](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/LuisGC/blog).
 
@@ -73,15 +73,15 @@ Termino con una cita del propio JJ que me encantó: "StackOverflow está abierto
 
 Esta charla me sorprendió muchísimo. Tenía cierto conocimiento de oídas sobre el proyecto pero contado de primera mano me quedó todo más claro.
 
-[The Things Network](https://www.thethingsnetwork.org/) consiste básicamente en una red global abierta basada en el protocolo [LoRaWAN](https://www.thethingsnetwork.org/docs/lorawan/). En otras palabras, es una red de dispositivos IoT desplegada y mantenida por la comunidad con muchos e interesantes casos de uso.
+[**The Things Network**](https://www.thethingsnetwork.org/) consiste básicamente en una red global abierta basada en el protocolo [LoRaWAN](https://www.thethingsnetwork.org/docs/lorawan/). En otras palabras, es una red de dispositivos IoT desplegada y mantenida por la comunidad con muchos e interesantes casos de uso.
 
 {{< tweet 1306918777003573250 >}}
 
 [**Linux, The Gothic Cathedral of our times**](https://propuestas.eslib.re/2020/charlas/linux-gothic-cathedral), por Daniel Germán
 
-Otra charla interesantísima y muy recomendable, en la que el ponente desarrolla su opinión sobre la premisa lanzada por Eric Raymond en [_The Cathedral and the Bazaar_](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar). En esta obra Raymond define básicamente dos modelos de desarrollo de software:
-* El modelo _Catedral_, en el que un grupo reducido de gente desarrolla el código y lo libera en releases más o menos frecuentes.
-* El modelo _Bazar_, en el que todo el código se desarrolla a la vista del público
+Otra charla interesantísima y muy recomendable, en la que el ponente desarrolla su opinión sobre la premisa lanzada por [Eric Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond) en [_The Cathedral and the Bazaar_](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar). En esta obra Raymond define básicamente dos modelos de desarrollo de software:
+* El modelo _Catedral_, en el que un grupo reducido de gente desarrolla el código y lo libera en releases (más o menos frecuentes). Muy pocos tienen acceso al código entre cada release.
+* El modelo _Bazar_, en el que todo el código se desarrolla a la vista del público, y todo el mundo tiene acceso al mismo.
 
 Ambos modelos coexisten en el software libre, siendo mucho más apropiado el segundo. Para ejemplificarlo, Eric Raymond incluso acuñó lo que llamó la [Ley de Linus](https://en.wikipedia.org/wiki/Linus%27s_law): _Dado un número suficientemente elevado de ojos, todos los errores se vuelven obvios_.
 
