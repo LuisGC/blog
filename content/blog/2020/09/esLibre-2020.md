@@ -71,7 +71,11 @@ Termino con una cita del propio JJ que me encantó: "StackOverflow está abierto
 
 [**The Things Network: una red IoT desplegada y mantenida por la ciudadanía**](https://propuestas.eslib.re/2020/charlas/the-things-network-red-iot), por Juan Félix Mateos Barrado
 
-[**Hackeando la comunicación: consejos para evitar conflictos y colaborar en comunidades abiertas**](https://propuestas.eslib.re/2020/charlas/hackeando-comunicacion-conflictos-comunidades-abiertas), por Nuritzi Sanchez
+Esta charla me sorprendió muchísimo. Tenía cierto conocimiento de oídas sobre el proyecto pero contado de primera mano me quedó todo más claro.
+
+[The Things Network](https://www.thethingsnetwork.org/) consiste básicamente en una red global abierta basada en el protocolo [LoRaWAN](https://www.thethingsnetwork.org/docs/lorawan/). En otras palabras, es una red de dispositivos IoT desplegada y mantenida por la comunidad con muchos e interesantes casos de uso.
+
+{{< tweet 1306918777003573250 >}}
 
 [**¿Está (realmente) roto el open source?**](https://propuestas.eslib.re/2020/charlas/esta-roto-open-source), por José Manrique López de la Fuente
 
@@ -99,6 +103,7 @@ Otras charlas a las que asistí y que os recomiendo ver cuando publiquen el víd
 * [**Java sigue siendo libre (y gratis)**](https://propuestas.eslib.re/2020/charlas/java-sigue-siendo-libre), por David Gómez
 * [**Código colaborativo: el gobierno del futuro**](https://propuestas.eslib.re/2020/charlas/codigo-colaborativo-gobierno-futuro), por Alba Roza
 * [**LibreOffice 10th anniversary: the many faces of a global FOSS community**](https://propuestas.eslib.re/2020/charlas/libreoffice-10th-anniversary), por Italo Vignoli
+* [**Hackeando la comunicación: consejos para evitar conflictos y colaborar en comunidades abiertas**](https://propuestas.eslib.re/2020/charlas/hackeando-comunicacion-conflictos-comunidades-abiertas), por Nuritzi Sanchez
 
 
 And that's all. **See you in Brussels in FOSDEM 2021!!**
