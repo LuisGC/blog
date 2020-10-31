@@ -11,7 +11,7 @@ I'm a **Software Engineer**, **FOSS Advocate** and **Agile Evangelist** habituat
 
 {{< image classes="image lateral" src="/img/main/avatar.png" title="Luis a.k.a. Luiyo, the author" >}}
 
-I'm an active fellow of several national and international associations: [**ARP-SAPC**](https://www.escepticos.es/) and [**Círculo Escéptico**](https://circuloesceptico.org/) (promoting critical thinking, in the former one as part of the Board since 2012); [**STE**](http://sociedadtolkien.org/) and [**AEFCFT**](http://www.aefcft.com/) (Literature and Arts); and [**AECC**](https://www.aecomunicacioncientifica.org/) (about scientific communication and outreach).
+I'm an active fellow of several national and international associations: [**ARP-SAPC**](https://www.escepticos.es/) and [**Círculo Escéptico**](https://circuloesceptico.org/) (promoting critical thinking); [**STE**](http://sociedadtolkien.org/) and [**AEFCFT**](http://www.aefcft.com/) (Literature and Arts); and [**AECC**](https://www.aecomunicacioncientifica.org/) (about scientific communication and outreach).
 
 I'm also Member of [**Free Software Foundation Europe**](https://fsfe.org/), [**OpenStreetMap Foundation**](https://osmfoundation.org/), [**Spanish Red Cross**](https://www.cruzroja.es/), [**Doctors Without Borders**](https://www.msf.es/), [**Amnesty International**](https://www.amnesty.org/es/) and [**UNHCR**](http://www.acnur.org/).
 
