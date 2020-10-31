@@ -7,15 +7,15 @@ categories = ["post"]
 tags = ["event", "open-source", "technology", "linux", "programming", "internet", "culture", "computer-science", "personal"]
 status = "published"
 [[images]]
-  src = "https://live.staticflickr.com/65535/50550526218_389cb773bc_h.jpg"
-  alt = "Evento social de esLibre en Mozilla Hubs"
+  src = "https://live.staticflickr.com/65535/50550526218_18a96fd1c3_o.png"
+  alt = "Evento social del Congreso esLibre 2020 en Mozilla Hubs"
 +++
 
 _**Disclaimer**: Out of necessity, this entry will be shorter than I would like and in Spanish, despite most of my readers (according to Google Analytics) do not have Spanish as their main language._
 
 No pude asistir a la anterior edición de esLibre en Granada (a pesar de que lo tenía previsto inicialmente) pero en ningún caso me quería perder el evento de 2020. Tanto es así que presenté una propuesta de charla incluso :-)
 
-{{< image classes="image lateral" src="https://live.staticflickr.com/65535/50550526278_1404bc5220_w.jpg" title="logo del Congreso esLibre 2020" >}}
+{{< image classes="image lateral" src="https://live.staticflickr.com/65535/50550526278_a0856368f2_o.png" title="logo del Congreso esLibre 2020" >}}
 
 El [**Congreso esLibre**](https://eslib.re/) está pensado para cualquier persona interesada en la tecnología y la cultura libres, ideal para compartir conocimiento y experiencias alrededor de las mismas. En cierto modo, recupera el espíritu y los contenidos de los congresos [Hispalinux](https://hispalinux.es/) a los que yo solía asistir con mis compañeros de facultad. Por otro lado, es clara e innegable la influencia de [FOSDEM](https://fosdem.org/), el evento de referencia sobre FLOSS del que os he hablado varias veces (en inglés) en el blog:
 
@@ -52,6 +52,8 @@ Es una charla compleja de preparar y muy difícil de contar. Normalmente la hago
 
 Sobre la charla en sí, ya comenté más detalles sobre ella cuando [la impartí el año pasado en Commit Conf](/blog/2019/12/big-things-commit-conf-2019/). El propósito (que espero lograr) es llamar a la reflexión sobre los aspectos más relativos a la ética y menos a la tecnología que son importantes en relación a la gobernanza y comunidad de un lenguaje de programación. Creo que todos deberíamos conocer y tener en cuenta este tipo de factores a la hora de elegir un lenguaje para nuestro nuevo proyecto (especialmente si es abierto). Como siempre que actualizo la charla, investigué a fondo los entresijos de varios lenguajes y comunidades para poder destacar lo más reciente o importante en relación a los aspectos éticos de dichos lenguajes o comunidades.
 
+{{< image classes="image" src="https://live.staticflickr.com/65535/50550601208_6e97aaf4aa_o.png" title="En el turno de preguntas de mi charla en esLibre 2020" >}}
+
 Cuando se publique el vídeo podéis incluso ver ambas charlas porque siendo la misma estructura el contenido cambia bastante.
 
 {{< tweet 1306595952279470088 >}}
@@ -85,6 +87,8 @@ Otra charla interesantísima y muy recomendable, en la que el ponente desarrolla
 Ambos modelos coexisten en el software libre, siendo mucho más apropiado el segundo. Para ejemplificarlo, Eric Raymond incluso acuñó lo que llamó la [Ley de Linus](https://en.wikipedia.org/wiki/Linus%27s_law): _Dado un número suficientemente elevado de ojos, todos los errores se vuelven obvios_.
 
 Para Daniel Germán, las grandes catedrales de nuestro tiempo serían aquellas desarrolladas de forma abierta, sirviendo de referente y guía para el resto del mundo. El gran ejemplo de esto, que el ponente desarrollo con varios ejemplos y análisis, sería el [kernel de Linux](https://en.wikipedia.org/wiki/Linux_kernel). Aprendí mucho en esta charla, y me quedé con ganas de investigar más sobre aspectos como el papel del repositorio del propio Linus Torvalds en el ecosistema Linux.
+
+{{< image classes="image" src="https://live.staticflickr.com/65535/50550572243_a7e898151e_o.png" title="The Linux Super-Repository, by Daniel Germán" >}}
 
 {{< tweet 1307239806599135237 >}}
 
