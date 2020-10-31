@@ -7,16 +7,15 @@ categories = ["post"]
 tags = ["event", "open-source", "technology", "linux", "programming", "internet", "culture", "computer-science", "personal"]
 status = "published"
 [[images]]
-  src = "https://picsum.photos/880/280?blur=5"
-  alt = "TBC"
-  stretch = ""
+  src = "https://live.staticflickr.com/65535/50550526218_389cb773bc_h.jpg"
+  alt = "Evento social de esLibre en Mozilla Hubs"
 +++
 
 _**Disclaimer**: Out of necessity, this entry will be shorter than I would like and in Spanish, despite most of my readers (according to Google Analytics) do not have Spanish as their main language._
 
 No pude asistir a la anterior edición de esLibre en Granada (a pesar de que lo tenía previsto inicialmente) pero en ningún caso me quería perder el evento de 2020. Tanto es así que presenté una propuesta de charla incluso :-)
 
-{{< image classes="image lateral" src="/img/esLibre_400x400.png" title="esLibre 2020 logo" >}}
+{{< image classes="image lateral" src="https://live.staticflickr.com/65535/50550526278_1404bc5220_w.jpg" title="logo del Congreso esLibre 2020" >}}
 
 El [**Congreso esLibre**](https://eslib.re/) está pensado para cualquier persona interesada en la tecnología y la cultura libres, ideal para compartir conocimiento y experiencias alrededor de las mismas. En cierto modo, recupera el espíritu y los contenidos de los congresos [Hispalinux](https://hispalinux.es/) a los que yo solía asistir con mis compañeros de facultad. Por otro lado, es clara e innegable la influencia de [FOSDEM](https://fosdem.org/), el evento de referencia sobre FLOSS del que os he hablado varias veces (en inglés) en el blog:
 
@@ -31,7 +30,7 @@ El Congreso esLibre 2020 fue montado y organizado por voluntarios utilizando tec
 
 Voy a resumir un poco algunas de las charlas a las que pude asistir (en orden cronológico):
 
-# Charlas
+## Charlas
 
 [**Software Heritage: Una Infraestructura común para preservar nuestro software comunitario**](https://propuestas.eslib.re/2020/charlas/software-heritage), por Roberto Di Cosmo ([@rdicosmo](https://twitter.com/rdicosmo))
 
