@@ -7,7 +7,7 @@ categories = ["post"]
 tags = ["event", "open-source", "technology", "linux", "programming", "internet", "culture", "computer-science", "personal"]
 status = "published"
 [[images]]
-  src = "https://picsum.photos/1024/576?blur=5"
+  src = "https://picsum.photos/1024/325?blur=5"
   alt = "TBC"
   stretch = ""
 +++
@@ -33,7 +33,7 @@ Voy a resumir un poco algunas de las charlas a las que pude asistir (en orden cr
 
 # Charlas
 
-[**Software Heritage: Una Infraestructura común para preservar nuestro software comunitario**](https://propuestas.eslib.re/2020/charlas/software-heritage), by Roberto Di Cosmo ([@rdicosmo](https://twitter.com/rdicosmo))
+[**Software Heritage: Una Infraestructura común para preservar nuestro software comunitario**](https://propuestas.eslib.re/2020/charlas/software-heritage), por Roberto Di Cosmo ([@rdicosmo](https://twitter.com/rdicosmo))
 
 [Software Heritage](https://www.softwareheritage.org/), que en 2016 co-fundó y desde entonces dirige el ponente, es una fantástica iniciativa sin ánimo de lucro destinada a preservar la mayor parte posible de código fuente de cualquier proyecto. Desde hace muchos años, y cada vez más, el código fuente es también un reflejo de nuestra cultura y nuestras costumbres.
 
@@ -45,7 +45,7 @@ Esta keynote fue una fantástica charla de apertura para un congreso como este.
 
 {{< tweet 700184001701478400 >}}
 
-[**Sobre la gobernanza en lenguajes de programación**](https://propuestas.eslib.re/2020/charlas/gobernanza-lenguajes-programacion), by **me**
+[**Sobre la gobernanza en lenguajes de programación**](https://propuestas.eslib.re/2020/charlas/gobernanza-lenguajes-programacion), por **un servidor**
 
 Me encanta esta charla. Prepararla me lleva muchísimo tiempo pero disfruto cada minuto. No me cansaré de actualizarla y repetirla siempre que perciba que sigue siendo relevante y bien recibida. Por el feedback que obtengo cada vez, diría que a la gente también le gusta mucho. En cualquier caso no espero repetirla en bastante tiempo, salvo que tenga claro que la audiencia es claramente nueva.
 
@@ -57,39 +57,48 @@ Cuando se publique el vídeo podéis incluso ver ambas charlas porque siendo la 
 
 {{< tweet 1306595952279470088 >}}
 
-[**Java sigue siendo libre (y gratis)**](https://propuestas.eslib.re/2020/charlas/java-sigue-siendo-libre), by David Gómez G.
+[**Enseñando informática en 2020: una propuesta basada en el software libre**](https://propuestas.eslib.re/2020/charlas/ensenando-informatica-2020), por JJ Merelo
 
-[**Código colaborativo: el gobierno del futuro**](https://propuestas.eslib.re/2020/charlas/codigo-colaborativo-gobierno-futuro), by Alba Roza
+Esta charla de JJ me pareció muy interesante, y me hizo preguntarme si deberíamos aplicar el concepto a otros ámbitos.
 
-[**LibreOffice 10th anniversary: the many faces of a global FOSS community**](https://propuestas.eslib.re/2020/charlas/libreoffice-10th-anniversary), by Italo Vignoli
+La premisa del ponente es aplicar a la evaluación y seguimiento en la enseñanza, en este caso específico para la carrera de Informática donde se presuponen ciertos conocimientos, los mismos sistemas y procesos que ya se han adoptado con éxito en el mundo del desarrollo software: integración continua, test unitarios, automatización, merge requests, etc.
 
-[**Enseñando informática en 2020: una propuesta basada en el software libre**](https://propuestas.eslib.re/2020/charlas/ensenando-informatica-2020), by JJ Merelo
+Todo basado en software libre, y accesible desde el primer momento para cualquier alumno. Además, automatizando al máximo las verificaciones más estáticas, el proceso de evaluación se agiliza enormemente.
 
-[**The Things Network: una red IoT desplegada y mantenida por la ciudadanía**](https://propuestas.eslib.re/2020/charlas/the-things-network-red-iot), by Juan Félix Mateos Barrado
+El propio autor lo ha puesto en práctica en varias asignaturas y también mostró ciertas evidencias de que mejora el resultado y como poco reduce las tasas de abandono en dichas asignaturas. Son pocas evidencias para que sea concluyente pero parece que el razonamiento tiene sentido.
 
-[**Hackeando la comunicación: consejos para evitar conflictos y colaborar en comunidades abiertas**](https://propuestas.eslib.re/2020/charlas/hackeando-comunicacion-conflictos-comunidades-abiertas), by Nuritzi Sanchez
+Termino con una cita del propio JJ que me encantó: "StackOverflow está abierto para todo el mundo, también para los profesores".
 
-[**¿Está (realmente) roto el open source?**](https://propuestas.eslib.re/2020/charlas/esta-roto-open-source), by José Manrique López de la Fuente
+[**The Things Network: una red IoT desplegada y mantenida por la ciudadanía**](https://propuestas.eslib.re/2020/charlas/the-things-network-red-iot), por Juan Félix Mateos Barrado
 
-[**Public Money Public Code – Global problems need global solutions!**](https://propuestas.eslib.re/2020/charlas/public-money-public-code), by Alexander Sander
+[**Hackeando la comunicación: consejos para evitar conflictos y colaborar en comunidades abiertas**](https://propuestas.eslib.re/2020/charlas/hackeando-comunicacion-conflictos-comunidades-abiertas), por Nuritzi Sanchez
 
-[**Comunicar el impacto social de la industria del software libre**](https://propuestas.eslib.re/2020/charlas/comunicar-impacto-social-software-libre), by Jesús García García
+[**¿Está (realmente) roto el open source?**](https://propuestas.eslib.re/2020/charlas/esta-roto-open-source), por José Manrique López de la Fuente
 
-[**Software libre y soberanía tecnológica en la ONG Ingeniería Sin Fronteras**](https://propuestas.eslib.re/2020/charlas/software-libre-ongd), by Sergio Soto
+[**Public Money Public Code – Global problems need global solutions!**](https://propuestas.eslib.re/2020/charlas/public-money-public-code), por Alexander Sander
 
-[**Linux, The Gothic Cathedral of our times**](https://propuestas.eslib.re/2020/charlas/linux-gothic-cathedral), by Daniel Germán
+[**Comunicar el impacto social de la industria del software libre**](https://propuestas.eslib.re/2020/charlas/comunicar-impacto-social-software-libre), por Jesús García García
 
-[**Taller de Introducción a Raku**](https://propuestas.eslib.re/2020/talleres/raku), by JJ Merelo
+[**Software libre y soberanía tecnológica en la ONG Ingeniería Sin Fronteras**](https://propuestas.eslib.re/2020/charlas/software-libre-ongd), por Sergio Soto
 
-[**Lo que te puede enamorar de Groovy (si no lo ha hecho ya)**](https://propuestas.eslib.re/2020/charlas/puede-enamorar-groovy), by Miguel Rueda García
+[**Linux, The Gothic Cathedral of our times**](https://propuestas.eslib.re/2020/charlas/linux-gothic-cathedral), por Daniel Germán
 
-[**Un bot (no inteligente) multiinterfaz y distribuido como asistente personal**](https://propuestas.eslib.re/2020/charlas/bot-no-inteligente-distribuido-asistente), by Fernando Tricas García
+[**Taller de Introducción a Raku**](https://propuestas.eslib.re/2020/talleres/raku), por JJ Merelo
 
-[**Doc-As-Code**](https://propuestas.eslib.re/2020/charlas/doc-as-code), by Jorge Aguilera
+[**Lo que te puede enamorar de Groovy (si no lo ha hecho ya)**](https://propuestas.eslib.re/2020/charlas/puede-enamorar-groovy), por Miguel Rueda García
 
-[**UXBOX, la solución libre para diseño y prototipado**](https://propuestas.eslib.re/2020/charlas/uxbox-solucion-libre-dise%C3%B1o-prototipado), by Juan de la Cruz
+[**Un bot (no inteligente) multiinterfaz y distribuido como asistente personal**](https://propuestas.eslib.re/2020/charlas/bot-no-inteligente-distribuido-asistente), por Fernando Tricas García
 
-[**Web scrapeando las tecnologías más usadas de la Web**](https://propuestas.eslib.re/2020/charlas/web-scrapeando-tecnologias-usadas), by David Vaquero Santiago
+[**Doc-As-Code**](https://propuestas.eslib.re/2020/charlas/doc-as-code), por Jorge Aguilera
+
+[**UXBOX, la solución libre para diseño y prototipado**](https://propuestas.eslib.re/2020/charlas/uxbox-solucion-libre-dise%C3%B1o-prototipado), por Juan de la Cruz
+
+[**Web scrapeando las tecnologías más usadas de la Web**](https://propuestas.eslib.re/2020/charlas/web-scrapeando-tecnologias-usadas), por David Vaquero Santiago
+
+Otras charlas a las que asistí y que os recomiendo ver cuando publiquen el vídeo:
+* [**Java sigue siendo libre (y gratis)**](https://propuestas.eslib.re/2020/charlas/java-sigue-siendo-libre), por David Gómez
+* [**Código colaborativo: el gobierno del futuro**](https://propuestas.eslib.re/2020/charlas/codigo-colaborativo-gobierno-futuro), por Alba Roza
+* [**LibreOffice 10th anniversary: the many faces of a global FOSS community**](https://propuestas.eslib.re/2020/charlas/libreoffice-10th-anniversary), por Italo Vignoli
 
 
 And that's all. **See you in Brussels in FOSDEM 2021!!**
