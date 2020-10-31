@@ -35,7 +35,7 @@ To make it more impressive, take into account that FOSDEM is **organized by volu
 
 As usual, let me summarize some of the talks that I attended (in chronological order):
 
-# Talks
+## Talks
 
 [**How FOSS could revolutionize municipal government**](https://fosdem.org/2020/schedule/event/municipal_government/), by Danese Cooper
 
