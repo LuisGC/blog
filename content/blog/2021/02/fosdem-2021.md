@@ -17,7 +17,9 @@ Due to the pandemic this year I could not make my yearly pilgrimage to Brussels,
 
 For those of you who don't know [**FOSDEM**](https://fosdem.org/), I will keep my usual description. It is the biggest conference in Europe (and one of the biggest around the world) related to **Open Source** development and communities. It's a huge event with hundreds of talks, workshops, gatherings and stands from all the relevant projects and communities in the **FOSS (Free and Open Source Software)** ecosystem. It's also a marvelous place to do networking, because there are not only representatives of those projects but normally also the technical leaders of them. If you are good with names and faces you can meet and greet a lot of important and interesting people.
 
-Being online, this year the interaction was limited to Matrix and IRC Freenode channels in parallel to the live streaming, and Jitsi for the streaming. Everything is open source, and scaling amazingly.
+Being online, this year the interaction was limited to [Matrix](https://matrix.org/) and IRC [Freenode](https://freenode.net/) channels in parallel to the live streaming, and [Jitsi](https://meet.jit.si/) for the streaming. Everything is open source, and scaling amazingly.
+
+{{< tweet 1357978829692764162 >}}
 
 I already wrote about it in previous years:
 
@@ -60,6 +62,11 @@ Another popular speaker to explain different ways to support Java, not only with
 Matt reflects on how the huge success of Open Source also brought imitators, as in another sectors like sci-fi movies. But success in Open Source has different implications, depending on the project. Matt also comments in the recent problems that we have seen in different communities, from more or less embarrassing licensing changes to projects moved to "as a service" exclusive business models.
 
 The talk is a good overview of the different models, advantages and disadvantages of them. A thought provoking talk with lots of interesting insights.
+
+[**The Democratization of Databases**](https://fosdem.org/2021/schedule/event/database_democratization/), by Bruce Momjian
+
+Bruce started with an overview of what democracy or representative democracy means, and the specific advantages of other systems like an autocracy might have in sectors like the military or the space exploration. Software is usually better under democracy as it allows rapid adjustment of goals and expands the pool of talent.
+
 
 <br />
 
