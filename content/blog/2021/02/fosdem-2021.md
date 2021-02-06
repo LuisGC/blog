@@ -67,6 +67,10 @@ The talk is a good overview of the different models, advantages and disadvantage
 
 Bruce started with an overview of what democracy or representative democracy means, and the specific advantages of other systems like an autocracy might have in sectors like the military or the space exploration. Software is usually better under democracy as it allows rapid adjustment of goals and expands the pool of talent.
 
+According to the speaker, Democracy in open source works a bit differently. It is a mix of democracy and meritocracy, where voting can be problematic but bad decisions can quickly be reverted. The main drawback is that the plan or road map is not reliable.
+
+Finally, the talk focuses on the PostgreSQL community, and how they operate and evolve.
+
 
 <br />
 
