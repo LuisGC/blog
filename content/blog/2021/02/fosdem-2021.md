@@ -57,7 +57,7 @@ Another popular speaker to explain different ways to support Java, not only with
 * Follow a [Java Champion](https://twitter.com/Java_Champions/following) in twitter. I just checked and I'm following almost 20.
 * Join a specialized Slack channel, write articles in your blog, participate in an unconference event, ...
 
-[**The Death of Openness and Freedom? Open Source Under Attack**](https://fosdem.org/2021/schedule/event/open_source_under_attack/), by Matt Yonkovit
+[**The Death of Openness and Freedom?**](https://fosdem.org/2021/schedule/event/open_source_under_attack/), by Matt Yonkovit
 
 Matt reflects on how the huge success of Open Source also brought imitators, as in another sectors like sci-fi movies. But success in Open Source has different implications, depending on the project. Matt also comments in the recent problems that we have seen in different communities, from more or less embarrassing licensing changes to projects moved to "as a service" exclusive business models.
 
@@ -70,6 +70,16 @@ Bruce started with an overview of what democracy or representative democracy mea
 According to the speaker, Democracy in open source works a bit differently. It is a mix of democracy and meritocracy, where voting can be problematic but bad decisions can quickly be reverted. The main drawback is that the plan or road map is not reliable.
 
 Finally, the talk focuses on the PostgreSQL community, and how they operate and evolve.
+
+[**Mozilla History: 20+ Years And Counting**](https://fosdem.org/2021/schedule/event/mozilla_history_20_years_and_counting/), by Robert Kaiser
+
+Nice summary of all the important milestones of Mozilla by KaiRo. Lots of nice memories:
+* the origin of the name (mixing Mosaic and Godzilla as in _Mosaic Killer_), that was later renamed to Netscape
+* How the Firefox web browser was born
+* How the Mozilla Foundation started, alongside the Mozilla Corporation
+* The [Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/), written in 2007
+* Rust, Firefox OS, Mozilla Hubs and many other things...
+
 
 
 <br />
