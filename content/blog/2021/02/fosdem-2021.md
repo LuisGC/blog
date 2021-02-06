@@ -17,7 +17,7 @@ Due to the pandemic this year I could not make my yearly pilgrimage to Brussels,
 
 For those of you who don't know [**FOSDEM**](https://fosdem.org/), I will keep my usual description. It is the biggest conference in Europe (and one of the biggest around the world) related to **Open Source** development and communities. It's a huge event with hundreds of talks, workshops, gatherings and stands from all the relevant projects and communities in the **FOSS (Free and Open Source Software)** ecosystem. It's also a marvelous place to do networking, because there are not only representatives of those projects but normally also the technical leaders of them. If you are good with names and faces you can meet and greet a lot of important and interesting people.
 
-Being online, this year the interaction was limited to matrix channels in parallel to the live streaming.
+Being online, this year the interaction was limited to Matrix and IRC Freenode channels in parallel to the live streaming, and Jitsi for the streaming. Everything is open source, and scaling amazingly.
 
 I already wrote about it in previous years:
 
@@ -44,6 +44,16 @@ As usual, let me summarize some of the talks that I attended (in chronological o
 Simon Ritter gave an overview of the most recent updates in the Java language: better switch statements in JDK 12, a preview of the text blocks for JDK 13, simpler Data classes and Records in JDK 14, sealed classes in JDK 15, more on Records, pattern matching and sealed classes in JDK 16...
 
 Overall a good overview by Simon, as usual. I lost the count of his talks that I have attended.
+
+[**10 Ways Everyone Can Support the Java Community**](https://fosdem.org/2021/schedule/event/10ways/), by Stephen Chin ([@steveonjava](https://twitter.com/steveonjava))
+
+Another popular speaker to explain different ways to support Java, not only with coding. Some of the ideas were:
+
+* [Contribute to OpenJDK](https://openjdk.java.net/contribute/): Find something interesting, discuss your intended changed and finally submit a patch
+* Join the [Foojay community](https://foojay.io), a new online community for friends of OpenJDK
+* Join or sponsor a Java Users Group, you can find JUGs almost everywhere although now most of them are online. Even before the pandemic you could already find a few virtual JUGs.
+* Follow a [Java Champion](https://twitter.com/Java_Champions/following) in twitter. I just checked and I'm following almost 20.
+* Join a specialized Slack channel, write articles in your blog, participate in an unconference event, ... 
 
 
 <br />
