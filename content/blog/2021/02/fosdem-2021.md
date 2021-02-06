@@ -80,6 +80,10 @@ Nice summary of all the important milestones of Mozilla by KaiRo. Lots of nice m
 * The [Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/), written in 2007
 * Rust, Firefox OS, Mozilla Hubs and many other things...
 
+[**Database Performance at GitLab.com**](https://fosdem.org/2021/schedule/event/postgresql_database_performance_at_gitlab_com/) by Nikolay Samokhvalov and Jose Finotto
+
+Interesting overview about how Gitlab copes with their massive amounts of users and their strict SLAs, focusing specially in the PostgreSQL database side. I got several interesting inputs from the talk, from automated database health checks (and how they do them), to best practices for the engineers (how they learn and get insights of their usage), how they experiment, etc.
+
 
 
 <br />
