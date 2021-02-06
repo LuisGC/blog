@@ -26,15 +26,12 @@ I already wrote about it in previous years:
 * **FOSDEM 2019**: [Saturday](/blog/2019/02/fosdem-2019-saturday/) and [Sunday](/blog/2019/02/fosdem-2019-sunday/)
 * **FOSDEM 2020**: [Saturday and Sunday](/blog/2020/02/fosdem-2020/)
 
-</---
-The [numbers of this 2020 edition](https://twitter.com/vishwajeets3/status/1224021852349255682) speak for themselves, improving all the figures from previous years:
+The numbers of this 2021 edition are slightly lower than in 2020, but it's amazing they could almost maintain the volume of activities and this time reaching to a worldwide audience:
 
-* more than 8,000 attendees in only two days
-* [781 speakers](https://fosdem.org/2020/schedule/speakers/) in [817 different events](https://fosdem.org/2020/schedule/events/) (talks or workshops, mainly)
-* [71 tracks](https://fosdem.org/2020/schedule/rooms/) in 35 different rooms
-* [more than 400 hours of content](https://video.fosdem.org/2020/), almost all of the events are [available online with live streaming](https://fosdem.org/2020/schedule/streaming/) during the conference
-* [63 stands](https://fosdem.org/2020/stands/) of all kinds of projects: [FSFE](https://fsfe.org/), [the Apache Software Foundation](http://www.apache.org/), [OSI](https://opensource.org/), [the Eclipse Foundation](https://eclipse.org/), [Software Freedom Conservancy](https://sfconservancy.org/), [Fedora](http://getfedora.org/), [OpenSUSE](https://www.opensuse.org/), [Debian](https://www.debian.org/) [KDE](http://www.kde.org/), [Gnome](http://gnome.org/), [LibreOffice](http://www.libreoffice.org/), [Mattermost](https://www.mattermost.com/), [Mozilla](https://mozilla.org/), [Jenkins](https://jenkins.io/), ...
--->
+* [678 speakers](https://fosdem.org/2021/schedule/speakers/) in [763 different events](https://fosdem.org/2021/schedule/events/) (talks or workshops, mainly)
+* [51 different devrooms](https://fosdem.org/2021/live/#devrooms)
+* [hundreds of hours of content](https://video.fosdem.org/2021/), almost all of the events are [available online with live streaming](https://fosdem.org/2021/live/) during the conference
+* [52 online stands](https://stands.fosdem.org/stands/) of all kinds of projects: [FSFE](https://fsfe.org/), [the Apache Software Foundation](http://www.apache.org/), [the Eclipse Foundation](https://eclipse.org/), [Fedora](http://getfedora.org/), [Debian](https://www.debian.org/) [KDE](http://www.kde.org/), [Gnome](http://gnome.org/), [LibreOffice](http://www.libreoffice.org/), [Jenkins](https://jenkins.io/), ...
 
 To make it more impressive, take into account that FOSDEM is **organized by volunteers**, everything is **community driven** and it's **free to attend**. You don't even need to register beforehand.
 
@@ -42,9 +39,11 @@ As usual, let me summarize some of the talks that I attended (in chronological o
 
 ## Talks
 
-[**Getting the Most from Modern Java**](https://fosdem.org/2021/schedule/event/modernjava/), by Simon Ritter
+[**Getting the Most from Modern Java**](https://fosdem.org/2021/schedule/event/modernjava/), by Simon Ritter ([@speakjava](https://twitter.com/speakjava))
 
-Simon Ritter gave an overview of the most recent updates in the Java language: better switch statements in Java 12, a preview of the text blocks for Java 13, ...
+Simon Ritter gave an overview of the most recent updates in the Java language: better switch statements in JDK 12, a preview of the text blocks for JDK 13, simpler Data classes and Records in JDK 14, sealed classes in JDK 15, more on Records, pattern matching and sealed classes in JDK 16...
+
+Overall a good overview by Simon, as usual. I lost the count of his talks that I have attended.
 
 
 <br />
