@@ -53,8 +53,13 @@ Another popular speaker to explain different ways to support Java, not only with
 * Join the [Foojay community](https://foojay.io), a new online community for friends of OpenJDK
 * Join or sponsor a Java Users Group, you can find JUGs almost everywhere although now most of them are online. Even before the pandemic you could already find a few virtual JUGs.
 * Follow a [Java Champion](https://twitter.com/Java_Champions/following) in twitter. I just checked and I'm following almost 20.
-* Join a specialized Slack channel, write articles in your blog, participate in an unconference event, ... 
+* Join a specialized Slack channel, write articles in your blog, participate in an unconference event, ...
 
+[**The Death of Openness and Freedom? Open Source Under Attack**](https://fosdem.org/2021/schedule/event/open_source_under_attack/), by Matt Yonkovit
+
+Matt reflects on how the huge success of Open Source also brought imitators, as in another sectors like sci-fi movies. But success in Open Source has different implications, depending on the project. Matt also comments in the recent problems that we have seen in different communities, from more or less embarrassing licensing changes to projects moved to "as a service" exclusive business models.
+
+The talk is a good overview of the different models, advantages and disadvantages of them.
 
 <br />
 
