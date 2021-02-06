@@ -59,7 +59,7 @@ Another popular speaker to explain different ways to support Java, not only with
 
 Matt reflects on how the huge success of Open Source also brought imitators, as in another sectors like sci-fi movies. But success in Open Source has different implications, depending on the project. Matt also comments in the recent problems that we have seen in different communities, from more or less embarrassing licensing changes to projects moved to "as a service" exclusive business models.
 
-The talk is a good overview of the different models, advantages and disadvantages of them.
+The talk is a good overview of the different models, advantages and disadvantages of them. A thought provoking talk with lots of interesting insights.
 
 <br />
 
