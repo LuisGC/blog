@@ -75,17 +75,17 @@ Finally, the talk focuses on the PostgreSQL community, and how they operate and 
 Nice summary of all the important milestones of Mozilla by KaiRo. Lots of nice memories:
 * the origin of the name (mixing Mosaic and Godzilla as in _Mosaic Killer_), that was later renamed to Netscape
 * How the Firefox web browser was born
-* How the Mozilla Foundation started, alongside the Mozilla Corporation
+* How the [Mozilla Foundation](https://foundation.mozilla.org/en/) started, alongside the Mozilla Corporation
 * The [Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/), written in 2007
 * Rust, Firefox OS, Mozilla Hubs and many other things...
 
 [**Database Performance at GitLab.com**](https://fosdem.org/2021/schedule/event/postgresql_database_performance_at_gitlab_com/) by Nikolay Samokhvalov and Jose Finotto
 
-Interesting overview about how Gitlab copes with their massive amounts of users and their strict SLAs, focusing specially in the PostgreSQL database side. I got several interesting inputs from the talk, from automated database health checks (and how they do them), to best practices for the engineers (how they learn and get insights of their usage), how they experiment using thin clones, etc.
+Interesting overview about how [**Gitlab**](https://gitlab.com/) copes with their massive amounts of users and their strict SLAs, focusing specially in the [**PostgreSQL**](https://www.postgresql.org/) database side. I got several interesting inputs from the talk, from automated database health checks (and how they do them), to best practices for the engineers (how they learn and get insights of their usage), how they experiment using thin clones, etc.
 
 [**25 years of MySQL - A Retrospective**](https://fosdem.org/2021/schedule/event/mysql_retro/), by Dave Stokes ([@stoker](http://twitter.com/stoker))
 
-Dave Stoker, community manager at MySQL, gave an historical overview of MySQL since its beginning.
+Dave Stoker, community manager at [**MySQL**](https://www.mysql.com/), gave an historical overview of MySQL since its beginning.
 
 {{< tweet 1358335694725406721 >}}
 
@@ -93,7 +93,7 @@ It was a nice presentation, with the sense of humor you expect in this nostalgic
 
 [**Telegram Bot For Navigation**](https://fosdem.org/2021/schedule/event/telebot/), by Ilya Zverev ([@ilyazver](https://twitter.com/ilyazver))
 
-I have attended several talks by Ilya, some of them online and others here in FOSDEM. He always deliver insightful content, this time focused on how to provide navigation capabilities without relying on a map or a web. Ilya explained that he moved a few years ago to a neighborhood with little data mapped in OpenStreetMap. Instead of mapping all the different venues/places surrounding him individually, he tried another approach. He built his own Telegram bot, first to search for venues and then to add new places.
+I have attended several talks by Ilya, some of them online and others here in FOSDEM. He always deliver insightful content, this time focused on how to provide navigation capabilities without relying on a map or a web. Ilya explained that he moved a few years ago to a neighborhood with little data mapped in [**OpenStreetMap**](https://www.openstreetmap.org/). Instead of mapping all the different venues/places surrounding him individually, he tried another approach. He built his own Telegram bot, first to search for venues and then to add new places.
 
 The main missing part is that the data surveyed using the tool is not being loaded or synchronized with OSM. Hopefully he will include it in the bot roadmap soon.
 
@@ -138,7 +138,7 @@ In summary: licenses are important and useful, but put your community first
 
 [**Penpot**](https://penpot.app/) was presented in FOSDEM last year (as UXBOX, its previous name), and one year later Pablo is back in FOSDEM to announce the alpha version. As he did last year, he starts the presentation explaining why they came up with this, and how they discovered they could not find a suitable open and free tool so they managed to create an outstanding one.
 
-Then, he directly started a commented demo using Penpot to re-design the FOSDEM website. It was amazing to see the current maturity of the tool. He completed the demo explaining some integrations they are working on between Penpot and Taiga, taking into account that they are also the creators and core developers of both tools.
+Then, he directly started a commented demo using Penpot to re-design the FOSDEM website. It was amazing to see the current maturity of the tool. He completed the demo explaining some integrations they are working on between Penpot and [**Taiga**](https://www.taiga.io/), taking advantage of the fact that they are the creators and core developers of both tools.
 
 {{< image classes="image central" src="https://i.imgur.com/PgTqe6Q.jpg" title="Pablo Ruiz presenting Penpot in FOSDEM 2021" >}}
 
