@@ -92,7 +92,7 @@ It was a nice presentation, with the sense of humor you expect in this nostalgic
 
 [**Telegram Bot For Navigation**](https://fosdem.org/2021/schedule/event/telebot/), by Ilya Zverev ([@ilyazver](https://twitter.com/ilyazver))
 
-I have attended several talks by Ilya, some of them online and others here in FOSDEM. He always deliver insightful content, this time focused on how to provide navigation capabilities without relying on a map or a web. Ilya explained that he moved a few years ago to a neighbourhood with little data mapped in OpenStreetMap. Instead of mapping all the different venues/places surrounding him individually, he tried another approach. He built his own Telegram bot, first to search for venues and then to add new places.
+I have attended several talks by Ilya, some of them online and others here in FOSDEM. He always deliver insightful content, this time focused on how to provide navigation capabilities without relying on a map or a web. Ilya explained that he moved a few years ago to a neighborhood with little data mapped in OpenStreetMap. Instead of mapping all the different venues/places surrounding him individually, he tried another approach. He built his own Telegram bot, first to search for venues and then to add new places.
 
 The main missing part is that the data surveyed using the tool is not being loaded or synchronized with OSM. Hopefully he will include it in the bot roadmap soon.
 
@@ -101,13 +101,17 @@ The main missing part is that the data surveyed using the tool is not being load
 Ray and Sofia analyzed the problems that we usually see in open source documentation: lack of consistency mainly. They also explained how a few years ago a cross community group was created with the goal to provide a common way for documentation handling in the [LF Networking](https://www.lfnetworking.org/) project.
 
 They gave also several recommendations, for example:
-* Include the Documentation as part of your _definition of done_
+* Include the Documentation as part of your _definition of done_, being a key part of your product/project
 * Keep the documentation where your code is
 * Keep an "edit this page" button or equivalent to make contributions easier. This is key during on-boarding processes or just to lower the entry barrier
-* Recognize contributions, organize documentation specific events 
+* Recognize contributions, organize documentation specific events
 
+[**Mental health and free software**](https://fosdem.org/2021/schedule/event/community_devroom_mental_health_free_software/), by Brendan Abolivier ([@BrenAbolivier](https://twitter.com/BrenAbolivier))
 
-[****](), by
+This topic is very delicate, and this is part of the problem. As Brendan explained in the presentation, mental health should not be a taboo. The speaker also added the disclaimer that this is not a specific issue of Free Software, but he focused the talk on this based on his experience.
+
+Free Software usually implies a strong interaction with a community. This sometimes implies staying up late to close an argument or to finish up a pull request, putting a lot of pressure on this. The speaker argues that it can be worse in FOSS compared to other sectors because the emotional aspect is much more important, and everything is happening in public places. On addition to this, joining a big FOSS project also implies a bigger public space and an additional difficulty to take the initiative.
+
 
 [****](), by
 
