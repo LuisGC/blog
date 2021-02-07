@@ -114,9 +114,22 @@ Free Software usually implies a strong interaction with a community. This someti
 
 He closed the session with different ways to mitigate the problem depending on your role in a certain moment: maintainer, contributor, employer/manager, etc. The overall recommendation is to try self-care activities, to be generous with your personal time, to be gentle with yourself and to reach a therapist if needed.
 
+[**Open Source is More Than Just a License**](https://fosdem.org/2021/schedule/event/community_devroom_oss_more_than_licence/), by Don Goodman-Wilson ([@DEGoodmanWilson](https://twitter.com/DEGoodmanWilson))
 
+The speaker reflects on the differences between the colloquial and institutional descriptions of Open Source, after a few projects have claimed they are open source although they are not. This is partially caused on the emphasized importance of the license over other factors.
 
-[****](), by
+According to the speaker, focusing Open Source in just licenses is only necessary when you only want to to mitigate risk management or to reduce costs. Open source should be more about collaboration, openness to participation, pursuing goals that are community-driven, etc. Choosing one license or another should be just a mean to an end, not the end itself.
+
+The speaker proposes using a _Ethical Source Definition_ for software, that summarizes in:
+* Benefits the Commons, meaning that it can be distributed freely and anyone can use or modify the software
+* Created in the Open, developed in public view and accepting public contributions
+* Welcoming and Just Community. Clear rules of governance need to be published and enforced
+* Puts Accessibility First. It needs to be available to everybody
+* Prioritizes User Safety
+* Protects User Privacy
+* Encourages Fair Compensation
+
+In summary: licenses are important and useful, but put your community first
 
 [****](), by
 
