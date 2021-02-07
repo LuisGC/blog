@@ -1,23 +1,22 @@
 +++
 author = "LuisGC"
 title = "FOSDEM 2021, the first virtual FOSDEM"
-date = "2021-02-08"
+date = "2021-02-07"
 type = "post"
 categories = ["post"]
 tags = ["event", "open-source", "technology", "linux", "programming", "internet", "culture", "computer-science", "personal"]
 status = "published"
 [[images]]
-  src = "https://picsum.photos/880/280?blur=3"
-  alt = "TBC"
+  src = "https://i.imgur.com/MBUiKS3.jpg"
+  alt = "FOSDEM 2021, a virtual event"
+  stretch = "H"
 +++
 
 Due to the pandemic this year I could not make my yearly pilgrimage to Brussels, but I was still able to attend FOSDEM as it mutated to an online conference for the first time. It has not been the same, but it is still an experience I cannot miss.
 
-{{< image classes="image lateral" src="https://live.staticflickr.com/65535/49584930633_20a5c8bd62_o.png" title="FOSDEM 2020 poster" >}}
-
 For those of you who don't know [**FOSDEM**](https://fosdem.org/), I will keep my usual description. It is the biggest conference in Europe (and one of the biggest around the world) related to **Open Source** development and communities. It's a huge event with hundreds of talks, workshops, gatherings and stands from all the relevant projects and communities in the **FOSS (Free and Open Source Software)** ecosystem. It's also a marvelous place to do networking, because there are not only representatives of those projects but normally also the technical leaders of them. If you are good with names and faces you can meet and greet a lot of important and interesting people.
 
-Being online, this year the interaction was limited to [Matrix](https://matrix.org/) and IRC [Freenode](https://freenode.net/) channels in parallel to the live streaming, and [Jitsi](https://meet.jit.si/) for the streaming. Everything is open source, and scaling amazingly.
+Being online, this year the interaction was limited to [**Matrix**](https://matrix.org/) and IRC [**Freenode**](https://freenode.net/) channels in parallel to the live streaming, and [**Jitsi**](https://meet.jit.si/) for the streaming. Everything is open source, and scaled amazingly.
 
 {{< tweet 1357978829692764162 >}}
 
@@ -28,9 +27,9 @@ I already wrote about it in previous years:
 * **FOSDEM 2019**: [Saturday](/blog/2019/02/fosdem-2019-saturday/) and [Sunday](/blog/2019/02/fosdem-2019-sunday/)
 * **FOSDEM 2020**: [Saturday and Sunday](/blog/2020/02/fosdem-2020/)
 
-The numbers of this 2021 edition are slightly lower than in 2020, but it's amazing they could almost maintain the volume of activities and this time reaching to a worldwide audience:
+The numbers of this 2021 edition are slightly lower than in 2020 in terms of content, but it's amazing they could almost maintain the volume of activities and this time reaching to a worldwide audience:
 
-* [678 speakers](https://fosdem.org/2021/schedule/speakers/) in [763 different events](https://fosdem.org/2021/schedule/events/) (talks or workshops, mainly)
+* [682 speakers](https://fosdem.org/2021/schedule/speakers/) in [773 different events](https://fosdem.org/2021/schedule/events/) (talks or workshops, mainly)
 * [51 different devrooms](https://fosdem.org/2021/live/#devrooms)
 * [hundreds of hours of content](https://video.fosdem.org/2021/), almost all of the events are [available online with live streaming](https://fosdem.org/2021/live/) during the conference
 * [52 online stands](https://stands.fosdem.org/stands/) of all kinds of projects: [FSFE](https://fsfe.org/), [the Apache Software Foundation](http://www.apache.org/), [the Eclipse Foundation](https://eclipse.org/), [Fedora](http://getfedora.org/), [Debian](https://www.debian.org/) [KDE](http://www.kde.org/), [Gnome](http://gnome.org/), [LibreOffice](http://www.libreoffice.org/), [Jenkins](https://jenkins.io/), ...
@@ -57,7 +56,7 @@ Another popular speaker to explain different ways to support Java, not only with
 * Follow a [Java Champion](https://twitter.com/Java_Champions/following) in twitter. I just checked and I'm following almost 20.
 * Join a specialized Slack channel, write articles in your blog, participate in an unconference event, ...
 
-[**The Death of Openness and Freedom?**](https://fosdem.org/2021/schedule/event/open_source_under_attack/), by Matt Yonkovit
+[**The Death of Openness and Freedom?**](https://fosdem.org/2021/schedule/event/open_source_under_attack/), by Matt Yonkovit ([@MYonkovit](https://twitter.com/MYonkovit))
 
 Matt reflects on how the huge success of Open Source also brought imitators, as in another sectors like sci-fi movies. But success in Open Source has different implications, depending on the project. Matt also comments in the recent problems that we have seen in different communities, from more or less embarrassing licensing changes to projects moved to "as a service" exclusive business models.
 
@@ -87,6 +86,8 @@ Interesting overview about how Gitlab copes with their massive amounts of users 
 [**25 years of MySQL - A Retrospective**](https://fosdem.org/2021/schedule/event/mysql_retro/), by Dave Stokes ([@stoker](http://twitter.com/stoker))
 
 Dave Stoker, community manager at MySQL, gave an historical overview of MySQL since its beginning.
+
+{{< tweet 1358335694725406721 >}}
 
 It was a nice presentation, with the sense of humor you expect in this nostalgic exercises.
 
@@ -118,6 +119,8 @@ He closed the session with different ways to mitigate the problem depending on y
 
 The speaker reflects on the differences between the colloquial and institutional descriptions of Open Source, after a few projects have claimed they are open source although they are not. This is partially caused on the emphasized importance of the license over other factors.
 
+{{< tweet 1357329684263010305 >}}
+
 According to the speaker, focusing Open Source in just licenses is only necessary when you only want to to mitigate risk management or to reduce costs. Open source should be more about collaboration, openness to participation, pursuing goals that are community-driven, etc. Choosing one license or another should be just a mean to an end, not the end itself.
 
 The speaker proposes using a _Ethical Source Definition_ for software, that summarizes in:
@@ -137,12 +140,7 @@ In summary: licenses are important and useful, but put your community first
 
 Then, he directly started a commented demo using Penpot to re-design the FOSDEM website. It was amazing to see the current maturity of the tool. He completed the demo explaining some integrations they are working on between Penpot and Taiga, taking into account that they are also the creators and core developers of both tools.
 
-
-
-[****](), by
-
-[****](), by
-
+{{< image classes="image central" src="https://i.imgur.com/PgTqe6Q.jpg" title="Pablo Ruiz presenting Penpot in FOSDEM 2021" >}}
 
 <br />
 
