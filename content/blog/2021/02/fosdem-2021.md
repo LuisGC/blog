@@ -1,6 +1,6 @@
 +++
 author = "LuisGC"
-title = "FOSDEM 2021, the first online FOSDEM"
+title = "FOSDEM 2021, the first virtual FOSDEM"
 date = "2021-02-08"
 type = "post"
 categories = ["post"]
@@ -84,6 +84,17 @@ Nice summary of all the important milestones of Mozilla by KaiRo. Lots of nice m
 
 Interesting overview about how Gitlab copes with their massive amounts of users and their strict SLAs, focusing specially in the PostgreSQL database side. I got several interesting inputs from the talk, from automated database health checks (and how they do them), to best practices for the engineers (how they learn and get insights of their usage), how they experiment using thin clones, etc.
 
+[**25 years of MySQL - A Retrospective**](https://fosdem.org/2021/schedule/event/mysql_retro/), by Dave Stokes ([@stoker](http://twitter.com/stoker))
+
+Dave Stoker, community manager at MySQL, gave an historical overview of MySQL since its beginning.
+
+It was a nice presentation, with the sense of humor you expect in this nostalgic exercises.
+
+[**Telegram Bot For Navigation**](https://fosdem.org/2021/schedule/event/telebot/), by Ilya Zverev ([@ilyazver](https://twitter.com/ilyazver))
+
+I have attended several talks by Ilya, some of them online and others here in FOSDEM. He always deliver insightful content, this time focused on how to provide navigation capabilities without relying on a map or a web. Ilya explained that he moved a few years ago to a neighbourhood with little data mapped in OpenStreetMap. Instead of mapping all the different venues/places surrounding him individually, he tried another approach. He built his own Telegram bot, first to search for venues and then to add new places.
+
+The main missing part is that the data surveyed using the tool is not being loaded or synchronized with OSM. Hopefully he will include it in the bot roadmap soon.
 
 
 <br />
