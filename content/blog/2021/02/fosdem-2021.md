@@ -131,9 +131,13 @@ The speaker proposes using a _Ethical Source Definition_ for software, that summ
 
 In summary: licenses are important and useful, but put your community first
 
-[****](), by
+[**Penpot, design freedom for teams**](https://fosdem.org/2021/schedule/event/penpot_design_freedom_for_teams/), by Pablo Ruiz ([@diacritica](https://twitter.com/diacritica))
 
-[****](), by
+[**Penpot**](https://penpot.app/) was presented in FOSDEM last year (as UXBOX, its previous name), and one year later Pablo is back in FOSDEM to announce the alpha version. As he did last year, he starts the presentation explaining why they came up with this, and how they discovered they could not find a suitable open and free tool so they managed to create an outstanding one.
+
+Then, he directly started a commented demo using Penpot to re-design the FOSDEM website. It was amazing to see the current maturity of the tool. He completed the demo explaining some integrations they are working on between Penpot and Taiga, taking into account that they are also the creators and core developers of both tools.
+
+
 
 [****](), by
 
