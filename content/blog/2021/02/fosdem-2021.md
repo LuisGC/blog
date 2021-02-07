@@ -112,6 +112,9 @@ This topic is very delicate, and this is part of the problem. As Brendan explain
 
 Free Software usually implies a strong interaction with a community. This sometimes implies staying up late to close an argument or to finish up a pull request, putting a lot of pressure on this. The speaker argues that it can be worse in FOSS compared to other sectors because the emotional aspect is much more important, and everything is happening in public places. On addition to this, joining a big FOSS project also implies a bigger public space and an additional difficulty to take the initiative.
 
+He closed the session with different ways to mitigate the problem depending on your role in a certain moment: maintainer, contributor, employer/manager, etc. The overall recommendation is to try self-care activities, to be generous with your personal time, to be gentle with yourself and to reach a therapist if needed.
+
+
 
 [****](), by
 
