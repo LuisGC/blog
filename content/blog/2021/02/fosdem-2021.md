@@ -96,6 +96,29 @@ I have attended several talks by Ilya, some of them online and others here in FO
 
 The main missing part is that the data surveyed using the tool is not being loaded or synchronized with OSM. Hopefully he will include it in the bot roadmap soon.
 
+[**Making Documentation a First-class Citizen in Open Source Projects**](https://fosdem.org/2021/schedule/event/community_devroom_documentation_first_class_citizen/), by Ray Paik and Sofia Wallin
+
+Ray and Sofia analyzed the problems that we usually see in open source documentation: lack of consistency mainly. They also explained how a few years ago a cross community group was created with the goal to provide a common way for documentation handling in the [LF Networking](https://www.lfnetworking.org/) project.
+
+They gave also several recommendations, for example:
+* Include the Documentation as part of your _definition of done_
+* Keep the documentation where your code is
+* Keep an "edit this page" button or equivalent to make contributions easier. This is key during on-boarding processes or just to lower the entry barrier
+* Recognize contributions, organize documentation specific events 
+
+
+[****](), by
+
+[****](), by
+
+[****](), by
+
+[****](), by
+
+[****](), by
+
+[****](), by
+
 
 <br />
 
