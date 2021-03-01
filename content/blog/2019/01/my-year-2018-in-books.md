@@ -31,22 +31,13 @@ I'm currently reading [El Emblema del Traidor](https://www.goodreads.com/book/sh
 
 ## My TOP 10 read books in 2018
 
-1. <a href="https://www.goodreads.com/book/show/42392504-reina-roja">Reina roja</a> by <a href="https://www.goodreads.com/author/show/364872.Juan_Gomez_Jurado">Juan Gomez-Jurado</a> (you can read [my review in Spanish in Goodreads](https://www.goodreads.com/review/show/2593970922))
-
-2. <a href="https://www.goodreads.com/book/show/8135136-travels-with-charley">Travels With Charley: In Search of America</a> by <a href="https://www.goodreads.com/author/show/585.John_Steinbeck">John Steinbeck</a> (you can read [my review here in the blog](/blog/2018/02/travels-with-charley-by-john-steinbeck/))
-
-3. <a href="https://www.goodreads.com/book/show/31842429-patria">Patria</a> by <a href="https://www.goodreads.com/author/show/68308.Fernando_Aramburu">Fernando Aramburu</a> (you can read [my review in Spanish in Goodreads](https://www.goodreads.com/review/show/2251783938))
-
-4. <a href="https://www.goodreads.com/book/show/37944086-a-room-of-one-s-own">A Room of One's Own</a> by <a href="https://www.goodreads.com/author/show/6765.Virginia_Woolf">Virginia Woolf</a> (you can read [my review in English in Goodreads](https://www.goodreads.com/review/show/2354781993))
-
-5. <a href="https://www.goodreads.com/book/show/19051109-el-rayo-que-no-cesa">El rayo que no cesa</a> by <a href="https://www.goodreads.com/author/show/527954.Miguel_Hern_ndez">Miguel Hernández</a> (you can read [my review in Spanish in Goodreads](https://www.goodreads.com/review/show/2360895290))
-
-6. <a href="https://www.goodreads.com/book/show/34918025-poeta-en-nueva-york">Poeta en Nueva York</a> by <a href="https://www.goodreads.com/author/show/44150.Federico_Garc_a_Lorca">Federico García Lorca</a> (you can read [my review in Spanish in Goodreads](https://www.goodreads.com/review/show/2360896179))
-
-7. <a href="https://www.goodreads.com/book/show/8362050-esp-a-de-dios">Espía de Dios</a> by <a href="https://www.goodreads.com/author/show/364872.Juan_Gomez_Jurado">Juan Gomez-Jurado</a>
-
-8. <a href="https://www.goodreads.com/book/show/36524894-ndura">Ndura: Hijo de la selva</a> by <a href="https://www.goodreads.com/author/show/8433319.Javier_Salazar_Calle">Javier Salazar Calle</a> (you can read [my review in Spanish in Goodreads](https://www.goodreads.com/review/show/2447363435))
-
-9. <a href="https://www.goodreads.com/book/show/11934526-contrato-con-dios">Contrato con Dios</a> by <a href="https://www.goodreads.com/author/show/364872.Juan_Gomez_Jurado">Juan Gomez-Jurado</a>
-
-10. <a href="https://www.goodreads.com/book/show/17268452-intemperie">Intemperie</a> by <a href="https://www.goodreads.com/author/show/6899846.Jes_s_Carrasco">Jesús Carrasco</a> (you can read [my review in Spanish in Goodreads](https://www.goodreads.com/review/show/2359397308))
+1. [**Reina Roja**](https://www.goodreads.com/book/show/42392504-reina-roja) by <a href="https://www.goodreads.com/author/show/364872.Juan_Gomez_Jurado">Juan Gomez-Jurado</a> (you can read [my review in Spanish in Goodreads](https://www.goodreads.com/review/show/2593970922))
+2. [**Travels With Charley: In Search of America**](https://www.goodreads.com/book/show/8135136-travels-with-charley) by <a href="https://www.goodreads.com/author/show/585.John_Steinbeck">John Steinbeck</a> (you can read [my review here in the blog](/blog/2018/02/travels-with-charley-by-john-steinbeck/))
+3. [**Patria**](https://www.goodreads.com/book/show/31842429-patria) by <a href="https://www.goodreads.com/author/show/68308.Fernando_Aramburu">Fernando Aramburu</a> (you can read [my review in Spanish in Goodreads](https://www.goodreads.com/review/show/2251783938))
+4. [**A Room of One's Own**](https://www.goodreads.com/book/show/37944086-a-room-of-one-s-own) by <a href="https://www.goodreads.com/author/show/6765.Virginia_Woolf">Virginia Woolf</a> (you can read [my review in English in Goodreads](https://www.goodreads.com/review/show/2354781993))
+5. [**El rayo que no cesa**](https://www.goodreads.com/book/show/19051109-el-rayo-que-no-cesa) by <a href="https://www.goodreads.com/author/show/527954.Miguel_Hern_ndez">Miguel Hernández</a> (you can read [my review in Spanish in Goodreads](https://www.goodreads.com/review/show/2360895290))
+6. [**Poeta en Nueva York**](https://www.goodreads.com/book/show/34918025-poeta-en-nueva-york) by <a href="https://www.goodreads.com/author/show/44150.Federico_Garc_a_Lorca">Federico García Lorca</a> (you can read [my review in Spanish in Goodreads](https://www.goodreads.com/review/show/2360896179))
+7. [**Espía de Dios**](https://www.goodreads.com/book/show/8362050-esp-a-de-dios) by <a href="https://www.goodreads.com/author/show/364872.Juan_Gomez_Jurado">Juan Gomez-Jurado</a>
+8. [**Ndura: Hijo de la selva**](https://www.goodreads.com/book/show/36524894-ndura) by <a href="https://www.goodreads.com/author/show/8433319.Javier_Salazar_Calle">Javier Salazar Calle</a> (you can read [my review in Spanish in Goodreads](https://www.goodreads.com/review/show/2447363435))
+9. [**Contrato con Dios**](https://www.goodreads.com/book/show/11934526-contrato-con-dios) by <a href="https://www.goodreads.com/author/show/364872.Juan_Gomez_Jurado">Juan Gomez-Jurado</a>
+10. [**Intemperie**](https://www.goodreads.com/book/show/17268452-intemperie) by <a href="https://www.goodreads.com/author/show/6899846.Jes_s_Carrasco">Jesús Carrasco</a> (you can read [my review in Spanish in Goodreads](https://www.goodreads.com/review/show/2359397308))
