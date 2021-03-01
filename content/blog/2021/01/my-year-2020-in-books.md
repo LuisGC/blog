@@ -7,9 +7,9 @@ categories = ["post"]
 tags = ["review", "literature", "culture"]
 status = "published"
 [[images]]
-  src = "https://picsum.photos/880/280?blur=3"
-  alt = "TBC"
-  caption = "TBC"
+  src = "https://i.imgur.com/87EVYPL.jpg"
+  alt = "the cover of Instrumental, by James Rhodes"
+  caption = "the cover of Instrumental, by James Rhodes"
 +++
 
 Any [**Goodreads**](https://www.goodreads.com/) user has access to a yearly report with some statistics and basically the covers of all the books read in one year. In order to have it the user only has to set the books as _read_ and the _read date_ to any time in that year. Taking advantage of this nice feature I will summarize [My 2020 in Books](https://www.goodreads.com/user/year_in_books/2020/12155365) from Goodreads, as I did for [my read books in 2018](/blog/2019/01/my-year-2018-in-books/) and [2019](/blog/2020/01/my-year-2019-in-books/).
