@@ -28,13 +28,13 @@ I'm not copying here the full list, [friend me on Goodreads](https://www.goodrea
 
 ## My TOP 10 read books in 2019
 
-1. [The Lord of the Rings](https://www.goodreads.com/book/show/11047557-the-lord-of-the-rings) by [J.R.R. Tolkien](https://www.goodreads.com/author/show/656983.J_R_R_Tolkien)
-2. [Binti](https://www.goodreads.com/book/show/25762847-binti) by [Nnedi Okorafor](https://www.goodreads.com/author/show/588356.Nnedi_Okorafor)
-3. [El paciente](https://www.goodreads.com/book/show/20426394-el-paciente) by [Juan Gómez Jurado](https://www.goodreads.com/author/show/364872.Juan_Gomez_Jurado)
-4. [Los girasoles ciegos](https://www.goodreads.com/book/show/119537.Los_girasoles_ciegos) by [Alberto Méndez](https://www.goodreads.com/author/show/2983359.Alberto_M_ndez)
-5. [Loba Negra](https://www.goodreads.com/book/show/48078236-loba-negra) by [Juan Gómez Jurado](https://www.goodreads.com/author/show/364872.Juan_Gomez_Jurado)
-6. [The Problems of Philosophy](https://www.goodreads.com/book/show/38118721-the-problems-of-philosophy) by [Bertrand Russell](https://www.goodreads.com/author/show/17854.Bertrand_Russell)
-7. [The Night Masquerade](https://www.goodreads.com/book/show/34386617-the-night-masquerade) by [Nnedi Okorafor](https://www.goodreads.com/author/show/588356.Nnedi_Okorafor)
-8. [Sumalee: Historias de Trakaul](https://www.goodreads.com/book/show/32765352-sumalee) by [Javier Salazar Calle](https://www.goodreads.com/author/show/8433319.Javier_Salazar_Calle)
-9. [The Machine Stops](https://www.goodreads.com/book/show/36303986-the-machine-stops) by [E.M. Forster](https://www.goodreads.com/author/show/86404.E_M_Forster)
-10. [Childhood's End](https://www.goodreads.com/book/show/35512681-childhood-s-end) by [Arthur C. Clarke](https://www.goodreads.com/author/show/7779.Arthur_C_Clarke)
+1. [**The Lord of the Rings**](https://www.goodreads.com/book/show/11047557-the-lord-of-the-rings) by [J.R.R. Tolkien](https://www.goodreads.com/author/show/656983.J_R_R_Tolkien)
+2. [**Binti**](https://www.goodreads.com/book/show/25762847-binti) by [Nnedi Okorafor](https://www.goodreads.com/author/show/588356.Nnedi_Okorafor)
+3. [**El paciente**](https://www.goodreads.com/book/show/20426394-el-paciente) by [Juan Gómez Jurado](https://www.goodreads.com/author/show/364872.Juan_Gomez_Jurado)
+4. [**Los girasoles ciegos**](https://www.goodreads.com/book/show/119537.Los_girasoles_ciegos) by [Alberto Méndez](https://www.goodreads.com/author/show/2983359.Alberto_M_ndez)
+5. [**Loba Negra**](https://www.goodreads.com/book/show/48078236-loba-negra) by [Juan Gómez Jurado](https://www.goodreads.com/author/show/364872.Juan_Gomez_Jurado)
+6. [**The Problems of Philosophy**](https://www.goodreads.com/book/show/38118721-the-problems-of-philosophy) by [Bertrand Russell](https://www.goodreads.com/author/show/17854.Bertrand_Russell)
+7. [**The Night Masquerade**](https://www.goodreads.com/book/show/34386617-the-night-masquerade) by [Nnedi Okorafor](https://www.goodreads.com/author/show/588356.Nnedi_Okorafor)
+8. [**Sumalee: Historias de Trakaul**](https://www.goodreads.com/book/show/32765352-sumalee) by [Javier Salazar Calle](https://www.goodreads.com/author/show/8433319.Javier_Salazar_Calle)
+9. [**The Machine Stops**](https://www.goodreads.com/book/show/36303986-the-machine-stops) by [E.M. Forster](https://www.goodreads.com/author/show/86404.E_M_Forster)
+10. [**Childhood's End**](https://www.goodreads.com/book/show/35512681-childhood-s-end) by [Arthur C. Clarke](https://www.goodreads.com/author/show/7779.Arthur_C_Clarke)
