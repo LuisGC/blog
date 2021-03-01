@@ -31,13 +31,13 @@ I'm not copying here the full list, [friend me on Goodreads](https://www.goodrea
 
 ## My TOP 10 read books in 2020
 
-1. [**Instrumental**](https://www.goodreads.com/book/show/22742702-instrumental) by [James Rhodes](https://www.goodreads.com/author/show/6032416.James_Rhodes)
-2. [**Factfulness**](https://www.goodreads.com/book/show/37850908-factfulness) by [Hans Rosling](https://www.goodreads.com/author/show/2790706.Hans_Rosling)
-3. [**Frankenstein**](https://www.goodreads.com/book/show/30141467-frankenstein) by [Mary Shelley](https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley)
-4. [**What I talk about when I talk about running**](https://www.goodreads.com/book/show/8126085-what-i-talk-about-when-i-talk-about-running) by [Haruki Murakami](https://www.goodreads.com/author/show/3354.Haruki_Murakami)
-5. [**Rey Blanco**](https://www.goodreads.com/book/show/54334693-rey-blanco) by [Juan Gómez Jurado](https://www.goodreads.com/author/show/364872.Juan_Gomez_Jurado)
-6. [**El Tío Curro: La Conexión Española de J.R.R. Tolkien**](https://www.goodreads.com/book/show/43798589-el-t-o-curro-la-conexi-n-espa-ola-de-j-r-r-tolkien) by [José Manuel Ferrández Bru](https://www.goodreads.com/author/show/7078325.Jos_Manuel_Ferr_ndez_Bru)
-7. [**Starship Troopers**](https://www.goodreads.com/book/show/2432534.Starship_Troopers) by [Robert A. Heinlein](https://www.goodreads.com/author/show/205.Robert_A_Heinlein)
+1. [**Instrumental**](https://www.goodreads.com/book/show/22742702-instrumental) by [James Rhodes](https://www.goodreads.com/author/show/6032416.James_Rhodes) (you can read [my review in Spanish in Goodreads](https://www.goodreads.com/review/show/3077000571))
+2. [**Factfulness**](https://www.goodreads.com/book/show/37850908-factfulness) by [Hans Rosling](https://www.goodreads.com/author/show/2790706.Hans_Rosling) (you can read [my review in Spanish in Goodreads](https://www.goodreads.com/review/show/2851796053))
+3. [**Frankenstein**](https://www.goodreads.com/book/show/30141467-frankenstein) by [Mary Shelley](https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley) (you can read [my review in Spanish in Goodreads](https://www.goodreads.com/review/show/2578430590))
+4. [**What I talk about when I talk about running**](https://www.goodreads.com/book/show/8126085-what-i-talk-about-when-i-talk-about-running) by [Haruki Murakami](https://www.goodreads.com/author/show/3354.Haruki_Murakami) (you can read [my review in Spanish in Goodreads](https://www.goodreads.com/review/show/2093650777))
+5. [**Rey Blanco**](https://www.goodreads.com/book/show/54334693-rey-blanco) by [Juan Gómez Jurado](https://www.goodreads.com/author/show/364872.Juan_Gomez_Jurado) (you can read [my review in Spanish in Goodreads](https://www.goodreads.com/review/show/3425013272))
+6. [**El Tío Curro: La Conexión Española de J.R.R. Tolkien**](https://www.goodreads.com/book/show/43798589-el-t-o-curro-la-conexi-n-espa-ola-de-j-r-r-tolkien) by [José Manuel Ferrández Bru](https://www.goodreads.com/author/show/7078325.Jos_Manuel_Ferr_ndez_Bru) (you can read [my review in Spanish in Goodreads](https://www.goodreads.com/review/show/2818314425))
+7. [**Starship Troopers**](https://www.goodreads.com/book/show/2432534.Starship_Troopers) by [Robert A. Heinlein](https://www.goodreads.com/author/show/205.Robert_A_Heinlein) (you can read [my review in English in Goodreads](https://www.goodreads.com/review/show/3186305262))
 8. [**Cicatriz**](https://www.goodreads.com/book/show/27420709-cicatriz) by [Juan Gómez Jurado](https://www.goodreads.com/author/show/364872.Juan_Gomez_Jurado)
 9. [**The Conquest of Happiness**](https://www.goodreads.com/book/show/19401553-the-conquest-of-happiness) by [Bertrand Russel](https://www.goodreads.com/author/show/17854.Bertrand_Russell)
-10. [**Si escuece, cura**](https://www.goodreads.com/book/show/49075129-si-escuece-cura) by [Esther Samper](https://www.goodreads.com/author/show/6555067.Esther_Samper)
+10. [**Si escuece, cura**](https://www.goodreads.com/book/show/49075129-si-escuece-cura) by [Esther Samper](https://www.goodreads.com/author/show/6555067.Esther_Samper) (you can read [my review in Spanish in Goodreads](https://www.goodreads.com/review/show/3234997746))
