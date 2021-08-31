@@ -48,6 +48,7 @@ I have visited **20 out of 193** countries (among those [recognized by United Na
 
 ## 2021
 
+* <span>AUG</span> <p>El Rompido (Spain)</p>
 * <span>JUL</span> <p>Orduña (Spain)</p>
 
 ## 2020
