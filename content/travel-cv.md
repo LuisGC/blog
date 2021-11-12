@@ -48,6 +48,8 @@ I have visited **20 out of 193** countries (among those [recognized by United Na
 
 ## 2021
 
+* <span>NOV</span> <p>Huesca & Navarra (Spain)</p>
+  - Parque Nacional de Doñana y Monte Perdido, Jaca, Selva de Irati, Valle de Baztán, Parque Natural Señorío de Bertiz, Caves of Zugarramurdi, Sare and Urdax
 * <span>AUG</span> <p>El Rompido (Spain)</p>
 * <span>JUL</span> <p>Orduña (Spain)</p>
 
