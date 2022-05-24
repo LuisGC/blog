@@ -46,6 +46,12 @@ I have visited **20 out of 193** countries (among those [recognized by United Na
 
 # In chronological order
 
+## 2022
+
+* <span>MAY</span> <p>II Mereth de Ithilien - Barcelona (Spain)</p>
+* <span>MAY</span> <p>I El Fonsado - Madrid (Spain)</p>
+* <span>APR</span> <p>Mallorca (Spain)</p>
+
 ## 2021
 
 * <span>NOV</span> <p>Huesca & Navarra (Spain)</p>
