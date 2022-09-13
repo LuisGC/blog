@@ -17,7 +17,7 @@ _(Inspired by the [CV Viajero by Dendarii](https://dendarii.es/cv-viajero/))_
 
 <center><div id="travel-cv-map" /></center>
 
-I have visited **20 out of 193** countries (among those [recognized by United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) plus the [observer states](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations#Observers_and_non-members)). This is the list in alphabetical order:
+I have visited **21 out of 193** countries (among those [recognized by United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) plus the [observer states](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations#Observers_and_non-members)). This is the list in alphabetical order:
 
 | Country | Main visited places (x times) | Visiting order |
 |---|---|---|
@@ -33,12 +33,13 @@ I have visited **20 out of 193** countries (among those [recognized by United Na
 | Italy | Milan (x2) & Rome | 4<sup>th</sup> |
 | Netherlands | Amsterdam (x10), Edam, Haarlem, Marken, Noordwijk, Rotterdam (x2), Utrecht & Volendam | 6<sup>th</sup> |
 | Poland | Austchwitz, Katowice (x2), Krakow, Wieliczka, Wroclaw & Zakopane | 18<sup>th</sup> |
-| Portugal | Évora, Lisboa, Sintra, Tavira & Vila Real de Santo Antonio | 8<sup>th</sup> |
+| Portugal | Évora, Lisboa, Sintra, Tavira, Vila Real de Santo Antonio, Vila Real, Amarante, Guimarães, Braga, Porto, Póvoa de Varzim & Bragança | 8<sup>th</sup> |
 | Romania | Bucharest | 19<sup>th</sup> |
 | Slovakia | Bratislava | 16<sup>th</sup> |
 | Spain | _too many_ | 1<sup>st</sup> |
 | Switzerland | Aareschlucht, Almendhubel, CERN, Chillon, Geneve, Gruyeres, Interlaken, Jungfraujoch, Lausanne, Meiringen, Montreux, Mürren & Reichenbackfall | 12<sup>th</sup> |
 | United Kingdom | Balloch, Bath, Birmingham, Blenheim Palace, Bristol, Cambridge, Cawdor, Cromarty, Durham, Edinburgh, Glasgow, Glencoe Valley, Inverness, Isle of Skye, Loch Ness, London (x5), Luss, Manchester, Newcastle upon Tyne, Oban, Pitlochry, Oxford (x2), Stirling, Stonehenge & Taunton (x3) | 7<sup>th</sup> |
+| United Republic of Tanzania | Tarangire National Park, Serengeti National Park & Ngorongoro Conservation Area | 21<sup>st</sup> |
 | United States | New York & Washington D.C. | 11<sup>th</sup> |
 | Vatican City State | Vatican City | 5<sup>th</sup> |
 
@@ -48,6 +49,10 @@ I have visited **20 out of 193** countries (among those [recognized by United Na
 
 ## 2022
 
+* <span>SEP</span> <p>Tanzania</p>
+  - Tarangire National Park, Serengeti National Park & Ngorongoro Conservation Area
+* <span>AUG</span> <p>North of Portugal</p>
+  - Vila Real, Amarante, Guimarães, Braga, Porto, Póvoa de Varzim & Bragança
 * <span>MAY</span> <p>II Mereth de Ithilien - Barcelona (Spain)</p>
 * <span>MAY</span> <p>I El Fonsado - Madrid (Spain)</p>
 * <span>APR</span> <p>Mallorca (Spain)</p>
