@@ -49,6 +49,8 @@ I have visited **21 out of 193** countries (among those [recognized by United Na
 
 ## 2022
 
+* <span>OCT</span> <p>Picos de Europa</p>
+  - Lagos de Covadonga, Ruta del Cares, Bulnes, Fuente Dé, Potes
 * <span>SEP</span> <p>Tanzania</p>
   - Tarangire National Park, Serengeti National Park & Ngorongoro Conservation Area
 * <span>AUG</span> <p>North of Portugal</p>
