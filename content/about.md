@@ -7,7 +7,7 @@ categories = ["page"]
 status = "published"
 +++
 
-I'm a **Software Engineer**, **FOSS Advocate** and **Agile Evangelist** habituated to lead and coordinate development teams for various environments.
+I'm a **Software Engineer**, **Technical Leader** and **FOSS Advocate** habituated to lead and coordinate development teams for various environments.
 
 {{< image classes="image lateral" src="/img/main/avatar.jpg" title="Luis a.k.a. Luiyo, the author" >}}
 
