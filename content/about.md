@@ -9,7 +9,7 @@ status = "published"
 
 I'm a **Software Engineer**, **FOSS Advocate** and **Agile Evangelist** habituated to lead and coordinate development teams for various environments.
 
-{{< image classes="image lateral" src="/img/main/avatar.png" title="Luis a.k.a. Luiyo, the author" >}}
+{{< image classes="image lateral" src="/img/main/avatar.jpg" title="Luis a.k.a. Luiyo, the author" >}}
 
 I'm an active fellow of several national and international associations: [**ARP-SAPC**](https://www.escepticos.es/) and [**Círculo Escéptico**](https://circuloesceptico.org/) (promoting critical thinking); [**STE**](http://sociedadtolkien.org/) and [**AEFCFT**](http://www.aefcft.com/) (Literature and Arts); and [**AECC**](https://www.aecomunicacioncientifica.org/) (about scientific communication and outreach).
 
