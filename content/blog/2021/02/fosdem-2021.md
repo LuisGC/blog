@@ -119,8 +119,6 @@ He closed the session with different ways to mitigate the problem depending on y
 
 The speaker reflects on the differences between the colloquial and institutional descriptions of Open Source, after a few projects have claimed they are open source although they are not. This is partially caused on the emphasized importance of the license over other factors.
 
-{{< tweet 1357329684263010305 >}}
-
 According to the speaker, focusing Open Source in just licenses is only necessary when you only want to to mitigate risk management or to reduce costs. Open source should be more about collaboration, openness to participation, pursuing goals that are community-driven, etc. Choosing one license or another should be just a mean to an end, not the end itself.
 
 The speaker proposes using a _Ethical Source Definition_ for software, that summarizes in:

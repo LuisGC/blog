@@ -130,10 +130,6 @@ The last and for sure the most difficult of the three talks I delivered. I alrea
 
 I have always wondered why we always focus on the technical details, forgetting about the ethical aspects of technology. Back in 2015 I chose to focus on programming languages, but the approach can be applied to other concepts. This talk is not about which programming language has this or that capability, or which one has more functional traits. What I wanted to analyze is how ethical, diverse and healthy is a programming language and the community around it.
 
-<center>
-  {{< tweet 1198203877214097413 >}}
-</center>
-
 In this talk I explain what can be measured and analyzed regarding ethics and governance in programming languages, and I present a critical analysis of **fourteen** different languages (two more than in 2015), not just the most popular ones but specially those with some special peculiarity. Furthermore, I can spend hours talking about this but I need to be fast and concise to end in about 35-40 minutes.
 
 {{< image classes="image" src="https://live.staticflickr.com/65535/49188307861_7c0abafef8_k.jpg" title="Thats me talking about Clojure at Commit Conf 2019" source="CommitConf" sourcelink="https://www.flickr.com/photos/145448896@N02/49157530163/" >}}
