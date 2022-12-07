@@ -6,6 +6,6 @@ This blog uses [**Hugo**](https://gohugo.io/), enriched by the  the great [**Hug
 
 ## License
 
-This blog is released under the MIT license.
+This blog is released under the GNU GPL license.
 
-Please read the [license](LICENSE.md) for more information.
+Please read the [license](https://github.com/LuisGC/blog/blob/master/LICENSE.md) for more information.
