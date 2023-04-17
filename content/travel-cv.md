@@ -23,11 +23,11 @@ I have visited **21 out of 193** countries (among those [recognized by United Na
 |---|---|---|
 | Andorra | Andorra la Vella | 2<sup>nd</sup> |
 | Austria | Romantikstrasse & Vienna | 15<sup>th</sup> |
-| Belgium | Brussels (x5) | 13<sup>th</sup> |
+| Belgium | Brussels (x6) | 13<sup>th</sup> |
 | China | Beijing & Great Wall | 20<sup>th</sup> |
 | Czech Republic | Kutná Hora & Prague (x4) | 14<sup>th</sup> |
 | France | Annecy, Auray, Bayeaux, Bordeaux, Caen, Cancale, Carcassonne, Carnac, Concarneau, Dinard, Euro Disney, Fougeres, Grenoble, Honfleur, La Loire à Vélo, Le Mans, Mont Sant Michel, Morlaix, Paris (x3), Pointe du Raz, Pont-Aven, Quimper, Rennes, Rochefort-en-Terre, Rouen, Saint Malo, Tolouse, Vannes & Vitré | 10<sup>th</sup> |
-| Germany | Aachen, Augsburg, Bad Mergentheim, Bonn, Cologne, Dachau, Dinkelsbühl, Donauwörth, Düsseldorf, Feuchtwangen, Füssen, Landsberg am Lech, Munich, Nördlingen, Nuremberg, Rothenburg ob der Tauber, Röttingen, Schwangau, Tauberbischofsheim, Weikersheim & Würzburg | 3<sup>rd</sup> |
+| Germany | Aachen, Augsburg, Bad Mergentheim, Berlin, Bonn, Cologne, Dachau, Dinkelsbühl, Donauwörth, Düsseldorf, Feuchtwangen, Füssen, Landsberg am Lech, Munich, Nördlingen, Nuremberg, Potsdam, Rothenburg ob der Tauber, Röttingen, Schwangau, Tauberbischofsheim, Weikersheim & Würzburg | 3<sup>rd</sup> |
 | Hungary | Budapest | 17<sup>th</sup> |
 | Ireland | Connemara, Dublín & Galway | 9<sup>th</sup> |
 | Italy | Milan (x2) & Rome | 4<sup>th</sup> |
@@ -49,6 +49,8 @@ I have visited **21 out of 193** countries (among those [recognized by United Na
 
 ## 2023
 
+* <span>APR</span> <p>Germany</p>
+  - Berlin, Potsdam
 * <span>FEB</span> <p>Netherlands</p>
   - Haarlem, Amsterdam
 * <span>FEB</span> <p>FOSDEM 2023 - Brussels (Belgium)</p>
