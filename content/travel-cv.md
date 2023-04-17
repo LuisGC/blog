@@ -31,7 +31,7 @@ I have visited **21 out of 193** countries (among those [recognized by United Na
 | Hungary | Budapest | 17<sup>th</sup> |
 | Ireland | Connemara, Dublín & Galway | 9<sup>th</sup> |
 | Italy | Milan (x2) & Rome | 4<sup>th</sup> |
-| Netherlands | Amsterdam (x11), Edam, Haarlem (x2), Marken, Noordwijk, Rotterdam (x2), Utrecht & Volendam | 6<sup>th</sup> |
+| Netherlands | Amsterdam (x12), Edam, Haarlem (x3), Marken, Noordwijk, Rotterdam (x2), Utrecht & Volendam | 6<sup>th</sup> |
 | Poland | Austchwitz, Katowice (x2), Krakow, Wieliczka, Wroclaw & Zakopane | 18<sup>th</sup> |
 | Portugal | Évora, Lisboa, Sintra, Tavira, Vila Real de Santo Antonio, Vila Real, Amarante, Guimarães, Braga, Porto, Póvoa de Varzim & Bragança | 8<sup>th</sup> |
 | Romania | Bucharest | 19<sup>th</sup> |
