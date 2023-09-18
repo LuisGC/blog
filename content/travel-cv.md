@@ -49,6 +49,7 @@ I have visited **21 out of 193** countries (among those [recognized by United Na
 
 ## 2023
 
+* <span>SEP</span> <p>Isla Canela in Ayamonte (Spain)</p>
 * <span>MAY</span> <p>Germany</p>
   - Black Forest
 * <span>APR</span> <p>Germany</p>
@@ -78,7 +79,7 @@ I have visited **21 out of 193** countries (among those [recognized by United Na
 
 ## 2020
 
-* <span>SEP</span> <p>Ayamonte (Spain)</p>
+* <span>SEP</span> <p>Isla Canela in Ayamonte (Spain)</p>
 * <span>AUG</span> <p>Val d'Aran Walking Festival (Spain)</p>
 * <span>FEB</span> <p>FOSDEM 2020 - Brussels (Belgium)</p>
 
