@@ -17,7 +17,7 @@ _(Inspired by the [CV Viajero by Dendarii](https://dendarii.es/cv-viajero/))_
 
 <center><div id="travel-cv-map" /></center>
 
-I have visited **21 out of 193** countries (among those [recognized by United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) plus the [observer states](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations#Observers_and_non-members)). This is the list in alphabetical order:
+I have visited **22 out of 193** countries (among those [recognized by United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) plus the [observer states](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations#Observers_and_non-members)). This is the list in alphabetical order:
 
 | Country | Main visited places (x times) | Visiting order |
 |---|---|---|
@@ -31,6 +31,7 @@ I have visited **21 out of 193** countries (among those [recognized by United Na
 | Hungary | Budapest | 17<sup>th</sup> |
 | Ireland | Connemara, Dublín & Galway | 9<sup>th</sup> |
 | Italy | Milan (x2) & Rome | 4<sup>th</sup> |
+| Japan | Nagoya, Takayama, Shirakawa-go, Kyoto, Osaka, Hiroshima, Itsukushima, Tokyo | 22<sup>nd</sup> |
 | Netherlands | Amsterdam (x12), Edam, Haarlem (x3), Marken, Noordwijk, Rotterdam (x2), Utrecht & Volendam | 6<sup>th</sup> |
 | Poland | Austchwitz, Katowice (x2), Krakow, Wieliczka, Wroclaw & Zakopane | 18<sup>th</sup> |
 | Portugal | Évora, Lisboa, Sintra, Tavira, Vila Real de Santo Antonio, Vila Real, Amarante, Guimarães, Braga, Porto, Póvoa de Varzim & Bragança | 8<sup>th</sup> |
@@ -49,6 +50,8 @@ I have visited **21 out of 193** countries (among those [recognized by United Na
 
 ## 2023
 
+* <span>OCT</span> <p>Japan</p>
+  - Nagoya, Takayama, Shirakawa-go, Kyoto, Osaka, Hiroshima, Itsukushima, Tokyo
 * <span>SEP</span> <p>Isla Canela in Ayamonte (Spain)</p>
 * <span>MAY</span> <p>Germany</p>
   - Black Forest
