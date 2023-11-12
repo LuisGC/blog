@@ -28,9 +28,7 @@ Anyway, Óscar gave some interesting concepts. I specially liked the way he expl
 * Second disruption, use distributed applications via microservices
 * Third disruption, smart data centers moving first to IaaS and then to PaaS
 
-<center>
-  {{< tweet 931099635816509440 >}}
-</center>
+{{< tweet user="FOSSjunkie" id="931099635816509440" >}}
 
 **[Big Data, Analytics, and Tax Fraud](https://www.bigdataspain.org/2017/talk/big-data-and-tax-fraud) - José Borja Tomé (Agencia Tributaria)**
 
@@ -44,17 +42,13 @@ He ended his talk with several surprising and exciting figures. For example, and
 
 Carlos gave a technical overview of how to protecting the data and services of a company in a Big Data environment when everything is data-centric. He summarized that it is distributed in two areas: protect the data and protect the service. You should review this talk if you are in the security business.
 
-<center>
-  {{< tweet 931122319573114880 >}}
-</center>
+{{< tweet user="danielcsant" id="931122319573114880" >}}
 
 **[Playing Well Together: Big Data beyond the JVM w/Spark etc](https://www.bigdataspain.org/2017/talk/apache-spark-machine-learning), by [Holden Karau](https://twitter.com/holdenkarau) (Google)**
 
 Holden gave several good tips and tricks about [Apache Spark](https://spark.apache.org/) in general, and specifically about using it from outside the Java ecosystem in Python. As a Python connoisseur, but not a Spark user (yet), I just learned a couple of usable tips but the talk was great anyway and it was a pleasure to meet Holden.
 
-<center>
-  {{< tweet 931129784498782208 >}}
-</center>
+{{< tweet user="luiyo" id="931129784498782208" >}}
 
 **[Why big data didn’t end causal inference](https://www.bigdataspain.org/2017/talk/why-big-data-didnt-end-causal-inference), by [Totte Harinen](https://twitter.com/totteh) (Uber)**
 
@@ -86,9 +80,7 @@ Tyler based his session on a very simple but interesting concept: "Tables are da
 
 This was a surprisingly interesting talk, despite I entered the room with very low expectations. In summary, Sean emphasized the necessity to think about errors, to prevent them and to estimate the uncertainty based on the fact that there will always be errors. He gave several examples and some useful tips and tricks.
 
-<center>
-  {{< tweet 931480332599287808 >}}
-</center>
+{{< tweet user="luiyo" id="931480332599287808" >}}
 
 **[AI in VR](https://www.bigdataspain.org/2017/talk/tbc-michael-ludden), by [Michael Ludden](https://twitter.com/Michael_Ludden) (IBM Watson)**
 
@@ -102,9 +94,7 @@ My last choice could not be other than my colleague David. He explained what we 
 
 In summary, what ING is building is an event-driven architecture delivered as one platform, with [Apache Kafka](https://kafka.apache.org/), [Apache Flink](https://flink.apache.org/) and [SAS RTDM](https://www.sas.com/en_us/software/real-time-decision-manager.html) in the core. I hope that you'll listen more about this in the future.
 
-<center>
-  {{< tweet 931523731754815490 >}}
-</center>
+{{< tweet user="dgomezg" id="931523731754815490" >}}
 
 # Conclusion
 
