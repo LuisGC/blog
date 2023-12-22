@@ -50,6 +50,7 @@ I have visited **22 out of 193** countries (among those [recognized by United Na
 
 ## 2023
 
+* <span>NOV</span> <p>Granada (Spain)</p>
 * <span>OCT</span> <p>Japan</p>
   - Nagoya, Takayama, Shirakawa-go, Kyoto, Osaka, Hiroshima, Itsukushima, Tokyo
 * <span>SEP</span> <p>Isla Canela in Ayamonte (Spain)</p>
