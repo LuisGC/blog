@@ -1,15 +1,15 @@
 +++
 author = "LuisGC"
-title = "Japón: una guía breve"
+title = "Japón: paraíso de la tradición, la modernidad y el frikismo"
 date = "2023-11-05"
 type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "holidays", "history"]
 status = "published"
 [[images]]
-  src = "https://live.staticflickr.com/65535/48813003923_398aedd7ec_h.jpg"
-  alt = "Quite excited to be in Tiananmen Square, and ready to discuss about Software Freedom"
-  caption = "Quite excited to be in Tiananmen Square, and ready to discuss about Software Freedom - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
+  src = "https://i.imgur.com/txae0mD.jpg"
+  alt = "2023-11-01 Luiyo and Mount Fuji"
+  caption = "2023-11-01 Luiyo and Mount Fuji - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
   stretch = ""
 +++
 
@@ -19,7 +19,7 @@ Creo que habría disfrutado del viaje en solitario en varias dimensiones, pero s
 
 ## Consideraciones generales
 
-* Estuve un total de **26 días**, incluyendo el día de ida y vuelta. Se pueden hacer viajes fantásticos por Japón en menos días, pero nos cuadró así (juntando el puente del 12 de Octubre con el del 1 de Noviembre) y sinceramente creo que fue muy buena idea
+* Estuve un total de **26 días**, incluyendo el día de ida y vuelta. Se pueden hacer viajes fantásticos por Japón en menos días, pero nos cuadró así (juntando el puente del 12 de Octubre con el del 1 de Noviembre) y sinceramente creo que fue muy buena idea. No creo que nos sobrara tiempo, y en todo caso nos faltó.
 
 * Está lejos y hay que planificar bien los vuelos para no perder más de lo necesario en trasbordos (si los hay) y llegar a horas decentes para aprovechar bien el primer día y no morir más de lo necesario en el de vuelta.
 
@@ -60,7 +60,7 @@ Aterrizaje
 Envío de maletas
 tren bala
 
-***** Nagoya
+### Nagoya
 
 13
 Castillo
@@ -68,7 +68,7 @@ Parque Ghibli
 Maglev
 Restaurante cena
 
-***** Takayama
+### Takayama
 
 14
 
@@ -78,7 +78,7 @@ Hiking tour de templos
 Calles tradicionales
 Shirakawa-Go, festival del sake y paisajes 
 
-***** KYOTO
+### KYOTO
 
 16
 Walking tour en Gion
@@ -109,7 +109,7 @@ Kyudo Experience
 Nijo Castle
 Tren a Osaka
 
-***** OSAKA
+### OSAKA
 
 21
 Osaka Castle
@@ -126,7 +126,7 @@ Nara
 24
 Himeji Castle
 
-**** HIROSHIMA
+### HIROSHIMA
 
 25
 Hiroshima Highlights
@@ -134,12 +134,12 @@ Hiroshima Highlights
 26
 Parque Universal
 
-**** MIYAYIMA
+### MIYAYIMA
 
 27
 Hiking en Miyayima
 
-**** TOKYO
+### TOKYO
 
 28
 Tren a Tokyo
