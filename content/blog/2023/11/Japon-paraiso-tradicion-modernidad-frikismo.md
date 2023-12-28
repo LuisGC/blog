@@ -2,7 +2,7 @@
 author = "LuisGC"
 title = "Japón: paraíso de la tradición, la modernidad y el frikismo"
 date = "2023-11-05"
-type = "post"
+type = "page"
 categories = ["post"]
 tags = ["personal", "tourism", "holidays", "history"]
 status = "published"
