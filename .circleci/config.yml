@@ -108,7 +108,7 @@ jobs:
     #    - store_artifacts:
     #        path: /tmp/circleci-test-results
 
-    - deploy:
+    - run:
         name: Deploy static pages to Github Pages
         command: |
             if [ "${CIRCLE_BRANCH}" = "master" ]; then
