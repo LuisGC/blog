@@ -37,7 +37,6 @@ Quizá no sea imprescindible como [en Pekín](https://luiyo.net/blog/2019/09/pek
 
 En este tipo de viajes largos es recomendable contratar un seguro de viaje. Nosotros lo hicimos con [**Intermundial**](https://www.intermundial.es/seguros-de-viaje/seguro-totaltravel) por unos 240€ para los dos (que no es mucho para el total del viaje), que ya me funcionó bien en Tanzania. Por suerte no tuvimos que recurrir al seguro, pero nunca está de más.
 
-
 ## Datos, datos, datos
 
 * Hice la absurda cifra de **5201 fotos**. Miento, hice muchísimas más pero en los ratos libres y por la noche ya me encargué de ir borrando las que eran demasiado parecidas o estaban algo más borrosas o peor encuadradas. Las cinco mil y pico llegan después de ser un poco _selecto_. Es cierto que Chema me pidió en muchas ocasiones que le sacara fotos a él con mi móvil en lugar de hacerlo con el suyo, si excluyo esas fotos el total de capturas _mías_ se queda en **3.288 fotos**.
@@ -54,7 +53,6 @@ En este tipo de viajes largos es recomendable contratar un seguro de viaje. Noso
 
 * Fui con una [mochila Quechua pequeña de **16 litros**](https://www.decathlon.es/es/p/mochila-de-montana-y-senderismo-16l-quechua-nh-escape-500-equipaje-de-mano/_/R-p-334520?mc=8649496&c=GRIS) (totalmente recomendable) y una [maleta Roncatto de unos **66 litros**](https://www.modobyroncato.com/es/pp/4241822020/maleta-mediana--.html?prd=54358) que compré en Wallapop. Volví con dos maletas más: una de _cabina_ de **40 litros** y otra grande de **90-100 litros**, ambas rígidas, ultra ligeras y a juego. ¿Por qué? Esto es una historia que merece ser contada con una cerveza o un sake :-)
 
-
 ### Aeropuerto de Haneda
 
 Nuestros vuelos de ida y regreso eran desde el [Aeropuerto de **Haneda**](https://es.wikipedia.org/wiki/Aeropuerto_Internacional_de_Haneda), uno de los dos aeropuertos internacionales del Gran Tokio. No fue por elección propia (es el que usa Lufthansa para volar a Tokio desde Europa) y no conozco el otro aeropuerto ([Narita](https://es.wikipedia.org/wiki/Aeropuerto_Internacional_de_Narita)), pero diría que lo recomiendo. Es cómodo de transitar y se encuentra a media hora de monorail de la Estación de Tokio. Además, si hacéis como nosotros y dejáis Tokio para el final, el primer día no tendréis ni que llegar hasta _Tokio Central_ para coger la línea [**Hokkaidō**](https://es.wikipedia.org/wiki/Hokkaid%C5%8D_Shinkansen) [**Shinkansen**](https://es.wikipedia.org/wiki/Shinkansen) con lo que resulta especialmente cómodo y recomendable frente a llegar por Narita que está mucho más alejado de Tokio y además hacia el Este.
@@ -69,11 +67,17 @@ Una vez enviadas las maletas, y con la mochila preparada para pasar un día y me
 
 ### Nagoya
 
-13
-Castillo
-Parque Ghibli
+Llegamos a Nagoya sólo unas pocas horas después de haber aterrizado en Japón, con una tarde completa por delante. Es cierto que no tiene mucho que ver en general pero me dejó recuerdos inborrables.
+
+El primer gran recuerdo es el del [**Castillo de Nagoya**](https://maps.app.goo.gl/mBQZovw3CBzL341i8). No es el castillo más grande, ni el más alto, ni el más espectacular, pero fue el primero que vimos y me llamó mucho la atención. La visita al [**Palacio de Honmaru**](https://maps.app.goo.gl/LcjMbVHSbNNaTwHT6), visto en retrospectiva con todo lo que vimos después, merece la pena y el paseo por el recinto del castillo, sin apenas turistas, me dejó muy buen sabor de boca.
+
+{{< image classes="image" src="https://i.imgur.com/JRJ1Xx5.jpg" title="Uno de los espectaculares salones del Palacio de Honmaru" cc-license="by-nc-sa" >}}
+
+Volvimos al centro para pasear y cenar por los alrededores de [**Osu Kannon**](https://maps.app.goo.gl/3ALEV8XxLVLGHftB6), que nos gustó aunque sólo pudimos verlo por fuera y anocheciendo. Tanto este templo budista como la plaza en la que se encuentra son bastante pintorescos y creo que es recomendable pasarse si estás en Nagoya. Habíamos leído además alguna recomendación acerca de las tiendas de la calle Kannon (bastante decepcionante), pero lo que no decepcionó fue la cena. Filtramos en Google Maps los sitios con mejores reseñas y entramos en [**Gojobashi Gen**](https://maps.app.goo.gl/uKmpTj8Z1SeKZ8hA7) un pequeño restaurante que acabo siendo de nuestras mejores cenas de todo el viaje. Cenamos un soba de ternera con curry espectacular, tempura de verduras, croquetas de cangrejo, salmón frito y cuando le pedimos al chef algo para rematar nos sirvió un interesante sashimi de ballena. Todo ello preparado al otro lado de la barra, mientras charlamos con el chef y una camarera muy extrañados de que estuvieramos allí.
+
 Maglev
-Restaurante cena
+Parque Ghibli
+
 
 ### Takayama
 
