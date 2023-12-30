@@ -51,7 +51,7 @@ En este tipo de viajes largos es recomendable contratar un seguro de viaje. Noso
 
 * En visitas, museos, teatros y entretenimiento en general hemos gastado unos **350€** por persona. Este gasto es bastante proporcional al número de días, pero se puede gastar bastante menos excluyendo visitas algo más caras como pueden ser el [**Universal Studios Japan**](https://www.usj.co.jp/web/en/us) (unos 55€ por persona la entrada al parque básica) o el Tour en grupo pequeño por el **Monte Fuji** (unos 80€ por persona).
 
-* Fui con una [mochila Quechua pequeña de **16 litros**](https://www.decathlon.es/es/p/mochila-de-montana-y-senderismo-16l-quechua-nh-escape-500-equipaje-de-mano/_/R-p-334520?mc=8649496&c=GRIS) (totalmente recomendable) y una [maleta Roncatto de unos **66 litros**](https://www.modobyroncato.com/es/pp/4241822020/maleta-mediana--.html?prd=54358) que compré en Wallapop. Volví con dos maletas más: una de _cabina_ de **40 litros** y otra grande de **90-100 litros**, ambas rígidas, ultra ligeras y a juego. ¿Por qué? Esto es una historia que merece ser contada con una cerveza o un sake :-)
+* Fui con una [mochila Quechua pequeña de **16 litros**](https://www.decathlon.es/es/p/mochila-de-montana-y-senderismo-16l-quechua-nh-escape-500-equipaje-de-mano/_/R-p-334520?mc=8649496&c=GRIS) (totalmente recomendable) y una [maleta Roncatto de unos **66 litros**](https://www.modobyroncato.com/es/pp/4241822020/maleta-mediana--.html?prd=54358) que compré en Wallapop. Volví con dos maletas más: una de _cabina_ de **40 litros** y otra grande de **90-100 litros**, ambas rígidas, ultra ligeras y a juego. ¿Por qué? Esto es una historia que merece ser contada con una cerveza o un sake :-P
 
 ### Aeropuerto de Haneda
 
