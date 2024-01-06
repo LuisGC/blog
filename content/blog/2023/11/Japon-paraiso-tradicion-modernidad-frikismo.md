@@ -13,7 +13,7 @@ status = "published"
   stretch = ""
 +++
 
-Llevaba mucho tiempo pensando en viajar a Japón, y a primeros de este año decidí que sería este año sí o sí. Empecé a planificar fechas y visitas y a medida que iba ~~dando envidia~~ compartiendo mis planes con mi entorno, uno de mis compañeros de trabajo (**Chema**) me comentó: _yo también llevo tiempo queriendo ir, ¿te apetece que vayamos juntos?_ y con las mismas comenzamos a planificar el viaje para los dos.
+Llevaba mucho tiempo pensando en viajar a Japón, y a primeros de este año decidí que sería este año sí o sí. Empecé a planificar fechas y visitas y a medida que iba ~~dando envidia~~ compartiendo mis planes con mi entorno, uno de mis compañeros de trabajo y sin embargo amigo (**Chema**) me comentó: _yo también llevo tiempo queriendo ir, ¿te apetece que vayamos juntos?_ y con las mismas comenzamos a planificar el viaje para los dos.
 
 Creo que habría disfrutado del viaje en solitario en varias dimensiones, pero sin duda fue un acierto ir acompañado y nos lo pasamos genial. Chema es un muy buen compañero de viaje que además de seguirme el ritmo (incluyendo buscar cachés) y los planes frikis, me proponía planes más frikis todavía.
 
@@ -29,7 +29,7 @@ Coge ideas y posibles planes de blogs, revistas, libros, etc. pero recuerda siem
 
 Las principales necesidades de logística las llevamos ya resueltas y compradas desde aquí: el imprescindible [**Japan Rail Pass**](https://www.japan-experience.com/es/transporte/japan-rail-pass/nacional) (de 21 días en nuestro caso por 396€, ahora es MUCHO más caro), las [tarjetas **SIM**](https://www.japan-experience.com/es/conexion-a-internet/tarjeta-sim) para tener datos (teóricamente ilimitados) y la [tarjeta **Suica**](https://www.japan-experience.com/es/transporte/tarjeta-prepago/suica) (una tarjeta prepago super útil para máquinas de vending, transporte, supermercados, etc.). Todo ello comprado en [**Japan Experience**](https://www.japan-experience.com/es/), que están especializados en turista europeo y tienen incluso oficinas en Madrid aunque no lo necesitamos y recibimos todo sin problemas por correo. También les cogimos un par de [tarjetas de transporte ilimitado para la zona de Kansai](https://www.japan-experience.com/es/transporte/tarjeta-prepago/kyoto-nara-osaka-3-day-pass) (Kyoto, Osaka, Nara, Kobe, Himeji, ...) pero esto no lo recomiendo en absoluto. Si me acuerdo lo desarrollaré más adelante.
 
-Sobre el idioma, es cierto que casi nadie sabe inglés pero ya es muy fácil organizarse con **Google Translate**, tanto en modo escrito, como en modo audio, como en modo fotografía. Casi todos los camareros o tenderos tienen dispositivos que hacen lo mismo.
+Sobre el idioma, es cierto que casi nadie sabe inglés pero ya es muy fácil organizarse con **Google Translate**, tanto en modo escrito, como en modo audio, como en modo fotografía. De hecho, casi todos los camareros o tenderos tienen dispositivos que hacen lo mismo.
 
 Llevaba, como siempre, todos los mapas ya descargados para [**OSMAnd**](https://osmand.net/) en el móvil, pero lo cierto es que no hemos tenido problemas de cobertura ni de datos y ha sido más cómodo usar siempre Google Maps. Facilita mucho la vida en las rutas de transporte público, recomendando incluso el vagón al que te tienes que subir o la entrada o salida que tienes que usar en cada estación. No es trivial porque el Metro allí es bastante más complejo.
 
@@ -45,13 +45,13 @@ En este tipo de viajes largos es recomendable contratar un seguro de viaje. Noso
 
 * Hemos gastado en alojamiento unos **1.550€** por persona, que no está mal considerando que casi todas las noches cogimos habitaciones individuales y que siempre eran alojamientos en sitios céntricos, bien comunicados y con buenas reseñas. No hemos sacrificado localización en ningún sitio. Aquí es posible recortar bastante si buscas alojamientos más baratos, o si viajas en pareja compartiendo habitación.
 
-* Hemos gastado en desayunos y restaurantes unos **900€** por persona, que tampoco está mal dado que no hemos escatimado en absoluto y hemos pedido todo tipo de sakes en casi todos los sitios. Bastantes días hemos comido/cenado por 10-15€ (por persona), y otros días nos hemos dado _festines_ por 40-50€ (por persona). La mayoría de las veces eran cantidades intermedias que es lo que te gastas en Madrid en casi cualquier sitio. Aquí también es viable gastar menos, recortando en festines o haciendo alguna comida/cena en el apartamento o a base de bocadillos.
+* Hemos gastado en desayunos y comidas unos **900€** por persona, que tampoco está mal dado que no hemos escatimado en absoluto. Bastantes días hemos comido/cenado por 10-15€ (por persona), y otros días nos hemos dado _festines_ por 40-50€ (por persona). La mayoría de las veces eran cantidades intermedias que es lo que te gastas en Madrid en casi cualquier sitio. Aquí también es viable gastar menos, recortando en festines o haciendo alguna comida/cena en el apartamento o a base de bocadillos.
 
-* El gasto en otro tipo de alimentos no es despreciable, fueron unos **120€** por persona. Esto incluye muchísimas botellas de agua en máquinas de vending y comercios, algunos bento para comer en el tren, e infinidad de riquísimos bocados de comida callejera dulces, salados, fríos o calientes.
+* El gasto en otro tipo de alimentos no es despreciable, fueron unos **120€** por persona. Esto incluye muchísimas botellas de agua en máquinas de vending y comercios, algunos bento para comer en el tren, e infinidad de riquísimos bocados de comida callejera dulces o salados, fríos o calientes.
 
 * En visitas, museos, teatros y entretenimiento en general hemos gastado unos **350€** por persona. Este gasto es bastante proporcional al número de días, pero se puede gastar bastante menos excluyendo visitas algo más caras como pueden ser el [**Universal Studios Japan**](https://www.usj.co.jp/web/en/us) (unos 55€ por persona la entrada al parque básica) o el Tour en grupo pequeño por el **Monte Fuji** (unos 80€ por persona).
 
-* Fui con una [mochila Quechua pequeña de **16 litros**](https://www.decathlon.es/es/p/mochila-de-montana-y-senderismo-16l-quechua-nh-escape-500-equipaje-de-mano/_/R-p-334520?mc=8649496&c=GRIS) (totalmente recomendable) y una [maleta Roncatto de unos **66 litros**](https://www.modobyroncato.com/es/pp/4241822020/maleta-mediana--.html?prd=54358) que compré en Wallapop. Volví con dos maletas más: una de _cabina_ de **40 litros** y otra grande de **90-100 litros**, ambas rígidas, ultra ligeras y a juego. ¿Por qué? Esto es una historia que merece ser contada con una cerveza o un sake :-P
+* Fui con una [mochila Quechua pequeña de **16 litros**](https://www.decathlon.es/es/p/mochila-de-montana-y-senderismo-16l-quechua-nh-escape-500-equipaje-de-mano/_/R-p-334520?mc=8649496&c=GRIS) (totalmente recomendable) y una [maleta Roncatto de unos **66 litros**](https://www.modobyroncato.com/es/pp/4241822020/maleta-mediana--.html?prd=54358) que compré en Wallapop. Volví con dos maletas <u>más</u>: una de _cabina_ de **40 litros** y otra grande de **90-100 litros**, ambas rígidas, ultra ligeras y a juego. ¿Por qué? Esto es una historia que merece ser contada con una cerveza o un sake :-P
 
 ### Aeropuerto de Haneda
 
@@ -63,17 +63,19 @@ Otro trámite que nosotros hicimos fue enviar nuestras maletas al segundo alojam
 
 La única pega (por decir algo) es que, salvo pagando un recargo importante, la entrega sólo está garantizada a lo largo del día siguiente. Yamato aprovecha la extensa red de mensajeros, furgonetas, trenes e incluso bicis que ya tiene repartido por todo Japón para hacer este servicio sin un excesivo coste para ellos. Nosotros lo usamos en casi todos los cambios de alojamiento, y nos suponía hacer la maleta y mandarla un día antes del checkout y usar la mochila pequeña para llevar un cambio de ropa, el neceser, lo necesario para dormir, etc. Nada que no se pueda resolver con un poco de previsión y una mochila que no sea ni demasiado pequeña ni demasiado grande.
 
-Una vez enviadas las maletas, y con la mochila preparada para pasar un día y medio en Nagoya, salimos del aeropuerto y en algo más de media hora ya estábamos subidos al tren bala con un par de cajas de [bentō](https://es.wikipedia.org/wiki/Bent%C5%8D) para acelerar la inmersión. Es una pasada recorrer más de 350 km en poco más de una hora.
+Una vez enviadas las maletas, y con la mochila preparada para pasar un día y medio en Nagoya, salimos del aeropuerto y en algo más de media hora ya estábamos subidos al tren bala con un par de cajas de [bentō](https://es.wikipedia.org/wiki/Bent%C5%8D) para acelerar la inmersión. En este primer trayecto recorrimos más de 350 km en poco más de una hora. Una pasada.
 
 ### Nagoya
 
-Llegamos a Nagoya sólo unas pocas horas después de haber aterrizado en Japón, con una tarde completa por delante. Es cierto que no tiene mucho que ver en general pero me dejó recuerdos inborrables.
+Llegamos a Nagoya sólo unas pocas horas después de haber aterrizado en Japón, con una tarde completa por delante. Es cierto que en general no tiene mucho que ver pero me dejó recuerdos inborrables.
 
-El primer gran recuerdo es el del [**Castillo de Nagoya**](https://maps.app.goo.gl/mBQZovw3CBzL341i8). No es el castillo más grande, ni el más alto, ni el más espectacular, pero fue el primero que vimos y me llamó mucho la atención. La visita al [**Palacio de Honmaru**](https://maps.app.goo.gl/LcjMbVHSbNNaTwHT6), visto en retrospectiva con todo lo que vimos después, merece la pena y el paseo por el recinto del castillo, sin apenas turistas, me dejó muy buen sabor de boca.
+El primer gran recuerdo es el del [**Castillo de Nagoya**](https://maps.app.goo.gl/mBQZovw3CBzL341i8). No es el castillo más grande, ni el más alto, ni el más espectacular, pero fue el primero que vimos y me llamó mucho la atención. La visita al [**Palacio de Honmaru**](https://maps.app.goo.gl/LcjMbVHSbNNaTwHT6) (visto en retrospectiva con todo lo que vimos después) merece la pena y el paseo por el recinto del castillo, sin apenas turistas, me dejó muy buen sabor de boca.
 
 {{< image classes="image" src="https://i.imgur.com/JRJ1Xx5.jpg" title="Uno de los espectaculares salones del Palacio de Honmaru" cc-license="by-nc-sa" >}}
 
 Volvimos al centro para pasear y cenar por los alrededores de [**Osu Kannon**](https://maps.app.goo.gl/3ALEV8XxLVLGHftB6), que nos gustó aunque sólo pudimos verlo por fuera y anocheciendo. Tanto este templo budista como la plaza en la que se encuentra son bastante pintorescos y creo que es recomendable pasarse si estás en Nagoya. Habíamos leído además alguna recomendación acerca de las tiendas de la calle Kannon (bastante decepcionante), pero lo que no decepcionó fue la cena. Filtramos en Google Maps los sitios con mejores reseñas y entramos en [**Gojobashi Gen**](https://maps.app.goo.gl/uKmpTj8Z1SeKZ8hA7) un pequeño restaurante que acabo siendo de nuestras mejores cenas de todo el viaje. Cenamos un soba de ternera con curry espectacular, tempura de verduras, croquetas de cangrejo, salmón frito y cuando le pedimos al chef algo para rematar nos sirvió un interesante sashimi de ballena. Todo ello preparado al otro lado de la barra, mientras charlamos con el chef y una camarera muy extrañados de que estuvieramos allí.
+
+{{< image classes="image" src="https://i.imgur.com/B8woIUX.jpg" title="El chef de Gojobashi Gen" cc-license="by-nc-sa" >}}
 
 Maglev
 Parque Ghibli
