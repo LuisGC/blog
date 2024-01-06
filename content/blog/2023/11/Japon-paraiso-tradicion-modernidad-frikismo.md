@@ -89,7 +89,7 @@ El resto del parque conmemorativo de la Expo está muy cuidado y también merece
 
 Por si todo eso fuera poco, para llegar al Parque Ghibli desde el centro de Nagoya se puede (y recomiendo) usar la línea Linimo que utiliza [trenes de tipo _maglev_](https://es.wikipedia.org/wiki/Tren_de_levitaci%C3%B3n_magn%C3%A9tica). Esta línea se montó para la Expo 2005 y ahora forma parte de la red de transporte público de Nagoya. Volvimos al centro en el maglev, directos a la estación para coger el tren destino a Takayama.
 
-**Recomendación**: el [**Hotel Jal City Nagoya Nishiki**](https://maps.app.goo.gl/LG3UuJfbGuA7sw2w7). Sólo estuvimos una noche pero nos encantó todo: la habitación, los servicios, el desayuno, la atención impecable del personal... Durante el resto del viaje siempre era la referencia con la que ibamos comparando alojamientos (y todos salían perdiendo).
+**Recomendación bonus**: el [**Hotel Jal City Nagoya Nishiki**](https://maps.app.goo.gl/LG3UuJfbGuA7sw2w7). Sólo estuvimos una noche pero nos encantó todo: la habitación, los servicios, el desayuno, la atención impecable del personal... Durante el resto del viaje siempre era la referencia con la que ibamos comparando alojamientos (y todos salían perdiendo).
 
 ### Takayama
 
