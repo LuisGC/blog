@@ -19,11 +19,11 @@ Creo que habría disfrutado del viaje en solitario en varias dimensiones, pero s
 
 ## Consideraciones generales
 
-Estuve un total de **26 días**, incluyendo el día de ida y vuelta. Se pueden hacer viajes fantásticos por Japón en menos días, pero nos cuadró así (juntando el puente del 12 de Octubre con el del 1 de Noviembre) y sinceramente creo que fue muy buena idea. No creo que nos sobrara tiempo, y en todo caso nos faltó. Está lejos y hay que planificar bien los vuelos para no perder más de lo necesario en transbordos (si los hay) y llegar a horas decentes para aprovechar bien el primer día y no morir más de lo necesario en el de vuelta.
+Estuve un total de **26 días**, incluyendo el día de ida y vuelta. Se pueden hacer viajes fantásticos por Japón en menos días, pero nos cuadró así (juntando el puente del 12 de Octubre con el del 1 de Noviembre) y sinceramente creo que fue muy buena idea. No creo que nos sobrara tiempo, y en todo caso nos faltó. Está lejos y hay que planificar bien los vuelos para no perder más tiempo del necesario en transbordos (si los hay) y llegar a horas decentes para aprovechar bien el primer día y no morir más de lo necesario en el de vuelta.
 
 Este destino tiene fama de ser caro, cuando realmente no es así al menos comparado con Europa. Los vuelos pueden salir caros por la distancia y si no se compran con mucha antelación, y como cualquier viaje largo al final sumando todo puede ser bastante dinero por la cantidad de días, pero una vez allí quedarte unos días más no supone demasiado gasto extra. Puedes adaptar el viaje a las necesidades y capacidades de cada uno.
 
-Coge ideas y posibles planes de blogs, revistas, libros, etc. pero recuerda siempre que el viaje es tuyo y son tus gustos y hábitos. Japón es un país de extremos y no tiene por qué gustarte todo. Buena parte de lo que leerás a continuación no es para nada típico, y quizá incluso no sea recomendable para una primera visita a Japón.
+Coge ideas y posibles planes de blogs, revistas, libros, etc. pero recuerda siempre que el viaje es tuyo y son tus gustos y hábitos. Japón es un país de extremos y no tiene por qué gustarte todo. Buena parte de lo que leerás aquí no es para nada típico y quizá incluso no sea recomendable para una primera visita a Japón.
 
 # Logística y preparación
 
@@ -33,7 +33,9 @@ Sobre el idioma, es cierto que casi nadie sabe inglés pero ya es muy fácil org
 
 Llevaba, como siempre, todos los mapas ya descargados para [**OSMAnd**](https://osmand.net/) en el móvil, pero lo cierto es que no hemos tenido problemas de cobertura ni de datos y ha sido más cómodo usar siempre Google Maps. Facilita mucho la vida en las rutas de transporte público, recomendando incluso el vagón al que te tienes que subir o la entrada o salida que tienes que usar en cada estación. No es trivial porque el Metro allí es bastante más complejo.
 
-Quizá no sea imprescindible como [en Pekín](https://luiyo.net/blog/2019/09/pekin-guia-breve/) pero siempre que me conecté a una Wifi usé la [**VPN de Google One**](https://one.google.com/about/vpn) que funcionó de maravilla. 
+Quizá no sea imprescindible como [en Pekín](https://luiyo.net/blog/2019/09/pekin-guia-breve/) pero siempre que me conecté a una Wifi usé la [**VPN de Google One**](https://one.google.com/about/vpn) que funcionó de maravilla.
+
+Sobre el dinero en efectivo: Nosotros llevamos desde casa bastantes yenes comprados en [**RIA**](https://www.riacurrencyexchange.es/), aprovechando que estaban bien de precio. En teoría sería frecuente no poder pagar con nuestras tarjetas por lo que nuestro plan fue llevar los yenes necesarios para algo más de la mitad del viaje y a partir de ahí valorar si era necesario sacar allí en algún cajero según lo sencillo que fuese pagar con nuestras tarjetas. El cambio siguió mejorando y resultó estar bastante mejor durante el viaje por lo que tratamos de pagar con [**Revolut**](https://www.revolut.com/es-ES/) siempre que pudimos (con cuidado de no superar los límites que teníamos a partir de los cuales las comisiones ya son más dolorosas) e incluso en algún sitio pude pagar con [**American Express**](https://www.americanexpress.com/es-es/). Nunca está de más llevar un plan B, C y D por si acaso. En definitiva, de haberlo sabido habríamos llevado mucho menos dinero en efectivo encima, que no es cómodo ni excesivamente seguro.
 
 En este tipo de viajes largos es recomendable contratar un seguro de viaje. Nosotros lo hicimos con [**Intermundial**](https://www.intermundial.es/seguros-de-viaje/seguro-totaltravel) por unos 240€ para los dos (que no es mucho para el total del viaje), que ya me funcionó bien en Tanzania. Por suerte no tuvimos que recurrir al seguro, pero nunca está de más.
 
