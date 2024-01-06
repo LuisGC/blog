@@ -1,6 +1,6 @@
 +++
 author = "LuisGC"
-title = "Japón (III): Kyoto"
+title = "Japón (V): Tokyo y alrededores"
 date = "2023-10-16"
 type = "page"
 categories = ["post"]
@@ -16,39 +16,58 @@ status = "published"
 _(tercer artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_
 * [Japón (I): paraíso de la tradición, la modernidad y el frikismo](/blog/2023/10/japon-1-paraiso-tradicion-modernidad-frikismo/)
 * [Japón (II): Llegada a Japón, Nagoya y Takayama](/blog/2023/10/japon-2-nagoya-takayama/)
+* [Japón (III): Kyoto](/blog/2023/10/japon-3-kyoto/)
+* [Japón (IV): Osaka, Nara, Hiroshima y Miyayima](/blog/content/blog/2023/10/japon-4-osaka-nara-hiroshima-miyayima/)
 
 
-### KYOTO
+### TOKYO
 
-16
-Walking tour en Gion
-Geiko y Geisha, fake geisha 
+28
+Tren a Tokyo
+Shinjuku
+Godzilla
+Omoide Yokocho
+Tokyo Metropolitan Government Building
 
-17
-Chionin
-Parque Maruyama
-Ninnenzaka
-Sanneizaka
-Kyomizu-dera
+29
+Meiji Jingu
+Yoyogi Park
+Omotesando
+Shibuya
 
-18
-Palacio imperial
-Kitsune soba soup, Saba sushi, inari sushi
-Cortina ola 80 ancho * 90 alto
-Inari Templo 
+30
+Mori Art Museum
+National Art Center
+FujiFilm Gallery
+Aoyama Cemetery
 
-19
-Ryōan-ji 
-Pabellón Dorado
-Nijo Castle 
-Paseo del filósofo
+31
+Jardines Imperial Palace
+Tokyo National Museum
+Ueno Park
+Yanaka
+Akihabara
 
-20
+02
+Tsujiki Fish Market
+Teatro Kabuki
+Ginza shops
+Kaminarimon Gate
+Senso-Ji
 
-Kyudo Experience
-Nijo Castle
-Tren a Osaka
+04
+Imperial Palace
+Tienda Arquería
+Akihabara
 
-22
-Desfile Jidai Matsuri
+### FUJI
 
+01
+Excursion Fuji
+
+### YOKOHAMA
+
+03
+Yokohama
+Gundan
+Chinatown

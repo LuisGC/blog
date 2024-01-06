@@ -1,6 +1,6 @@
 +++
 author = "LuisGC"
-title = "Japón (III): Kyoto"
+title = "Japón (IV): Osaka, Nara, Hiroshima y Miyayima"
 date = "2023-10-16"
 type = "page"
 categories = ["post"]
@@ -16,39 +16,36 @@ status = "published"
 _(tercer artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_
 * [Japón (I): paraíso de la tradición, la modernidad y el frikismo](/blog/2023/10/japon-1-paraiso-tradicion-modernidad-frikismo/)
 * [Japón (II): Llegada a Japón, Nagoya y Takayama](/blog/2023/10/japon-2-nagoya-takayama/)
+* [Japón (III): Kyoto](/blog/2023/10/japon-3-kyoto/)
 
 
-### KYOTO
+### OSAKA
 
-16
-Walking tour en Gion
-Geiko y Geisha, fake geisha 
+21
+Osaka Castle
+Shinsekai
+Isshin-ji Temple
+Nipponbashi Denden Town
 
-17
-Chionin
-Parque Maruyama
-Ninnenzaka
-Sanneizaka
-Kyomizu-dera
+### NARA
 
-18
-Palacio imperial
-Kitsune soba soup, Saba sushi, inari sushi
-Cortina ola 80 ancho * 90 alto
-Inari Templo 
+23
+Nara
 
-19
-Ryōan-ji 
-Pabellón Dorado
-Nijo Castle 
-Paseo del filósofo
+### HIMEJI
 
-20
+24
+Himeji Castle
 
-Kyudo Experience
-Nijo Castle
-Tren a Osaka
+### HIROSHIMA
 
-22
-Desfile Jidai Matsuri
+25
+Hiroshima Highlights
 
+26
+Parque Universal
+
+### MIYAYIMA
+
+27
+Hiking en Miyayima
