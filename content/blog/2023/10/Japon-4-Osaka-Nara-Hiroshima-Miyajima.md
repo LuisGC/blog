@@ -1,7 +1,7 @@
 +++
 author = "LuisGC"
-title = "Japón (IV): Osaka, Nara, Hiroshima y Miyayima"
-date = "2023-10-16"
+title = "Japón (IV): Osaka, Nara, Hiroshima y Miyajima"
+date = "2023-10-28"
 type = "page"
 categories = ["post"]
 tags = ["personal", "tourism", "holidays", "history"]
