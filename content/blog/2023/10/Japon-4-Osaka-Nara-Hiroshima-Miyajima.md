@@ -1,6 +1,6 @@
 +++
 author = "LuisGC"
-title = "Japón (IV): Osaka, Nara, Hiroshima y Miyayima"
+title = "Japón (IV): Osaka, Nara, Hiroshima y Miyajima"
 date = "2023-10-28"
 type = "page"
 categories = ["post"]
