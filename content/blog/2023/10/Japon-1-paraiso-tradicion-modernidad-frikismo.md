@@ -63,5 +63,4 @@ En este tipo de viajes largos es recomendable contratar un seguro de viaje. Noso
 
 <br>
 <br>
-<br>
-Déjame en los comentarios cualquier duda o sugerencia que tengas para otros lectores.
+Puedes dejarme en los comentarios cualquier duda o sugerencia que tengas para otros lectores :-)
