@@ -1,7 +1,7 @@
 +++
 author = "LuisGC"
 title = "Japón (II): Nagoya y Takayama"
-date = "2023-10-12"
+date = "2023-10-16"
 type = "page"
 categories = ["post"]
 tags = ["personal", "tourism", "holidays", "history"]
@@ -13,8 +13,8 @@ status = "published"
   stretch = ""
 +++
 
-_(primer artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer las consideraciones generales y acceder al resto)_
-* [Japón (I): paraíso de la tradición, la modernidad y el frikismo](/blog/2023/11/japon-paraiso-tradicion-modernidad-frikismo/)
+_(segundo artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_
+* [Japón (I): paraíso de la tradición, la modernidad y el frikismo](/blog/2023/10/japon-1-paraiso-tradicion-modernidad-frikismo/)
 
 ### Aeropuerto de Haneda
 
