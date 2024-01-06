@@ -20,7 +20,7 @@ Creo que habría disfrutado del viaje en solitario en varias dimensiones, pero s
 He decidido dividir la crónica en varios artículos, que irán siguiendo el itinerario que hicimos. Incluiré aquí los enlaces a medida que vaya escribiendo los mismos:
 * Llegada a Japón, Nagoya y Takayama (5 días)
 * Kyoto (6 días)
-* Osaka, Nara, Hiroishima y Miyayima (7 días)
+* Osaka, Nara, Hiroshima y Miyayima (7 días)
 * Tokyo y alrededores (8 días)
 
 ## Consideraciones generales

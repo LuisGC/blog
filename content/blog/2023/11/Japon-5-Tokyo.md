@@ -1,7 +1,7 @@
 +++
 author = "LuisGC"
 title = "Japón (V): Tokyo y alrededores"
-date = "2023-10-16"
+date = "2023-11-05"
 type = "page"
 categories = ["post"]
 tags = ["personal", "tourism", "holidays", "history"]
