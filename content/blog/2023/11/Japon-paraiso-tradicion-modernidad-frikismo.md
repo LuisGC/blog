@@ -77,9 +77,17 @@ Volvimos al centro para pasear y cenar por los alrededores de [**Osu Kannon**](h
 
 {{< image classes="image" src="https://i.imgur.com/B8woIUX.jpg" title="El chef de Gojobashi Gen" cc-license="by-nc-sa" >}}
 
-Maglev
-Parque Ghibli
+Al día siguiente, después de nuestro primer desayuno a la japonesa en el hotel, fuimos a uno de los lugares que más ganas tenía de visitar en todo el viaje: el [**Parque Ghibli**](https://ghibli-park.jp/en/). Se trata de un complejo enorme dedicado a las películas del [**Studio Ghibli**](https://es.wikipedia.org/wiki/Studio_Ghibli), que se montó en 2022 en el parque que se hizo con motivo de la [**Expo Universal 2005 de Aichi**](https://es.wikipedia.org/wiki/Exposici%C3%B3n_Universal_de_Aichi_de_2005). El Parque Ghibli son varias instalaciones y todas ellas requieren de entradas independientes que salen a la venta con tres meses de antelación. Lleva poco tiempo abierto y tiene mucha demanda y un aforo muy controlado, por lo que es bastante difícil conseguir entrada para el edificio principal y extremadamente difícil conseguirla para las otras áreas temáticas. Estuve pendiente y traté de coger las entradas el día que se ponían a la venta (repito, tres meses antes) pero no conseguimos nada más que el acceso al edificio principal, el **Ghibli's Grand Warehouse**, que es lo que resumiré (podría escribir un artículo largo sólo con este sitio).
 
+{{< image classes="image" src="https://i.imgur.com/5rtXO6y.jpg" title="De charla con mi amigo Totoro" cc-license="by-nc-sa" >}}
+
+El Ghibli's Grand Warehouse es un pabellón enorme y techado, en el que hay varios edificios, exposiciones, muestras e incluso una sala de cine. Es un pequeño parque temático pero sin atracciones, consiste en pasear, hacer alguna que otra cola, para hacer cientos de fotos mientras evitas que se desencaje la mandibula. Mires donde mires encuentras todo tipo de objetos y detalles rememorando todas las películas de forma extremadamente original y cuidadosa. En la sala de cine se exponen cortos del Studio que sólo pueden verse allí o en el [**Museo Ghibli** de Tokyo](https://en.wikipedia.org/wiki/Ghibli_Museum). Sólo la tienda ya merecería la visita. Tuvimos que hacer verdaderos esfuerzos para no dejarnos un dineral.
+
+{{< image classes="image" src="https://i.imgur.com/7CaCMdp.jpg" title="Bajando del Gatobus" cc-license="by-nc-sa" >}}
+
+El resto del parque conmemorativo de la Expo está muy cuidado y también merece un paseo, aunque no consigáis entradas para las otras áreas. Cerca de la localización del bosque de Dondoko hay un jardín japonés especialmente cuidado con una recreación de la casa de Mei y Satsuki de [Mi Vecino Totoro](https://es.wikipedia.org/wiki/Mi_vecino_Totoro). También podéis ir al [Museo de la Expo de 2005](https://maps.app.goo.gl/YQ2LNKUE8315oASw7) que recomendaban bastante, nosotros no pudimos por falta de tiempo pero pilla bastante a mano y puede ser un buen complemento.
+
+Por si todo eso fuera poco, para llegar al Parque Ghibli desde el centro de Nagoya se puede (y recomiendo) usar la línea Linimo que utiliza [trenes de tipo _maglev_](https://es.wikipedia.org/wiki/Tren_de_levitaci%C3%B3n_magn%C3%A9tica). Esta línea se montó para la Expo 2005 y ahora forma parte de la red de transporte público de Nagoya. Volvimos al centro en el maglev, directos a la estación para coger el tren destino a Takayama.
 
 ### Takayama
 
