@@ -7,9 +7,9 @@ categories = ["post"]
 tags = ["personal", "tourism", "holidays", "history"]
 status = "published"
 [[images]]
-  src = "https://i.imgur.com/DNSWsLa.jpg"
-  alt = "2023-10-12 Palacio de Honmaru y Castillo de Nagoya"
-  caption = "2023-10-12 Palacio de Honmaru y Castillo de Nagoya - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
+  src = "https://i.imgur.com/Z8CIvCf.jpg"
+  alt = "Palacio de Honmaru en el Castillo de Nagoya"
+  caption = "Palacio de Honmaru en el Castillo de Nagoya - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
   stretch = ""
 +++
 
