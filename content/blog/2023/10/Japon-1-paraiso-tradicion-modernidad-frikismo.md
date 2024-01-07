@@ -23,6 +23,8 @@ He decidido dividir la crónica en varios artículos, que irán siguiendo el iti
 * Osaka, Nara, Hiroshima y Miyajima (7 días)
 * Tokyo y alrededores (8 días)
 
+Y como novedad respecto a otras reseñas, esta vez probaré a incluir incisos o comentarios del propio Chema a lo largo de los artículos.
+
 ## Consideraciones generales
 
 Estuve un total de **26 días**, incluyendo el día de ida y vuelta. Se pueden hacer viajes fantásticos por Japón en menos días, pero nos cuadró así (juntando el puente del 12 de Octubre con el del 1 de Noviembre) y sinceramente creo que fue muy buena idea. No creo que nos sobrara tiempo, y en todo caso nos faltó. Está lejos y hay que planificar bien los vuelos para no perder más tiempo del necesario en transbordos (si los hay) y llegar a horas decentes para aprovechar bien el primer día y no morir más de lo necesario en el de vuelta.
@@ -58,6 +60,14 @@ En este tipo de viajes largos es recomendable contratar un seguro de viaje. Noso
 * Hice la absurda cifra de **5201 fotos**. Miento, hice muchísimas más pero en los ratos libres y por la noche ya me encargué de ir borrando las que eran demasiado parecidas o estaban algo más borrosas o peor encuadradas. Las cinco mil y pico llegan después de ser un poco _selecto_. Es cierto que Chema me pidió en muchas ocasiones que le sacara fotos a él con mi móvil en lugar de hacerlo con el suyo, si excluyo esas fotos el total de capturas _mías_ se queda en **3.288 fotos**.
 
 * Cogí un total de [**89 cachés**](https://www.geocaching.com/p/?guid=b78f2e04-cd1c-4199-820c-7ea3bb7fea20) en **10** regiones distintas de Japón. Logré (no sin cierta dificultad) cumplir con mi objetivo inicial de coger al menos un caché al día, y al menos un caché en cada ciudad o localización importante. Una vez cumplidos esos objetivos, podría haber cogido muchos más cachés pero no lo prioricé sobre otras actividades. Con eso extendí mi racha de _más días consecutivos cogiendo cachés_ a **24**. También logré batir mi record de _caché más al Este_ (**E 139º 47.799**). Con esos 89, Japón se convierte en el segundo país en el que más cachés he cogido, superando por poco a Reino Unido.
+
+<blockquote>
+<br>
+<b>Chema</b>: ¡Me encanta el Geocaching!
+<br><br>
+</blockquote>
+
+
 
 * Hemos gastado en alojamiento unos **1.550€** por persona, que no está mal considerando que casi todas las noches cogimos habitaciones individuales y que siempre eran alojamientos en sitios céntricos, bien comunicados y con buenas reseñas. No hemos sacrificado localización en ningún sitio. Aquí es posible recortar bastante si buscas alojamientos más baratos, o si viajas en pareja compartiendo habitación.
 
