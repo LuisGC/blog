@@ -43,6 +43,8 @@ Las principales necesidades de logística las llevamos ya resueltas y compradas 
 
 Sobre el idioma, es cierto que casi nadie sabe inglés pero ya es muy fácil organizarse con **Google Translate**, tanto en modo escrito, como en modo audio, como en modo fotografía. De hecho, casi todos los/as camareros/as o tenderos/as tienen dispositivos que hacen lo mismo.
 
+{{< image classes="image" src="https://i.imgur.com/kuH2olw.jpg" title="Lo más parecido a una carta en inglés que solías encontrar" cc-license="by-nc-sa" >}}
+
 Llevaba, como siempre, todos los mapas ya descargados para [**OSMAnd**](https://osmand.net/) en el móvil, pero lo cierto es que no hemos tenido problemas de cobertura ni de datos y ha sido más cómodo usar siempre Google Maps. Facilita mucho la vida en las rutas de transporte público, recomendando incluso el vagón al que te tienes que subir o la entrada o salida que tienes que usar en cada estación. No es trivial porque el Metro allí es bastante más complejo.
 
 Quizá no sea imprescindible como [en Pekín](https://luiyo.net/blog/2019/09/pekin-guia-breve/) pero siempre que me conecté a una Wifi usé la [**VPN de Google One**](https://one.google.com/about/vpn) que funcionó de maravilla.
@@ -50,8 +52,6 @@ Quizá no sea imprescindible como [en Pekín](https://luiyo.net/blog/2019/09/pek
 Sobre el dinero en efectivo: Nosotros llevamos desde casa bastantes yenes comprados en [**RIA**](https://www.riacurrencyexchange.es/), aprovechando que estaban bien de precio. En teoría sería frecuente no poder pagar con nuestras tarjetas por lo que nuestro plan fue llevar los yenes necesarios para algo más de la mitad del viaje y a partir de ahí valorar si era necesario sacar allí en algún cajero según lo sencillo que fuese pagar con nuestras tarjetas. El cambio siguió mejorando y resultó estar bastante mejor durante el viaje por lo que tratamos de pagar con [**Revolut**](https://www.revolut.com/es-ES/) siempre que pudimos (con cuidado de no superar los límites que teníamos a partir de los cuales las comisiones ya son más dolorosas) e incluso en algún sitio pude pagar con [**American Express**](https://www.americanexpress.com/es-es/). Nunca está de más llevar un plan B, C y D por si acaso. En definitiva, de haberlo sabido habríamos llevado mucho menos dinero en efectivo encima, que no es cómodo ni excesivamente seguro.
 
 En este tipo de viajes largos es recomendable contratar un seguro de viaje. Nosotros lo hicimos con [**Intermundial**](https://www.intermundial.es/seguros-de-viaje/seguro-totaltravel) por unos 240€ para los dos (que no es mucho para el total del viaje), que ya me funcionó bien en Tanzania. Por suerte no tuvimos que recurrir al seguro, pero nunca está de más.
-
-{{< image classes="image" src="https://i.imgur.com/gBl6vXR.jpg" title="Esperando a los takoyakis" cc-license="by-nc-sa" >}}
 
 ## Datos, datos, datos
 
