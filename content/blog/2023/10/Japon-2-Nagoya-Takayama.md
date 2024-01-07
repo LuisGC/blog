@@ -64,7 +64,7 @@ Al día siguiente comenzamos el paseo por el [**Templo budista de Hida Kokubun-j
 
 Nuestra siguiente parada fue a orillas del río Miyagawa, que da nombre al [**Mercado Matutino de Miyagawa**](https://maps.app.goo.gl/9DuJZGgH8bPR5baS9). Allí pudimos degustar por primera vez en el viaje el [_takoyaki_](https://es.wikipedia.org/wiki/Takoyaki) (una delicia a base de pulpo que se suele encontrar por todo Japón), el [_taiyaki_](https://es.wikipedia.org/wiki/Taiyaki) (un dulce con forma de pez relleno de casi cualquier cosa pero especialmente [pasta de judías dulces](https://es.wikipedia.org/wiki/Anko)) y el [_dango_](https://es.wikipedia.org/wiki/Dango) (unas bolitas elaboradas con harina de arroz, que generalmente se sirven ensartadas en un pincho).
 
-{{< image classes="image" src="https://i.imgur.com/gBl6vXR.jpg" title="Esperando a los takoyakis" cc-license="by-nc-sa" >}}
+{{< raw-video src="https://i.imgur.com/z5kb0lX.mp4" type="video/mp4" >}} 
 
 Destilerías de sake
 Hiking tour de templos
