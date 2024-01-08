@@ -56,7 +56,7 @@ Por si todo eso fuera poco, para llegar al Parque Ghibli desde el centro de Nago
 
 ### Takayama
 
-Llegamos a [**Takayama**](https://es.wikipedia.org/wiki/Takayama_(Gifu)) a última hora de la tarde, después de un fantástico viaje en tren (incluido en el JR Pass) que recorre en paralelo al Río Hida un montón de valles espectaculares y muy pintorescos. Esto lo veríamos mejor al volver, que hicimos el mismo recorrido durante el día. Hay otras opciones para llegar a Takayama pero sin duda el tren es cómodo y directo.
+Llegamos a [**Takayama**](https://es.wikipedia.org/wiki/Takayama_(Gifu)) a última hora de la tarde, después de un fantástico viaje en tren (incluido en el JR Pass) que recorre en paralelo al Río Hida un montón de valles espectaculares y muy pintorescos. Esto lo veríamos mejor al volver, que hicimos el mismo recorrido durante el día. Hay otras opciones para llegar a Takayama pero sin duda el tren es cómodo y directo. Es una de las ciudades más grandes e importantes de esta región (conocida como los Alpes Japoneses), y tampoco hay muchas más formas de llegar.
 
 **Recomendación bonus**: La primera toma de contacto con Takayama fue espectacular. Se repitió el patrón del día anterior y entramos a un restaurante ([**Matsuki Sushi**](https://maps.app.goo.gl/4fdFpYDaz9oMmd3w5)) con muy buenas reseñas pero prácticamente vacío en la que un cocinero se afanaba detrás de la barra mientras una camarera servía en las mesas. Estuvimos un rato hablando, nos dejamos aconsejar y nos pusimos hasta arriba de sushi de primera categoría. Creo que fue el mejor restaurante de sushi de todo el viaje, tanto en variedad y calidad en la elaboración, como por la amabilidad del personal.
 
@@ -74,14 +74,50 @@ Muy satisfechos por la visita continuamos nuestro paseo y nos adentramos en [**S
 
 {{< raw-video classes="vertical" src="https://i.imgur.com/tzibQUc.mp4" type="video/mp4" title="sakería, sakería!" >}} 
 
-Carne de Hida
+Y después de tres _desayunos_, era el momento de probar la carne de Hida. Hida es la provincia en la que se encuentra Takayama (que es su capital) y da nombre a este tipo de carne de [**Wagyū**](https://es.wikipedia.org/wiki/Wagy%C5%AB) (raza bovina típica japonesa). Fuera de Japón lo que conocemos es la carne Wagyū de Kobe, pero allí la carne de Hida está consiguiendo mucho prestigio.
 
-Hiking tour de templos
+Para nuestro festín elegimos [**Hidagyu Maruaki**](https://maps.app.goo.gl/M34QnMEsqMJokjSK8), un restaurante bastante céntrico y popular que está especializado en [**Yakiniku**](https://es.wikipedia.org/wiki/Yakiniku) (carne a la parrilla, que sueles tener en tu propia mesa). Lo normal es pedir varios trozos de tu carne favorita y en general también se suelen pedir verduras. Probamos un surtido con diferentes cortes, acompañados por verdudas y regados con un buen sake, y repetimos un filete entero del que más nos gustó.
 
-### Shirakawa-Go
+{{< image classes="image" src="https://i.imgur.com/zuNV9zD.jpg" title="Pequeño festín de carne de Hida" >}}
 
-15
+Una de las cosas que más me gustó fue el [**Higashiyama walking course**](https://maps.app.goo.gl/sSGLc1gy1p1nN9BB6), un paseo super interesante muy cerca del centro que recorre un montón de templos a lo largo de las colinas boscosas orientales de Takayama. En esta zona hay una concentración enorme de templos budistas y [sintoistas](https://es.wikipedia.org/wiki/Sinto%C3%ADsmo) (que por su filosofía se fusionan bastante con el propio espacio natural), y en algún momento alguien tuvo la genial idea de hacer una ruta (perfectamente indicada en ambos sentidos) que los recorre todos. Siendo Octubre nos anocheció muy pronto y no pudimos completar la ruta, pero el trozo que hicimos (casi todo, realmente) nos pareció espectacular y al estar elevado sobre el resto del pueblo también tiene unas vistas muy interesantes.
 
-festival del sake
+{{< image classes="image" src="https://i.imgur.com/k2L8SCr.jpg" title="Parte de la ruta, en la que se ve un cementerio fusionado con el bosque" >}}
 
-construcciones y paisajes 
+Si tenéis tiempo hay más cosas interesantes para ver: un par de casas tradicionales ([**Kusakabe**](https://maps.app.goo.gl/tiA7ZksCsJoHDdqJ8) y [**Yoshijima**](https://maps.app.goo.gl/RqfuxYv4ToEBpiQh7)) muy bien preservadas que se pueden visitar, el [**Museo Shōwa-kan**](https://maps.app.goo.gl/jnbxC6UsSxaVmF2z9) o el [**Museo Retro de Hida Takayama**](https://maps.app.goo.gl/aFv8T91Xs2Xpjd876) dedicados ambos a objetos y memorabilia retro, y especialmente el [**Museo Matsuri Yatai Kaikan**](https://maps.app.goo.gl/k2ocTto4LNsgrruP6), en el que se exponen un montón de carrozas que utilizan allí en ciertos festivales. Algunas de estas las vimos y otras las vimos por fuera por falta de tiempo. Está todo cerca y se puede ver en un paseo.
+
+Un poco alejado del centro hay otras dos visitas que pueden ser interesantes, las ruinas del [**Castillo de Matsukura**](https://maps.app.goo.gl/tSdTMC6GqkWGnpyR9) y el [poblado tradicional de Hida](https://maps.app.goo.gl/f7iCdHKCjwfgSaM77) que hace las veces de museo etnográfico al aire libre. Ambas cosas están cerca y también pueden ser un buen paseo. Nosotros lo descartamos porque al día siguiente iríamos a lo que viene a ser el mismo concepto pero a gran escala.
+
+Es un destino popular casi todo el año. En los alrededores hay varios [onsen](https://es.wikipedia.org/wiki/Onsen) al aire libre, múltiples zonas de senderismo, bicicleta, rutas de templos, ruinas de castillos, pueblos con encanto, pistas de esquí (en temporada), ...
+
+Nos quedamos con muy buenas sensaciones, creo que unos cuantos días más allí podrían merecer la pena. Habrá que volver :-)
+
+### Shirakawa-Gō
+
+La manera más raṕida y sencilla de llegar a [**Shirakawa**](https://es.wikipedia.org/wiki/Shirakawa_(distrito_de_%C5%8Cno,_Gifu)) (el pueblo en el que se encuentra Shirakawa-Gō) es precisamente en autobús desde Takayama. Shirakawa es una pequeña villa en mitad de las montañas, que se ha convertido en un santuario de casas del estilo tradicional [_gasshō-zukuri_](https://es.wikipedia.org/wiki/Minka_(Jap%C3%B3n)), por la alta cantidad que se han conservado allí y porque en los últimos años incluso han trasladado casas enteras de este estilo desde otros lugares de Japón para que puedan ser preservadas y admiradas aquí.
+
+Una de las cosas imprescindibles es subir al mirador de [**Shiroyama Tenshukaku**](https://maps.app.goo.gl/2bXHaPMTk8V1HCJu6). Se puede subir andando o en autobús, o una combinación de ambas. No es una gran subida ni en distancia ni en pendiente y el camino está bien preparado, por lo que recomiendo hacer ambas cosas andando o como mucho subir en autobús.
+
+Desde arriba hay unas vistas espectaculares de todo el valle, con el poblado tradicional justo debajo. Me habría encantado estar allí con un Otoño más avanzado o incluso con todo nevado. Pudimos ver alguna foto y es increíble.
+
+{{< image classes="image" src="https://i.imgur.com/vROmP33.jpg" title="La foto no hace justicia al panorama" >}}
+
+El conjunto es espectacular, tanto la parte de poblado como el [**Museo Gassho-zukuri Minkaen**](https://maps.app.goo.gl/zmGzbvny1Kusv8tXA) que es un recinto al aire libre con una orientación más didáctica sobre la historia y las técnicas detrás de construcción de este estilo tan peculiar. En el poblado, se pueden visitar varias de las casas mejor preservadas (las de [**Kanda**](https://maps.app.goo.gl/YDvf7JLJ8BqqxDT49) y [**Wada**](https://maps.app.goo.gl/5SMTbyUSwr4MFc2i9) son las más recomendadas) y otras sirven como alojamiento, tienda o restaurante. El paseo merece mucho la pena.
+
+{{< image classes="image" src="https://i.imgur.com/VQZU5SB.jpg" title="Con una de las casas más pintorescas del Museo Gassho-zukuri Minkaen" >}}
+
+Hicimos coincidir nuestra visita con el [**Doburoku Matsuri**](https://www.vill.shirakawa.lg.jp/2223.htm), el festival anual del sake sin filtrar. Esto tuvo la parte mala de que varios sitios estaban cerrados, y quizá había más visitantes de lo normal, pero la parte buena de que pudimos disfrutar de un festival muy especial que poca gente (fuera de Japón) conoce. El doburoku es una bebida alcohólica fermentada a partir de arroz, es bastante espeso (incluso tiene _tropezones_) y de un color blanco lechoso. Se puede ver como un precursor o una primera etapa de lo que en occidente llamamos sake (en Japón, cualquier bebida alcohólica es sake). A partir de ahí se va filtrando hasta ser la bebida transparente que aquí conocemos. Cuanto más filtrado, más acabado y más caro. En base a esto hay categorías de sake: el _junmai-shu_ tiene al menos un 30% del arroz pulido; el _ginjo-shu_, con un porcentaje de arroz pulido entre el 30 y el 50%; y el _daiginjo-shu_ con un 50-70%.
+
+{{< raw-video classes="vertical" src="https://i.imgur.com/xBqWI6L.mp4" type="video/mp4" title="No era ni el primero ni el segundo" >}} 
+
+El festival y sus ofrendas tienen como _objetivo_ conseguir una cosecha magnífica y la seguridad para el pueblo durante el siguiente año. Más allá de las creencias y tradiciones, a día de hoy consiste en llevar una gran marmita de esta bebida fermentada a uno de los templos (se hace cada día en uno) para bendecirla, y una vez bendecida se reparte entre los asistentes. Decenas de voluntarios/as van llenando sus jarras en la gran marmita _bendecida_ y recorren los pasillos humanos perfectamente formados con mucha disciplina por parte de los lugareños (y mucho asombro por parte de los pocos turistas). Si la persona voluntaria pasa y tu vaso no está lleno, te rellena. El proceso se repite hasta que la mega marmita se agota, y os puedo asegurar que fueron muchas recargas.
+
+{{< raw-video src="https://i.imgur.com/R8Lk9HY.mp4" type="video/mp4" title="Llovía a mares, salimos de allí bien regados por dentro y por fuera" >}} 
+
+Todo esto rodeados de puestos de comida (para no salir de allí a cuatro patas) y con un escenario en el que se animaba a la gente a participar y se hacían todo tipo de bailes y representaciones musicales. Otro recuerdo imborrable (sí, paramos a tiempo).
+
+**Recomendación bonus**: Tras nuestra retirada a tiempo en el festival, seguía lloviendo mucho por lo que buscamos sitio para comer antes de coger el autobús de vuelta. Tuvimos que esperar un buen rato pero mereció totalmente la pena. [**Hakusuien**](https://maps.app.goo.gl/i5MHoQqizsSxV3ne6) es un restaurante de estilo Syokudo y Teoshoku que se encuentra junto a la estación de autobuses. Por fuera dan ganas de entrar, por dentro es asombroso y la comida nos resultó muy rica. Hice un vídeo porque la foto no hacía justicia, pero el vídeo realmente tampoco porque se pierde el aroma.
+
+{{< raw-video src="https://i.imgur.com/hDzXEtL.mp4" type="video/mp4" title="carne de Hida a la brasa con sopa udon ardiente de verduras" >}} 
+
+Y con esto termino con esta parte del viaje. ¡Continuará!
