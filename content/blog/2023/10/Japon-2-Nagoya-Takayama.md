@@ -66,11 +66,22 @@ Nuestra siguiente parada fue a orillas del río Miyagawa, que da nombre al [**Me
 
 {{< raw-video src="https://i.imgur.com/z5kb0lX.mp4" type="video/mp4" title="elaboración de los sabrosos takoyakis" >}} 
 
+Tras este fantástico segundo desayuno, nos dirigimos a una de las atracciones principales de la zona centro: el [**Takayama Jinya**](https://maps.app.goo.gl/EV8ZcC7VY4YHgvhU8). Los Jinya (o Jin-ya) son edificios administrativos importantes, y en este caso se trata de un complejo que en el siglo XVI-XVII ya sirvió como residencia del shōgun cuando se destruyó el castillo de Takayama, y posteriormente fue sede provincial para hasta 25 generaciones de gobernadores provinciales hasta finales del siglo XIX. Es el único edificio de este tipo del [**Período Edo**](https://es.wikipedia.org/wiki/Per%C3%ADodo_Edo) que sobrevive más o menos intacto y desde 1929 es Sitio Histórico Nacional. El lugar está muy cuidado, el jardín es espectacular, y tiene una audio guía en inglés bastante didáctica sobre la historia del lugar y las técnicas de construcción de aquella época. Sin duda una visita que mereció mucho la pena.
 
-Destilerías de sake
+{{< image classes="image" src="https://i.imgur.com/QDuyRXi.jpg" title="Los espectaculares jardines, vistos desde el interior del complejo" >}}
+
+Muy satisfechos por la visita continuamos nuestro paseo y nos adentramos en [**Sanmachi Suji**](https://maps.app.goo.gl/Rvnq7dAkCVZiLYLZ6), una zona muy pintoresca por tener la arquitectura tradicional del Período Edo mejor preservada de Takayama (y casi se podría decir, de Japón). Además de casas que no deben ser baratas, restaurantes y pastelerías con muy buena pinta y tiendas de artesanía muy cuidadas, en la zona se encuentran varias destilerías de sake. Además de vender producto embotellado, en varias de ellas se podía también hacer degustaciones. Nuestro tercer desayuno fue degustar varios tipos de sake diferentes en algunas de las destilerías más reconocidas. En una de ellas ([**Funasaka Sake Brewery**](https://maps.app.goo.gl/aRgnkFz5Mc6tvLR57)) tenían un sistema muy original (y poco tradicional, todo sea dicho) en el que comprabas un vasito y unos tokens similares a una moneda que ibas echando en máquinas dispensadoras de sake que te servían directamente un trago. Fue necesario probar varias diferentes, algunas estacionales. Un vídeo vale más que mil palabras ;-)
+
+{{< raw-video classes="vertical" src="https://i.imgur.com/tzibQUc.mp4" type="video/mp4" title="sakería, sakería!" >}} 
+
+Carne de Hida
+
 Hiking tour de templos
-Calles tradicionales
 
 ### Shirakawa-Go
 
-15 festival del sake y paisajes 
+15
+
+festival del sake
+
+construcciones y paisajes 
