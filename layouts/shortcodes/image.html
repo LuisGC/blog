@@ -7,6 +7,10 @@
     {{ with .Get "sourcelink"}}<br />Source: <a href="{{.}}"> {{ end }}
       {{ .Get "source" }}
     {{ if .Get "sourcelink"}}</a> {{ end }}
-    {{ with .Get "cc-license"}} - <i><a href="https://creativecommons.org/licenses/{{.}}/4.0/">CC License</a></i> {{ end }}
+    {{ if .Get "cc-license"}}
+        - <i><a href="https://creativecommons.org/licenses/{{.}}/4.0/">CC {{.}} License</a></i>
+    {{ else }}
+        - <i><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA License</a></i>
+    {{ end }}
   </figcaption>
 </div>
