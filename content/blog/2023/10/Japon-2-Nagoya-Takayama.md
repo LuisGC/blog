@@ -56,7 +56,7 @@ Por si todo eso fuera poco, para llegar al Parque Ghibli desde el centro de Nago
 
 ### Takayama
 
-Llegamos a [**Takayama**](https://es.wikipedia.org/wiki/Takayama_(Gifu)) a última hora de la tarde, después de un fantástico viaje en tren (incluido en el JR Pass) que recorre en paralelo al Río Hida un montón de valles espectaculares y muy pintorescos. Esto lo veríamos mejor al volver, que hicimos el mismo recorrido durante el día. Hay otras opciones para llegar a Takayama pero sin duda el tren es cómodo y directo.
+Llegamos a [**Takayama**](https://es.wikipedia.org/wiki/Takayama_(Gifu)) a última hora de la tarde, después de un fantástico viaje en tren (incluido en el JR Pass) que recorre en paralelo al Río Hida un montón de valles espectaculares y muy pintorescos. Esto lo veríamos mejor al volver, que hicimos el mismo recorrido durante el día. Hay otras opciones para llegar a Takayama pero sin duda el tren es cómodo y directo. Es una de las ciudades más grandes e importantes de esta región (conocida como los Alpes Japoneses), y tampoco hay muchas más formas de llegar.
 
 **Recomendación bonus**: La primera toma de contacto con Takayama fue espectacular. Se repitió el patrón del día anterior y entramos a un restaurante ([**Matsuki Sushi**](https://maps.app.goo.gl/4fdFpYDaz9oMmd3w5)) con muy buenas reseñas pero prácticamente vacío en la que un cocinero se afanaba detrás de la barra mientras una camarera servía en las mesas. Estuvimos un rato hablando, nos dejamos aconsejar y nos pusimos hasta arriba de sushi de primera categoría. Creo que fue el mejor restaurante de sushi de todo el viaje, tanto en variedad y calidad en la elaboración, como por la amabilidad del personal.
 
@@ -74,9 +74,23 @@ Muy satisfechos por la visita continuamos nuestro paseo y nos adentramos en [**S
 
 {{< raw-video classes="vertical" src="https://i.imgur.com/tzibQUc.mp4" type="video/mp4" title="sakería, sakería!" >}} 
 
-Carne de Hida
+Y después de tres _desayunos_, era el momento de probar la carne de Hida. Hida es la provincia en la que se encuentra Takayama (que es su capital) y da nombre a este tipo de carne de [**Wagyū**](https://es.wikipedia.org/wiki/Wagy%C5%AB) (raza bovina típica japonesa). Fuera de Japón lo que conocemos es la carne Wagyū de Kobe, pero allí la carne de Hida está consiguiendo mucho prestigio.
 
-Hiking tour de templos
+Para nuestro festín elegimos [**Hidagyu Maruaki**](https://maps.app.goo.gl/M34QnMEsqMJokjSK8), un restaurante bastante céntrico y popular que está especializado en [**Yakiniku**](https://es.wikipedia.org/wiki/Yakiniku) (carne a la parrilla, que sueles tener en tu propia mesa). Lo normal es pedir varios trozos de tu carne favorita y en general también se suelen pedir verduras. Probamos un surtido con diferentes cortes, acompañados por verdudas y regados con un buen sake, y repetimos un filete entero del que más nos gustó.
+
+{{< image classes="image" src="https://i.imgur.com/zuNV9zD.jpg" title="Pequeño festín de carne de Hida" >}}
+
+Una de las cosas que más me gustó fue el [**Higashiyama walking course**](https://maps.app.goo.gl/sSGLc1gy1p1nN9BB6), un paseo super interesante muy cerca del centro que recorre un montón de templos a lo largo de las colinas boscosas orientales de Takayama. En esta zona hay una concentración enorme de templos budistas y [sintoistas](https://es.wikipedia.org/wiki/Sinto%C3%ADsmo) (que por su filosofía se fusionan bastante con el propio espacio natural), y en algún momento alguien tuvo la genial idea de hacer una ruta (perfectamente indicada en ambos sentidos) que los recorre todos. Siendo Octubre nos anocheció muy pronto y no pudimos completar la ruta, pero el trozo que hicimos (casi todo, realmente) nos pareció espectacular y al estar elevado sobre el resto del pueblo también tiene unas vistas muy interesantes.
+
+{{< image classes="image" src="https://i.imgur.com/k2L8SCr.jpg" title="Parte de la ruta, en la que se ve un cementerio fusionado con el bosque" >}}
+
+Si tenéis tiempo hay más cosas interesantes para ver: un par de casas tradicionales ([**Kusakabe**](https://maps.app.goo.gl/tiA7ZksCsJoHDdqJ8) y [**Yoshijima**](https://maps.app.goo.gl/RqfuxYv4ToEBpiQh7)) muy bien preservadas que se pueden visitar, el [**Museo Shōwa-kan**](https://maps.app.goo.gl/jnbxC6UsSxaVmF2z9) o el [**Museo Retro de Hida Takayama**](https://maps.app.goo.gl/aFv8T91Xs2Xpjd876) dedicados ambos a objetos y memorabilia retro, y especialmente el [**Museo Matsuri Yatai Kaikan**](https://maps.app.goo.gl/k2ocTto4LNsgrruP6), en el que se exponen un montón de carrozas que utilizan allí en ciertos festivales. Algunas de estas las vimos y otras las vimos por fuera por falta de tiempo. Está todo cerca y se puede ver en un paseo.
+
+Un poco alejado del centro hay otras dos visitas que pueden ser interesantes, las ruinas del [**Castillo de Matsukura**](https://maps.app.goo.gl/tSdTMC6GqkWGnpyR9) y el [poblado tradicional de Hida](https://maps.app.goo.gl/f7iCdHKCjwfgSaM77) que hace las veces de museo etnográfico al aire libre. Ambas cosas están cerca y también pueden ser un buen paseo. Nosotros lo descartamos porque al día siguiente iríamos a Shirakawa-Go que viene a ser el mismo concepto pero a gran escala.
+
+Es un destino popular casi todo el año. En los alrededores hay varios [onsen](https://es.wikipedia.org/wiki/Onsen) al aire libre, múltiples zonas de senderismo, bicicleta, rutas de templos, ruinas de castillos, pueblos con encanto, pistas de esquí (en temporada), ...
+
+Nos quedamos con muy buenas sensaciones, creo que unos cuantos días más allí podrían merecer la pena. Habrá que volver :-)
 
 ### Shirakawa-Go
 
