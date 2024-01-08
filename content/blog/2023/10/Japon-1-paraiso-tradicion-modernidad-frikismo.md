@@ -18,7 +18,7 @@ Llevaba mucho tiempo pensando en viajar a Japón, y a primeros de este año deci
 Creo que habría disfrutado del viaje en solitario en varias dimensiones, pero sin duda fue un acierto ir acompañado y nos lo pasamos genial. Chema es un muy buen compañero de viaje que además de seguirme el ritmo (incluyendo buscar cachés) y los planes frikis, me proponía planes más frikis todavía.
 
 He decidido dividir la crónica en varios artículos, que irán siguiendo el itinerario que hicimos. Incluiré aquí los enlaces a medida que vaya escribiendo los mismos:
-* Llegada a Japón, Nagoya y Takayama (5 días)
+* [Llegada a Japón, Nagoya y Takayama (5 días)](/blog/2023/10/japon-2-nagoya-takayama/)
 * Kyoto (6 días)
 * Osaka, Nara, Hiroshima y Miyajima (7 días)
 * Tokyo y alrededores (8 días)
