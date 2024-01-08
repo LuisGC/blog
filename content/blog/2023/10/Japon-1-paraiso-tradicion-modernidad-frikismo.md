@@ -18,7 +18,7 @@ Llevaba mucho tiempo pensando en viajar a Japón, y a primeros de este año deci
 Creo que habría disfrutado del viaje en solitario en varias dimensiones, pero sin duda fue un acierto ir acompañado y nos lo pasamos genial. Chema es un muy buen compañero de viaje que además de seguirme el ritmo (incluyendo buscar cachés) y los planes frikis, me proponía planes más frikis todavía.
 
 He decidido dividir la crónica en varios artículos, que irán siguiendo el itinerario que hicimos. Incluiré aquí los enlaces a medida que vaya escribiendo los mismos:
-* Llegada a Japón, Nagoya y Takayama (5 días)
+* [Llegada a Japón, Nagoya y Takayama (5 días)](/blog/2023/10/japon-2-nagoya-takayama/)
 * Kyoto (6 días)
 * Osaka, Nara, Hiroshima y Miyajima (7 días)
 * Tokyo y alrededores (8 días)
@@ -33,7 +33,7 @@ Este destino tiene fama de ser caro, cuando realmente no es así al menos compar
 
 Nosotros fuimos entre Octubre y Noviembre pensando en disfrutar del Otoño. El maldito cambio climático cada vez lo retrasa más así que Otoño vimos poco pero el campo estaba precioso igualmente y nos hizo un tiempo fantástico. La otra época altamente recomendable para viajar es la primavera, y más específicamente durante la época de florecimiento del cerezo ([**Sakura**](https://es.wikipedia.org/wiki/Sakura_(cerezo))).
 
-{{< image classes="image" src="https://i.imgur.com/tzNw4ev.jpg" title="Paisaje idílico otoñal con el Monte Fuji al fondo" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://i.imgur.com/tzNw4ev.jpg" title="Paisaje idílico otoñal con el Monte Fuji al fondo" >}}
 
 Coge ideas y posibles planes de blogs, revistas, libros, etc. pero recuerda siempre que el viaje es tuyo y son tus gustos y hábitos. Japón es un país de extremos y no tiene por qué gustarte todo. Buena parte de lo que leerás aquí no es para nada típico y quizá incluso no sea recomendable para una primera visita a Japón.
 
@@ -43,9 +43,9 @@ Hace poco que hemos vuelto, y ya estoy deseando volver :-)
 
 Las principales necesidades de logística las llevamos ya resueltas y compradas desde aquí: el imprescindible [**Japan Rail Pass**](https://www.japan-experience.com/es/transporte/japan-rail-pass/nacional) (de 21 días en nuestro caso por 396€, ahora es MUCHO más caro), las [tarjetas **SIM**](https://www.japan-experience.com/es/conexion-a-internet/tarjeta-sim) para tener datos (teóricamente ilimitados) y la [tarjeta **Suica**](https://www.japan-experience.com/es/transporte/tarjeta-prepago/suica) (una tarjeta prepago super útil para máquinas de vending, transporte, supermercados, etc.). Todo ello comprado en [**Japan Experience**](https://www.japan-experience.com/es/), que están especializados en turista europeo y tienen incluso oficinas en Madrid aunque no lo necesitamos y recibimos todo sin problemas por correo. También les cogimos un par de [tarjetas de transporte ilimitado para la zona de Kansai](https://www.japan-experience.com/es/transporte/tarjeta-prepago/kyoto-nara-osaka-3-day-pass) (Kyoto, Osaka, Nara, Kobe, Himeji, ...) pero esto no lo recomiendo en absoluto. Si me acuerdo lo desarrollaré más adelante.
 
-Sobre el idioma, es cierto que casi nadie sabe inglés pero ya es muy fácil organizarse con **Google Translate**, tanto en modo escrito, como en modo audio, como en modo fotografía. De hecho, casi todos los/as camareros/as o tenderos/as tienen dispositivos que hacen lo mismo.
+Sobre el idioma, es cierto que casi nadie sabe inglés pero ya es muy fácil organizarse con **Google Translate**, tanto en modo escrito, como en modo audio, como en modo fotografía. De hecho, casi todos el personal de comercio y hostelería tiene dispositivos que hacen lo mismo.
 
-{{< image classes="image" src="https://i.imgur.com/kuH2olw.jpg" title="Lo más parecido a una carta en inglés que solías encontrar" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://i.imgur.com/kuH2olw.jpg" title="Lo más parecido a una carta en inglés que solías encontrar" >}}
 
 Llevaba, como siempre, todos los mapas ya descargados para [**OSMAnd**](https://osmand.net/) en el móvil, pero lo cierto es que no hemos tenido problemas de cobertura ni de datos y ha sido más cómodo usar siempre Google Maps. Facilita mucho la vida en las rutas de transporte público, recomendando incluso el vagón al que te tienes que subir o la entrada o salida que tienes que usar en cada estación. No es trivial porque el Metro allí es bastante más complejo.
 
@@ -79,6 +79,6 @@ En este tipo de viajes largos es recomendable contratar un seguro de viaje. Noso
 
 * Fui con una [mochila Quechua pequeña de **16 litros**](https://www.decathlon.es/es/p/mochila-de-montana-y-senderismo-16l-quechua-nh-escape-500-equipaje-de-mano/_/R-p-334520?mc=8649496&c=GRIS) (totalmente recomendable) y una [maleta Roncatto de unos **66 litros**](https://www.modobyroncato.com/es/pp/4241822020/maleta-mediana--.html?prd=54358) que compré en Wallapop. Volví con eso y dos maletas <u>más</u>: una de _cabina_ de **40 litros** y otra grande de **90-100 litros**, ambas rígidas, ultra ligeras y a juego. ¿Por qué? Esto es una historia que merece ser contada con una cerveza o un sake :-P
 
-{{< image classes="image" src="https://i.imgur.com/IUCJ4Ht.jpg" title="Con la mochila y las tres maletas para la vuelta" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://i.imgur.com/IUCJ4Ht.jpg" title="Con la mochila y las tres maletas para la vuelta" >}}
 
 Puedes dejarme en los comentarios cualquier duda o sugerencia que tengas para otros lectores :-)

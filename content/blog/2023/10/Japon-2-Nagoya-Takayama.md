@@ -34,21 +34,21 @@ Llegamos a [**Nagoya**](https://es.wikipedia.org/wiki/Nagoya) sólo unas pocas h
 
 El primer gran recuerdo es el del [**Castillo de Nagoya**](https://maps.app.goo.gl/mBQZovw3CBzL341i8). No es el castillo más grande, ni el más alto, ni el más espectacular, pero fue el primero que vimos y me llamó mucho la atención. La visita al [**Palacio de Honmaru**](https://maps.app.goo.gl/LcjMbVHSbNNaTwHT6) (visto en retrospectiva con todo lo que vimos después) merece la pena y el paseo por el recinto del castillo, sin apenas turistas, me dejó muy buen sabor de boca.
 
-{{< image classes="image" src="https://i.imgur.com/JRJ1Xx5.jpg" title="Uno de los espectaculares salones del Palacio de Honmaru" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://i.imgur.com/JRJ1Xx5.jpg" title="Uno de los espectaculares salones del Palacio de Honmaru" >}}
 
 Volvimos al centro para pasear y cenar por los alrededores de [**Osu Kannon**](https://maps.app.goo.gl/3ALEV8XxLVLGHftB6), que nos gustó aunque sólo pudimos verlo por fuera y anocheciendo. Tanto este templo budista como la plaza en la que se encuentra son bastante pintorescos y creo que es recomendable pasarse si estás en Nagoya. Habíamos leído además alguna recomendación acerca de las tiendas de la calle Kannon (bastante decepcionante), pero lo que no decepcionó fue la cena. Filtramos en Google Maps los sitios con mejores reseñas y entramos en [**Gojobashi Gen**](https://maps.app.goo.gl/uKmpTj8Z1SeKZ8hA7), un pequeño restaurante que acabó siendo de nuestras mejores cenas de todo el viaje. Cenamos un soba de ternera con curry espectacular, tempura de verduras, croquetas de cangrejo, salmón frito y cuando le pedimos al chef algo para rematar nos sirvió un interesante sashimi de ballena. Todo ello preparado al otro lado de la barra, mientras charlamos con el chef y una camarera muy extrañados de que estuviéramos allí.
 
-{{< image classes="image" src="https://i.imgur.com/B8woIUX.jpg" title="El chef de Gojobashi Gen" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://i.imgur.com/B8woIUX.jpg" title="El chef de Gojobashi Gen" >}}
 
 **Recomendación bonus**: el [**Hotel Jal City Nagoya Nishiki**](https://maps.app.goo.gl/LG3UuJfbGuA7sw2w7). Sólo estuvimos una noche pero nos encantó todo: la habitación, los servicios, el desayuno, la atención impecable del personal... Durante el resto del viaje siempre era la referencia con la que ibamos comparando alojamientos (y todos salían perdiendo).
 
 Al día siguiente, después de nuestro primer desayuno a la japonesa en el hotel, fuimos a uno de los lugares que más ganas tenía de visitar en todo el viaje: el [**Parque Ghibli**](https://ghibli-park.jp/en/). Se trata de un complejo enorme dedicado a las películas del [**Studio Ghibli**](https://es.wikipedia.org/wiki/Studio_Ghibli), que se montó en 2022 en el parque que se hizo con motivo de la [**Expo Universal 2005 de Aichi**](https://es.wikipedia.org/wiki/Exposici%C3%B3n_Universal_de_Aichi_de_2005). El Parque Ghibli son varias instalaciones y todas ellas requieren de entradas independientes que salen a la venta con tres meses de antelación. Lleva poco tiempo abierto y tiene mucha demanda y un aforo muy controlado, por lo que es bastante difícil conseguir entrada para el edificio principal y extremadamente difícil conseguirla para las otras áreas temáticas. Estuve pendiente y traté de coger las entradas el día que se ponían a la venta (repito, tres meses antes) pero no conseguimos nada más que el acceso al edificio principal, el **Ghibli's Grand Warehouse**, que es lo que resumiré (podría escribir un artículo largo sólo con este sitio).
 
-{{< image classes="image" src="https://i.imgur.com/5rtXO6y.jpg" title="De charla con mi amigo Totoro" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://i.imgur.com/5rtXO6y.jpg" title="De charla con mi amigo Totoro" >}}
 
 El Ghibli's Grand Warehouse es un pabellón enorme y techado, en el que hay varios edificios, exposiciones, muestras e incluso una sala de cine. Es un pequeño parque temático pero sin atracciones, consiste en pasear, hacer alguna que otra cola, para hacer cientos de fotos mientras evitas que se desencaje la mandibula. Mires donde mires encuentras todo tipo de objetos y detalles rememorando todas las películas de forma extremadamente original y cuidadosa. En la sala de cine se exponen cortos del Studio que sólo pueden verse allí o en el [**Museo Ghibli** de Tokyo](https://en.wikipedia.org/wiki/Ghibli_Museum). Sólo la tienda ya merecería la visita. Tuvimos que hacer verdaderos esfuerzos para no dejarnos un dineral.
 
-{{< image classes="image" src="https://i.imgur.com/7CaCMdp.jpg" title="Bajando del Gatobús" cc-license="by-nc-sa" >}}
+{{< image classes="image" src="https://i.imgur.com/7CaCMdp.jpg" title="Bajando del Gatobús" >}}
 
 El resto del parque conmemorativo de la Expo está muy cuidado y también merece un paseo, aunque no consigáis entradas para las otras áreas. Cerca de la localización del bosque de Dondoko hay un jardín japonés especialmente cuidado con una recreación de la casa de Mei y Satsuki de [Mi Vecino Totoro](https://es.wikipedia.org/wiki/Mi_vecino_Totoro). También podéis ir al [Museo de la Expo de 2005](https://maps.app.goo.gl/YQ2LNKUE8315oASw7) que recomendaban bastante, nosotros no pudimos por falta de tiempo pero pilla bastante a mano y puede ser un buen complemento.
 
@@ -64,12 +64,24 @@ Al día siguiente comenzamos el paseo por el [**Templo budista de Hida Kokubun-j
 
 Nuestra siguiente parada fue a orillas del río Miyagawa, que da nombre al [**Mercado Matutino de Miyagawa**](https://maps.app.goo.gl/9DuJZGgH8bPR5baS9). Allí pudimos degustar por primera vez en el viaje el [_takoyaki_](https://es.wikipedia.org/wiki/Takoyaki) (una delicia a base de pulpo que se suele encontrar por todo Japón), el [_taiyaki_](https://es.wikipedia.org/wiki/Taiyaki) (un dulce con forma de pez relleno de casi cualquier cosa pero especialmente [pasta de judías dulces](https://es.wikipedia.org/wiki/Anko)) y el [_dango_](https://es.wikipedia.org/wiki/Dango) (unas bolitas elaboradas con harina de arroz, que generalmente se sirven ensartadas en un pincho).
 
-{{< image classes="image" src="https://i.imgur.com/gBl6vXR.jpg" title="Esperando a los takoyakis" cc-license="by-nc-sa" >}}
+{{< raw-video src="https://i.imgur.com/z5kb0lX.mp4" type="video/mp4" title="elaboración de los sabrosos takoyakis" >}} 
 
-Destilerías de sake
+Tras este fantástico segundo desayuno, nos dirigimos a una de las atracciones principales de la zona centro: el [**Takayama Jinya**](https://maps.app.goo.gl/EV8ZcC7VY4YHgvhU8). Los Jinya (o Jin-ya) son edificios administrativos importantes, y en este caso se trata de un complejo que en el siglo XVI-XVII ya sirvió como residencia del shōgun cuando se destruyó el castillo de Takayama, y posteriormente fue sede provincial para hasta 25 generaciones de gobernadores provinciales hasta finales del siglo XIX. Es el único edificio de este tipo del [**Período Edo**](https://es.wikipedia.org/wiki/Per%C3%ADodo_Edo) que sobrevive más o menos intacto y desde 1929 es Sitio Histórico Nacional. El lugar está muy cuidado, el jardín es espectacular, y tiene una audio guía en inglés bastante didáctica sobre la historia del lugar y las técnicas de construcción de aquella época. Sin duda una visita que mereció mucho la pena.
+
+{{< image classes="image" src="https://i.imgur.com/QDuyRXi.jpg" title="Los espectaculares jardines, vistos desde el interior del complejo" >}}
+
+Muy satisfechos por la visita continuamos nuestro paseo y nos adentramos en [**Sanmachi Suji**](https://maps.app.goo.gl/Rvnq7dAkCVZiLYLZ6), una zona muy pintoresca por tener la arquitectura tradicional del Período Edo mejor preservada de Takayama (y casi se podría decir, de Japón). Además de casas que no deben ser baratas, restaurantes y pastelerías con muy buena pinta y tiendas de artesanía muy cuidadas, en la zona se encuentran varias destilerías de sake. Además de vender producto embotellado, en varias de ellas se podía también hacer degustaciones. Nuestro tercer desayuno fue degustar varios tipos de sake diferentes en algunas de las destilerías más reconocidas. En una de ellas ([**Funasaka Sake Brewery**](https://maps.app.goo.gl/aRgnkFz5Mc6tvLR57)) tenían un sistema muy original (y poco tradicional, todo sea dicho) en el que comprabas un vasito y unos tokens similares a una moneda que ibas echando en máquinas dispensadoras de sake que te servían directamente un trago. Fue necesario probar varias diferentes, algunas estacionales. Un vídeo vale más que mil palabras ;-)
+
+{{< raw-video classes="vertical" src="https://i.imgur.com/tzibQUc.mp4" type="video/mp4" title="sakería, sakería!" >}} 
+
+Carne de Hida
+
 Hiking tour de templos
-Calles tradicionales
 
 ### Shirakawa-Go
 
-15 festival del sake y paisajes 
+15
+
+festival del sake
+
+construcciones y paisajes 
