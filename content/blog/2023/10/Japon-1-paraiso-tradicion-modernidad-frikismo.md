@@ -2,7 +2,7 @@
 author = "LuisGC"
 title = "Japón (I): paraíso de la tradición, la modernidad y el frikismo"
 date = "2023-10-11"
-type = "page"
+type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "holidays", "history"]
 status = "published"
@@ -32,7 +32,7 @@ Estuve un total de **26 días**, incluyendo el día de ida y vuelta. Se pueden h
 
 Este destino tiene fama de ser caro, cuando realmente no es así al menos comparado con Europa. Los vuelos pueden salir caros por la distancia y si no se compran con mucha antelación, y como cualquier viaje largo al final sumando todo puede ser bastante dinero por la cantidad de días, pero una vez allí quedarte unos días más no supone demasiado gasto extra. Puedes adaptar el viaje a las necesidades y capacidades de cada uno.
 
-Nosotros fuimos entre Octubre y Noviembre pensando en disfrutar del Otoño. El maldito cambio climático cada vez lo retrasa más así que Otoño vimos poco pero el campo estaba precioso igualmente y nos hizo un tiempo fantástico. La otra época altamente recomendable para viajar es la primavera, y más específicamente durante la época de florecimiento del cerezo ([**Sakura**](https://es.wikipedia.org/wiki/Sakura_(cerezo))).
+Nosotros fuimos entre Octubre y Noviembre pensando en disfrutar del Otoño. El maldito cambio climático cada vez lo retrasa más así que no vimos el Otoño en todo su esplendor pero el campo estaba precioso igualmente y nos hizo un tiempo fantástico. La otra época altamente recomendable para viajar es la primavera, y más específicamente durante la época de florecimiento del cerezo ([**Sakura**](https://es.wikipedia.org/wiki/Sakura_(cerezo))).
 
 {{< image classes="image" src="https://i.imgur.com/tzNw4ev.jpg" title="Paisaje idílico otoñal con el Monte Fuji al fondo" >}}
 
@@ -64,23 +64,22 @@ En este tipo de viajes largos es recomendable contratar un seguro de viaje. Noso
 
 <blockquote>
 <b>Chema</b>: Hubo algunos cachés especialmente originales y bien camuflados que nos hicieron reír y pasar un buen rato, sobre todo para alguien como yo, con menos experiencia buscándolos
-<br><br>
 </blockquote>
 
-* Hemos gastado en alojamiento unos **1.550€** por persona, que no está mal considerando que casi todas las noches cogimos habitaciones individuales y que siempre eran alojamientos en sitios céntricos, bien comunicados y con buenas reseñas. No hemos sacrificado localización en ningún sitio. Aquí es posible recortar bastante, un poco si buscas alojamientos más baratos, pero sobre todo si viajas compartiendo habitación.
+* Hemos gastado en alojamiento unos **1.550€** por persona, que no está mal considerando que casi todas las noches cogimos habitaciones individuales y que siempre eran alojamientos en sitios céntricos, bien comunicados y con buenas reseñas. No hemos sacrificado localización en ningún sitio. Aquí es posible recortar bastante, un poco si buscas alojamientos más baratos pero sobre todo si viajas compartiendo habitación.
 
 * Hemos gastado en desayunos y comidas unos **900€** por persona, que tampoco está mal dado que no hemos escatimado en absoluto. Bastantes días hemos comido/cenado por 10-15€ (por persona), y otros días nos hemos dado _festines_ por 40-50€ (por persona). La mayoría de las veces eran cantidades intermedias que es lo que te gastas en Madrid en casi cualquier sitio. Aquí también es viable gastar menos, recortando en festines o haciendo alguna comida/cena en el apartamento o a base de bocadillos.
 
 * El gasto en otro tipo de alimentos no es despreciable, fueron unos **120€** por persona. Esto incluye muchísimas botellas de agua en máquinas de vending y comercios, algunos bento para comer en el tren, e infinidad de riquísimos bocados de comida callejera dulces o salados, fríos o calientes.
 
 <blockquote>
-<b>Chema</b>: En la mayoría de las máquinas, además de agua se pueden encontrar muchas bebidas exóticas tanto frías como calientes, y con precios ligeramente diferentes según la ciudad o lo complicado que sea llegar hasta la máquina (en una montaña, por ejemplo). ¡Hay que animarse y probar muchas bebidas diferentes!
+<b>Chema</b>: En la mayoría de las máquinas, además de agua se pueden encontrar muchas bebidas exóticas tanto frías como calientes, y con precios ligeramente diferentes según la ciudad o lo complicado que sea llegar hasta la máquina (en una montaña, por ejemplo). ¡Hay que animarse y probar bebidas diferentes!
 </blockquote>
 
 * En visitas, museos, teatros y entretenimiento en general hemos gastado unos **350€** por persona. Este gasto es bastante proporcional al número de días, pero se puede gastar menos excluyendo visitas algo más caras como pueden ser el [**Universal Studios Japan**](https://www.usj.co.jp/web/en/us) (unos 55€ por persona la entrada al parque básica) o el Tour en grupo pequeño por el **Monte Fuji** (unos 80€ por persona).
 
 * Fui con una [mochila Quechua pequeña de **16 litros**](https://www.decathlon.es/es/p/mochila-de-montana-y-senderismo-16l-quechua-nh-escape-500-equipaje-de-mano/_/R-p-334520?mc=8649496&c=GRIS) (totalmente recomendable) y una [maleta Roncatto de unos **66 litros**](https://www.modobyroncato.com/es/pp/4241822020/maleta-mediana--.html?prd=54358) que compré en Wallapop. Volví con eso y dos maletas <u>más</u>: una de _cabina_ de **40 litros** y otra grande de **90-100 litros**, ambas rígidas, ultra ligeras y a juego. ¿Por qué? Esto es una historia que merece ser contada con una cerveza o un sake :-P
 
-{{< image classes="image" src="https://i.imgur.com/IUCJ4Ht.jpg" title="Con la mochila y las tres maletas para la vuelta" >}}
+{{< image classes="image" src="https://i.imgur.com/IUCJ4Ht.jpg" title="Con la mochila y las tres maletas, listo para la vuelta" >}}
 
 Puedes dejarme en los comentarios cualquier duda o sugerencia que tengas para otros lectores :-)
