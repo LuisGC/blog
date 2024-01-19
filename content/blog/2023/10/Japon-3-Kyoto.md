@@ -32,12 +32,13 @@ El tour consistía en un recorrido bastante agradable por el barrio de Gion, par
 
 {{< image classes="image" src="https://i.imgur.com/lWFmoha.jpg" title="Una de las casas de té más exclusivas en la calle Hanamikoji, en Gion Kōbu" >}}
 
-17
+Al día siguiente teníamos otro free walking tour por esta zona de Kyoto, pero profundizando más en los barrios, parques y templos en la falda del Monte **Higashiyama**.
+
 Chionin
 Parque Maruyama
-Ninnenzaka
-Sanneizaka
-Kyomizu-dera
+Ninenzaka
+Sannenzaka
+Kiyomizu-dera
 
 18
 Palacio imperial
