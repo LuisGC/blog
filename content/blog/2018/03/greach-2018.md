@@ -117,7 +117,7 @@ My last choice in Greach 2018 was to listen again to Steve Pember. This talk was
 
 He reminded the audience [Conway's Law](https://en.wikipedia.org/wiki/Conway's_law), with the assumption from his side (and I totally agree) that it's completely real. If a company is not able to integrate all the required capabilities in its squads, it'll be doomed to have knowledge silos and complex dependencies everywhere.
 
-<blockquote>organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations.<br />
+<blockquote>organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations.
 — M. Conway</blockquote>
 
 {{< image classes="image" src="https://farm1.staticflickr.com/929/43273839984_210c4d0479_o.jpg" title="Steve Pember at Greach 2018" >}}

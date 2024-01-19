@@ -17,7 +17,6 @@ A couple of days ago [**DZone**](https://dzone.com) published an article called 
 
 <blockquote>
 if you don't agree with these recommendations, why don't you write your own article?
-<br /><br />
 </blockquote>
 
 ...and that brought us here :-)
