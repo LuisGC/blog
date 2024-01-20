@@ -32,7 +32,7 @@ El tour consistía en un recorrido bastante agradable por el barrio de Gion, par
 
 {{< image classes="image" src="https://i.imgur.com/lWFmoha.jpg" title="Una de las casas de té más exclusivas en la calle Hanamikoji, en Gion Kōbu" >}}
 
-Al día siguiente teníamos otro free walking tour por esta zona de Kyoto, pero diurno y profundizando más en los barrios, parques y templos en la falda del Monte **Higashiyama**. Empezamos por ver de nuevo, con más detenimiento y relato por parte del guía, las calles de Shirakawa (que sigue el curso del precioso canal de **Shirakawa**) y Shinbashi, siempre pintorescas en cualquier temporada y por ello escenario elegido por muchos turistas, modelos y parejas de recién casados para hacerse fotos cuquis. En el cruce de ambas calles se encuentran el interesante altar shintoista de de [**Tatsumi-jinja** (o **Tatsumi Dai-myojin**)](https://maps.app.goo.gl/saL6ri7obMboFJny5), y el [puente **Tatsumi bashi**](https://maps.app.goo.gl/jCKoCXPUxqrHouwn9) que es uno de los rincones más fotografiados de todo Kyoto (especialmente en sakura). El altar está dedicado a **Benzaiten**, diosa de las artes, la elocuencia y la música. Nos contaron que las maiko (y muchos actores, incluso extranjeros) acuden allí para que les ayude en su carrera.
+Al día siguiente teníamos otro free walking tour por esta zona de Kyoto, pero diurno y profundizando más en los barrios, parques y templos en la falda del Monte **Higashiyama**. Empezamos por ver de nuevo, con más detenimiento y relato por parte del guía, las calles de Shirakawa (que sigue el curso del precioso canal de **Shirakawa**) y Shinbashi, siempre pintorescas en cualquier temporada y por ello escenario elegido por muchos turistas, modelos y parejas de recién casados para hacerse fotos cuquis. En el cruce de ambas calles se encuentran el interesante altar shintoista de de [**Tatsumi-jinja** (o **Tatsumi Dai-myojin**)](https://maps.app.goo.gl/saL6ri7obMboFJny5), y el [puente **Tatsumi bashi**](https://maps.app.goo.gl/jCKoCXPUxqrHouwn9) que es uno de los rincones más fotografiados de todo Kyoto (especialmente en Sakura). El altar está dedicado a **Benzaiten**, diosa de las artes, la elocuencia y la música. Nos contaron que las maiko (y muchos actores, incluso extranjeros) acuden allí para que les ayude en su carrera.
 
 {{< image classes="image" src="https://i.imgur.com/iHNpHMR.jpg" title="Pareja posando para varios fotógrafos en el puente Tatsumi Bashi" >}}
 
@@ -40,10 +40,23 @@ Seguimos el recorrido por el templo budista de [**Chion-in**](https://maps.app.g
 
 {{< image classes="image" src="https://i.imgur.com/wzzbSVE.jpg" title="Llegando a la majestuosa puerta del templo de Chion-in" >}}
 
-Parque Maruyama
-Ninenzaka
-Sannenzaka
-Kiyomizu-dera
+El recinto del templo se fusiona con el Parque de Maruyama, al que ya nos asomamos la noche anterior pero esta vez recorremos la parte más oriental con su gran estanque y sus [jardines japoneses](https://maps.app.goo.gl/impiQ6d8DLwcWStJ7), rodeados de múltiples variedades de cerezos. Me habría encantado ver este parque en época de Sakura, o incluso en un Otoño más pleno.
+
+El recorrido continuaba para recorrer los famosos y pintorescos barrios de **Ninenzaka** y **Sannenzaka**, con el objetivo de terminar por todo lo alto (en todos los sentidos) en el **Templo de Kiyomizu-dera**. Lo que inicialmente era un plan de mañana, acabo siendo un plan de día completo porque tras el tour nos quedamos con las ganas de deshacer despacio esta última parte del recorrido para ver todo con más detalle, cotillear en tiendas, entrar en algún templo más y comer en alguno de los múltiples puestos de comida callejera que había.
+
+En [**Ninenzaka**](https://maps.app.goo.gl/vuAFAJAR9RToWYyY7) es imprescindible acercarse a ver la **Pagoda de Yasaka**, una pagoda de cinco plantas que es el único edificio que aún sobrevive de todo el [templo budista de **Hokan-ji**](https://maps.app.goo.gl/dkvE7zTYgX8LeYLf6), construido en el siglo VI y reconstruido por última vez a primeros del XV. Era difícil resistir la tentación de hacerle fotos desde casi cualquier perspectiva. Junto a la pagoda, se encuentra el curioso y muy colorido templo de **Yasaka Kōshin-dō**, que también merece una visita rápida.
+
+Como curiosidad, en esta zona también se encuentra el [**Starbucks** de Nineizaka Yakasa Chaya](https://maps.app.goo.gl/J1jVC3JGs8i2XSVY9), el que posiblemente será el Starbucks más caro y seguro que el más espectacular de todo el mundo. Después de haber desembolsado una cifra obscena de dinero en la casa y en una reforma muy cuidada, en 2017 cosiguieron abrir al público esta cafetería en una casa tradicional japonesa, integrada perfectamente por dentro y por fuera con el resto del barrio. Todo está decorado de manera tradicional, con simbología tradicional, con tatamis y cojines para sentarse a degustar especialidades locales de café y té. Estando lleno, entraba tanta gente a cotillear (como nosotros) que tenían establecido una especie de circuito de un sólo sentido para evitar atascos en los estrechos pasillos de la casa.
+
+{{< image classes="image vertical" src="https://i.imgur.com/n3TVNkU.jpg" title="En esta zona la densidad de gente con vestidos tradicionales (generalmente de alquiler) era altísima" >}}
+
+La subida hacia Kiyomizu-dera por la cuesta de [**Sannenzaka**](https://maps.app.goo.gl/AZSxFjWeDCDD8WrH6) empezó a ser más incómoda por ser calles estrechas con muchas escaleras y una gran cantidad de turistas. Era difícil seguir al guía hasta el punto que apenas pudimos hacer paradas intermedias (y no eramos un grupo muy grande). Toda la subida está llena de trampas para turistas: tiendas de artesanía, puestos de comida, cafeterías, restaurantes, souvenirs, ... ni confirmo ni desmiento que cayera en varias de ellas en nuestro regreso.
+
+Nuestro guía se despidió del grupo en la entrada al [**Templo de Kiyomizu-dera**](https://maps.app.goo.gl/ukgBYTSfY99ziBhB9). Le dimos un fuerte aplauso y el merecido donativo, y entramos a visitar el templo tras engañar un poco al estómago con un par de bocados de comida callejera. Este enorme templo, construído en su totalidad sin usar ni un solo clavo o tornillo, es uno de los más espectaculares de todo Japón tanto por sí mismo como por las vistas que ofrece. Junto a su pabellón principal hay una plataforma elevada de 13 metros de altura sostenida con una estructura a base de vigas de madera entrelazadas (de nuevo, sin clavos ni tornillos). En el periodo Edo se popularizó una tradición que consistía en saltar desde la plataforma para que se cumplan tus deseos. Según Wikipedia sobrevivieron más del 85% de los saltos registrados, pero no sabemos si se cumplieron sus deseos. En cualquier caso la práctica fue prohibida en el siglo XIX.
+
+
+
+Kodai-ji.
 
 18
 Palacio imperial
