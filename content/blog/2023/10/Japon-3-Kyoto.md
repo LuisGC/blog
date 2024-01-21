@@ -91,7 +91,6 @@ Desfile Jidai Matsuri
 Temino con un carrusel con otras fotos interesantes :)
 
 <div class="slider-container">  
-  <img src="https://i.imgur.com/5YtmF73.jpg" class="slider-item" />
-  <img src="https://i.imgur.com/LVFkgxs.jpg" class="slider-item" />
-  <img src="https://i.imgur.com/iHNpHMR.jpg" class="slider-item" />
+  {{< image classes="slider-item" src="https://i.imgur.com/xUwTSVu.jpg" title="Pasarela de madera sobre el agua, para llegar a uno de los pabellones principales" >}}
+  {{< image classes="slider-item" src="https://i.imgur.com/LVFkgxs.jpg" title="Pasarela de madera sobre el agua, para llegar a uno de los pabellones principales" >}}
 </div>  
