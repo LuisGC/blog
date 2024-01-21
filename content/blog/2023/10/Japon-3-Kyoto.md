@@ -68,6 +68,8 @@ Terminamos el día bajando a la estación de metro de **Kyoto-Kawaramachi**, que
 
 {{< raw-video classes="vertical" src="https://i.imgur.com/IGZ1fJt.mp4" type="video/mp4" title="Real-Life Super Mario" >}} 
 
+**Recomendación bonus**: una tienda exclusiva de especias picantes no es algo que Chema estuviera dispuesto a dejar pasar. La tienda se llama [**Ocha-no-ko SAISAI**](https://maps.app.goo.gl/RcfCDoNDUsKji6PUA) y se sitúa en una casita pequeñita en mitad de una de las escalinatas que suben hacia Kōdai-ji. Su especialidad es el chile Hontaka, pero vendían varios tipos de picante desde mono-cultivo hasta otras con mezcla de otras cosas para ganar aromas y matices, y en varios niveles de _picante_. Además de la propia especia, vendían patatuelas y otros snacks a los que se había expuesto a cada una de las mezclas de especias. Degustamos casi todo y cogimos varios botes para cocinar.
+
 18
 Palacio imperial
 Kitsune soba soup, Saba sushi, inari sushi
@@ -88,7 +90,7 @@ Tren a Osaka
 22
 Desfile Jidai Matsuri
 
-Temino con un carrusel con otras fotos interesantes :)
+### Más fotos interesantes
 
 <div class="slider-container">  
   {{< image classes="slider-item" src="https://i.imgur.com/xUwTSVu.jpg" title="Pasarela de madera sobre el agua, para llegar a uno de los pabellones principales" >}}
