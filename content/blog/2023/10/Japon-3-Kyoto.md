@@ -64,6 +64,10 @@ En nuestro camino de regreso nos detuvimos con más calma a ver algunas cosas. Y
 
 {{< image classes="image" src="https://i.imgur.com/xUwTSVu.jpg" title="Pasarela de madera sobre el agua, para llegar a uno de los pabellones principales" >}}
 
+Terminamos el día bajando a la estación de metro de **Kyoto-Kawaramachi**, que durante esos días y de forma excepcional tenía uno de sus pasillos más largos tematizado por **Nintendo** para celebrar el lanzamiento del último video juego de **Super Mario**. Pasillos enteros decorados con niveles del juego clásico y ambientados con la música correspondiente al nivel. Allí estuvimos un rato ante la divertida mirada de los paseantes.
+
+{{< raw-video classes="vertical" src="https://i.imgur.com/IGZ1fJt.mp4" type="video/mp4" title="Real-Life Super Mario" >}} 
+
 18
 Palacio imperial
 Kitsune soba soup, Saba sushi, inari sushi
@@ -87,16 +91,7 @@ Desfile Jidai Matsuri
 Temino con un carrusel con otras fotos interesantes :)
 
 <div class="slider-container">  
-  <img
-    class="slider-item"
-    src="https://i.imgur.com/5YtmF73.jpg"
-  />
-  <img
-    class="slider-item"
-    src="https://i.imgur.com/LVFkgxs.jpg"
-  />
-  <img
-    class="slider-item"
-    src="https://i.imgur.com/iHNpHMR.jpg"
-  />
+  <img src="https://i.imgur.com/5YtmF73.jpg" class="slider-item" />
+  <img src="https://i.imgur.com/LVFkgxs.jpg" class="slider-item" />
+  <img src="https://i.imgur.com/iHNpHMR.jpg" class="slider-item" />
 </div>  
