@@ -56,12 +56,13 @@ Nuestro guía se despidió del grupo en la entrada al [**Templo de Kiyomizu-dera
 
 {{< image classes="image" src="https://i.imgur.com/LVFkgxs.jpg" title="La increíble plataforma de Kiyomizu, y las increíbles vistas que tiene" >}}
 
-La visita al templo continúa con un agradable paseo por el resto del recinto, incluyendo una pintoresca pagoda de tres plantas en un promontorio imponente enfrente de la plataforma o las populares **cascadas Otowanotaki**, que en su tramo final se canalizan en tres chorros que caen a un estanque. Los visitantes (principalmente locales) hacen cola para tomar algo del agua que cae, lavarse las manos y beber un poco, con la esperanza de que se cumplan sus deseos. Hay más cosas curiosas, en nuestro caso la cantidad de gente y el hambre hicieron que no lo vieramos tan tranquilos como el sitio merecía.
+La visita al templo continúa con un agradable paseo por el resto del recinto, incluyendo una pintoresca pagoda de tres plantas en un promontorio imponente enfrente de la plataforma o las populares **cascadas Otowanotaki**, que en su tramo final se canalizan en tres chorros que caen a un estanque. Los visitantes (principalmente locales) hacen cola para tomar algo del agua que cae, lavarse las manos y beber un poco, con la esperanza de que así se cumplan sus deseos. Hay más cosas curiosas, en nuestro caso la cantidad de gente y el hambre hicieron que no lo vieramos tan tranquilos como el sitio merecía.
 
 {{< image classes="image" src="https://i.imgur.com/5YtmF73.jpg" title="El inicio de la interminable fila de gente esperanzada" >}}
 
+En nuestro camino de regreso nos detuvimos con más calma a ver algunas cosas. Ya no había tanta gente y el paseo se nos hizo mucho más agradable. Además de tiendas, nos asomamos al [**Templo de Kōdai-ji**](https://maps.app.goo.gl/9pg2GADPgpJvmkDN9), fundado en el siglo XVII por **Kodai-in** (la viuda de **Toyotomi Hideyoshi**, uno de los grandes unificadores del Japón actual) para poder rezar allí por su difunto marido. El templo estaba parcialmente en obras, pero merece la pena la visita para ver sus espectaculares jardines secos y un bosque de bambú de los pocos que pueden aún verse en el _centro_ de Kyoto. Este templo también es popular por la técnica **maki-e** visible en la puerta principal y algunos de los pabellones. Es una técnica de decoración en la que se dibujan símbolos, figuras o letras con laca sobre la madera, que luego se rocía con polvo de oro o plata.
 
-Kodai-ji.
+{{< image classes="image" src="https://i.imgur.com/xUwTSVu.jpg" title="Pasarela de madera sobre el agua, para llegar a uno de los pabellones principales" >}}
 
 18
 Palacio imperial
