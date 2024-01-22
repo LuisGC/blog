@@ -30,7 +30,11 @@ Por la tarde-noche habíamos reservado un free walking tour por el barrio de **G
 
 El tour consistía en un recorrido bastante agradable por el barrio de Gion, partiendo de la estatua de **Izumo no Okuni** junto al Río Kamo. Okuni fue una actriz del siglo XVI que es considerada la creadora del **teatro Kabuki**. Llegó a dirigir una compañía de teatro compuesta exclusivamente de actrices a base de recoger por las calles a mujeres marginadas. El barrio de Gion es famoso por contener los principales sitios de _avistamiento_ de **Maikos** (aprendiz de Geiko) y **Geikos** (nombre con el que se conoce a las Geishas en Kyoto). Durante el tour nos explicaron qué diferencias hay entre maikos y geikos, nos contaron que el 90% de las que ves por la calle no son Geikos de verdad, así como bastantes historias y leyendas del barrio. Tras asomarnos un poco al [**Parque de Maruyama**](https://maps.app.goo.gl/PSYiRUxBrX5rz4oG6) para ver la pagoda del **Santuario de Yasaka**, el guía nos llevó a recorrer los callejones del **hanamachi** de **Gion Kōbu**. Un hanamachi es un área en el que las geikos siguen operando a día de hoy, y Gion Kōbu es de los pocos que siguen quedando (casi todos los que quedan están en Kyoto). En los hanamachi se concentran gran cantidad de casas de té (donde los grandes empresarios y políticos se reunen para cerrar negocios y acuerdos) y **Okiyas** (alojamientos de varias maikos o geishas). Un paseo muy recomendable por la noche, con o sin guía.
 
-{{< image classes="image" src="https://i.imgur.com/lWFmoha.jpg" title="Una de las casas de té más exclusivas en la calle Hanamikoji, en Gion Kōbu" >}}
+<div class="slider-container">  
+  {{< image classes="image" src="https://i.imgur.com/lWFmoha.jpg" title="Una de las casas de té más exclusivas en la calle Hanamikoji, en Gion Kōbu" >}}
+  {{< image classes="slider-item" src="https://i.imgur.com/iBs3Y9v.jpg" title="Buden (escenario) en el Parque de Maruyama" >}}
+  {{< image classes="slider-item" src="https://i.imgur.com/M7heyki.jpg" title="Issen-Yoshoku, una variante del Okonomiyaki que se puede comer en Kyoto" >}}
+</div>  
 
 Al día siguiente teníamos otro free walking tour por esta zona de Kyoto, pero diurno y profundizando más en los barrios, parques y templos en la falda del Monte **Higashiyama**. Empezamos por ver de nuevo, con más detenimiento y relato por parte del guía, las calles de Shirakawa (que sigue el curso del precioso canal de **Shirakawa**) y Shinbashi, siempre pintorescas en cualquier temporada y por ello escenario elegido por muchos turistas, modelos y parejas de recién casados para hacerse fotos cuquis. En el cruce de ambas calles se encuentran el interesante altar shintoista de de [**Tatsumi-jinja** (o **Tatsumi Dai-myojin**)](https://maps.app.goo.gl/saL6ri7obMboFJny5), y el [puente **Tatsumi bashi**](https://maps.app.goo.gl/jCKoCXPUxqrHouwn9) que es uno de los rincones más fotografiados de todo Kyoto (especialmente en Sakura). El altar está dedicado a **Benzaiten**, diosa de las artes, la elocuencia y la música. Nos contaron que las maiko (y muchos actores, incluso extranjeros) acuden allí para que les ayude en su carrera.
 
@@ -72,11 +76,19 @@ Terminamos el día bajando a la estación de metro de **Kyoto-Kawaramachi**, que
 una tienda exclusiva de especias picantes no es algo que Chema estuviera dispuesto a dejar pasar. La tienda se llama [**Ocha-no-ko SAISAI**](https://maps.app.goo.gl/RcfCDoNDUsKji6PUA) y se sitúa en una casita pequeñita en mitad de una de las escalinatas que suben hacia Kōdai-ji. Su especialidad es el chile Hontaka, pero vendían varios tipos de picante desde mono-cultivo hasta otras con mezcla de otras cosas para ganar aromas y matices, y en varios niveles de _picante_. Además de la propia especia, vendían patatuelas y otros snacks a los que se había expuesto a cada una de las mezclas de especias. Degustamos casi todo y cogimos varios botes para cocinar.
 {{< /recommendation >}}
 
-18
-Palacio imperial
-Kitsune soba soup, Saba sushi, inari sushi
-Cortina ola 80 ancho * 90 alto
-Inari Templo 
+Al día siguiente, nuestro plan arrancaba en el [**Palacio imperial de Kyoto**](https://maps.app.goo.gl/tS2aoCdwHFkDgeN98), que sirvió como palacio oficial hasta la restauración Meiji a finales del siglo XIX. Hay una visita guiada bastante interesante que permite recorrer casi todo el Palacio. Son grupos grandes y hay que pegarse mucho al guía, por lo que yo no descartaría hacer la visita por libre con una buena audioguía o documentación. Un grupo tan grande tampoco facilita ver las cosas con calma y hacer fotos tranquilamente.
+
+El Palacio tiene muchas cosas destacables, pero sin duda las más curiosas son las distintas puertas, la historia de cada una, el propósito de cada una, así como las diferentes técnicas de construcción empleadas en ellas. Muy curioso.
+
+{{< image classes="image" src="https://i.imgur.com/KLlKuGr.jpg" title="La Puerta Jomeimon, de color bermellón intenso y techos de teja" >}}
+
+El recinto del Palacio se encuentra dentro del gran Jardín Nacional de **Kyōto-gyoen**, un gran parque abierto al público. Nosotros recorrimos una parte, visitando algunos templos y edificios que están desperdigados por el parque. Por ejemplo, cerca de la entrada sur del parque (por la **Puerta Sakaimachi Gomon**) hay un pequeño lago con los restos de la residencia **Kujō**. Desde el puente que cruza el lago hay una estampa magnífica con una casa de té muy bien conservada al fondo y el altar sintoísta de **Itsukushima** situado en el centro de una pequeña isla en mitad del lago. Fue un paseo muy agradable, yo me quedé con ganas de recorrer entero este parque.
+
+{{< image classes="image" src="https://i.imgur.com/PyQib4h.jpg" title="Lago Kujō con la casita de té Shūsui-tei en la orilla opuesta" >}}
+
+No nos quisimos entretener para poder llegar a una hora prudente a uno de los lugares estrella de Kyoto: el [**Santuario sintoísta de Fushimi Inari Taisha**](https://maps.app.goo.gl/QZAp7i3rrZHC6nv4A). Este santuario, situado en lo alto de un monte y rodeado de naturaleza, es conocido porque se llega a él por varios caminos que están delimitados por cientos y cientos de puertas rojas (llamadas torii). En esos mismos caminos se encuentran otros altares y más de una tienda de recuerdos. Sólo se puede subir andando, y en casi todo el camino hay sitios preparados para hacer _paradas técnicas_ con máquinas de vending, en las que el agua cada vez es más caro a medida que vas ascendiendo. Lo entendimos perfectamente al ver al _reponedor_ subir con una carretilla con las bebidas.
+
+{{< raw-video classes="vertical" src="https://i.imgur.com/cKpR50V.mp4" type="video/mp4" title="Increíble el ritmo al que subía, superior al de muchos visitantes" >}} 
 
 19
 Ryōan-ji 
@@ -92,9 +104,3 @@ Tren a Osaka
 22
 Desfile Jidai Matsuri
 
-### Más fotos interesantes
-
-<div class="slider-container">  
-  {{< image classes="slider-item" src="https://i.imgur.com/xUwTSVu.jpg" title="Pasarela de madera sobre el agua, para llegar a uno de los pabellones principales" >}}
-  {{< image classes="slider-item" src="https://i.imgur.com/LVFkgxs.jpg" title="Pasarela de madera sobre el agua, para llegar a uno de los pabellones principales" >}}
-</div>  
