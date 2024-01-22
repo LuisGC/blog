@@ -48,7 +48,9 @@ Volvimos al centro para pasear y cenar por los alrededores de [**Osu Kannon**](h
 
 {{< image classes="image" src="https://i.imgur.com/B8woIUX.jpg" title="El chef de Gojobashi Gen, que mutó de arisco a simpatiquísimo" >}}
 
-**Recomendación bonus**: el [**Hotel Jal City Nagoya Nishiki**](https://maps.app.goo.gl/LG3UuJfbGuA7sw2w7). Sólo estuvimos una noche pero nos encantó todo: la habitación, los servicios, el desayuno, la atención impecable del personal... Durante el resto del viaje siempre era la referencia con la que ibamos comparando alojamientos (y todos salían perdiendo).
+{{< recommendation >}}
+El [**Hotel Jal City Nagoya Nishiki**](https://maps.app.goo.gl/LG3UuJfbGuA7sw2w7). Sólo estuvimos una noche pero nos encantó todo: la habitación, los servicios, el desayuno, la atención impecable del personal... Durante el resto del viaje siempre era la referencia con la que ibamos comparando alojamientos (y todos salían perdiendo).
+{{< /recommendation >}}
 
 Al día siguiente, después de nuestro primer desayuno a la japonesa en el hotel, fuimos a uno de los lugares que más ganas tenía de visitar en todo el viaje: el [**Parque Ghibli**](https://ghibli-park.jp/en/). Se trata de un complejo enorme dedicado a las películas del [**Studio Ghibli**](https://es.wikipedia.org/wiki/Studio_Ghibli), que se montó en 2022 en el parque que se hizo con motivo de la [**Expo Universal 2005 de Aichi**](https://es.wikipedia.org/wiki/Exposici%C3%B3n_Universal_de_Aichi_de_2005). El Parque Ghibli son varias instalaciones y todas ellas requieren de entradas independientes que salen a la venta con tres meses de antelación. Lleva poco tiempo abierto y tiene mucha demanda y un aforo muy controlado, por lo que es bastante difícil conseguir entrada para el edificio principal y extremadamente difícil conseguirla para las otras áreas temáticas. Estuve pendiente y traté de coger las entradas el día que se ponían a la venta (repito, tres meses antes) pero no conseguimos nada más que el acceso al edificio principal, el **Ghibli's Grand Warehouse**, que es lo que resumiré (aunque podría escribir un artículo largo sólo con este sitio).
 
@@ -76,7 +78,7 @@ Llegamos a [**Takayama**](https://es.wikipedia.org/wiki/Takayama_(Gifu)) a últi
 <b>Chema</b>: Pese a ser una ciudad importante, no es comparable en absoluto a las grandes urbes. Esto es algo a tener en cuenta de cara a la variedad de comercios/restaurantes disponibles y sus horarios de apertura, que son muchos más reducidos que en otros lugares como Osaka o Tokyo
 </blockquote>
 
-{{< recommendation english="true" >}}
+{{< recommendation >}}
 La primera toma de contacto con Takayama fue espectacular. Se repitió el patrón del día anterior y entramos a un restaurante ([**Matsuki Sushi**](https://maps.app.goo.gl/4fdFpYDaz9oMmd3w5)) con muy buenas reseñas pero prácticamente vacío en la que un cocinero se afanaba detrás de la barra mientras una camarera servía en las mesas. Estuvimos un rato hablando con ellos, nos dejamos aconsejar y nos pusimos hasta arriba de sushi de primera categoría. Creo que fue el mejor restaurante de sushi de todo el viaje, tanto en variedad y calidad en la elaboración, como por la amabilidad del personal.
 {{< /recommendation >}}
 
@@ -136,7 +138,10 @@ El festival y sus ofrendas tienen como _objetivo_ conseguir una cosecha magnífi
 
 Todo esto rodeados de puestos de comida (para no salir de allí a cuatro patas) y con un escenario en el que se animaba a la gente a participar y se hacían todo tipo de bailes y representaciones musicales. Otro recuerdo imborrable (porque paramos a tiempo para evitar que se borrase).
 
-**Recomendación bonus**: Tras nuestra retirada a tiempo en el festival, seguía lloviendo mucho por lo que buscamos sitio para comer antes de coger el autobús de vuelta a Takayama. Tuvimos que esperar un buen rato pero mereció totalmente la pena. [**Hakusuien**](https://maps.app.goo.gl/i5MHoQqizsSxV3ne6) es un restaurante de estilo Syokudo (restaurantes tradicionales normales) y Teoshoku (que son a base de menús) que se encuentra junto a la estación de autobuses. Por fuera dan ganas de entrar, por dentro es asombroso y la comida nos resultó muy rica. Hice un vídeo porque la foto no hacía justicia, pero el vídeo realmente tampoco porque se pierde el aroma y el ambiente.
+{{< recommendation >}}
+Tras nuestra retirada a tiempo en el festival, seguía lloviendo mucho por lo que buscamos sitio para comer antes de coger el autobús de vuelta a Takayama. Tuvimos que esperar un buen rato pero mereció totalmente la pena. [**Hakusuien**](https://maps.app.goo.gl/i5MHoQqizsSxV3ne6) es un restaurante de estilo Syokudo (restaurantes tradicionales normales) y Teoshoku (que son a base de menús) que se encuentra junto a la estación de autobuses. Por fuera dan ganas de entrar, por dentro es asombroso y la comida nos resultó muy rica. Hice un vídeo porque la foto no hacía justicia, pero el vídeo realmente tampoco porque se pierde el aroma y el ambiente.
+{{< / recommendation >}}
+
 
 {{< raw-video src="https://i.imgur.com/hDzXEtL.mp4" type="video/mp4" title="Carne de Hida a la brasa con sopa udon ardiente de verduras" >}} 
 
