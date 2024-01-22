@@ -76,7 +76,9 @@ Llegamos a [**Takayama**](https://es.wikipedia.org/wiki/Takayama_(Gifu)) a últi
 <b>Chema</b>: Pese a ser una ciudad importante, no es comparable en absoluto a las grandes urbes. Esto es algo a tener en cuenta de cara a la variedad de comercios/restaurantes disponibles y sus horarios de apertura, que son muchos más reducidos que en otros lugares como Osaka o Tokyo
 </blockquote>
 
-**Recomendación bonus**: La primera toma de contacto con Takayama fue espectacular. Se repitió el patrón del día anterior y entramos a un restaurante ([**Matsuki Sushi**](https://maps.app.goo.gl/4fdFpYDaz9oMmd3w5)) con muy buenas reseñas pero prácticamente vacío en la que un cocinero se afanaba detrás de la barra mientras una camarera servía en las mesas. Estuvimos un rato hablando con ellos, nos dejamos aconsejar y nos pusimos hasta arriba de sushi de primera categoría. Creo que fue el mejor restaurante de sushi de todo el viaje, tanto en variedad y calidad en la elaboración, como por la amabilidad del personal.
+{{< recommendation english="true" >}}
+La primera toma de contacto con Takayama fue espectacular. Se repitió el patrón del día anterior y entramos a un restaurante ([**Matsuki Sushi**](https://maps.app.goo.gl/4fdFpYDaz9oMmd3w5)) con muy buenas reseñas pero prácticamente vacío en la que un cocinero se afanaba detrás de la barra mientras una camarera servía en las mesas. Estuvimos un rato hablando con ellos, nos dejamos aconsejar y nos pusimos hasta arriba de sushi de primera categoría. Creo que fue el mejor restaurante de sushi de todo el viaje, tanto en variedad y calidad en la elaboración, como por la amabilidad del personal.
+{{< /recommendation >}}
 
 Al día siguiente comenzamos el paseo por el [**Templo budista de Hida Kokubun-ji**](https://maps.app.goo.gl/KjYZsiuiwjecBZ6D7), muy cercano a nuestro hotel. Vimos muchos otros templos parecidos después, pero al ser el primer templo budista en el que nos pudimos entretener le dedicamos un buen rato. Entre otras cosas nos maravillamos con su Gran Ginkgo, todo un monumento natural con una altura de casi 30 metros y una edad estimada de más de 1.200 años.
 

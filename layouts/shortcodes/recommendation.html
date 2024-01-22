@@ -1,0 +1,9 @@
+<div class="recommendation">
+    {{ with .Get "english"}}
+        <strong>Bonus recommendation</strong>:
+    {{ else }}
+        <strong>Recomendación bonus</strong>:
+    {{ end }}
+   
+    {{ .Inner | .Page.RenderString }}
+</div>
