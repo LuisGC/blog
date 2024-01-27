@@ -102,7 +102,17 @@ Un **Tsukubai** es una pila (generalmente de piedra) que se sitúa a la entrada 
 
 {{< image classes="image vertical" src="https://i.imgur.com/YYxp2pb.jpeg" title="Learn only to be content" >}}
 
-Pabellón Dorado
+Desde allí subimos al **Templo budista de Kinkaku-ji** o _Templo del Pabellón de Oro_. El templo realmente se llama **Rokuon-ji** (_Templo del jardín de los ciervos_) pero por algún motivo la gente lo recuerda por su **Pabellón Dorado** o **Kinkaku**. El Pabellón no es visitable por dentro y se entiende, por lo masificado que estaba el sitio habría sido complicado. en cambio, hay un agradable paseo para que puedas fotografiarlo desde muchísimas perspectivas, incluyendo algunas bastante pintorescas desde el otro lado del pequeño lago en el que se encuentra. Mis años de jugar al baloncesto me ayudaron a hacerme hueco a base de juego de piernas (y codos, un poco) para poder tener las mejores fotos posibles en un sitio que resultó de los más concurridos de todo Kyoto.
+
+Del resto del recinto destacaría un par de ejemplos de bonsais tamaño _normal_, árboles que van guiando con andamios para que sus ramas dibujen unas formas muy específicas, y varios puntos en los que animaban a los visitantes a echar monedas en una mezcla de pozo/fuente de los deseos y petanca.
+
+<div class="slider-container">  
+  {{< image classes="image" src="https://i.imgur.com/yV3A0tZ.jpeg" title="Hacía un solazo tan brillante como el Kinkaku" >}}
+  {{< image classes="image" src="https://i.imgur.com/kAn9pxA.jpeg" title="En esta foto se aprecia muy bien el fenghuang o ave fénix dorado que corona el Kinkaku" >}}
+  {{< image classes="image" src="https://i.imgur.com/yMk8MF5.jpeg" title="Técnicas de bonsai aplicadas a escala 1:1" >}}
+  {{< image classes="image" src="https://i.imgur.com/zPMyePu.jpeg" title="En Japón todo adquiere un toque extra de azar y competitividad, incluso los saca-cuartos" >}}
+</div>
+
 Nijo Castle 
 Paseo del filósofo
 
