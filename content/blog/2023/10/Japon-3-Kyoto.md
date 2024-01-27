@@ -90,8 +90,18 @@ No nos quisimos entretener para poder llegar a una hora prudente a uno de los lu
 
 {{< raw-video classes="vertical" src="https://i.imgur.com/cKpR50V.mp4" type="video/mp4" title="Increíble el ritmo al que subía, superior al de muchos visitantes" >}} 
 
-19
-Ryōan-ji 
+El día siguiente fue uno de los días más completos y satisfactorios de todo el viaje. Empezamos muy temprano subiendo en autobús hasta el **Templo budista de Ryōan-ji**, popularmente conocido por su **Karesansui** o jardín de rocas (uno de los más conocidos del mundo). El recinto del templo es precioso. El jardín seco nos impresionó, así como especular sobre su significado (que se desconoce). Las salas con sus paneles decorados con dragones (todos ellos con nombre propio e historia) nos alucinó, cada historia era más épica que la anterior. Pero a mí personalmente me explotó la cabeza con la **Ryoanji Chisoku no Tsukubai**.
+
+<div class="slider-container">  
+  {{< image classes="image" src="https://i.imgur.com/CsWi1Hm.jpeg" title="25 por 10 metros exactos, para albergar quince piedras en cinco grupos" >}}
+  {{< image classes="image" src="https://i.imgur.com/Y2RUx55.jpeg" title="Hic sunt dracones" >}}
+  {{< image classes="image" src="https://i.imgur.com/nu0grG9.jpeg" title="Team Randi, la camiseta perfecta para este día de templos y filósofía" >}}
+</div>
+
+Un **Tsukubai** es una pila (generalmente de piedra) que se sitúa a la entrada de los templos de forma que los visitantes pueden lavarse las manos y enjuagar sus bocas con el fin de purificarse. El que se encuentra en Ryōan-ji tiene forma redondeada y con el cuenco central cuadrado. A cada lado del cuadrado se localizan kanjis que por sí mismos carecen de ningún significado, pero combinados con el cuadrado central de la piedra que equivale a un 口 (_kuchi_) y en la posición correspondiente a cada uno (arriba, derecha, abajo, izquierda) pasan a significar **吾 唯 足 知** o _ware, tada taru (wo) shiru_ que se puede traducir por _lo que tienes es lo que necesitas_, _aprende a estar satisfecho con lo que tienes_, o variantes mucho más poéticas como _uno ya tiene lo que necesita_. Me gustó y me resonó tanto que me habría comprado una réplica a escala real si la hubieran vendido. Como no la vendían me conformé con una réplica metálica pequeña que ya veré dónde pongo para poder cruzarme a menudo con ella.
+
+{{< image classes="image vertical" src="https://i.imgur.com/YYxp2pb.jpeg" title="Learn only to be content" >}}
+
 Pabellón Dorado
 Nijo Castle 
 Paseo del filósofo
