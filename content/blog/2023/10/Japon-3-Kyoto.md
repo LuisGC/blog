@@ -113,7 +113,18 @@ Del resto del recinto destacaría un par de ejemplos de bonsais tamaño _normal_
   {{< image classes="image" src="https://i.imgur.com/zPMyePu.jpeg" title="En Japón todo adquiere un toque extra de azar y competitividad, incluso los saca-cuartos" >}}
 </div>
 
-Nijo Castle 
+Volvimos al centro de nuevo en autobús para detenernos en otra de las paradas obligatorias: el **Castillo Nijō**, construido en el siglo XVII por el clan **Tokugawa**. El recinto de este castillo tiene poco que envidiar al Palacio Imperial de Kyoto: doble foso, altos muros, varias torres de defensa... Lo primero que se visita al entrar al recinto por la puerta Este (**Higashi Otemon**) es el fabuloso **Palacio de Ninomaru**, decorado lujosamente con múltiples grabados en madera, oro y fantásticas pinturas. Como en otros palacios similares, es muy destacable el contraste en la decoración y organización del espacio entre las salas más exteriores, accesibles por los visitantes de clases sociales más bajas, hasta las salas más interiores pensadas no solamente para presumir sino también para intimidar a los visitantes de rangos más altos. Hay hasta 33 habitaciones sobre 800 _tatami_.
+
+Uno de los atractivos principales del Palacio de Ninomaru es que se trata de uno de los pocos sitios que siguen manteniendo los suelos **uguisu-bari** o de _ruiseñor_ en sus corredores. Se trata de una técnica de construcción aplicada por debajo de los suelos, a base de múltiples clavos sueltos que rozan con la presión, de forma que al pisar por muy sutil que seas se genera un sonido como el de un pájaro cantando. Suponía dotar al palacio de una alarma defensiva implacable y eficaz. Fue muy curioso caminar por el palacio junto a muchos otros turistas bajo un constante trinar de ruiseñores.
+
+Los **Jardines de Ninomaru**, el **Palacio de Honmaru**, las ruinas de la torre defensiva de **Tensyukaku**, el **Jardín de Seiryū-en**, ... muchas más cosas que merece la pena ver con calma. No se podía hacer foto en los interiores, pero de los exteriores tengo unas cuantas.
+
+<div class="slider-container">  
+  {{< image classes="image" src="https://i.imgur.com/AZUbsE6.jpeg" title="La Isla Tortuga, en mitad del estanque del Jardín de Ninomaru" >}}
+  {{< image classes="image" src="https://i.imgur.com/8TTmuDe.jpeg" title="Me habría traído una lámpara de piedra como esa, si me entrase en la maleta" >}}
+  {{< image classes="image" src="https://i.imgur.com/Qi5DYHC.jpeg" title="Vistas del Palacio de Honmaru desde lo alto de las ruinas de Tensyukaku" >}}
+</div>
+
 Paseo del filósofo
 
 20
