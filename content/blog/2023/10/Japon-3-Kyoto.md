@@ -44,7 +44,7 @@ Seguimos el recorrido por el templo budista de [**Chion-in**](https://maps.app.g
 
 {{< image classes="image" src="https://i.imgur.com/wzzbSVE.jpg" title="Llegando a la majestuosa puerta del templo de Chion-in" >}}
 
-El recinto del templo se fusiona con el Parque de Maruyama, al que ya nos asomamos la noche anterior pero esta vez recorremos la parte más oriental con su gran estanque y sus [jardines japoneses](https://maps.app.goo.gl/impiQ6d8DLwcWStJ7), rodeados de múltiples variedades de cerezos. Me habría encantado ver este parque en época de Sakura, o incluso en un Otoño más pleno.
+El recinto del templo se fusiona con el Parque de Maruyama, al que ya nos asomamos la noche anterior pero esta vez recorremos la parte más oriental con su gran estanque y sus [jardines japoneses](https://maps.app.goo.gl/impiQ6d8DLwcWStJ7), rodeados de múltiples variedades de cerezos. Me habría encantado ver este parque en época de **hanami** por el sakura, o incluso en un Otoño más pleno.
 
 El recorrido continuaba para recorrer los famosos y pintorescos barrios de **Ninenzaka** y **Sannenzaka**, con el objetivo de terminar por todo lo alto (en todos los sentidos) en el **Templo de Kiyomizu-dera**. Lo que inicialmente era un plan de mañana, acabo siendo un plan de día completo porque tras el tour nos quedamos con las ganas de deshacer despacio esta última parte del recorrido para ver todo con más detalle, cotillear en tiendas, entrar en algún templo más y comer en alguno de los múltiples puestos de comida callejera que había.
 
@@ -125,11 +125,21 @@ Los **Jardines de Ninomaru**, el **Palacio de Honmaru**, las ruinas de la torre 
   {{< image classes="image" src="https://i.imgur.com/Qi5DYHC.jpeg" title="Vistas del Palacio de Honmaru desde lo alto de las ruinas de Tensyukaku" >}}
 </div>
 
-Paseo del filósofo
+Ese día lo rematamos recorriendo por la tarde el **Paseo o Camino del Filósofo**, una agradable ruta a lo largo de un canal de agua rodeado principalmente de cerezos que se llamó así por dos profesores de filosofía que la recorrían a diario para reflexionar mientras hacían algo de ejercicio. Es un recorrido relativamente corto, se puede hacer en media hora larga sin pausas, pero se convierte en un plan más interesante por la cantidad y variedad de los templos que se pueden visitar a lo largo del paseo.
+
+En nuestro caso, destacaría (y recomendaría) empezar por el **Templo budista de Nanzen-ji**, que incluso tiene cerca un acueducto interesante aunque no muy antiguo, y seguir el camino entrando en el **Templo budista de Honen-in**, para terminar en el muy interesante y especial **Templo de Higashiyama Jisho-ji**, con un jardín artístico muy original y unos miradores espectaculares.
+
+<div class="slider-container">  
+  {{< image classes="image" src="https://i.imgur.com/c9vnlXi.jpeg" title="Posando en uno de los muchos puentes que cruzan el canal que recorre el Camino del Filósofo" >}}
+  {{< image classes="image" src="https://i.imgur.com/kpIXuGX.jpeg" title="Jardín seco del Templo de Nanzen-ji, escrupulosamente cuidado" >}}
+  {{< image classes="image" src="https://i.imgur.com/xeCFAbk.jpeg" title="Muy fan de las lámparas de piedra, como estas del Templo de Honen-in" >}}
+  {{< image classes="image" src="https://i.imgur.com/Bkclq3H.jpeg" title="Kogetsudai, en el jardín del Templo de Higashiyama Jisho-ji" >}}
+  {{< image classes="image" src="https://i.imgur.com/mZyEhX4.jpeg" title="Vistas desde uno de los miradores del Templo de Higashiyama Jisho-ji" >}}
+</div>
+
 
 20
 Kyudo Experience
-Nijo Castle
 Tren a Osaka
 
 22
