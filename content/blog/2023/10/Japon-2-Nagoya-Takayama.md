@@ -42,7 +42,11 @@ El primer gran recuerdo es el del [**Castillo de Nagoya**](https://maps.app.goo.
 <b>Chema</b>: Aquí experimentamos por primera vez (de muchas por venir) el requisito de quitarnos los zapatos antes de entrar a este tipo de edificios con suelo de madera o de tatami. Y también comprobamos que, en algunos casos, no les gusta nada que se entre a ellos mascando chicle, probablemente porque suponen dónde podría terminar ese chicle
 </blockquote>
 
-{{< image classes="image" src="https://i.imgur.com/JRJ1Xx5.jpg" title="Uno de los espectaculares salones del Palacio de Honmaru" >}}
+<div class="slider-container">  
+  {{< image classes="image" src="https://i.imgur.com/JRJ1Xx5.jpg" title="La decoración contaba un relato, al estilo de un cómic" >}}
+  {{< image classes="image" src="https://i.imgur.com/CEsqBMu.jpeg" title="La sala de los tigres" >}}
+  {{< image classes="image" src="https://i.imgur.com/UeHtoLj.jpeg" title="Madera tallada y pintada con todo lujo y detalle" >}}
+</div>
 
 Volvimos al centro para pasear y cenar por los alrededores de [**Osu Kannon**](https://maps.app.goo.gl/3ALEV8XxLVLGHftB6), que nos gustó aunque sólo pudimos verlo por fuera y anocheciendo. Tanto este templo budista como la plaza en la que se encuentra son bastante pintorescos y creo que es recomendable pasarse si estás en Nagoya. Habíamos leído además alguna recomendación acerca de las tiendas de la calle Kannon que resultó bastante decepcionante, pero lo que no decepcionó fue la cena. Filtramos en Google Maps los sitios con mejores reseñas y entramos en [**Gojobashi Gen**](https://maps.app.goo.gl/uKmpTj8Z1SeKZ8hA7), un pequeño restaurante que acabó siendo de nuestras mejores cenas de todo el viaje. Cenamos un soba de ternera con curry espectacular, tempura de verduras, croquetas de cangrejo, salmón frito y cuando le pedimos al chef algo para rematar nos sirvió un interesante sashimi de ballena. Todo ello preparado al otro lado de la barra, mientras charlamos con el chef y una camarera muy extrañados de que estuviéramos allí.
 
@@ -58,13 +62,23 @@ Al día siguiente, después de nuestro primer desayuno a la japonesa en el hotel
 <b>Chema</b>: Para mejorar la probabilidad de conseguir entradas el día que se ponen a la venta, es buena idea tener en cuenta la diferencia horaria, aunque pueda implicar hacer la compra de madrugada
 </blockquote>
 
-{{< image classes="image" src="https://i.imgur.com/5rtXO6y.jpg" title="De charla con mi amigo Totoro" >}}
-
 El Ghibli's Grand Warehouse es un pabellón enorme y techado, en el que hay varios edificios, exposiciones, muestras e incluso una sala de cine. Es un pequeño parque temático pero sin atracciones, consiste en pasear, hacer alguna que otra cola, para hacer cientos de fotos mientras evitas que se desencaje la mandibula. Mires donde mires encuentras todo tipo de objetos y detalles rememorando todas las películas de forma extremadamente original y cuidadosa. En la sala de cine se exponen cortos del Studio que sólo pueden verse allí o en el **Museo Ghibli** de Tokyo. Sólo la tienda ya merecería la visita, tuvimos que hacer verdaderos esfuerzos para no dejarnos un dineral.
 
-{{< image classes="image" src="https://i.imgur.com/7CaCMdp.jpg" title="Bajando del Gatobús" >}}
+<div class="slider-container">  
+  {{< image classes="image" src="https://i.imgur.com/5rtXO6y.jpg" title="De charla con mi amigo Totoro" >}}
+  {{< image classes="image" src="https://i.imgur.com/7CaCMdp.jpg" title="Bajando del Gatobús" >}}
+  {{< image classes="image" src="https://i.imgur.com/XIAdIDX.jpeg" title="Viajando en tren con Sin Rostro" >}}
+  {{< image classes="image" src="https://i.imgur.com/oiUSLOg.jpeg" title="Ayudando a Pazu a rescatar a Sheeta" >}}
+  {{< image classes="image" src="https://i.imgur.com/yXO9p5e.jpeg" title="Con Ponyo en pleno tsunami para buscar a Sōsuke" >}}
+</div>
 
 El resto del parque conmemorativo de la Expo está muy cuidado y también merece un paseo, aunque no consigáis entradas para las otras áreas. Cerca de la localización del bosque de Dondoko hay un jardín japonés especialmente cuidado con una recreación de la casa de _Mei_ y _Satsuki_ de **Mi Vecino Totoro**.
+
+<div class="slider-container">  
+  {{< image classes="image" src="https://i.imgur.com/GJZmvrh.jpeg" title="Entrando al Bosque de Dondoko, en el Parque Ghibli" >}}
+  {{< image classes="image" src="https://i.imgur.com/UH6iOvI.jpeg" title="La Casa de Mei y Satsuki, envuelta en el bosque de Dondoko" >}}
+  {{< image classes="image" src="https://i.imgur.com/2THVuc3.jpeg" title="Un trozo del enorme jardín japonés, que hasta tenía niebla artificial" >}}
+</div>
 
 También podéis ir al [Museo de la Expo de 2005](https://maps.app.goo.gl/YQ2LNKUE8315oASw7) que recomendaban bastante, nosotros no pudimos por falta de tiempo pero pilla bastante a mano y puede ser un buen complemento.
 
@@ -104,7 +118,11 @@ Para nuestro festín elegimos [**Hidagyu Maruaki**](https://maps.app.goo.gl/M34Q
 
 No todo es comer y beber. Si hay algo que recomiendo encarecidamente es el [**Higashiyama walking course**](https://maps.app.goo.gl/sSGLc1gy1p1nN9BB6), un paseo super interesante muy cerca del centro que recorre un montón de templos a lo largo de las colinas boscosas orientales de Takayama. En esta zona hay una concentración enorme de templos **budistas** y **sintoístas** (que por su filosofía se fusionan bastante con el propio espacio natural), y en algún momento alguien tuvo la genial idea de hacer una ruta (perfectamente indicada en ambos sentidos) que los recorre todos. Siendo Octubre nos anocheció muy pronto y no pudimos completar la ruta, pero el trozo que hicimos (casi todo, realmente) nos pareció espectacular y al estar elevado sobre el resto del pueblo también tiene unas vistas muy interesantes.
 
-{{< image classes="image" src="https://i.imgur.com/k2L8SCr.jpg" title="Parte de la ruta, en la que se ve un cementerio fusionado con el bosque" >}}
+<div class="slider-container">  
+  {{< image classes="image" src="https://i.imgur.com/k2L8SCr.jpg" title="Parte de la ruta, en la que se ve un cementerio fusionado con el bosque" >}}
+  {{< image classes="image" src="https://i.imgur.com/QekvfkG.jpeg" title="En la entrada al Templo Unryu, se aprecia que vamos ganando altura" >}}
+  {{< image classes="image" src="https://i.imgur.com/MKWgL8U.jpeg" title="Con la Torre de la Campana del Templo Koryuzan Sogenji" >}}
+</div>
 
 Si tenéis tiempo hay más cosas interesantes para ver: un par de casas tradicionales ([**Kusakabe**](https://maps.app.goo.gl/tiA7ZksCsJoHDdqJ8) y [**Yoshijima**](https://maps.app.goo.gl/RqfuxYv4ToEBpiQh7)) muy bien preservadas que se pueden visitar, el [**Museo Shōwa-kan**](https://maps.app.goo.gl/jnbxC6UsSxaVmF2z9) o el [**Museo Retro de Hida Takayama**](https://maps.app.goo.gl/aFv8T91Xs2Xpjd876) (dedicados ambos a objetos y memorabilia retro), y especialmente el [**Museo Matsuri Yatai Kaikan**](https://maps.app.goo.gl/k2ocTto4LNsgrruP6), en el que se exponen un montón de carrozas que utilizan allí en ciertos festivales. Algunas de estas cosas las vimos y otras las vimos por fuera por falta de tiempo. Está todo cerca y se puede ver en un paseo.
 
@@ -126,7 +144,10 @@ Desde arriba hay unas vistas espectaculares de todo el valle, con el poblado tra
 
 El conjunto es espectacular, tanto la parte de poblado como el [**Museo Gassho-zukuri Minkaen**](https://maps.app.goo.gl/zmGzbvny1Kusv8tXA) que es un recinto al aire libre con una orientación más didáctica sobre la historia y las técnicas detrás de construcción de este estilo tan peculiar. En el poblado, se pueden visitar varias de las casas mejor preservadas (las de [**Kanda**](https://maps.app.goo.gl/YDvf7JLJ8BqqxDT49) y [**Wada**](https://maps.app.goo.gl/5SMTbyUSwr4MFc2i9) son las más recomendadas) y otras sirven como alojamiento, tienda o restaurante. El paseo merece mucho la pena.
 
-{{< image classes="image" src="https://i.imgur.com/VQZU5SB.jpg" title="Con una de las casas más pintorescas del Museo Gassho-zukuri Minkaen" >}}
+<div class="slider-container">  
+  {{< image classes="image" src="https://i.imgur.com/VQZU5SB.jpg" title="Con una de las casas más pintorescas del Museo Gassho-zukuri Minkaen" >}}
+  {{< image classes="image" src="https://i.imgur.com/XIV3nH1.jpeg" title="La casa Kanda, una de las más grandes y mejor cuidadas" >}}
+</div>
 
 Hicimos coincidir nuestra visita con el [**Doburoku Matsuri**](https://www.vill.shirakawa.lg.jp/2223.htm), el festival anual del sake sin filtrar al que no podíamos faltar. Esto tuvo la parte mala de que varios sitios estaban cerrados, y quizá había más visitantes de lo normal, pero la parte buena de que pudimos disfrutar de un festival muy especial que poca gente (fuera de Japón) conoce. El doburoku es una bebida alcohólica fermentada a partir de arroz, bastante espeso (incluso tiene _tropezones_) y de un color blanco lechoso. Se puede ver como un precursor o una primera etapa de lo que en occidente llamamos sake (en Japón, cualquier bebida alcohólica es sake). A partir de ahí se va filtrando hasta ser la bebida transparente que aquí conocemos. Cuanto más filtrado, más acabado y más caro. En base a esto hay categorías de sake: el _junmai-shu_ tiene al menos un 30% del arroz pulido; el _ginjo-shu_, con un porcentaje de arroz pulido entre el 30 y el 50%; y el _daiginjo-shu_ con un 50-70%.
 
