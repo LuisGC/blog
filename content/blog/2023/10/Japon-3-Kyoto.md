@@ -137,11 +137,29 @@ En nuestro caso, destacaría (y recomendaría) empezar por el **Templo budista d
   {{< image classes="image" src="https://i.imgur.com/mZyEhX4.jpeg" title="Vistas desde uno de los miradores del Templo de Higashiyama Jisho-ji" >}}
 </div>
 
+{{< recommendation >}}
+Después de tanto caminar, ese día los dos teníamos antojo de sushi así que buscamos un buen sitio en una de las zonas nocturnas más populares. Tuvimos suerte porque encontramos uno con una muy buena relación calidad precio, [**Sugidama Kyoto Kawaramachi**](https://maps.app.goo.gl/8QztCR6eW5AadGGw6). Probamos bastantes variedades de sashimi, un montón de nigiris premium, un gunkan roll de erizo de mar, una montaña enorme de atún picado relleno de atún y cubierto con atún y huevas de salmón, verduras en tempura y un original postre que era como un mochi transparente. Todo por unos seis mil yenes por persona.
+{{< /recommendation >}}
 
-20
-Kyudo Experience
-Tren a Osaka
+Otra cosa que nos coincidió con el viaje, y cuadramos para asistir, es el Desfile **Jidai Matsuri** o _Festival de las Épocas_ o _las Edades_. Se celebra una vez al año (el 22 de Octubre) y es de los festivales más famosos de Kyoto. Se trata de un desfile de recreación histórica en la que más de 2000 voluntarios y artistas pasan vestidos con trajes auténticos, elaborados con materiales y técnicas originales, representando períodos y personajes de la historia feudal de Japón. Además muchos de ellos van cantando o tocando instrumentos tradicionales, con lo que el desfile es bastante animado.
 
-22
-Desfile Jidai Matsuri
+El desfile colmó (y en mi caso superó) las expectativas. Llegamos de los primeros y pudimos coger un sitio fantástico para verlo cómodamente en primera fila. Fueron varias horas de ver pasar gente a pie, a caballo o en carruaje con kimonos, trajes, armaduras y en general todo tipo de vestimentas. Debo decir que muchísimos de ellos también portaban arcos ;-) Sólo del desfile hice más de 200 fotos, os dejo algunas de las más representativas.
 
+<div class="slider-container">  
+  {{< image classes="image" src="https://i.imgur.com/2w6N4HA.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image" src="https://i.imgur.com/AYJeQPr.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image" src="https://i.imgur.com/xIhefe6.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image" src="https://i.imgur.com/b8MqoOy.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image" src="https://i.imgur.com/eC2s3ht.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image" src="https://i.imgur.com/C0qTKWR.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image" src="https://i.imgur.com/K7Z0R13.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image" src="https://i.imgur.com/72ESyq1.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
+</div>
+
+Tengo grabado todo el desfile con la Insta 360, pero no tengo claro cuándo tendré tiempo de editar todo ese material, por ahora os dejo también un vídeo corto que hice y publiqué allí mismo con lo poco que grabé con el teléfono móvil.
+
+{{< youtube suHbYp51Rxk >}}
+
+Aquí acaba la crónica de lo más destacado de nuestro paso por Kyoto. Estoy omitiendo a propósito nuestra participación en un taller de introducción al Kyudo (arte marcial de tiro con arco), que en principio relataré en [**aljaba.net**](https://blog.aljaba.net/) (a petición de Pablo) para una audiencia más especializada.
+
+¡No se marchen! ¡Aún hay más!
