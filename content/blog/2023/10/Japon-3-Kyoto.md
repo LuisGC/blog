@@ -100,6 +100,23 @@ No nos quisimos entretener para poder llegar a una hora prudente a uno de los lu
 
 {{< raw-video classes="vertical" src="https://i.imgur.com/cKpR50V.mp4" type="video/mp4" title="Increíble el ritmo al que subía, superior al de muchos visitantes" >}} 
 
+Recorrer estos caminos y escaleras casi cubiertos de torii es una experiencia difícil de describir. A medida que asciendes por la montaña la densidad de turistas desciente y la sensación de asombro se amplifica. No es un ascenso duro, pero conviene igulamente tomarse el paseo con calma para disfrutar de cada uno de los altares que encuentras a tu paso. En algunas de las fotos veréis las puertecitas torii de varios tamaños (a precios algo disparatados) que se vendían para que la gente simplemente luego las amontonase de cualquier manera. Hay tantas que es seguramente imposible colocarlas mejor.
+
+<div class="slider-container">  
+  {{< image classes="image" src="https://i.imgur.com/OHSrDOB.jpeg" title="Uno de los tramos en los que apenas hay espacio entre las puertas" >}}
+  {{< image classes="image" src="https://i.imgur.com/lc21TFI.jpeg" title="Acceso a un nuevo tunel de puertas de camino a la cima" >}}
+  {{< image classes="image" src="https://i.imgur.com/BOfNeu7.jpeg" title="En uno de los impresionantes cementerios que hay en el recinto" >}}
+  {{< image classes="image" src="https://i.imgur.com/EPsNruP.jpeg" title="El paraje es impresionante, con o sin las mil puertas" >}}
+  {{< image classes="image" src="https://i.imgur.com/xuU4Uwg.jpeg" title="De cuando en cuando hay farolillos, debe ser increíble recorrer todo el camino de noche" >}}
+  {{< image classes="image" src="https://i.imgur.com/8boMbBR.jpeg" title="Selfie para celebrar nuestra llegada a la cima" >}}
+</div>
+
+Bajamos del santuario ya anocheciendo y nos quisimos acercar a la zona de Fushimi para cenar, el barrio de las destilerías de sake. Ya sabíamos que no estaría abierto el [**Museo del sake Gekkeikan Okura**](https://maps.app.goo.gl/PcpMSaa5Tx8ewoHH8) ni podríamos hacer el paseo por el canal [**Fushimi Jokkokubune**](https://maps.app.goo.gl/65vKX3s96MC2wJJ4A) pero fuimos igualmente para tomar algo en una _sakería_ y cenar por la zona.
+
+{{< recommendation >}}
+Elegimos uno de los restaurantes más tradicionales de toda la zona, [**Tsuki no kurabito**](https://maps.app.goo.gl/gvG5Gc18FQ4z7Emu5), y salimos encantados. Además de una carta de sake brutal, su especialidad era la anguila así que aceptamos el desafío y todos los platos que pedimos eran distintas elaboraciones de anguila: una especie de tortilla francesa rellena de anguila, anguila al carbón macerada con sake Gekkeikan, y varios trozos de nigiri de anguila a la brasa. Todo eso (y abundante sake) por menos de 4 mil yenes por persona.
+{{< / recommendation >}}
+
 ### Ryōan-ji
 
 El día siguiente fue uno de los días más completos y satisfactorios de todo el viaje. Empezamos muy temprano subiendo en autobús hasta el [**Templo budista de Ryōan-ji**](https://maps.app.goo.gl/vnMZs8bMVKcMcw4Q8), popularmente conocido por su **_Karesansui_** o jardín de rocas (uno de los más conocidos del mundo). El recinto del templo es precioso. El jardín seco nos impresionó, así como especular sobre su significado (que se desconoce). Las salas con sus paneles decorados con dragones (todos ellos con nombre propio e historia) nos alucinó, cada historia era más épica que la anterior. Pero a mí personalmente me explotó la cabeza con la **Ryoanji Chisoku no Tsukubai**.
