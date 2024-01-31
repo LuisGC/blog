@@ -2,7 +2,7 @@
 author = "LuisGC"
 title = "Japón (III): Kyoto"
 date = "2023-10-22"
-type = "page"
+type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "holidays", "history"]
 status = "published"
