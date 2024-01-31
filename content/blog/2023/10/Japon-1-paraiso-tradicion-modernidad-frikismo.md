@@ -19,7 +19,7 @@ Creo que habría disfrutado del viaje en solitario en varias dimensiones, pero s
 
 He decidido dividir la crónica en varios artículos, que irán siguiendo el itinerario que hicimos. Incluiré aquí los enlaces a medida que vaya escribiendo los mismos:
 * [Llegada a Japón, Nagoya y Takayama (5 días)](/blog/2023/10/japon-2-nagoya-takayama/)
-* Kyoto (6 días)
+* [Kyoto](/blog/2023/10/japon-3-kyoto/) (6 días)
 * Osaka, Nara, Hiroshima y Miyajima (7 días)
 * Tokyo (6 días)
 * Alrededores de Tokyo y regreso (2 días)
