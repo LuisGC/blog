@@ -48,6 +48,11 @@ I have visited **22 out of 193** countries (among those [recognized by United Na
 
 # In chronological order
 
+## 2024
+
+* <span>MAR</span> <p>Guipúzcoa, Spain</p>
+  - San Sebastián, Hondarribia, Azcoitia, Zarautz, Zumaia
+
 ## 2023
 
 * <span>NOV</span> <p>Granada (Spain)</p>
