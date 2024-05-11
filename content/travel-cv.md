@@ -50,6 +50,8 @@ I have visited **22 out of 193** countries (among those [recognized by United Na
 
 ## 2024
 
+* <span>MAY</span> <p>IV Mereth de Ithilien - Barcelona (Spain)</p>
+* <span>APR</span> <p>Zaragoza (Spain)</p>
 * <span>MAR</span> <p>Guipúzcoa, Spain</p>
   - San Sebastián, Hondarribia, Azcoitia, Zarautz, Zumaia
 
@@ -60,7 +62,7 @@ I have visited **22 out of 193** countries (among those [recognized by United Na
   - Nagoya, Takayama, Shirakawa-go, Kyoto, Osaka, Hiroshima, Itsukushima, Tokyo
 * <span>SEP</span> <p>Isla Canela in Ayamonte (Spain)</p>
 * <span>MAY</span> <p>Germany</p>
-  - Black Forest
+  - III Mereth de Ithilien - Black Forest
 * <span>APR</span> <p>Germany</p>
   - Berlin, Potsdam
 * <span>FEB</span> <p>Netherlands</p>
