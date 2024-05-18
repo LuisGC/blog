@@ -1,7 +1,7 @@
 +++
 author = "LuisGC"
-title = "Japón (IV): Osaka, Nara, Hiroshima y Miyajima"
-date = "2023-10-28"
+title = "Japón (IV): Osaka, Parque Universal y Nara"
+date = "2023-10-24"
 type = "page"
 categories = ["post"]
 tags = ["personal", "tourism", "holidays", "history"]
@@ -13,12 +13,10 @@ status = "published"
   stretch = ""
 +++
 
-_(tercer artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_
+_(cuarto artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_
 * [Japón (I): paraíso de la tradición, la modernidad y el frikismo](/blog/2023/10/japon-1-paraiso-tradicion-modernidad-frikismo/)
 * [Japón (II): Llegada a Japón, Nagoya y Takayama](/blog/2023/10/japon-2-nagoya-takayama/)
 * [Japón (III): Kyoto](/blog/2023/10/japon-3-kyoto/)
-
-Seguimos la crónica del viaje con varios destinos a los que dedicamos más o menos una semana en total.
 
 ### Osaka
 
@@ -84,10 +82,11 @@ Hiroshima Highlights
 27
 Hiking en Miyajima
 
-
+<!--
 <div class="slider-container">  
   {{< image classes="image slider-item" src="" title="" >}}
   {{< image classes="image slider-item" src="" title="" >}}
   {{< image classes="image slider-item" src="" title="" >}}
   {{< image classes="image slider-item" src="" title="" >}}
 </div>  
+>
