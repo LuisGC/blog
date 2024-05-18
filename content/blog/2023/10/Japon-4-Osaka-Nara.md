@@ -67,21 +67,6 @@ Hay otras zonas interesantes en Osaka si vais con tiempo: **Nipponbashi Denden T
 23
 Nara
 
-### Himeji
-
-24
-Himeji Castle
-
-### Hiroshima
-
-25
-Hiroshima Highlights
-
-### Miyajima
-
-27
-Hiking en Miyajima
-
 <!--
 <div class="slider-container">  
   {{< image classes="image slider-item" src="" title="" >}}
