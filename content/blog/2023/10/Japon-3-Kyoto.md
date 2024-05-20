@@ -35,9 +35,9 @@ El tour consistía en un recorrido bastante agradable por el barrio de Gion, par
 Tras asomarnos un poco al [**Parque de Maruyama**](https://maps.app.goo.gl/PSYiRUxBrX5rz4oG6) para ver la pagoda del **Santuario de Yasaka**, el guía nos llevó a recorrer los callejones del **hanamachi** de **Gion Kōbu**. Un hanamachi es un área en la que las geikos siguen operando a día de hoy, y Gion Kōbu es de los pocos que siguen quedando (casi todos los que quedan están en Kyoto). En los hanamachi se concentran gran cantidad de casas de té (donde los grandes empresarios y políticos se reunen para cerrar negocios y acuerdos) y **_Okiyas_** (alojamientos de varias maikos o geishas). Un paseo muy recomendable por la noche, con o sin guía.
 
 <div class="slider-container">  
-  {{< image classes="image" src="https://i.imgur.com/lWFmoha.jpg" title="Una de las casas de té más exclusivas en la calle Hanamikoji, en Gion Kōbu" >}}
-  {{< image classes="slider-item" src="https://i.imgur.com/iBs3Y9v.jpg" title="Buden (escenario) en el Parque de Maruyama" >}}
-  {{< image classes="slider-item" src="https://i.imgur.com/M7heyki.jpg" title="Issen-Yoshoku, una variante del Okonomiyaki que se puede comer en Kyoto" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/lWFmoha.jpg" title="Una de las casas de té más exclusivas en la calle Hanamikoji, en Gion Kōbu" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/iBs3Y9v.jpg" title="Buden (escenario) en el Parque de Maruyama" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/M7heyki.jpg" title="Issen-Yoshoku, una variante del Okonomiyaki que se puede comer en Kyoto" >}}
 </div>  
 
 <blockquote>
@@ -107,12 +107,12 @@ No nos quisimos entretener para poder llegar a una hora prudente a uno de los lu
 Recorrer estos caminos y escaleras casi cubiertos de torii es una experiencia difícil de describir. A medida que asciendes por la montaña la densidad de turistas desciente y la sensación de asombro se amplifica. No es un ascenso duro, pero conviene igulamente tomarse el paseo con calma para disfrutar de cada uno de los altares que encuentras a tu paso. En algunas de las fotos veréis las puertecitas torii de varios tamaños (a precios algo disparatados) que se vendían para que la gente simplemente luego las amontonase de cualquier manera. Hay tantas que es seguramente imposible colocarlas mejor.
 
 <div class="slider-container">  
-  {{< image classes="image" src="https://i.imgur.com/OHSrDOB.jpeg" title="Uno de los tramos en los que apenas hay espacio entre las puertas" >}}
-  {{< image classes="image" src="https://i.imgur.com/lc21TFI.jpeg" title="Acceso a un nuevo tunel de puertas de camino a la cima" >}}
-  {{< image classes="image" src="https://i.imgur.com/BOfNeu7.jpeg" title="En uno de los impresionantes cementerios que hay en el recinto" >}}
-  {{< image classes="image" src="https://i.imgur.com/EPsNruP.jpeg" title="El paraje es impresionante, con o sin las mil puertas" >}}
-  {{< image classes="image" src="https://i.imgur.com/xuU4Uwg.jpeg" title="De cuando en cuando hay farolillos, debe ser increíble recorrer todo el camino de noche" >}}
-  {{< image classes="image" src="https://i.imgur.com/8boMbBR.jpeg" title="Selfie para celebrar nuestra llegada a la cima" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/OHSrDOB.jpeg" title="Uno de los tramos en los que apenas hay espacio entre las puertas" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/lc21TFI.jpeg" title="Acceso a un nuevo tunel de puertas de camino a la cima" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/BOfNeu7.jpeg" title="En uno de los impresionantes cementerios que hay en el recinto" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/EPsNruP.jpeg" title="El paraje es impresionante, con o sin las mil puertas" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/xuU4Uwg.jpeg" title="De cuando en cuando hay farolillos, debe ser increíble recorrer todo el camino de noche" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/8boMbBR.jpeg" title="Selfie para celebrar nuestra llegada a la cima" >}}
 </div>
 
 <blockquote>
@@ -130,9 +130,9 @@ Elegimos uno de los restaurantes más tradicionales de toda la zona, [**Tsuki no
 El día siguiente fue uno de los días más completos y satisfactorios de todo el viaje. Empezamos muy temprano subiendo en autobús hasta el [**Templo budista de Ryōan-ji**](https://maps.app.goo.gl/vnMZs8bMVKcMcw4Q8), popularmente conocido por su **_Karesansui_** o jardín de rocas (uno de los más conocidos del mundo). El recinto del templo es precioso. El jardín seco nos impresionó, así como especular sobre su significado (que se desconoce). Las salas con sus paneles decorados con dragones (todos ellos con nombre propio e historia) nos alucinó, cada historia era más épica que la anterior. Pero a mí personalmente me explotó la cabeza con la **Ryoanji Chisoku no Tsukubai**.
 
 <div class="slider-container">  
-  {{< image classes="image" src="https://i.imgur.com/CsWi1Hm.jpeg" title="25 por 10 metros exactos, para albergar quince piedras en cinco grupos" >}}
-  {{< image classes="image" src="https://i.imgur.com/Y2RUx55.jpeg" title="Hic sunt dracones" >}}
-  {{< image classes="image" src="https://i.imgur.com/nu0grG9.jpeg" title="Team Randi, la camiseta perfecta para este día de templos y filosofía" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/CsWi1Hm.jpeg" title="25 por 10 metros exactos, para albergar quince piedras en cinco grupos" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/Y2RUx55.jpeg" title="Hic sunt dracones" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/nu0grG9.jpeg" title="Team Randi, la camiseta perfecta para este día de templos y filosofía" >}}
 </div>
 
 Un **_Tsukubai_** es una pila (generalmente de piedra) que se sitúa a la entrada de los templos de forma que los visitantes pueden lavarse las manos y enjuagar sus bocas con el fin de purificarse. El que se encuentra en Ryōan-ji tiene forma redondeada y con el cuenco central cuadrado. A cada lado del cuadrado se localizan kanjis que por sí mismos carecen de ningún significado, pero combinados con el cuadrado central de la piedra que equivale a un 口 (_kuchi_) y en la posición correspondiente a cada uno (arriba, derecha, abajo, izquierda) pasan a significar **吾 唯 足 知** o _ware, tada taru (wo) shiru_ que se puede traducir por _lo que tienes es lo que necesitas_, _aprende a estar satisfecho con lo que tienes_, o variantes mucho más poéticas como _uno ya tiene lo que necesita_. Me gustó y me resonó tanto que me habría comprado una réplica a escala real si la hubieran vendido (para tener lo que uno necesita). Como no la vendían me conformé con una réplica metálica pequeña que ya veré dónde pongo para poder cruzarme a menudo con ella.
@@ -146,10 +146,10 @@ Desde allí subimos al también budista [**Templo de Kinkaku-ji**](https://maps.
 Del resto del recinto destacaría un par de ejemplos de bonsais tamaño _normal_, árboles que van guiando con andamios para que sus ramas dibujen unas formas muy específicas, y varios puntos en los que animaban a los visitantes a echar monedas en una mezcla de pozo/fuente de los deseos y petanca.
 
 <div class="slider-container">  
-  {{< image classes="image" src="https://i.imgur.com/yV3A0tZ.jpeg" title="Hacía un solazo tan brillante como el Kinkaku" >}}
-  {{< image classes="image" src="https://i.imgur.com/kAn9pxA.jpeg" title="En esta foto se aprecia muy bien el fenghuang o ave fénix dorado que corona el Kinkaku" >}}
-  {{< image classes="image" src="https://i.imgur.com/yMk8MF5.jpeg" title="Técnicas de bonsai aplicadas a escala 1:1" >}}
-  {{< image classes="image" src="https://i.imgur.com/zPMyePu.jpeg" title="En Japón todo adquiere un toque extra de azar y competitividad, incluso los saca-cuartos" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/yV3A0tZ.jpeg" title="Hacía un solazo tan brillante como el Kinkaku" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/kAn9pxA.jpeg" title="En esta foto se aprecia muy bien el fenghuang o ave fénix dorado que corona el Kinkaku" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/yMk8MF5.jpeg" title="Técnicas de bonsai aplicadas a escala 1:1" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/zPMyePu.jpeg" title="En Japón todo adquiere un toque extra de azar y competitividad, incluso los saca-cuartos" >}}
 </div>
 
 ### Castillo Nijō
@@ -161,9 +161,9 @@ Uno de los atractivos principales del Palacio de Ninomaru es que se trata de uno
 Los **Jardines de Ninomaru**, el **Palacio de Honmaru**, las ruinas de la torre defensiva de **Tensyukaku**, el **Jardín de Seiryū-en**, ... muchas más cosas que merece la pena ver con calma. No se podía hacer foto en los interiores, pero de los exteriores tengo unas cuantas.
 
 <div class="slider-container">  
-  {{< image classes="image" src="https://i.imgur.com/AZUbsE6.jpeg" title="La Isla Tortuga, en mitad del estanque del Jardín de Ninomaru" >}}
-  {{< image classes="image" src="https://i.imgur.com/8TTmuDe.jpeg" title="Me habría traído una lámpara de piedra como esa, si me entrase en la maleta" >}}
-  {{< image classes="image" src="https://i.imgur.com/Qi5DYHC.jpeg" title="Vistas del Palacio de Honmaru desde lo alto de las ruinas de Tensyukaku" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/AZUbsE6.jpeg" title="La Isla Tortuga, en mitad del estanque del Jardín de Ninomaru" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/8TTmuDe.jpeg" title="Me habría traído una lámpara de piedra como esa, si me entrase en la maleta" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/Qi5DYHC.jpeg" title="Vistas del Palacio de Honmaru desde lo alto de las ruinas de Tensyukaku" >}}
 </div>
 
 ### Paseo del Filósofo
@@ -173,11 +173,11 @@ Ese día lo rematamos recorriendo por la tarde el [**Paseo o Camino del Filósof
 En nuestro caso, destacaría (y recomendaría) empezar por el [**Templo budista de Nanzen-ji**](https://maps.app.goo.gl/W2JednBGBvwTGo2fA), que incluso tiene cerca un acueducto interesante aunque no muy antiguo, y seguir el camino entrando en el [**Templo budista de Honen-in**](https://maps.app.goo.gl/7XqDkv1i8asEpGGe7), para terminar en el muy interesante y especial [**Templo de Higashiyama Jisho-ji**](https://maps.app.goo.gl/i6zweMmPaL8wNLjB6), con un jardín artístico muy original y unos miradores espectaculares.
 
 <div class="slider-container">  
-  {{< image classes="image" src="https://i.imgur.com/c9vnlXi.jpeg" title="Posando en uno de los muchos puentes que cruzan el canal que recorre el Camino del Filósofo" >}}
-  {{< image classes="image" src="https://i.imgur.com/kpIXuGX.jpeg" title="Jardín seco del Templo de Nanzen-ji, escrupulosamente cuidado" >}}
-  {{< image classes="image" src="https://i.imgur.com/xeCFAbk.jpeg" title="Muy fan de las lámparas de piedra, como estas del Templo de Honen-in" >}}
-  {{< image classes="image" src="https://i.imgur.com/Bkclq3H.jpeg" title="Kogetsudai, en el jardín del Templo de Higashiyama Jisho-ji" >}}
-  {{< image classes="image" src="https://i.imgur.com/mZyEhX4.jpeg" title="Vistas desde uno de los miradores del Templo de Higashiyama Jisho-ji" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/c9vnlXi.jpeg" title="Posando en uno de los muchos puentes que cruzan el canal que recorre el Camino del Filósofo" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/kpIXuGX.jpeg" title="Jardín seco del Templo de Nanzen-ji, escrupulosamente cuidado" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/xeCFAbk.jpeg" title="Muy fan de las lámparas de piedra, como estas del Templo de Honen-in" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/Bkclq3H.jpeg" title="Kogetsudai, en el jardín del Templo de Higashiyama Jisho-ji" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/mZyEhX4.jpeg" title="Vistas desde uno de los miradores del Templo de Higashiyama Jisho-ji" >}}
 </div>
 
 <blockquote>
@@ -195,14 +195,14 @@ Otra cosa que nos coincidió con el viaje, y cuadramos para asistir, es el Desfi
 El desfile colmó (y en mi caso superó) las expectativas. Llegamos de los primeros y pudimos coger un sitio fantástico para verlo cómodamente en primera fila. Fueron varias horas de ver pasar gente a pie, a caballo o en carruaje con kimonos, trajes, armaduras y en general todo tipo de vestimentas. Debo decir que muchísimos de ellos también portaban arcos ;-) Sólo del desfile hice más de 200 fotos, os dejo algunas de las más representativas.
 
 <div class="slider-container">  
-  {{< image classes="image" src="https://i.imgur.com/2w6N4HA.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
-  {{< image classes="image" src="https://i.imgur.com/AYJeQPr.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
-  {{< image classes="image" src="https://i.imgur.com/xIhefe6.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
-  {{< image classes="image" src="https://i.imgur.com/b8MqoOy.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
-  {{< image classes="image" src="https://i.imgur.com/eC2s3ht.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
-  {{< image classes="image" src="https://i.imgur.com/C0qTKWR.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
-  {{< image classes="image" src="https://i.imgur.com/K7Z0R13.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
-  {{< image classes="image" src="https://i.imgur.com/72ESyq1.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/2w6N4HA.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/AYJeQPr.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/xIhefe6.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/b8MqoOy.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/eC2s3ht.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/C0qTKWR.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/K7Z0R13.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/72ESyq1.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
 </div>
 
 Tengo grabado todo el desfile con la Insta 360, pero no tengo claro cuándo tendré tiempo de editar todo ese material, por ahora os dejo también un vídeo corto que hice y publiqué allí mismo con lo poco que grabé con el teléfono móvil.

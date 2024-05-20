@@ -1,6 +1,6 @@
 +++
 author = "LuisGC"
-title = "Japón (IV): Osaka, Nara, Hiroshima y Miyajima"
+title = "Japón (V): Himeji, Hiroshima y Miyajima"
 date = "2023-10-28"
 type = "page"
 categories = ["post"]
@@ -16,36 +16,27 @@ status = "published"
 _(tercer artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_
 * [Japón (I): paraíso de la tradición, la modernidad y el frikismo](/blog/2023/10/japon-1-paraiso-tradicion-modernidad-frikismo/)
 * [Japón (II): Llegada a Japón, Nagoya y Takayama](/blog/2023/10/japon-2-nagoya-takayama/)
-* [Japón (III): Kyoto](/blog/2023/10/japon-3-kyoto/)
 
-
-### OSAKA
-
-21
-Osaka Castle
-Shinsekai
-Isshin-ji Temple
-Nipponbashi Denden Town
-
-### NARA
-
-23
-Nara
-
-### HIMEJI
+### Himeji
 
 24
 Himeji Castle
 
-### HIROSHIMA
+### Hiroshima
 
 25
 Hiroshima Highlights
 
-26
-Parque Universal
-
-### MIYAYIMA
+### Miyajima
 
 27
-Hiking en Miyayima
+Hiking en Miyajima
+
+<!--
+<div class="slider-container">  
+  {{< image classes="image slider-item" src="" title="" >}}
+  {{< image classes="image slider-item" src="" title="" >}}
+  {{< image classes="image slider-item" src="" title="" >}}
+  {{< image classes="image slider-item" src="" title="" >}}
+</div>  
+>
