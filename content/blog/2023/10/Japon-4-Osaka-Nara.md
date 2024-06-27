@@ -20,7 +20,7 @@ _(cuarto artículo sobre mi viaje a Japón, en los siguientes enlaces podéis le
 
 ### Osaka
 
-**Osaka** fue una de las ciudades que más disfrutamos, más allá de la parte cultural y monumental. Es conocida por su gastronomía y su ocio nocturno, y no nos defraudó aunque seguramente no fue en el lugar en el que mejor comimos. Estuvimos más días de lo normal, pero es cierto que uno de los días volvimos a Kyoto (está al lado), otro día desde allí fuimos a Nara (hay gente que visita Nara desde Kyoto, pero está casi mejor comunicado con Osaka) y otro día lo dedicamos al Parque Universal.
+**Osaka** fue una de las ciudades que más disfrutamos, más allá de la parte cultural y monumental. Es conocida por su gastronomía y su ocio nocturno, y no nos defraudó aunque seguramente no fue en el lugar en el que mejor comimos. Estuvimos más días de lo normal, pero es cierto que uno de los días volvimos a Kyoto (está al lado), otro día desde allí fuimos a Nara y otro día completo más lo dedicamos al Parque Universal.
 
 Debo decir que lo primero que hice al llegar fue cortarme el pelo en una barbería pequeña que se encontraba en los pasillos de una estación de metro. Las fotos que veréis a partir de este momento reflejan ese corte _estilo Osaka_.
 
@@ -96,14 +96,28 @@ En resumen, un dineral que sólo compensa si tienes mucha pasión por el univers
 
 ### Nara
 
-23
-Nara
+Como decía más arriba, nosotros decidimos ir a **Nara** desde Osaka en lugar de ir desde Kyoto. La gente relaciona Nara con Kyoto por su pasado imperial, pero realmente está mejor comunicado y más cerca de Osaka. En cualquier caso está accesible desde ambas ciudades.
 
-<!--
+Nara fue la capital de Japón y residencia del Emperador durante casi todo el siglo VIII, y por ello tiene bastantes lugares interesantes a lo largo de la ciudad. En cualquier caso lo que la mayor parte de la gente visita (y lo que nosotros visitamos) es el Parque de Nara, sus infinitos ciervos, sus templos y sus museos.
+
+Nada más salir de la estación, sin haber entrado en el propio Parque, ya te vas encontrando numerosos ciervos campando libre y alegremente por las aceras y los jardines. Son bastante tranquilos y te ignoran bastante, salvo que tengas chuches que puedas ofrecerle. El camino hasta llegar al parque está plagado de puestos callejeros de venta de unas galletas de tipo oblea para ciervos. La turistada típica es ofrecerle la galleta al ciervo, de forma que agache la cabeza simulando una reverencia, y en ese momento le acercas la galleta para que se la coma. La realidad es que estos ciervos se pasan el día comiendo galletas, así que es habitual que se ahorren la cortesía.
+
+{{< raw-video classes="vertical" src="https://i.imgur.com/nEFLkxh.mp4" type="video/mp4" title="Claramente el de las reverencias era yo" >}} 
+
+Es destacable (y nos encantó) el Templo budista de **Tōdai-ji**, que contiene en su interior la estatua de buda hecha de bronce más grande del mundo con casi 15 m de altura y unas 500 toneladas de peso. Junto al templo también se encuentra el Museo de Tōdai-ji que os recomiendo si tenéis tiempo, es corto y se ve bastante rápido. Contiene numerosas estatuas, esculturas y tesoros relacionados con el templo.
+
+Si nos adentramos en el parque, llegaremos facilmente a otra de las joyas de Nara, el Templo sintoísta de **Kasuga-Taisha**. Este templo, en un estado de conservación impecable como muchos otros, destaca por su colección de innumerables farolillos, incluyendo un altar que recorres en completa oscuridad con la única luz de varias filas de farolillos. Un lugar muy especial y recomendable, tanto por sí mismo como por el camino hasta llegar a él.
+
+Hay otras paradas interesantes como el **Jardín Botánico**, el **Museo Nacional de Nara**, o el templo budista de **Kōfuku-ji**, del que se conserva (reconstruída muchas veces, como casi todo) una gran pagoda de 5 plantas, 
+
+{{< recommendation >}}
+En Nara comimos en [**Tōdai-ji Nagomi**](https://todaiji-nagomi.com/), un sitio que nos gustó bastante y al que se puede sacar mucho partido. No era barato pero era bastante especial. La carta consiste en unos menús con más o menos platos (de 50 a 150€) y una selección de sake y whisky de lo mejor que vimos en todo el viaje. Pedimos unos menús relativamente pequeños, porque no teníamos mucho hambre, pero me quedé con ganas de darme un festín porque el sitio claramente lo merecía.
+{{< / recommendation >}}
+
 <div class="slider-container">  
-  {{< image classes="image slider-item" src="" title="" >}}
-  {{< image classes="image slider-item" src="" title="" >}}
-  {{< image classes="image slider-item" src="" title="" >}}
-  {{< image classes="image slider-item" src="" title="" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/1iXxiU9.jpeg" title="Ciervos hasta en las jardineras" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/C90cGUf.jpeg" title="El impresionante Templo de Tōdai-ji" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/X0oUtrB.jpeg" title="Las innumerables lámparas de Kasuga-Taisha" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/QXDnGxx.jpeg" title="Menú del día versión gourmet en Tōdai-ji Nagomi, Nara" >}}
 </div>  
->
+
