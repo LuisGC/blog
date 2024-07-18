@@ -43,6 +43,10 @@ Desde el castillo bajamos en metro hasta el barrio de Tennoji Ward. Antes de rec
 
 En esta zona visitamos los templos budistas de **Shitennoji**, incluyendo subida a una pagoda de 5 plantas, y vimos por fuera el interesante templo budista de **Isshin-ji** (no pudimos entrar por una celebración religiosa). Entramos al **Parque de Tennoji** y paseamos lo más tranquilos que pudimos porque estaba muy animado. Tenían conciertos, espectáculos de magia en algún rincón, y en general bastante gente pasando el día de picnic. En este parque vimos los campos de fútbol **Capitán Tsubasa** (la serie que en España conocemos como **Campeones: Oliver y Benji**).
 
+<blockquote>
+<b>Chema</b>: En el parque probamos una especie de buñuelos o agujeros de donut que vendían en un puesto ambulante y que parecían bastante populares entre la gente local. La verdad es que era una especie de masa de tortita americana en forma de buñuelo, sin más, pero nos dieron energía para el resto del paseo hasta la hora de comer.
+</blockquote>
+
 <div class="slider-container">  
   {{< image classes="image slider-item" src="https://i.imgur.com/sOXxeHN.jpeg" title="Vistas desde lo alto del Castillo de Osaka" >}}
   {{< image classes="image slider-item" src="https://i.imgur.com/MwXwa6m.jpeg" title="Bajo la imponente fachada del Castillo de Osaka" >}}
@@ -53,10 +57,6 @@ En esta zona visitamos los templos budistas de **Shitennoji**, incluyendo subida
 Desde el parque atravesamos por encima el zoo de Tennoji para llegar al barrio de Shinsekai, una zona que se ha puesto de moda más recientemente y también está llena de restaurantes y tiendas, en este caso con cierta especialización en locales de azar. Este barrio es muy popular y fotogénico por su **Torre Tsūtenkaku** de 103 metros, a la que se puede subir pero nosotros no lo hicimos.
 
 Rematamos ese día en el **Osaka Craft Brewing Festival**, que se celebra una vez al año y casualmente nos pilló allí. No podíamos no ir a un festival con sake y cerveza artesanales, así como no podíamos no probar un montón de variedades (incluso de vino). El vino era malísimo y las tres o cuatro cervezas que tomamos muy normalitas, pero los sakes sí estaban muy ricos. A medida que avanzaba la noche todo nos entraba incluso mejor, por qué será. El paseo de esa noche por Dotonbori después de darlo todo en el festival fue bastante más divertido, la pena es que no encontramos ningún karaoke abierto. Lo que sí hicimos fue subir a la increíble noria que emerge de la fachada de la popular tienda **Don Quijote**. ¿Dónde más puedes encontrar una noria dentro de una tienda?
-
-<blockquote>
-<b>Chema</b>: En el parque probamos una especie de buñuelos o agujeros de donut que vendían en un puesto ambulante y que parecían bastante populares entre la gente local. La verdad es que era una especie de masa de tortita americana en forma de buñuelo, sin más, pero nos dieron energía para el resto del paseo hasta la hora de comer.
-</blockquote>
 
 <div class="slider-container">  
   {{< image classes="image slider-item" src="https://i.imgur.com/GXW6DLD.jpeg" title="Subiendo en la noria de Don Quijote, en Dotonbori" >}}
