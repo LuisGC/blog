@@ -54,6 +54,10 @@ Desde el parque atravesamos por encima el zoo de Tennoji para llegar al barrio d
 
 Rematamos ese día en el **Osaka Craft Brewing Festival**, que se celebra una vez al año y casualmente nos pilló allí. No podíamos no ir a un festival con sake y cerveza artesanales, así como no podíamos no probar un montón de variedades (incluso de vino). El vino era malísimo y las tres o cuatro cervezas que tomamos muy normalitas, pero los sakes sí estaban muy ricos. A medida que avanzaba la noche todo nos entraba incluso mejor, por qué será. El paseo de esa noche por Dotonbori después de darlo todo en el festival fue bastante más divertido, la pena es que no encontramos ningún karaoke abierto. Lo que sí hicimos fue subir a la increíble noria que emerge de la fachada de la popular tienda **Don Quijote**. ¿Dónde más puedes encontrar una noria dentro de una tienda?
 
+<blockquote>
+<b>Chema</b>: En el parque probamos una especie de buñuelos o agujeros de donut que vendían en un puesto ambulante y que parecían bastante populares entre la gente local. La verdad es que era una especie de masa de tortita americana en forma de buñuelo, sin más, pero nos dieron energía para el resto del paseo hasta la hora de comer.
+</blockquote>
+
 <div class="slider-container">  
   {{< image classes="image slider-item" src="https://i.imgur.com/GXW6DLD.jpeg" title="Subiendo en la noria de Don Quijote, en Dotonbori" >}}
   {{< image classes="image slider-item" src="https://i.imgur.com/Ey72waz.jpeg" title="Osaka Craft Brewing Festival" >}}
@@ -68,7 +72,7 @@ Una de las visitas más esperadas, que al final supuso un esfuerzo económico im
 
 {{< image classes="image lateral" src="https://i.imgur.com/mgEhbhN.jpeg" title="Con mi amigo Spider-Man" >}}
 
-No había estado en ningún Universal Studios y parece ser que hay atracciones y ambientación idénticas, pero para mi todo era nuevo y lo que convierte a este parque en único (al menos por ahora) es la zona dedicada a **Nintendo** y **Super Mario**. Además, dudo que en otros parques haya tal densidad de gente vestida/disfrazada como en este por la afición que tienen los japoneses tanto al cosplay como a ir conjuntados en pandilla. Nuestra visita coincidió con época pre-Halloween y por un lado el parque estaba muy tematizado y por otro eso pudo hacer que un porcentaje mayor aún de los visitantes fuera disfrazado. Por un motivo o por otro, mirases donde mirases había gente con vestidos y trajes muy currados.
+Parece ser que hay atracciones y ambientación idénticas en otros parques de Universal, pero para mi todo era nuevo y lo que convierte a este parque en único (al menos por ahora) es la zona dedicada a **Nintendo** y **Super Mario**. Además, dudo que en otros parques haya tal densidad de gente vestida/disfrazada como en este por la afición que tienen los japoneses tanto al cosplay como a ir conjuntados en pandilla. Nuestra visita coincidió con época pre-Halloween y por un lado el parque estaba muy tematizado y por otro eso pudo hacer que un porcentaje mayor aún de los visitantes fuera disfrazado. Por un motivo o por otro, mirases donde mirases había gente con vestidos y trajes muy currados.
 
 El parque en general me pareció una pasada y el ambiente me encantó. Había muchísima gente (casi todos los días hacen sold out) y eso fue problemático en algunas atracciones y para comprar comida/bebida, pero en general nos pudimos organizar para montar en todo lo que quisimos sin esperar colas excesivas usando la fila de singles. Casi todas las atracciones tienen tres filas: la normal, la express (que está limitada, además de costar un extra) y la de gente suelta para rellenar huecos en los vagones.
 
@@ -82,17 +86,21 @@ También nos impresionó la zona de **Harry Potter**, aunque yo no soy muy fan y
   {{< image classes="image slider-item" src="https://i.imgur.com/EFyzNtx.jpeg" title="La impresionante área de Harry Potter" >}}
 </div>  
 
-El acceso a la zona de Super Nintendo está mucho más restringido, ya que por temas de aforo no puedes pasar aunque tengas la entrada al parque. Requiere que hayas reservado una hora para entrar y no hay horas disponibles para que todos los visitantes del parque puedan entrar. Además, la hora para entrar sólo puede reservarse una vez has entrado al parque y tras validar tu entrada en los tornos del parque. Todo esto nos supuso bastante cabreo y frustración porque habiendo llegado a primerísima hora, sólo conseguimos entrar a la zona de Super Nintendo a última hora, ya de noche y con poco tiempo para disfrutar de ese área.
+El acceso a la zona de Super Nintendo está mucho más restringido, ya que por temas de aforo no puedes pasar aunque tengas la entrada al parque. Requiere que hayas reservado una hora para entrar y no hay horas disponibles para que todos los visitantes del parque puedan entrar. Además, la hora para entrar sólo puede reservarse una vez has entrado al parque y tras validar tu entrada en los tornos del parque. Todo esto nos supuso bastante cabreo y frustración porque habiendo llegado a primerísima hora, sólo conseguimos entrar a la zona de Super Nintendo a última hora, ya de noche y con poco tiempo para disfrutar de esa zona.
 
 {{< raw-video classes="vertical" src="https://i.imgur.com/AgwrWz7.mp4" type="video/mp4" title="Entrando a Super Nintendo World" >}} 
 
-Centrándome en lo positivo Super Mario World es una maravilla. Mires donde mires está decorado con el máximo detalle y está todo cuidadosamente colocado. Opcionalmente puedes comprar una pulsera que te permite interactuar con casi todo lo que hay y conseguir puntos. La pulsera vincula tus acciones a tu usuario de forma que puedes conseguir logros, competir con amigos, etc. No es necesaria la pulsera para interactuar con los bloques que hay por todas partes y sonará el sonido del videojuego, pero si lo haces con la pulsera además te dará puntos.
+Centrándome en lo positivo Super Nintendo World es una maravilla. Mires donde mires está decorado con el máximo detalle y está todo cuidadosamente colocado. Opcionalmente puedes comprar una pulsera que te permite interactuar con casi todo lo que hay y conseguir puntos. La pulsera vincula tus acciones a tu usuario de forma que puedes conseguir logros, competir con amigos, etc. No es necesaria la pulsera para interactuar con los bloques que hay por todas partes y sonará el sonido del videojuego, pero si lo haces con la pulsera además te dará puntos.
 
 La atracción de **Mario Kart** es otra manera de conseguir puntos, si al subirte al coche pasas la pulsera por el volante. Es una recreación bastante fiel del juego de consola, pero llevado al mundo físico. No controlas el avance del vagón por el recorrido de la atracción (el mismo vagón lleva a varios jugadores), pero sí que vas girando el volante, cogiendo premios, disparando platanos o caparazones, etc. como harías en el video juego. Si haces coincidir el giro del volante con el giro esperado en el recorrido o si lanzas un caparazón a un rival y le das, te dan puntos extra. Lástima que tuviéramos que dedicar buena parte del teimpo dentro de la zona de Super Nintendo a esperar la cola de esta atracción... en esta ocasión la fila de singles no funcionó porque el propio diseño de la atracción hace que los huecos sueltos para rellenar sean más infrecuentes.
 
 {{< raw-video classes="vertical" src="https://i.imgur.com/PZeN8d5.mp4" type="video/mp4" title="Panorámica de Super Nintendo World" >}} 
 
-En resumen, un dineral que sólo compensa si tienes mucha pasión por el universio de Super Mario (y si tienes el dinero).
+En resumen, un dineral que sólo compensa si tienes mucha pasión por el universo de Super Mario (y si tienes el dinero).
+
+<blockquote>
+<b>Chema</b>: Como fan de Super Mario puedo confirmar que se trata de una experiencia única. La recreación de personajes, escenarios y ambientación en general es espectacular, con muchísimos guiños más o menos evidentes a todo el lore de la saga. A pesar de las dificultades que nos fueron surgiendo, siempre guardaré este recuerdo como algo único, y cualquier persona fan de ese universo que pueda permitirse encajar una visita como esta en su viaje debería considerarlo.
+</blockquote>
 
 ### Nara
 
@@ -104,6 +112,10 @@ Nada más salir de la estación, sin haber entrado en el propio Parque, ya te va
 
 {{< raw-video classes="vertical" src="https://i.imgur.com/nEFLkxh.mp4" type="video/mp4" title="Claramente el de las reverencias era yo" >}} 
 
+<blockquote>
+<b>Chema</b>: La mayoría de los ciervos tienen los cuernos afeitados y son pacíficos, pero parece que hay algunos que consiguen escapar a esos controles y mantener la cornamenta. Eso es algo a tener en cuenta si no vas con cuidado a hora de darles las chuches, ya que vimos a algunas personas un poco despistadas/confiadas que no conseguían dejarle claro a los ciervos que tenían que pedirlas educadamente, y no quitárselas a traición de las manos o los bolsillos.
+</blockquote>
+
 Es destacable (y nos encantó) el Templo budista de **Tōdai-ji**, que contiene en su interior la estatua de buda hecha de bronce más grande del mundo con casi 15 m de altura y unas 500 toneladas de peso. Junto al templo también se encuentra el Museo de Tōdai-ji que os recomiendo si tenéis tiempo, es corto y se ve bastante rápido. Contiene numerosas estatuas, esculturas y tesoros relacionados con el templo.
 
 Si nos adentramos en el parque, llegaremos facilmente a otra de las joyas de Nara, el Templo sintoísta de **Kasuga-Taisha**. Este templo, en un estado de conservación impecable como muchos otros, destaca por su colección de innumerables farolillos, incluyendo un altar que recorres en completa oscuridad con la única luz de varias filas de farolillos. Un lugar muy especial y recomendable, tanto por sí mismo como por el camino hasta llegar a él.
@@ -111,7 +123,7 @@ Si nos adentramos en el parque, llegaremos facilmente a otra de las joyas de Nar
 Hay otras paradas interesantes como el **Jardín Botánico**, el **Museo Nacional de Nara**, o el templo budista de **Kōfuku-ji**, del que se conserva (reconstruída muchas veces, como casi todo) una gran pagoda de 5 plantas, 
 
 {{< recommendation >}}
-En Nara comimos en [**Tōdai-ji Nagomi**](https://todaiji-nagomi.com/), un sitio que nos gustó bastante y al que se puede sacar mucho partido. No era barato pero era bastante especial. La carta consiste en unos menús con más o menos platos (de 50 a 150€) y una selección de sake y whisky de lo mejor que vimos en todo el viaje. Pedimos unos menús relativamente pequeños, porque no teníamos mucho hambre, pero me quedé con ganas de darme un festín porque el sitio claramente lo merecía.
+En Nara comimos en [**Tōdai-ji Nagomi**](https://todaiji-nagomi.com/), un sitio que nos gustó bastante y al que se puede sacar mucho partido. No era barato pero era bastante especial. La carta consiste en unos menús con más o menos platos (de 50 a 150€) y una selección de sake y whisky de lo mejor que vimos en todo el viaje. Pedimos unos menús relativamente pequeños, porque no teníamos mucha hambre, pero me quedé con ganas de darme un festín porque el sitio claramente lo merecía.
 {{< / recommendation >}}
 
 <div class="slider-container">  
@@ -121,3 +133,4 @@ En Nara comimos en [**Tōdai-ji Nagomi**](https://todaiji-nagomi.com/), un sitio
   {{< image classes="image slider-item" src="https://i.imgur.com/QXDnGxx.jpeg" title="Menú del día versión gourmet en Tōdai-ji Nagomi, Nara" >}}
 </div>  
 
+Próximas paradas: **¡Himeji, Hiroshima y Miyajima!**
