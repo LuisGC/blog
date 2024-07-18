@@ -211,4 +211,4 @@ Tengo grabado todo el desfile con la Insta 360, pero no tengo claro cuándo tend
 
 Aquí acaba la crónica de lo más destacado de nuestro paso por Kyoto. Estoy omitiendo a propósito nuestra participación en un taller de introducción al Kyudo (arte marcial de tiro con arco), que en principio relataré en [**aljaba.net**](https://blog.aljaba.net/) (a petición de Pablo) para una audiencia más especializada.
 
-No se marchen, ¡aún hay más! Próxima parada: **¡Osaka!**
+No se marchen, ¡aún hay más! Próximas paradas: **¡Osaka y Nara!**
