@@ -2,7 +2,7 @@
 author = "LuisGC"
 title = "Japón (IV): Osaka, Universal Studios y Nara"
 date = "2023-10-24"
-type = "page"
+type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "holidays", "history"]
 status = "published"
