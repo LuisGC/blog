@@ -16,6 +16,7 @@ status = "published"
 _(segundo artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_
 * [Japón (I): paraíso de la tradición, la modernidad y el frikismo](/blog/2023/10/japon-1-paraiso-tradicion-modernidad-frikismo/)
 * [Japón (III): Kyoto](/blog/2023/10/japon-3-kyoto/)
+* [Japón (IV): Osaka, Universal Studios y Nara](/blog/2023/10/japon-4-osaka-nara/)
 
 ### Aeropuerto de Haneda
 

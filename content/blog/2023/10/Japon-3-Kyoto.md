@@ -16,6 +16,7 @@ status = "published"
 _(tercer artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_
 * [Japón (I): paraíso de la tradición, la modernidad y el frikismo](/blog/2023/10/japon-1-paraiso-tradicion-modernidad-frikismo/)
 * [Japón (II): Llegada a Japón, Nagoya y Takayama](/blog/2023/10/japon-2-nagoya-takayama/)
+* [Japón (IV): Osaka, Universal Studios y Nara](/blog/2023/10/japon-4-osaka-nara/)
 
 
 Llegamos a Kyoto a mediodía con tiempo suficiente para antes de comer llegar al hotel y recoger el equipaje en recepción (de nuevo, lo habíamos enviado el día anterior). Finalmente tuvimos que hacerlo después de comer porque el hotel no tenía recepción a la hora de la comida. Junto al hotel había un restaurante de soba y udon casero ([**Shoraku**](https://maps.app.goo.gl/Pi6ZCDxM2KCnoaGX9)) con muy buenas reseñas y no nos decepcionó. Tomamos varias cosas y estaba todo muy rico. Nada más comer ya pudimos entrar a nuestras habitaciones y dejar las cosas para poder salir de paseo.

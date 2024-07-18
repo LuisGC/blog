@@ -18,9 +18,10 @@ Llevaba mucho tiempo pensando en viajar a Japón, y a primeros de 2023 decidí q
 Creo que habría disfrutado del viaje en solitario en varias dimensiones, pero sin duda fue un acierto ir acompañado y nos lo pasamos genial. Chema es un muy buen compañero de viaje que además de seguirme el ritmo (incluyendo buscar cachés) y los planes frikis, me proponía planes más frikis todavía.
 
 He decidido dividir la crónica en varios artículos, que irán siguiendo el itinerario que hicimos. Incluiré aquí los enlaces a medida que vaya escribiendo los mismos:
-* [Llegada a Japón, Nagoya y Takayama (5 días)](/blog/2023/10/japon-2-nagoya-takayama/)
+* [Llegada a Japón, Nagoya y Takayama](/blog/2023/10/japon-2-nagoya-takayama/) (5 días)
 * [Kyoto](/blog/2023/10/japon-3-kyoto/) (6 días)
-* Osaka, Nara, Hiroshima y Miyajima (7 días)
+* [Osaka, Universal Studios y Nara](/blog/2023/10/japon-4-osaka-nara/) (4 días)
+* Himeji, Hiroshima y Miyajima (3 días)
 * Tokyo (6 días)
 * Alrededores de Tokyo y regreso (2 días)
 
