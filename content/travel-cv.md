@@ -50,6 +50,8 @@ I have visited **22 out of 193** countries (among those [recognized by United Na
 
 ## 2024
 
+* <span>AUG</span> <p>Galicia (Spain)</p>
+  - Ribadeo, Foz, Sargadelos, San Cibrao, Souto da Retorta, Fragas do Eume, A Coruña, Lugo
 * <span>MAY</span> <p>IV Mereth de Ithilien - Barcelona (Spain)</p>
 * <span>APR</span> <p>Zaragoza (Spain)</p>
 * <span>MAR</span> <p>Guipúzcoa, Spain</p>
