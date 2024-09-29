@@ -17,7 +17,7 @@ _(Inspired by the [CV Viajero by Dendarii](https://dendarii.es/cv-viajero/))_
 
 <center><div id="travel-cv-map" /></center>
 
-I have visited **22 out of 193** countries (among those [recognized by United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) plus the [observer states](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations#Observers_and_non-members)). This is the list in alphabetical order:
+I have visited **23 out of 193** countries (among those [recognized by United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) plus the [observer states](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations#Observers_and_non-members)). This is the list in alphabetical order:
 
 | Country | Main visited places (x times) | Visiting order |
 |---|---|---|
@@ -29,6 +29,7 @@ I have visited **22 out of 193** countries (among those [recognized by United Na
 | France | Annecy, Auray, Bayeaux, Bordeaux, Caen, Cancale, Carcassonne, Carnac, Concarneau, Dinard, Euro Disney, Fougeres, Grenoble, Honfleur, La Loire à Vélo, Le Mans, Mont Sant Michel, Morlaix, Paris (x3), Pointe du Raz, Pont-Aven, Quimper, Rennes, Rochefort-en-Terre, Rouen, Saint Malo, Tolouse, Vannes & Vitré | 10<sup>th</sup> |
 | Germany | Aachen, Augsburg, Bad Mergentheim, Berlin, Bonn, Cologne, Dachau, Dinkelsbühl, Donauwörth, Düsseldorf, Feuchtwangen, Füssen, Landsberg am Lech, Munich, Nördlingen, Nuremberg, Potsdam, Rothenburg ob der Tauber, Röttingen, Schwangau, Tauberbischofsheim, Weikersheim & Würzburg | 3<sup>rd</sup> |
 | Hungary | Budapest | 17<sup>th</sup> |
+| Iceland | Selfoss, Skogafoss, Thorsmork, Seljalandsfoss, Kvernufoss, Vik, Skaftafell, Jökulsárlón, Seydisfjordur, Studlagil, Dettifoss, Húsavik, Reykholt, Reykjavík, Blue Lagoon, Thingvellir, Landmannalaugar | 23<sup>rd</sup> |
 | Ireland | Connemara, Dublín & Galway | 9<sup>th</sup> |
 | Italy | Milan (x2) & Rome | 4<sup>th</sup> |
 | Japan | Nagoya, Takayama, Shirakawa-go, Kyoto, Osaka, Hiroshima, Itsukushima, Tokyo | 22<sup>nd</sup> |
@@ -50,6 +51,10 @@ I have visited **22 out of 193** countries (among those [recognized by United Na
 
 ## 2024
 
+* <span>SEP</span> <p>Iceland</p>
+  - Selfoss, Skogafoss, Thorsmork, Seljalandsfoss, Kvernufoss, Vik, Skaftafell, Jökulsárlón, Seydisfjordur, Studlagil, Dettifoss, Húsavik, Reykholt, Reykjavík, Blue Lagoon, Thingvellir, Landmannalaugar
+* <span>AUG</span> <p>Galicia (Spain)</p>
+* <span>AUG</span> <p>Tierra de Nadie 2024 - Málaga (Spain)</p>
 * <span>MAY</span> <p>IV Mereth de Ithilien - Barcelona (Spain)</p>
 * <span>APR</span> <p>Zaragoza (Spain)</p>
 * <span>MAR</span> <p>Guipúzcoa, Spain</p>
