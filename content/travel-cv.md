@@ -51,6 +51,8 @@ I have visited **23 out of 193** countries (among those [recognized by United Na
 
 ## 2024
 
+* <span>NOV</span> <p>Huesca</p>
+  - Valle de Pineta, Bielsa, Escuaín, Añisclo, Punta Mondoto, Ainsa
 * <span>SEP</span> <p>Iceland</p>
   - Selfoss, Skogafoss, Thorsmork, Seljalandsfoss, Kvernufoss, Vik, Skaftafell, Jökulsárlón, Seydisfjordur, Studlagil, Dettifoss, Húsavik, Reykholt, Reykjavík, Blue Lagoon, Thingvellir, Landmannalaugar
 * <span>AUG</span> <p>Galicia (Spain)</p>
