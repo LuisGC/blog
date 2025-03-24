@@ -49,6 +49,10 @@ I have visited **23 out of 193** countries (among those [recognized by United Na
 
 # In chronological order
 
+## 2025
+
+* <span>MAR</span> <p>Belgrade, Serbia</p>
+
 ## 2024
 
 * <span>NOV</span> <p>Huesca</p>
