@@ -17,7 +17,7 @@ _(Inspired by the [CV Viajero by Dendarii](https://dendarii.es/cv-viajero/))_
 
 <center><div id="travel-cv-map" /></center>
 
-I have visited **23 out of 193** countries (among those [recognized by United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) plus the [observer states](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations#Observers_and_non-members)). This is the list in alphabetical order:
+I have visited **24 out of 193** countries (among those [recognized by United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) plus the [observer states](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations#Observers_and_non-members)). This is the list in alphabetical order:
 
 | Country | Main visited places (x times) | Visiting order |
 |---|---|---|
@@ -37,6 +37,7 @@ I have visited **23 out of 193** countries (among those [recognized by United Na
 | Poland | Austchwitz, Katowice (x2), Krakow, Wieliczka, Wroclaw & Zakopane | 18<sup>th</sup> |
 | Portugal | Évora, Lisboa, Sintra, Tavira, Vila Real de Santo Antonio, Vila Real, Amarante, Guimarães, Braga, Porto, Póvoa de Varzim & Bragança | 8<sup>th</sup> |
 | Romania | Bucharest | 19<sup>th</sup> |
+| Serbia | Belrade | 24<sup>th</sup> |
 | Slovakia | Bratislava | 16<sup>th</sup> |
 | Spain | _too many_ | 1<sup>st</sup> |
 | Switzerland | Aareschlucht, Almendhubel, CERN, Chillon, Geneve, Gruyeres, Interlaken, Jungfraujoch, Lausanne, Meiringen, Montreux, Mürren & Reichenbackfall | 12<sup>th</sup> |
