@@ -53,15 +53,19 @@ I have visited **24 out of 193** countries (among those [recognized by United Na
 ## 2025
 
 * <span>MAR</span> <p>Belgrade, Serbia</p>
+* <span>MAR</span> <p>Amsterdam (Netherlands)</p>
 
 ## 2024
 
+* <span>NOV</span> <p>Amsterdam (Netherlands)</p>
 * <span>NOV</span> <p>Huesca</p>
   - Valle de Pineta, Bielsa, Escuaín, Añisclo, Punta Mondoto, Ainsa
+* <span>OCT</span> <p>Amsterdam (Netherlands)</p>
 * <span>SEP</span> <p>Iceland</p>
   - Selfoss, Skogafoss, Thorsmork, Seljalandsfoss, Kvernufoss, Vik, Skaftafell, Jökulsárlón, Seydisfjordur, Studlagil, Dettifoss, Húsavik, Reykholt, Reykjavík, Blue Lagoon, Thingvellir, Landmannalaugar
 * <span>AUG</span> <p>Galicia (Spain)</p>
 * <span>AUG</span> <p>Tierra de Nadie 2024 - Málaga (Spain)</p>
+* <span>JUN</span> <p>Amsterdam (Netherlands)</p>
 * <span>MAY</span> <p>IV Mereth de Ithilien - Barcelona (Spain)</p>
 * <span>APR</span> <p>Zaragoza (Spain)</p>
 * <span>MAR</span> <p>Guipúzcoa, Spain</p>
