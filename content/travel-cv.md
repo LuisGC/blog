@@ -17,10 +17,11 @@ _(Inspired by the [CV Viajero by Dendarii](https://dendarii.es/cv-viajero/))_
 
 <center><div id="travel-cv-map" /></center>
 
-I have visited **24 out of 193** countries (among those [recognized by United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) plus the [observer states](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations#Observers_and_non-members)). This is the list in alphabetical order:
+I have visited **25 out of 193** countries (among those [recognized by United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) plus the [observer states](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations#Observers_and_non-members)). This is the list in alphabetical order:
 
 | Country | Main visited places (x times) | Visiting order |
 |---|---|---|
+| Algeria | Argel, Tamanrasset, Ahaggar National Park, Tassili N'Ajjer NAtional Park, Djanet | 25<sup>th</sup> |
 | Andorra | Andorra la Vella | 2<sup>nd</sup> |
 | Austria | Romantikstrasse & Vienna | 15<sup>th</sup> |
 | Belgium | Brussels (x6) | 13<sup>th</sup> |
@@ -52,6 +53,8 @@ I have visited **24 out of 193** countries (among those [recognized by United Na
 
 ## 2025
 
+* <span>ABR</span> <p>Algeria</p>
+  - Argel, Tamanrasset, Ahaggar National Park, Tassili N'Ajjer NAtional Park, Djanet
 * <span>MAR</span> <p>Belgrade, Serbia</p>
 * <span>MAR</span> <p>Amsterdam (Netherlands)</p>
 
