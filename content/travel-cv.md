@@ -53,6 +53,8 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 
 ## 2025
 
+* <span>MAY</span> <p>Current London 2025 - London (United Kingdom)</p>
+* <span>MAY</span> <p>Zona Lúdica 2025 - Málaga (Spain)</p>
 * <span>ABR</span> <p>Algeria</p>
   - Argel, Tamanrasset, Ahaggar National Park, Tassili N'Ajjer NAtional Park, Djanet
 * <span>MAR</span> <p>Belgrade, Serbia</p>
