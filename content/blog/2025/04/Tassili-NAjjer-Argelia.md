@@ -23,11 +23,11 @@ El plato fuerte del viaje vendría después, con un itinerario de varios días a
 
 El coste del viaje fue de unos 2.200 euros por persona incluyendo todo: vuelos desde Barcelona, vuelos internos en Argelia, tasas, visados, seguros, guías, chóferes, comida, bebida... No hubo mucha ocasión para comprar souvenirs, así que el coste se limitó bastante a eso. En nuestro caso tuvimos que añadir dos viajes en tren de alta velocidad desde Madrid, ya que por temas de visados nos recomendaron que el grupo completo llegase al país al mismo tiempo.
 
-Voy a contar brevemente cómo fue la experiencia y acompaño cada tramo con su vídeo resumen correspondiente.
+Voy a contar brevemente cómo fue la experiencia y acompaño cada tramo con su vídeo resumen correspondiente. Esta vez he dado prioridad a preparar estos vídeos resumen, ya me diréis qué os parecen.
 
 ## 11 y 12 de Abril
 
-
+Salimos de Barcelona bastante tarde. Como en ocasiones los trámites de los visados tardaron varias horas, decicimos que pasaríamos la noche en Argelia y así tendríamos la oportunidad de dar un paseo por la capital antes de volar al sur del país. Los trámites nos costaron 1-2 horas, mejor de lo previsto, así que incluso tuvimos ocasión de dar una vueltecilla alrededor del hotel antes de irnos a dormir, para empezar a conocer al resto del grupo.
 
 <center>
   {{< youtube pIDGNTL0gLQ >}}
