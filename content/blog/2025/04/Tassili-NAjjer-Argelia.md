@@ -1,6 +1,6 @@
 +++
 author = "LuisGC"
-title = "Tassili N'Ajjer y Gran Sur de Argelia"
+title = "Tassili N'Ajjer y el Gran Sur de Argelia"
 date = "2025-04-28"
 type = "post"
 categories = ["post"]
@@ -25,9 +25,9 @@ El coste del viaje fue de unos 2.200 euros por persona incluyendo todo: vuelos d
 
 Voy a contar brevemente cómo fue la experiencia y acompaño cada tramo con su vídeo resumen correspondiente. Esta vez he dado prioridad a preparar estos vídeos resumen, ya me diréis qué os parecen.
 
-## 11 y 12 de Abril
+## Argel (11 y 12 de Abril)
 
-Salimos de Barcelona bastante tarde. Como en ocasiones los trámites de los visados tardaron varias horas, decicimos que pasaríamos la noche en Argelia y así tendríamos la oportunidad de dar un paseo por la capital antes de volar al sur del país. Los trámites nos costaron 1-2 horas, mejor de lo previsto, así que incluso tuvimos ocasión de tomar unas cervezas cerca del hotel antes de irnos a dormir, para empezar a conocer al resto del grupo.
+Salimos de Barcelona bastante tarde. Como en ocasiones los trámites de los visados tardaron varias horas, decicimos que pasaríamos la noche en Argel y así tendríamos la oportunidad de dar un paseo por la capital antes de volar al sur del país. Los trámites nos costaron 1-2 horas, mejor de lo previsto, así que incluso tuvimos ocasión de tomar unas cervezas cerca del hotel antes de irnos a dormir, para empezar a conocer al resto del grupo.
 
 Dormimos en el [**Hotel Audin**](https://maps.app.goo.gl/RQikEGp9WBDrkYF3A). Nada del otro mundo pero para las pocas horas que dormimos, ni tan mal. Es limpio, está bastante céntrico pero por ejemplo el desayuno era bastante pobre.
 
@@ -44,6 +44,8 @@ A pesar de que cobran sólo por subir, recomiendo visitar la terraza del restaur
 <center>
   {{< youtube pIDGNTL0gLQ >}}
 </center>
+
+## Tamanrasset, Guelta de Afilal y Assekrem (13-14 de Abril)
 
 TBC
 
