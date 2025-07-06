@@ -17,15 +17,15 @@ Para la Semana Santa de 2025 surgió hace muchos meses la posibilidad de hacer e
 
 ## Resumen del viaje
 
-El viaje consiste en un circuito bastante exigente por el Gran Sur de Argelia, el país más grande de África y el que contiene la mayor parte del desierto del Sáhara. De hecho, parte del viaje incluía contemplar un atardecer y un amanecer increíbles desde el punto más alto del Sáhara, el Assekrem (2.750 m). Subir y bajar al Assekrem en todo terreno resultó ser toda una aventura.
+El viaje consiste en un circuito de 11 días bastante exigente por el _Gran Sur_ de Argelia, el país más grande de África y el que contiene la mayor parte del desierto del Sáhara. De hecho, parte del viaje incluía contemplar un atardecer y un amanecer increíbles desde el punto más alto del Sáhara, el Assekrem (2.780 m).
 
-El plato fuerte del viaje vendría después, con un itinerario de varios días a pie por el Tassili N'Ajjer, considerado el museo a cielo abierto de pinturas prehistóricas más importante y grande del mundo. Destaca su cantidad (más de 15 mil) y su variedad y antigüedad (algunas datan del 10.000 AC).
+El plato fuerte del viaje vendría después, con un itinerario de varios días a pie por el **Parque Nacional de Tassili N'Ajjer**, considerado el museo a cielo abierto de pinturas prehistóricas más importante y grande del mundo. Destaca su cantidad (más de 15 mil) y su variedad y antigüedad (algunas datan del 10.000 AC).
 
 El coste del viaje fue de unos 2.200 euros por persona incluyendo todo: vuelos desde Barcelona, vuelos internos en Argelia, tasas, visados, seguros, guías, chóferes, comida, bebida... No hubo mucha ocasión para comprar souvenirs, así que el coste se limitó bastante a eso. En nuestro caso tuvimos que añadir dos viajes en tren de alta velocidad desde Madrid, ya que por temas de visados nos recomendaron que el grupo completo llegase al país al mismo tiempo.
 
 Voy a contar brevemente cómo fue la experiencia y acompaño cada tramo con su vídeo resumen correspondiente. Esta vez he dado prioridad a preparar estos vídeos resumen, ya me diréis qué os parecen.
 
-## Argel (11 y 12 de Abril)
+## Argel
 
 Salimos de Barcelona bastante tarde. Como en ocasiones los trámites de los visados tardaron varias horas, decicimos que pasaríamos la noche en Argel y así tendríamos la oportunidad de dar un paseo por la capital antes de volar al sur del país. Los trámites nos costaron 1-2 horas, mejor de lo previsto, así que incluso tuvimos ocasión de tomar unas cervezas cerca del hotel antes de irnos a dormir, para empezar a conocer al resto del grupo.
 
@@ -41,29 +41,45 @@ Al día siguiente nos acercaron hasta lo más alto de la ciudad y desde allí hi
 A pesar de que cobran sólo por subir, recomiendo visitar la terraza del restaurante [**Stah El Bahdja**](https://maps.app.goo.gl/NTcKFCMGvhXZ4jio8). Cobran poco y merece mucho la pena porque las vistas son increíbles y también puedes ver por dentro cómo son las casas en la Cashba. Si vas bien de tiempo no tenía mala pinta para un picoteo rápido, pero la clave está en las vistas.
 {{< /recommendation >}}
 
+Terminamos el día volviendo al aeropuerto para coger un vuelo interno hasta Tamanrasset, que está bastante más lejos de Argel que la propia Barcelona.
+
 <center>
   {{< youtube pIDGNTL0gLQ >}}
 </center>
 
-## Tamanrasset, Guelta de Afilal y Assekrem (13-14 de Abril)
+## Tamanrasset, Guelta de Afilal y Assekrem
 
-TBC
+Subir y bajar al Assekrem en todo terreno resultó ser toda una aventura.
+
+Parque Nacional de Ahaggar.
+
+Ermita del Padre [**Charles de Foucauld**](https://en.wikipedia.org/wiki/Charles_de_Foucauld), que realizó el primer y único diccionario del tamachek-touareg al francés.
+
+Amanecer en el corazón del Sáhara, a 2.750 metros de altura, con un horizonte de picos basálticos en pleno trópico de Cáncer.
 
 <center>
   {{< youtube -4iaRvI9dpg >}}
 </center>
 
-TBC
+## Tikoubaouine, Erg D'Admer y Djanet
+
+Parada en Tassili Tin-ras para comer
+
+Hotel Zeriba
 
 <center>
   {{< youtube vdL032MCXd0 >}}
 </center>
 
-TBC
+## Ascenso al Tassili N'Ajjer - Ruta por Tamrit Rock City y Tan Zoumaitak
+
+Llegada al Plató del N'Ajjers, donde esperan el guía, el cocinero y los burros.
 
 <center>
   {{< youtube ZOe-GQPmxTw >}}
 </center>
+
+## Tassili N'Ajjer - Tin Itinen, Tin Tazarift y Sefar
 
 TBC
 
@@ -71,19 +87,21 @@ TBC
   {{< youtube hvdLmi3vb-c >}}
 </center>
 
+## Tassili N'Ajjer - Desde Sefar hasta Tin Itinen
+
 TBC
 
 <center>
   {{< youtube Zte6KXE-p3c >}}
 </center>
 
+## Tassili N'Ajjer - Descenso desde Tin Itinen
+
 TBC
 
 <center>
   {{< youtube VS7wkSg_x34 >}}
 </center>
-
-TBC
 
 <!--
 <div class="slider-container">  
