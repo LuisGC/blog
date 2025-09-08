@@ -53,6 +53,10 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 
 ## 2025
 
+* <span>SEP</span> <p>Parc National des Pyrénees and Pays Basque (France)</p>
+  - Gavarnie, Pont d'Espagne, Capbreton, Bayonne, Biarritz, Saint-Jean-de-Luz
+* <span>AUG</span> <p>Tuscany (Italy)</p>
+  - Bologna, Firenze, Lucca, Pisa, Pistoia, Cinque Terre, Castellina in Chianti, Pienza, Montepulciano, Siena, San Gimignano
 * <span>MAY</span> <p>Current London 2025 - London (United Kingdom)</p>
 * <span>MAY</span> <p>Zona Lúdica 2025 - Málaga (Spain)</p>
 * <span>ABR</span> <p>Algeria</p>
