@@ -25,7 +25,7 @@ _(tercer artículo sobre mi viaje a Japón, en los siguientes enlaces podéis le
 Desde Osaka, nuestro siguiente plan fue visitar **Himeji**, una ciudad famosa por su impresionante castillo conocido como el **Castillo de Himeji** o "_Castillo de la Garza Blanca_" debido a su elegante apariencia blanca. Este castillo es uno de los más grandes y mejor conservados de Japón, y es Patrimonio de la Humanidad por la UNESCO. No puedo opinar mucho del resto de la ciudad, ya que sólo estuvimos unas horas, pero el castillo y sus alrededores merecen mucho la pena.
 
 {{< recommendation >}}
-**Recomendación de viaje:** Nada más bajar de la estación de tren nos entró algo de hambre y lo que podría haber sido un almuerzo se convirtió en una comida bastante interesante. Encontramos un restaurante cercano ([**Gokan**](https://maps.app.goo.gl/JaMwSMLcrGTntZqq9)) que ofrecía menús cerrados de platos muy originales mezclando gastronomía tradicional con toques modernos. No era barato pero la calidad de la comida y la experiencia valieron la pena. Si visitáis Himeji y valoráis más la calidad que la cantidad, os recomiendo encarecidamente probar este lugar.
+Nada más bajar de la estación de tren nos entró algo de hambre y lo que podría haber sido un almuerzo se convirtió en una comida bastante interesante. Encontramos un restaurante cercano ([**Gokan**](https://maps.app.goo.gl/JaMwSMLcrGTntZqq9)) que ofrecía menús cerrados de platos muy originales mezclando gastronomía tradicional con toques modernos. No era barato pero la calidad de la comida y la experiencia valieron la pena. Si visitáis Himeji y valoráis más la calidad que la cantidad, os recomiendo encarecidamente probar este lugar.
 {{< /recommendation >}}
 
 Hicimos la visita guiada en inglés al complejo del castillo, y fue prácticamente una visita privada ya que sólo compartíamos guía con otra familia. El guía nos explicó la historia del castillo, su arquitectura y su importancia estratégica en la historia de Japón. Subimos a la torre principal, que ofrece vistas panorámicas de la ciudad y los alrededores. Nos gustó mucho la visita guiada, más allá de el contenido puramente histórico el guía nos contó muchas anécdotas interesantes sobre la vida en el castillo y las técnicas de defensa utilizadas en su construcción.
@@ -41,8 +41,19 @@ También visitamos el **Jardín de Koko-en**, un jardín tradicional japonés ub
 
 ### Hiroshima
 
-25
-Hiroshima Highlights
+Nuestra siguiente parada fue en **Hiroshima**. Como todos ya sabéis, es una ciudad con una historia profundamente marcada por los eventos de la Segunda Guerra Mundial, siendo tristemente famosa por ser el primer lugar en el mundo donde se utilizó una bomba atómica en un conflicto bélico el 6 de agosto de 1945.
+
+{{< recommendation >}}
+De nuevo, lo primero que hicimos al llegar fue buscar un lugar para comer. No muy lejos del hotel teníamos un restaurante de okonomiyaki ([**Okonomimura**](https://maps.app.goo.gl/xgHAAPZFSv2gyDFq5)) que nos habían recomendado y que no nos decepcionó en absoluto. En Hiroshima, el okonomiyaki se prepara con varias capas adicionales de ingredientes incluyendo fideos de soba, lo que le da una textura y sabor únicos. Me encantó y sin duda repetiría si por algún motivo volviera a Hiroshima.
+{{< /recommendation >}}
+
+{{< raw-video src="https://imgur.com/yWmHGm8.mp4" type="video/mp4" title="Okonomiyaki en Okonomimura" >}} 
+
+Después de comer, nos dirigimos al **Parque Conmemorativo de la Paz de Hiroshima**, un lugar dedicado a recordar a las víctimas del bombardeo atómico y promover la paz mundial. El parque alberga varios monumentos y museos, siendo el más emblemático la **Cúpula de la Bomba Atómica**, una estructura que quedó en pie tras la explosión y que ha sido preservada como símbolo de la destrucción causada por la guerra.
+
+El museo es sobrecogedor y muy educativo, proporcionando una visión profunda de los eventos que llevaron al bombardeo, sus consecuencias y el impacto duradero en la ciudad y sus habitantes. Es un lugar que desde luego invita a la reflexión, aunque por desgracia lo visitamos un día que había mucha gente y no pudimos disfrutarlo tanto como nos hubiera gustado. Al salir nos apuntamos a un tour guiado gratuito (en inglés) por el Parque Conmemorativo. El paseo y las explicaciones estuvieron muy bien y guardo un buen recuerdo de la experiencia, entre otras cosas porque no estaba tan masificado como las salas principales del museo.
+
+El resto de la tarde lo dedicamos a pasear por el centro de Hiroshima, visitando lugares como el **Castillo de Hiroshima**.
 
 ### Miyajima
 
