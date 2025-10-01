@@ -1,15 +1,15 @@
 +++
 author = "LuisGC"
 title = "Japón (VI): Tokyo y alrededores"
-date = "2023-11-05"
+date = "2029-11-05"
 type = "page"
 categories = ["post"]
 tags = ["personal", "tourism", "holidays", "history"]
 status = "published"
 [[images]]
-  src = "https://i.imgur.com/DNSWsLa.jpg"
-  alt = "2023-10-12 Palacio de Honmaru y Castillo de Nagoya"
-  caption = "2023-10-12 Palacio de Honmaru y Castillo de Nagoya - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
+  src = "https://picsum.photos/880/280?blur=3"
+  alt = "2023-10-xx TBD"
+  caption = "2023-10-xx TBD - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
   stretch = ""
 +++
 
@@ -71,3 +71,13 @@ Excursion Fuji
 Yokohama
 Gundan
 Chinatown
+
+
+<!--
+<div class="slider-container">  
+  {{< image classes="image slider-item" src="" title="" >}}
+  {{< image classes="image slider-item" src="" title="" >}}
+  {{< image classes="image slider-item" src="" title="" >}}
+  {{< image classes="image slider-item" src="" title="" >}}
+</div>  
+>
