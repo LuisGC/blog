@@ -17,10 +17,11 @@ _(Inspired by the [CV Viajero by Dendarii](https://dendarii.es/cv-viajero/))_
 
 <center><div id="travel-cv-map" /></center>
 
-I have visited **22 out of 193** countries (among those [recognized by United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) plus the [observer states](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations#Observers_and_non-members)). This is the list in alphabetical order:
+I have visited **25 out of 193** countries (among those [recognized by United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) plus the [observer states](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations#Observers_and_non-members)). This is the list in alphabetical order:
 
 | Country | Main visited places (x times) | Visiting order |
 |---|---|---|
+| Algeria | Argel, Tamanrasset, Ahaggar National Park, Tassili N'Ajjer NAtional Park, Djanet | 25<sup>th</sup> |
 | Andorra | Andorra la Vella | 2<sup>nd</sup> |
 | Austria | Romantikstrasse & Vienna | 15<sup>th</sup> |
 | Belgium | Brussels (x6) | 13<sup>th</sup> |
@@ -29,6 +30,7 @@ I have visited **22 out of 193** countries (among those [recognized by United Na
 | France | Annecy, Auray, Bayeaux, Bordeaux, Caen, Cancale, Carcassonne, Carnac, Concarneau, Dinard, Euro Disney, Fougeres, Grenoble, Honfleur, La Loire à Vélo, Le Mans, Mont Sant Michel, Morlaix, Paris (x3), Pointe du Raz, Pont-Aven, Quimper, Rennes, Rochefort-en-Terre, Rouen, Saint Malo, Tolouse, Vannes & Vitré | 10<sup>th</sup> |
 | Germany | Aachen, Augsburg, Bad Mergentheim, Berlin, Bonn, Cologne, Dachau, Dinkelsbühl, Donauwörth, Düsseldorf, Feuchtwangen, Füssen, Landsberg am Lech, Munich, Nördlingen, Nuremberg, Potsdam, Rothenburg ob der Tauber, Röttingen, Schwangau, Tauberbischofsheim, Weikersheim & Würzburg | 3<sup>rd</sup> |
 | Hungary | Budapest | 17<sup>th</sup> |
+| Iceland | Selfoss, Skogafoss, Thorsmork, Seljalandsfoss, Kvernufoss, Vik, Skaftafell, Jökulsárlón, Seydisfjordur, Studlagil, Dettifoss, Húsavik, Reykholt, Reykjavík, Blue Lagoon, Thingvellir, Landmannalaugar | 23<sup>rd</sup> |
 | Ireland | Connemara, Dublín & Galway | 9<sup>th</sup> |
 | Italy | Milan (x2) & Rome | 4<sup>th</sup> |
 | Japan | Nagoya, Takayama, Shirakawa-go, Kyoto, Osaka, Hiroshima, Itsukushima, Tokyo | 22<sup>nd</sup> |
@@ -36,6 +38,7 @@ I have visited **22 out of 193** countries (among those [recognized by United Na
 | Poland | Austchwitz, Katowice (x2), Krakow, Wieliczka, Wroclaw & Zakopane | 18<sup>th</sup> |
 | Portugal | Évora, Lisboa, Sintra, Tavira, Vila Real de Santo Antonio, Vila Real, Amarante, Guimarães, Braga, Porto, Póvoa de Varzim & Bragança | 8<sup>th</sup> |
 | Romania | Bucharest | 19<sup>th</sup> |
+| Serbia | Belrade | 24<sup>th</sup> |
 | Slovakia | Bratislava | 16<sup>th</sup> |
 | Spain | _too many_ | 1<sup>st</sup> |
 | Switzerland | Aareschlucht, Almendhubel, CERN, Chillon, Geneve, Gruyeres, Interlaken, Jungfraujoch, Lausanne, Meiringen, Montreux, Mürren & Reichenbackfall | 12<sup>th</sup> |
@@ -48,10 +51,31 @@ I have visited **22 out of 193** countries (among those [recognized by United Na
 
 # In chronological order
 
+## 2025
+
+* <span>SEP</span> <p>Parc National des Pyrénees and Pays Basque (France)</p>
+  - Gavarnie, Pont d'Espagne, Capbreton, Bayonne, Biarritz, Saint-Jean-de-Luz
+* <span>AUG</span> <p>Tuscany (Italy)</p>
+  - Bologna, Firenze, Lucca, Pisa, Pistoia, Cinque Terre, Castellina in Chianti, Pienza, Montepulciano, Siena, San Gimignano
+* <span>MAY</span> <p>Current London 2025 - London (United Kingdom)</p>
+* <span>MAY</span> <p>Zona Lúdica 2025 - Málaga (Spain)</p>
+* <span>ABR</span> <p>Algeria</p>
+  - Argel, Tamanrasset, Ahaggar National Park, Tassili N'Ajjer NAtional Park, Djanet
+* <span>MAR</span> <p>Belgrade, Serbia</p>
+* <span>MAR</span> <p>Amsterdam (Netherlands)</p>
+
 ## 2024
 
+* <span>NOV</span> <p>Amsterdam (Netherlands)</p>
+* <span>NOV</span> <p>Huesca</p>
+  - Valle de Pineta, Bielsa, Escuaín, Añisclo, Punta Mondoto, Ainsa
+* <span>OCT</span> <p>Amsterdam (Netherlands)</p>
+* <span>SEP</span> <p>Iceland</p>
+  - Selfoss, Skogafoss, Thorsmork, Seljalandsfoss, Kvernufoss, Vik, Skaftafell, Jökulsárlón, Seydisfjordur, Studlagil, Dettifoss, Húsavik, Reykholt, Reykjavík, Blue Lagoon, Thingvellir, Landmannalaugar
 * <span>AUG</span> <p>Galicia (Spain)</p>
   - Ribadeo, Foz, Sargadelos, San Cibrao, Souto da Retorta, Fragas do Eume, A Coruña, Lugo
+* <span>AUG</span> <p>Tierra de Nadie 2024 - Málaga (Spain)</p>
+* <span>JUN</span> <p>Amsterdam (Netherlands)</p>
 * <span>MAY</span> <p>IV Mereth de Ithilien - Barcelona (Spain)</p>
 * <span>APR</span> <p>Zaragoza (Spain)</p>
 * <span>MAR</span> <p>Guipúzcoa, Spain</p>
