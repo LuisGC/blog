@@ -15,3 +15,12 @@ removeBlur = false
   caption = ""
   stretch = ""
 +++
+
+<!--
+<div class="slider-container">  
+  {{< image classes="image slider-item" src="" title="" >}}
+  {{< image classes="image slider-item" src="" title="" >}}
+  {{< image classes="image slider-item" src="" title="" >}}
+  {{< image classes="image slider-item" src="" title="" >}}
+</div>  
+>

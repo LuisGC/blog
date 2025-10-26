@@ -73,6 +73,7 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 * <span>SEP</span> <p>Iceland</p>
   - Selfoss, Skogafoss, Thorsmork, Seljalandsfoss, Kvernufoss, Vik, Skaftafell, Jökulsárlón, Seydisfjordur, Studlagil, Dettifoss, Húsavik, Reykholt, Reykjavík, Blue Lagoon, Thingvellir, Landmannalaugar
 * <span>AUG</span> <p>Galicia (Spain)</p>
+  - Ribadeo, Foz, Sargadelos, San Cibrao, Souto da Retorta, Fragas do Eume, A Coruña, Lugo
 * <span>AUG</span> <p>Tierra de Nadie 2024 - Málaga (Spain)</p>
 * <span>JUN</span> <p>Amsterdam (Netherlands)</p>
 * <span>MAY</span> <p>IV Mereth de Ithilien - Barcelona (Spain)</p>
