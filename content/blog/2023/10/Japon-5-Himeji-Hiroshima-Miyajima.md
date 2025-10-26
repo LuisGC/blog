@@ -71,7 +71,7 @@ Como casi todos los turistas, llegamos a la isla tomando un ferry desde el [**Pu
 A diferencia de la mayoría de turistas, nosotros decidimos pernoctar para poder disfrutar de la isla con más calma, hacer un poco de senderismo y evitar en la medida de lo posible las multitudes que suelen llegar en excursiones de un día. Eso nos permitió conocer más zonas de la isla y disfrutar de la zona del gran torii flotante con mucha menos gente y en diferentes momentos del día, diferente luz, diferente marea, etc. Sin duda es el monumento que más fotografiamos (con o sin nosotros) de todo el viaje. Para muestra, varias fotos a continuación:
 
 <div class="slider-container">  
-  {{< image classes="image slider-item" src="https://imgur.com/phwnv1f.jpeg" title="El Gran Torii nos recibió imponente" >}}
+  {{< image classes="image slider-item" src="https://imgur.com/ALVYFWq.jpeg" title="El Gran Torii nos recibió imponente" >}}
   {{< image classes="image slider-item" src="https://imgur.com/etPsnPn.jpeg" title="El Gran Torii, en modo noche" >}}
   {{< image classes="image slider-item" src="https://imgur.com/05pdQF8.jpeg" title="Vista frontal del Gran Torii desde el Santuario de Itsukushima" >}}
   {{< image classes="image slider-item" src="https://imgur.com/WABySVz.jpeg" title="El atardecer le da un toque mágico al Gran Torii" >}}
