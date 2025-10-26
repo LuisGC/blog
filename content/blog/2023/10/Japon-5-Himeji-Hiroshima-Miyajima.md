@@ -64,14 +64,34 @@ El resto de la tarde lo dedicamos a pasear por el centro de Hiroshima, visitando
 
 ### Miyajima
 
-27
-Hiking en Miyajima
+Al día siguiente nos dirigimos a la isla de **Miyajima**, conocida oficialmente como **Itsukushima**. Esta isla es famosa por su santuario sintoísta, el [**Santuario de Itsukushima**](https://maps.app.goo.gl/nvWjzC7MsjqSpgEXA), que es Patrimonio de la Humanidad por la UNESCO y es conocido por su icónico y majestuoso torii flotante de 15 metros de altura que parece flotar en el agua durante la marea alta.
 
-<!--
+Como casi todos los turistas, llegamos a la isla tomando un ferry desde el [**Puerto de Miyajimaguchi**](https://maps.app.goo.gl/xA6vFpDhGHn67yp18). El viaje en ferry es corto y ofrece vistas panorámicas de la isla y una perspectiva diferente del gran torii y de su santuario. Se puede llegar sin problemas a la terminal de ferris de Miyajimaguchi desde Hiroshima en tren, autobús e incluso tranvía.
+
+A diferencia de la mayoría de turistas, nosotros decidimos pernoctar para poder disfrutar de la isla con más calma, hacer un poco de senderismo y evitar en la medida de lo posible las multitudes que suelen llegar en excursiones de un día. Eso nos permitió conocer más zonas de la isla y disfrutar de la zona del gran torii flotante con mucha menos gente y en diferentes momentos del día, diferente luz, diferente marea, etc. Sin duda es el monumento que más fotografiamos (con o sin nosotros) de todo el viaje. Para muestra, varias fotos a continuación:
+
 <div class="slider-container">  
-  {{< image classes="image slider-item" src="" title="" >}}
-  {{< image classes="image slider-item" src="" title="" >}}
-  {{< image classes="image slider-item" src="" title="" >}}
-  {{< image classes="image slider-item" src="" title="" >}}
-</div>  
->
+  {{< image classes="image slider-item" src="https://imgur.com/phwnv1f.jpeg" title="El Gran Torii nos recibió imponente" >}}
+  {{< image classes="image slider-item" src="https://imgur.com/etPsnPn.jpeg" title="El Gran Torii, en modo noche" >}}
+  {{< image classes="image slider-item" src="https://imgur.com/05pdQF8.jpeg" title="Vista frontal del Gran Torii desde el Santuario de Itsukushima" >}}
+  {{< image classes="image slider-item" src="https://imgur.com/WABySVz.jpeg" title="El atardecer le da un toque mágico al Gran Torii" >}}
+  {{< image classes="image slider-item" src="https://imgur.com/4QKV9zG.jpeg" title="Toda esta explanada está durante gran parte del día plagada de turistas haciendo fotos" >}}
+</div>
+
+Nada más bajar del ferry, tras la inevitable primera ronda de fotos en el torii, arrancamos la ruta de senderismo que había preparado. Se trató de una ruta no muy exigente (además, nos daban lluvia) que nos llevó en [teleférico](https://maps.app.goo.gl/ZYUaY3pWA8YGFdaZ8) casi hasta a la cima del **Monte Misen**, el punto más alto de la isla, desde donde se pueden disfrutar de [vistas panorámicas espectaculares](https://maps.app.goo.gl/DNbE2MwosuUqA3RN9) de la isla y de la Bahía de Hiroshima en el Mar de Seto. Tuvimos que hacer tiempo en la estanción superior del teleférico esperando a que dejara de llover, y luego nos tocó hacer buena parte del descenso con agua, pero ibamos bien preparados para la lluvia y mereció muchísimo la pena.
+
+Durante el resto del ascenso a pie pasamos por varios templos y santuarios, entre los que destacaría el [templo budista de Misen](https://maps.app.goo.gl/PaR4rwkEFiUpLiFn9), un lugar tranquilo e idílico muy cerca del observatorio que hay en la cima. Tras la bajada, ya entrando en el pueblo de nuevo, visitamos el [**Santuario de Daisho-in**](https://maps.app.goo.gl/tKnyDn9FXavgU2z99), otro templo imprescindible de Miyajima, conocido por su impresionante arquitectura y su enclave privilegiado. En sus alrededores merece mucho la pena visitar la [cueva de Henjoku](https://maps.app.goo.gl/8yhPSmLX15SiHE1L6), de los lugares más místicos que pudimos conocer, así como un pequeño sendero con más de 500 estatuas diferentes y únicas de _Rakan_, discípulos de _Jizō_ (una deidad guardiana de viajeros y peregrinos) representados como figuras muy simpáticas de monjes budistas con gorritos, bufandas y baberos rojos.
+
+<div class="slider-container">
+  {{< image classes="image slider-item" src="https://imgur.com/QlvICkk.jpeg" title="El teleférico de Miyajima, atravesando bosques impresionantes" >}}
+  {{< image classes="image slider-item" src="https://imgur.com/eEiRjuo.jpeg" title="Uno de los templos casi en la cima del Monte Misen" >}}
+  {{< image classes="image slider-item" src="https://imgur.com/WrRzGjm.jpeg" title="La Puerta Niomon que da acceso al Monte de Misen" >}}
+  {{< image classes="image slider-item" src="https://imgur.com/HTCBetF.jpeg" title="Un rincón de la Cueva de Henjoku" >}}
+  {{< image classes="image slider-item" src="https://imgur.com/wjaPA5G.jpeg" title="Pasarelas sobre el agua en el Santuario de Itsukushima" >}}
+</div>
+
+{{< recommendation >}}
+Hay gente que se deja un pastizal por dormir en un Ryokan (posada tradicional japonesa) en Miyajima. Nosotros optamos por ahorrar un poco y a cambio seguir con la tónica de darnos un buen homenaje gastronómico. El sitio elegido fue ([**Mametanuki**](https://maps.app.goo.gl/hg2Z5t5WeeWMDAcTA)), un restaurante especializado en platos de pescado y mariscos frescos de la zona. La calidad de la comida y del sake fue excepcional y el ambiente del lugar muy acogedor. Quizá fue porque íbamos con hambre después de la caminata y de haber comido a base de bocadillos, pero disfrutamos muchísimo de la experiencia.
+{{< /recommendation >}}
+
+Sin duda, Miyajima fue uno de los puntos álgidos de nuestro viaje a Japón. La combinación de naturaleza, historia y cultura hacen de esta isla un lugar único que no os podéis perder si visitáis la región de Hiroshima.
