@@ -7,13 +7,13 @@ categories = ["post"]
 tags = ["personal", "tourism", "holidays", "history"]
 status = "published"
 [[images]]
-  src = "https://picsum.photos/880/280?blur=3"
-  alt = "2023-10-xx TBD"
-  caption = "2023-10-xx TBD - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
+  src = "https://imgur.com/uOFGA3N.jpeg"
+  alt = "2023-10-27 La Gran Puerta Torii de Miyajima"
+  caption = "2023-10-27 La Gran Puerta Torii de Miyajima - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
   stretch = ""
 +++
 
-_(tercer artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_
+_(quinto artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_
 * [Japón (I): paraíso de la tradición, la modernidad y el frikismo](/blog/2023/10/japon-1-paraiso-tradicion-modernidad-frikismo/)
 * [Japón (II): Llegada a Japón, Nagoya y Takayama](/blog/2023/10/japon-2-nagoya-takayama/)
 * [Japón (III): Kyoto](/blog/2023/10/japon-3-kyoto/)
