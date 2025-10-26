@@ -1,7 +1,7 @@
 +++
 author = "LuisGC"
 title = "Japón (V): Himeji, Hiroshima y Miyajima"
-date = "2029-10-28"
+date = "2023-10-28"
 type = "page"
 categories = ["post"]
 tags = ["personal", "tourism", "holidays", "history"]
