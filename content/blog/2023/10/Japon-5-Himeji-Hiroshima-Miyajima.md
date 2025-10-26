@@ -49,11 +49,18 @@ De nuevo, lo primero que hicimos al llegar fue buscar un lugar para comer. No mu
 
 {{< raw-video src="https://imgur.com/yWmHGm8.mp4" type="video/mp4" title="Okonomiyaki en Okonomimura" >}} 
 
-Después de comer, nos dirigimos al **Parque Conmemorativo de la Paz de Hiroshima**, un lugar dedicado a recordar a las víctimas del bombardeo atómico y promover la paz mundial. El parque alberga varios monumentos y museos, siendo el más emblemático la **Cúpula de la Bomba Atómica**, una estructura que quedó en pie tras la explosión y que ha sido preservada como símbolo de la destrucción causada por la guerra.
+Después de comer, nos dirigimos al **Parque Conmemorativo de la Paz de Hiroshima**, un lugar dedicado a recordar a las víctimas del bombardeo atómico y promover la paz mundial. El parque alberga varios monumentos y museos, siendo el más emblemático la [**Cúpula de la Bomba Atómica**](https://maps.app.goo.gl/Dv4J9JHjooYVYKgt8), también conocido como el **Monumento de la Paz**, una estructura que quedó en pie tras la explosión y que ha sido preservada como símbolo de la destrucción causada por la guerra.
 
 El museo es sobrecogedor y muy educativo, proporcionando una visión profunda de los eventos que llevaron al bombardeo, sus consecuencias y el impacto duradero en la ciudad y sus habitantes. Es un lugar que desde luego invita a la reflexión, aunque por desgracia lo visitamos un día que había mucha gente y no pudimos disfrutarlo tanto como nos hubiera gustado. Al salir nos apuntamos a un tour guiado gratuito (en inglés) por el Parque Conmemorativo. El paseo y las explicaciones estuvieron muy bien y guardo un buen recuerdo de la experiencia, entre otras cosas porque no estaba tan masificado como las salas principales del museo.
 
-El resto de la tarde lo dedicamos a pasear por el centro de Hiroshima, visitando lugares como el **Castillo de Hiroshima**.
+El resto de la tarde lo dedicamos a pasear por el centro de Hiroshima, visitando lugares como el [**Castillo de Hiroshima**](https://maps.app.goo.gl/sbeHbUsyFttfePoy9). Quizá porque ibamos con bajas expectativas, el castillo nos gustó bastante. No es tan impresionante como otros castillos japoneses pero la reconstrucción es muy fiel al original en cuanto a diseño y materiales, y el museo en su interior ofrece una buena visión de la historia de la región así como unas vistas espectaculares de la ciudad desde lo alto de la torre.
+
+<div class="slider-container">  
+  {{< image classes="image slider-item" src="https://imgur.com/Mw77rec.jpeg" title="El Monumento de la Paz de Hiroshima" >}}
+  {{< image classes="image slider-item" src="https://imgur.com/MYbYkYQ.jpeg" title="Castillo de Hiroshima, desde fuera del gran foso" >}}
+  {{< image classes="image slider-item" src="https://imgur.com/riujFiy.jpeg" title="Vestido de Samurai en el Castillo de Hiroshima" >}}
+  {{< image classes="image slider-item" src="https://imgur.com/AxNwsMM.jpeg" title="Típica carta para turistas, con algunas cosas medio traducidas al inglés" >}}
+</div>  
 
 ### Miyajima
 
