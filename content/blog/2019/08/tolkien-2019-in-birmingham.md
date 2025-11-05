@@ -4,7 +4,7 @@ title = "Tolkien 2019 in Birmingham"
 date = "2019-08-18"
 type = "post"
 categories = ["post"]
-tags = ["event", "culture", "literature", "personal", "art", "tolkien"]
+tags = ["event", "culture", "literature", "personal", "tolkien"]
 [[images]]
   src = "https://live.staticflickr.com/65535/48565095461_ea29b3021c_k.jpg"
   alt = "Tolkien 2019, the largest celebration of Tolkien ever held by the Tolkien Society"
