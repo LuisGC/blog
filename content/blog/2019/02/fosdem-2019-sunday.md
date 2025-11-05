@@ -4,7 +4,7 @@ title = "FOSDEM 2019: Sunday"
 date = "2019-02-24"
 type = "post"
 categories = ["post"]
-tags = ["event", "open-source", "technology", "linux", "programming", "internet", "culture", "computer-science", "personal"]
+tags = ["event", "open-source", "technology", "linux", "internet", "culture", "computer-science", "personal"]
 status = "published"
 [[images]]
   src = "https://farm8.staticflickr.com/7860/47207681772_102c9156fb_k.jpg"

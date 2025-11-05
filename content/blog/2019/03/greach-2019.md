@@ -4,7 +4,7 @@ title = "Greach 2019"
 date = "2019-03-30"
 type = "post"
 categories = ["post"]
-tags = ["event", "open-source", "technology", "programming", "internet", "computer-science"]
+tags = ["event", "open-source", "technology", "internet", "computer-science"]
 [[images]]
   src = "https://farm8.staticflickr.com/7814/33631536158_ccbbe9ea24_k.jpg"
   alt = "Greach Conference 2019"

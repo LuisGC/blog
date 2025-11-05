@@ -4,7 +4,7 @@ title = "Baking my Blog with JBake and GitHub"
 date = "2017-05-19"
 type = "post"
 categories = ["post"]
-tags = ["blog", "technology", "design", "programming"]
+tags = ["blog", "technology", "design"]
 status = "published"
 [[images]]
   src = "https://live.staticflickr.com/65535/48611202357_c781558dfa_o.png"
