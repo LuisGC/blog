@@ -4,7 +4,7 @@ title = "My Year 2020 in Games"
 date = "2021-01-10"
 type = "post"
 categories = ["post"]
-tags = ["games", "culture", "personal", "retrospective"]
+tags = ["games", "culture", "personal"]
 status = "published"
 [[images]]
   src = "https://i.imgur.com/VBiYSqx.png"

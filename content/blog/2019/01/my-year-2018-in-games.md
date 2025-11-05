@@ -4,7 +4,7 @@ title = "My Year 2018 in Games"
 date = "2019-01-13"
 type = "post"
 categories = ["post"]
-tags = ["games", "culture", "personal", "retrospective"]
+tags = ["games", "culture", "personal"]
 status = "published"
 [[images]]
   src = "https://farm8.staticflickr.com/7840/39765897143_cb630f9045_b.jpg"
