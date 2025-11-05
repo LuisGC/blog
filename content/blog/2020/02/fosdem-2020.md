@@ -4,7 +4,7 @@ title = "FOSDEM 2020, 20 Years of FOSDEM"
 date = "2020-02-25"
 type = "post"
 categories = ["post"]
-tags = ["event", "open-source", "technology", "culture", "computer-science", "personal"]
+tags = ["event", "open-source", "technology", "culture", "personal"]
 status = "published"
 [[images]]
   src = "https://live.staticflickr.com/65535/49585666592_700db085cf_k.jpg"

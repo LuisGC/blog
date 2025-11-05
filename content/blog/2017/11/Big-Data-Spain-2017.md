@@ -4,7 +4,7 @@ title = "Big Data Spain 2017"
 date = "2017-11-17"
 type = "post"
 categories = ["post"]
-tags = ["computer-science", "technology"]
+tags = ["technology"]
 status = "published"
 [[images]]
   src = "https://live.staticflickr.com/65535/48610717071_0c14940e6a_o.jpg"

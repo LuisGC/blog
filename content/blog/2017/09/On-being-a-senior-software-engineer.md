@@ -4,7 +4,7 @@ title = "On being a Senior Software Engineer"
 date = "2017-09-28"
 type = "post"
 categories = ["post"]
-tags = ["computer-science", "technology", "culture"]
+tags = ["technology", "culture"]
 status = "published"
 [[images]]
   src = "https://live.staticflickr.com/65535/48610381293_fb04e7594b_o.jpg"
