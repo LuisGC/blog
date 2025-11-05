@@ -4,7 +4,7 @@ title = "Japón (IV): Osaka, Universal Studios y Nara"
 date = "2023-10-24"
 type = "post"
 categories = ["post"]
-tags = ["personal", "tourism", "holidays", "history"]
+tags = ["personal", "tourism", "history"]
 status = "published"
 [[images]]
   src = "https://i.imgur.com/B2Upcqp.jpeg"

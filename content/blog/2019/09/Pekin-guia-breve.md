@@ -4,7 +4,7 @@ title = "Pekín: una guía breve"
 date = "2019-09-29"
 type = "post"
 categories = ["post"]
-tags = ["personal", "tourism", "holidays", "history"]
+tags = ["personal", "tourism", "history"]
 status = "published"
 [[images]]
   src = "https://live.staticflickr.com/65535/48813003923_398aedd7ec_h.jpg"

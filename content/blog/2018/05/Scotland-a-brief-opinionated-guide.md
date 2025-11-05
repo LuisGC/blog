@@ -4,7 +4,7 @@ title = "Scotland: a brief opinionated guide"
 date = "2018-05-27"
 type = "post"
 categories = ["post"]
-tags = ["personal", "tourism", "holidays", "history"]
+tags = ["personal", "tourism", "history"]
 status = "published"
 [[images]]
   src = "https://farm1.staticflickr.com/938/30123448178_702ab6987d_o.jpg"

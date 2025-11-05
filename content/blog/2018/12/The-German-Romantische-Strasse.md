@@ -4,7 +4,7 @@ title = "The German Romantische Strasse"
 date = "2018-12-30"
 type = "post"
 categories = ["post"]
-tags = ["personal", "tourism", "holidays", "history"]
+tags = ["personal", "tourism", "history"]
 status = "published"
 [[images]]
   src = "https://farm5.staticflickr.com/4896/31593446587_eb0c64a565_k.jpg"

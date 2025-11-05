@@ -4,7 +4,7 @@ title = "Japón (VII): Tokyo"
 date = "2029-11-05"
 type = "page"
 categories = ["post"]
-tags = ["personal", "tourism", "holidays", "history"]
+tags = ["personal", "tourism", "history"]
 status = "published"
 [[images]]
   src = "https://picsum.photos/880/280?blur=3"

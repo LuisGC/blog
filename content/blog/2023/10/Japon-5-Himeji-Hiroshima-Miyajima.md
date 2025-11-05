@@ -4,7 +4,7 @@ title = "Japón (V): Himeji, Hiroshima y Miyajima"
 date = "2023-10-28"
 type = "page"
 categories = ["post"]
-tags = ["personal", "tourism", "holidays", "history"]
+tags = ["personal", "tourism", "history"]
 status = "published"
 [[images]]
   src = "https://imgur.com/uOFGA3N.jpeg"

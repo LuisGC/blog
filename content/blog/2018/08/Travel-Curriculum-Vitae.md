@@ -4,7 +4,7 @@ title = "Featuring my new Travel Curriculum Vitae"
 date = "2018-08-26"
 type = "post"
 categories = ["post"]
-tags = ["personal", "tourism", "holidays", "history"]
+tags = ["personal", "tourism", "history"]
 status = "published"
 [[images]]
   src = "https://farm2.staticflickr.com/1856/29339852607_8debb3a60e_o.png"
