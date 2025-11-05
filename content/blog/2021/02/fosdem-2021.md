@@ -4,7 +4,7 @@ title = "FOSDEM 2021, the first virtual FOSDEM"
 date = "2021-02-07"
 type = "post"
 categories = ["post"]
-tags = ["event", "open-source", "technology", "linux", "internet", "culture", "computer-science", "personal"]
+tags = ["event", "open-source", "technology", "linux", "culture", "computer-science", "personal"]
 status = "published"
 [[images]]
   src = "https://i.imgur.com/MBUiKS3.jpg"

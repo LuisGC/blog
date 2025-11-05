@@ -4,7 +4,7 @@ title = "Congreso esLibre 2020"
 date = "2020-10-31"
 type = "post"
 categories = ["post"]
-tags = ["event", "open-source", "technology", "linux", "internet", "culture", "computer-science", "personal"]
+tags = ["event", "open-source", "technology", "linux", "culture", "computer-science", "personal"]
 status = "published"
 [[images]]
   src = "https://live.staticflickr.com/65535/50550526218_18a96fd1c3_o.png"

@@ -4,7 +4,7 @@ title = "Big Things Conference and Commit Conf 2019"
 date = "2019-12-08"
 type = "post"
 categories = ["post"]
-tags = ["event", "open-source", "technology", "internet", "computer-science"]
+tags = ["event", "open-source", "technology", "computer-science"]
 [[images]]
   src = "https://live.staticflickr.com/65535/49188308296_420b0c82e1_k.jpg"
   alt = "Finishing our talk at Big Things Conference 2019"
