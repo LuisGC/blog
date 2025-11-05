@@ -4,7 +4,7 @@ title = "Japón (I): paraíso de la tradición, la modernidad y el frikismo"
 date = "2023-10-11"
 type = "post"
 categories = ["post"]
-tags = ["personal", "tourism", "holidays", "history"]
+tags = ["personal", "tourism", "history"]
 status = "published"
 [[images]]
   src = "https://i.imgur.com/NIVvatY.jpg"

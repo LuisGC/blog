@@ -4,7 +4,7 @@ title = "Japón (VII): Tokyo"
 date = "2029-11-05"
 type = "page"
 categories = ["post"]
-tags = ["personal", "tourism", "holidays", "history"]
+tags = ["personal", "tourism", "history"]
 status = "published"
 [[images]]
   src = "https://picsum.photos/880/280?blur=3"
@@ -19,6 +19,7 @@ _(séptimo artículo sobre mi viaje a Japón, en los siguientes enlaces podéis 
 * [Japón (III): Kyoto](/blog/2023/10/japon-3-kyoto/)
 * [Japón (IV): Osaka, Universal Studios y Nara](/blog/content/blog/2023/10/japon-4-osaka-nara/)
 * [Japón (V): Himeji, Hiroshima y Miyajima](/blog/2023/10/japon-5-himeji-hiroshima-miyajima/)
+* [Japón (VI): Monte Fuji y Yokohama](/blog/2023/11/japon-6-monte-fuji-yokohama/)
 
 ### TOKYO
 

@@ -4,7 +4,7 @@ title = "Japón (II): Nagoya y Takayama"
 date = "2023-10-16"
 type = "post"
 categories = ["post"]
-tags = ["personal", "tourism", "holidays", "history"]
+tags = ["personal", "tourism", "history"]
 status = "published"
 [[images]]
   src = "https://i.imgur.com/Z8CIvCf.jpg"

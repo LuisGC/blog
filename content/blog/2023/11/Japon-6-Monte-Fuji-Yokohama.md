@@ -4,7 +4,7 @@ title = "Japón (VI): Monte Fuji y Yokohama"
 date = "2023-11-03"
 type = "page"
 categories = ["post"]
-tags = ["personal", "tourism", "holidays", "history"]
+tags = ["personal", "tourism", "history"]
 status = "published"
 [[images]]
   src = "https://imgur.com/V9O9qm4.jpeg"

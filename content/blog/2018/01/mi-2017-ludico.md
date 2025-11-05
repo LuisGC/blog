@@ -4,7 +4,7 @@ title = "Mi 2017 lúdico"
 date = "2018-01-04"
 type = "post"
 categories = ["post"]
-tags = ["games", "culture", "personal", "retrospective"]
+tags = ["games", "culture", "personal"]
 status = "published"
 [[images]]
   src = "https://live.staticflickr.com/65535/48609259967_796298865a_o.png"

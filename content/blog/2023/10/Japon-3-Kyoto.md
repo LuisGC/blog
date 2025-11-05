@@ -4,7 +4,7 @@ title = "Japón (III): Kyoto"
 date = "2023-10-22"
 type = "post"
 categories = ["post"]
-tags = ["personal", "tourism", "holidays", "history"]
+tags = ["personal", "tourism", "history"]
 status = "published"
 [[images]]
   src = "https://i.imgur.com/DGEfd31.jpg"

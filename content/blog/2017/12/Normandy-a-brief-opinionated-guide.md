@@ -4,7 +4,7 @@ title = "Normandy: a brief opinionated guide"
 date = "2017-12-13"
 type = "post"
 categories = ["post"]
-tags = ["personal", "tourism", "holidays", "history"]
+tags = ["personal", "tourism", "history"]
 status = "published"
 [[images]]
   src = "https://live.staticflickr.com/65535/48609145286_091d596859_k.jpg"

@@ -4,7 +4,7 @@ title = "FOSDEM 2018: Saturday"
 date = "2018-02-06"
 type = "post"
 categories = ["post"]
-tags = ["event", "open-source", "technology", "linux", "programming", "internet", "culture", "computer-science", "personal"]
+tags = ["event", "open-source", "technology", "culture", "personal"]
 status = "published"
 [[images]]
   src = "https://farm2.staticflickr.com/1816/42184071080_56145dbc1b_o.jpg"
