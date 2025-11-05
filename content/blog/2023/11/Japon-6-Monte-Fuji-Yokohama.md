@@ -20,13 +20,13 @@ _(sexto artículo sobre mi viaje a Japón, en los siguientes enlaces podéis lee
 * [Japón (IV): Osaka, Universal Studios y Nara](/blog/content/blog/2023/10/japon-4-osaka-nara/)
 * [Japón (V): Himeji, Hiroshima y Miyajima](/blog/2023/10/japon-5-himeji-hiroshima-miyajima/)
 
-Antes de abordar el post sobre Tokyo, voy a escribir uno intermedio sobre dos excursiones que hicimos desde la capital japonesa: una a los alrededores del Monte Fuji y otra a Yokohama.
+Antes de abordar el post sobre Tokio, voy a escribir uno intermedio sobre dos excursiones que hicimos desde la capital japonesa: una a los alrededores del Monte Fuji y otra a Yokohama.
 
 ### MONTE FUJI
 
-La excursion a los alrededores del **Monte Fuji** es una de las pocas cosas que teníamos reservadas con antelación. En lugar de pretender subir, decidimos hacer una excursión de un día para explorar la zona y disfrutar de varias vistas panorámicas del famoso Monte. Salimos muy temprano de Tokio en uno de los primeros Shinkanesen de la mañana para llegar a la estación de **Mishima**, desde donde tomamos un autobús con guía que nos llevaría a recorrer la zona.
+La excursion a los alrededores del **Monte Fuji** es una de las pocas cosas que teníamos reservadas con antelación. En lugar de pretender subir, decidimos hacer una excursión de un día para explorar la zona y disfrutar de varias vistas panorámicas del famoso Monte. Se entiende perfectamente la importancia cultural y espiritual del Monte Fuji en Japón, es muy visible desde muchos puntos del país y eso lo convierte en un símbolo nacional muy reconocido.
 
-El recorrido arrancó en la aldea de [**Oshino Hakkai**](https://maps.app.goo.gl/dPC5j4Yh9tjMC4Sx5), famosa por sus ocho estanques de agua cristalina alimentados por el deshielo del Monte Fuji. Estos estanques son considerados sagrados y ofrecen un paisaje pintoresco con el volcán de fondo. Paseamos por la parte de aldea que está más preservada, disfrutando de la tranquilidad del lugar, su arquitectura tradicional y admirando las vistas del Monte Fuji que apenas asomaba entre las nubes.
+Salimos muy temprano de Tokio en uno de los primeros Shinkanesen de la mañana para llegar a la estación de **Mishima**, desde donde tomamos un autobús con guía que nos llevaría a recorrer la zona. El recorrido arrancó en la aldea de [**Oshino Hakkai**](https://maps.app.goo.gl/dPC5j4Yh9tjMC4Sx5), famosa por sus ocho estanques de agua cristalina alimentados por el deshielo del Monte Fuji. Estos estanques son considerados sagrados y ofrecen un paisaje pintoresco con el volcán de fondo. Paseamos por la parte de aldea tradicional que está más preservada, disfrutando de la tranquilidad del lugar, su arquitectura tradicional y admirando las vistas del Monte Fuji que apenas asomaba entre las nubes.
 
 Luego continuamos hasta la [**Pagoda de Chureito**](https://maps.app.goo.gl/FU9xboamvxQH17L37), un monumento conmemorativo de la paz que ofrece una vista icónica del Monte Fuji enmarcado típicamente por cerezos en flor. Aunque en noviembre no había flores, la vista seguía siendo impresionante con un otoño que ya se notaba. Subimos los 400 escalones hasta la pagoda para disfrutar de las vistas panorámicas y tomar algunas fotos memorables, lo más memorables que pudimos ya que todo el recinto estaba lleno de turistas y el Monte Fuji seguía asomando muy tímidamente.
 
@@ -64,7 +64,7 @@ Nos dirigimos después al **Parque Yamashita**, un lugar emblemático para los h
   {{< image classes="image slider-item" src="https://imgur.com/vVf55Y5.jpeg" title="Sala de máquinas del Hikawa Maru" >}}
 </div>
 
-Después de visitar el Hikawa Maru llegamos al plato fuerte del día, entrar a la **Gundam Factory Yokohama** para ver de cerca al famoso robot gigante **Gundam RX-78F00**, una réplica a tamaño real (es decir, unos 18 metros de alto) del icónico mecha de la serie de anime "Mobile Suit Gundam". La entrada al recinto incluye el acceso al museo Gundam, donde se exhiben maquetas, arte conceptual y otros objetos relacionados con la franquicia. Además, pudimos disfrutar de una experiencia interactiva que nos permitió aprender más sobre la historia y el diseño del Gundam.
+Después de visitar el Hikawa Maru llegamos al plato fuerte del día, entrar a la [**Gundam Factory Yokohama**](https://maps.app.goo.gl/zor8cfLmGe7dZdJL6) para ver de cerca al famoso robot gigante **Gundam RX-78F00**, una réplica a tamaño real (es decir, unos 18 metros de alto) del icónico mecha de la serie de anime "Mobile Suit Gundam". La entrada al recinto incluye el acceso al museo Gundam, donde se exhiben maquetas, arte conceptual y otros objetos relacionados con la franquicia. Además, pudimos disfrutar de una experiencia interactiva que nos permitió aprender más sobre la historia y el diseño del Gundam.
 
 Hasta ahí ya molaría suficiente, pero es que además el robot **se mueve**. Durante nuestra visita pudimos presenciar varias demostraciones en las que el Gundam (siguiendo unos diálogos en japonés que no pudimos entender pero podíamos medio imaginar) realizaba ciertos movimientos como girar la cabeza, mover los brazos e incluso adoptar diferentes posturas corporales. Ver a este colosal robot en acción fue una experiencia impresionante y única que sin duda quedará grabada en nuestra memoria. Para muestra, un pequeño clip de los muchos que grabé durante la visita:
 
@@ -72,7 +72,7 @@ Hasta ahí ya molaría suficiente, pero es que además el robot **se mueve**. Du
   {{< youtube iViGXsu_7Gw >}}
 </center>
 
-Después del subidón de adrenalina que nos proporcionó el Gundam, nos dirigimos al Chinatown de Yokohama, el barrio chino más grande de Japón y uno de los más grandes del mundo. Pasear por sus calles llenas de coloridos farolillos rojos, tiendas de souvenirs y restaurantes que ofrecen auténtica comida china fue una experiencia fascinante. Nos quedamos con las ganas de comer, el día ya estaba llegando a su fin y teníamos que volver a Tokio, pero disfrutamos mucho del ambiente y la arquitectura del lugar.
+Después del subidón de adrenalina que nos proporcionó el Gundam, nos dirigimos al **Chinatown** de Yokohama, el barrio chino más grande de Japón y uno de los más grandes del mundo. Pasear por sus calles llenas de coloridos farolillos rojos, tiendas de souvenirs y restaurantes que ofrecen auténtica comida china fue una experiencia fascinante. Nos quedamos con las ganas de comer, el día ya estaba llegando a su fin y teníamos que volver a Tokio, pero disfrutamos mucho del ambiente y la arquitectura del lugar.
 
 <div class="slider-container">
   {{< image classes="image slider-item" src="https://imgur.com/bbXHiY9.jpeg" title="Ver al Gundam RX-78F00 fue increíble" >}}
