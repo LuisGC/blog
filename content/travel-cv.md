@@ -51,6 +51,11 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 
 # In chronological order
 
+## 2026
+
+* <span>JAN</span> <p>Tenerife</p>
+- Santa Cruz de Tenerife, Candelaria, San Cristóbal de La Laguna, Macizo de Anaga, Puerto de la Cruz, Masca, Los Gigantes, Puerto de Santiago, Playa de los Cristianos, El Médano, Vilaflor, Teno Rural Park and Teide National Park
+
 ## 2025
 
 * <span>SEP</span> <p>Parc National des Pyrénees and Pays Basque (France)</p>
