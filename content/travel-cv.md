@@ -24,7 +24,7 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 | Algeria | Argel, Tamanrasset, Ahaggar National Park, Tassili N'Ajjer NAtional Park, Djanet | 25<sup>th</sup> |
 | Andorra | Andorra la Vella | 2<sup>nd</sup> |
 | Austria | Romantikstrasse & Vienna | 15<sup>th</sup> |
-| Belgium | Brussels (x6) | 13<sup>th</sup> |
+| Belgium | Brussels (x7) | 13<sup>th</sup> |
 | China | Beijing & Great Wall | 20<sup>th</sup> |
 | Czech Republic | Kutná Hora & Prague (x4) | 14<sup>th</sup> |
 | France | Annecy, Auray, Bayeaux, Bordeaux, Caen, Cancale, Carcassonne, Carnac, Concarneau, Dinard, Euro Disney, Fougeres, Grenoble, Honfleur, La Loire à Vélo, Le Mans, Mont Sant Michel, Morlaix, Paris (x3), Pointe du Raz, Pont-Aven, Quimper, Rennes, Rochefort-en-Terre, Rouen, Saint Malo, Tolouse, Vannes & Vitré | 10<sup>th</sup> |
@@ -53,6 +53,8 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 
 ## 2026
 
+* <span>JAN</span> <p>Belgium</p>
+- Ghent, Bruges, Brussels, FOSDEM 2026
 * <span>JAN</span> <p>Tenerife</p>
 - Santa Cruz de Tenerife, Candelaria, San Cristóbal de La Laguna, Macizo de Anaga, Puerto de la Cruz, Masca, Los Gigantes, Puerto de Santiago, Playa de los Cristianos, El Médano, Vilaflor, Teno Rural Park and Teide National Park
 
