@@ -33,17 +33,17 @@ Por la tarde-noche habíamos reservado un free walking tour por el barrio de **G
 
 El tour consistía en un recorrido bastante agradable por el barrio de Gion, partiendo de la [estatua de **Izumo no Okuni**](https://maps.app.goo.gl/xUfEwe9Xn97M1gHSA) junto al Río Kamo. Okuni fue una actriz del siglo XVI que es considerada la creadora del **teatro Kabuki**. Llegó a dirigir una compañía de teatro compuesta exclusivamente de actrices a base de recoger por las calles a mujeres marginadas. El barrio de Gion es famoso por contener los principales sitios de _avistamiento_ de **_Maikos_** (aprendiz de Geiko) y **_Geikos_** (nombre con el que se conoce a las Geishas en Kyoto). Durante el tour nos explicaron qué diferencias hay entre maikos y geikos, nos contaron que el 99% de las que ves por la calle no son Geikos de verdad, así como bastantes historias y leyendas del barrio.
 
+{{< image classes="image central" src="https://i.imgur.com/iBs3Y9v.jpg" title="Buden (escenario) en el Parque de Maruyama" >}}
+
 Tras asomarnos un poco al [**Parque de Maruyama**](https://maps.app.goo.gl/PSYiRUxBrX5rz4oG6) para ver la pagoda del **Santuario de Yasaka**, el guía nos llevó a recorrer los callejones del **hanamachi** de **Gion Kōbu**. Un hanamachi es un área en la que las geikos siguen operando a día de hoy, y Gion Kōbu es de los pocos que siguen quedando (casi todos los que quedan están en Kyoto). En los hanamachi se concentran gran cantidad de casas de té (donde los grandes empresarios y políticos se reunen para cerrar negocios y acuerdos) y **_Okiyas_** (alojamientos de varias maikos o geishas). Un paseo muy recomendable por la noche, con o sin guía.
 
-<div class="slider-container">  
-  {{< image classes="image slider-item" src="https://i.imgur.com/lWFmoha.jpg" title="Una de las casas de té más exclusivas en la calle Hanamikoji, en Gion Kōbu" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/iBs3Y9v.jpg" title="Buden (escenario) en el Parque de Maruyama" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/M7heyki.jpg" title="Issen-Yoshoku, una variante del Okonomiyaki que se puede comer en Kyoto" >}}
-</div>  
+{{< image classes="image central" src="https://i.imgur.com/lWFmoha.jpg" title="Una de las casas de té más exclusivas en la calle Hanamikoji, en Gion Kōbu" >}}
 
 <blockquote>
 <b>Chema</b>: La cena con la variante local (y picante) de okonomiyaki fue bastante pintoresca. Además de compartir mesa por primera vez con distintos grupos de personas, cosa relativamente frecuente por allí, tuvimos que hacer de traductores/consejeros improvisados para un grupo de matrimonios españoles algo más maduros y bastante despistados. El grupo incluía a un señor que estaba totalmente convencido (yo diría que erróneamente) de que Google Translate no funcionaba bien en sus móviles. Me preguntó qué tal se las arreglaron el resto del viaje...
 </blockquote>
+
+{{< image classes="image central" src="https://i.imgur.com/M7heyki.jpg" title="Issen-Yoshoku, una variante del Okonomiyaki que se puede comer en Kyoto" >}}
 
 Al día siguiente teníamos otro free walking tour por esta zona de Kyoto, pero diurno y profundizando más en los barrios, parques y templos en la falda del Monte **Higashiyama**. Empezamos por ver de nuevo, con más detenimiento y relato por parte del guía, las calles de Shirakawa (que sigue el curso del precioso canal de **Shirakawa**) y Shinbashi, siempre pintorescas en cualquier temporada y por ello escenario elegido por muchos turistas, modelos y parejas de recién casados para hacerse fotos cuquis. En el cruce de ambas calles se encuentran el interesante altar sintoísta de de [**Tatsumi-jinja** (o **Tatsumi Dai-myojin**)](https://maps.app.goo.gl/saL6ri7obMboFJny5), y el [puente **Tatsumi bashi**](https://maps.app.goo.gl/jCKoCXPUxqrHouwn9) que es uno de los rincones más fotografiados de todo Kyoto (especialmente en Sakura). El altar está dedicado a **Benzaiten**, diosa de las artes, la elocuencia y la música. Nos contaron que las maiko (y muchos actores, incluso extranjeros) acuden allí para que les ayude en su carrera.
 
@@ -128,13 +128,17 @@ Elegimos uno de los restaurantes más tradicionales de toda la zona, [**Tsuki no
 
 ### Ryōan-ji
 
-El día siguiente fue uno de los días más completos y satisfactorios de todo el viaje. Empezamos muy temprano subiendo en autobús hasta el [**Templo budista de Ryōan-ji**](https://maps.app.goo.gl/vnMZs8bMVKcMcw4Q8), popularmente conocido por su **_Karesansui_** o jardín de rocas (uno de los más conocidos del mundo). El recinto del templo es precioso. El jardín seco nos impresionó, así como especular sobre su significado (que se desconoce). Las salas con sus paneles decorados con dragones (todos ellos con nombre propio e historia) nos alucinó, cada historia era más épica que la anterior. Pero a mí personalmente me explotó la cabeza con la **Ryoanji Chisoku no Tsukubai**.
+El día siguiente fue uno de los días más completos y satisfactorios de todo el viaje.
 
-<div class="slider-container">  
-  {{< image classes="image slider-item" src="https://i.imgur.com/CsWi1Hm.jpeg" title="25 por 10 metros exactos, para albergar quince piedras en cinco grupos" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/Y2RUx55.jpeg" title="Hic sunt dracones" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/nu0grG9.jpeg" title="Team Randi, la camiseta perfecta para este día de templos y filosofía" >}}
-</div>
+{{< image classes="image central" src="https://i.imgur.com/nu0grG9.jpeg" title="Team Randi, la camiseta perfecta para este día de templos y filosofía" >}}
+
+Empezamos muy temprano subiendo en autobús hasta el [**Templo budista de Ryōan-ji**](https://maps.app.goo.gl/vnMZs8bMVKcMcw4Q8), popularmente conocido por su **_Karesansui_** o jardín de rocas (uno de los más conocidos del mundo). El recinto del templo es precioso. El jardín seco nos impresionó, así como especular sobre su significado (que se desconoce).
+
+{{< image classes="image central" src="https://i.imgur.com/CsWi1Hm.jpeg" title="25 por 10 metros exactos, para albergar quince piedras en cinco grupos" >}}
+
+Las salas con sus paneles decorados con dragones (todos ellos con nombre propio e historia) nos alucinó, cada historia era más épica que la anterior. Pero a mí personalmente me explotó la cabeza con la **Ryoanji Chisoku no Tsukubai**.
+
+{{< image classes="image central" src="https://i.imgur.com/Y2RUx55.jpeg" title="Hic sunt dracones" >}}
 
 Un **_Tsukubai_** es una pila (generalmente de piedra) que se sitúa a la entrada de los templos de forma que los visitantes pueden lavarse las manos y enjuagar sus bocas con el fin de purificarse. El que se encuentra en Ryōan-ji tiene forma redondeada y con el cuenco central cuadrado. A cada lado del cuadrado se localizan kanjis que por sí mismos carecen de ningún significado, pero combinados con el cuadrado central de la piedra que equivale a un 口 (_kuchi_) y en la posición correspondiente a cada uno (arriba, derecha, abajo, izquierda) pasan a significar **吾 唯 足 知** o _ware, tada taru (wo) shiru_ que se puede traducir por _lo que tienes es lo que necesitas_, _aprende a estar satisfecho con lo que tienes_, o variantes mucho más poéticas como _uno ya tiene lo que necesita_. Me gustó y me resonó tanto que me habría comprado una réplica a escala real si la hubieran vendido (para tener lo que uno necesita). Como no la vendían me conformé con una réplica metálica pequeña que ya veré dónde pongo para poder cruzarme a menudo con ella.
 
@@ -142,39 +146,45 @@ Un **_Tsukubai_** es una pila (generalmente de piedra) que se sitúa a la entrad
 
 ### Kinkaku-ji
 
-Desde allí subimos al también budista [**Templo de Kinkaku-ji**](https://maps.app.goo.gl/WxNnCu17iSEbcrh3A) o _Templo del Pabellón de Oro_. El templo realmente se llama **Rokuon-ji** (_Templo del jardín de los ciervos_) pero por algún motivo la gente lo recuerda por su **Pabellón Dorado** o **_Kinkaku_**. El Pabellón no es visitable por dentro y se entiende, por lo masificado que estaba el sitio habría sido complicado. en cambio, hay un agradable paseo para que puedas fotografiarlo desde muchísimas perspectivas, incluyendo algunas bastante pintorescas desde el otro lado del pequeño lago en el que se encuentra. Mis años de jugar al baloncesto me ayudaron a hacerme hueco a base de juego de piernas (y codos, un poco) para poder tener las mejores fotos posibles en un sitio que resultó de los más concurridos de todo Kyoto.
+Desde allí subimos al también budista [**Templo de Kinkaku-ji**](https://maps.app.goo.gl/WxNnCu17iSEbcrh3A) o _Templo del Pabellón de Oro_. El templo realmente se llama **Rokuon-ji** (_Templo del jardín de los ciervos_) pero por algún motivo la gente lo recuerda por su **Pabellón Dorado** o **_Kinkaku_**.
 
-Del resto del recinto destacaría un par de ejemplos de bonsais tamaño _normal_, árboles que van guiando con andamios para que sus ramas dibujen unas formas muy específicas, y varios puntos en los que animaban a los visitantes a echar monedas en una mezcla de pozo/fuente de los deseos y petanca.
+{{< image classes="image central" src="https://i.imgur.com/yV3A0tZ.jpeg" title="Hacía un solazo tan brillante como el Kinkaku" >}}
 
-<div class="slider-container">  
-  {{< image classes="image slider-item" src="https://i.imgur.com/yV3A0tZ.jpeg" title="Hacía un solazo tan brillante como el Kinkaku" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/kAn9pxA.jpeg" title="En esta foto se aprecia muy bien el fenghuang o ave fénix dorado que corona el Kinkaku" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/yMk8MF5.jpeg" title="Técnicas de bonsai aplicadas a escala 1:1" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/zPMyePu.jpeg" title="En Japón todo adquiere un toque extra de azar y competitividad, incluso los saca-cuartos" >}}
-</div>
+El Pabellón no es visitable por dentro y se entiende, por lo masificado que estaba el sitio habría sido complicado. en cambio, hay un agradable paseo para que puedas fotografiarlo desde muchísimas perspectivas, incluyendo algunas bastante pintorescas desde el otro lado del pequeño lago en el que se encuentra. Mis años de jugar al baloncesto me ayudaron a hacerme hueco a base de juego de piernas (y codos, un poco) para poder tener las mejores fotos posibles en un sitio que resultó de los más concurridos de todo Kyoto.
+
+{{< image classes="image central" src="https://i.imgur.com/kAn9pxA.jpeg" title="En esta foto se aprecia muy bien el fenghuang o ave fénix dorado que corona el Kinkaku" >}}
+
+Del resto del recinto destacaría un par de ejemplos de bonsais tamaño _normal_, árboles que van guiando con andamios para que sus ramas dibujen unas formas muy específicas.
+
+{{< image classes="image central" src="https://i.imgur.com/yMk8MF5.jpeg" title="Técnicas de bonsai aplicadas a escala 1:1" >}}
+
+También nos llamaron la atención varios puntos en los que animaban a los visitantes a echar monedas en una mezcla de pozo/fuente de los deseos y petanca
+
+{{< image classes="image central" src="https://i.imgur.com/zPMyePu.jpeg" title="En Japón todo adquiere un toque extra de azar y competitividad, incluso los saca-cuartos" >}}
 
 ### Castillo Nijō
 
 Volvimos al centro de nuevo en autobús para detenernos en otra de las paradas obligatorias: el [**Castillo Nijō**](https://maps.app.goo.gl/zGxWJyz8gfC3ANch9), construido en el siglo XVII por el clan **Tokugawa**. El recinto de este castillo tiene poco que envidiar al Palacio Imperial de Kyoto: doble foso, altos muros, varias torres de defensa... Lo primero que se visita al entrar al recinto por la puerta Este (**Higashi Otemon**) es el fabuloso **Palacio de Ninomaru**, decorado lujosamente con múltiples grabados en madera, oro y fantásticas pinturas. Como en otros palacios similares, es muy destacable el contraste en la decoración y organización del espacio entre las salas más exteriores, accesibles por los visitantes de clases sociales más bajas, hasta las salas más interiores pensadas no solamente para presumir sino también para intimidar a los visitantes de rangos más altos. Hay hasta 33 habitaciones sobre 800 _tatami_.
 
+{{< image classes="image central" src="https://i.imgur.com/AZUbsE6.jpeg" title="La Isla Tortuga, en mitad del estanque del Jardín de Ninomaru" >}}
+
 Uno de los atractivos principales del Palacio de Ninomaru es que se trata de uno de los pocos sitios que siguen manteniendo los suelos **_uguisu-bari_** o de _ruiseñor_ en sus corredores. Se trata de una técnica de construcción aplicada por debajo de los suelos, a base de múltiples clavos sueltos que rozan con la presión, de forma que al pisar por muy sutil que seas se genera un sonido como el de un pájaro cantando. Suponía dotar al palacio de una alarma defensiva implacable y eficaz. Fue muy curioso caminar por el palacio junto a muchos otros turistas bajo un constante trinar de ruiseñores.
+
+{{< image classes="image central" src="https://i.imgur.com/8TTmuDe.jpeg" title="Me habría traído una lámpara de piedra como esa, si me entrase en la maleta" >}}
 
 Los **Jardines de Ninomaru**, el **Palacio de Honmaru**, las ruinas de la torre defensiva de **Tensyukaku**, el **Jardín de Seiryū-en**, ... muchas más cosas que merece la pena ver con calma. No se podía hacer foto en los interiores, pero de los exteriores tengo unas cuantas.
 
-<div class="slider-container">  
-  {{< image classes="image slider-item" src="https://i.imgur.com/AZUbsE6.jpeg" title="La Isla Tortuga, en mitad del estanque del Jardín de Ninomaru" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/8TTmuDe.jpeg" title="Me habría traído una lámpara de piedra como esa, si me entrase en la maleta" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/Qi5DYHC.jpeg" title="Vistas del Palacio de Honmaru desde lo alto de las ruinas de Tensyukaku" >}}
-</div>
+{{< image classes="image central" src="https://i.imgur.com/Qi5DYHC.jpeg" title="Vistas del Palacio de Honmaru desde lo alto de las ruinas de Tensyukaku" >}}
 
 ### Paseo del Filósofo
 
 Ese día lo rematamos recorriendo por la tarde el [**Paseo o Camino del Filósofo**](https://maps.app.goo.gl/EuEDXRpZL21nWPtX9), una agradable ruta a lo largo de un canal de agua rodeado principalmente de cerezos que se llamó así por dos profesores de filosofía que la recorrían a diario para reflexionar mientras hacían algo de ejercicio. Es un recorrido relativamente corto, se puede hacer en media hora larga sin pausas, pero se convierte en un plan más interesante por la cantidad y variedad de los templos que se pueden visitar a lo largo del paseo.
 
+{{< image classes="image central" src="https://i.imgur.com/c9vnlXi.jpeg" title="Posando en uno de los muchos puentes que cruzan el canal que recorre el Camino del Filósofo" >}}
+
 En nuestro caso, destacaría (y recomendaría) empezar por el [**Templo budista de Nanzen-ji**](https://maps.app.goo.gl/W2JednBGBvwTGo2fA), que incluso tiene cerca un acueducto interesante aunque no muy antiguo, y seguir el camino entrando en el [**Templo budista de Honen-in**](https://maps.app.goo.gl/7XqDkv1i8asEpGGe7), para terminar en el muy interesante y especial [**Templo de Higashiyama Jisho-ji**](https://maps.app.goo.gl/i6zweMmPaL8wNLjB6), con un jardín artístico muy original y unos miradores espectaculares.
 
 <div class="slider-container">  
-  {{< image classes="image slider-item" src="https://i.imgur.com/c9vnlXi.jpeg" title="Posando en uno de los muchos puentes que cruzan el canal que recorre el Camino del Filósofo" >}}
   {{< image classes="image slider-item" src="https://i.imgur.com/kpIXuGX.jpeg" title="Jardín seco del Templo de Nanzen-ji, escrupulosamente cuidado" >}}
   {{< image classes="image slider-item" src="https://i.imgur.com/xeCFAbk.jpeg" title="Muy fan de las lámparas de piedra, como estas del Templo de Honen-in" >}}
   {{< image classes="image slider-item" src="https://i.imgur.com/Bkclq3H.jpeg" title="Kogetsudai, en el jardín del Templo de Higashiyama Jisho-ji" >}}
