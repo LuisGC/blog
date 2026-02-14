@@ -2,7 +2,7 @@
 author = "LuisGC"
 title = "Japón (V): Himeji, Hiroshima y Miyajima"
 date = "2023-10-28"
-type = "page"
+type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
@@ -28,7 +28,7 @@ Desde Osaka, nuestro siguiente plan fue visitar **Himeji**, una ciudad famosa po
 Nada más bajar de la estación de tren nos entró algo de hambre y lo que podría haber sido un almuerzo se convirtió en una comida bastante interesante. Encontramos un restaurante cercano ([**Gokan**](https://maps.app.goo.gl/JaMwSMLcrGTntZqq9)) que ofrecía menús cerrados de platos muy originales mezclando gastronomía tradicional con toques modernos. No era barato pero la calidad de la comida y la experiencia valieron la pena. Si visitáis Himeji y valoráis más la calidad que la cantidad, os recomiendo encarecidamente probar este lugar.
 {{< /recommendation >}}
 
-Hicimos la visita guiada en inglés al complejo del castillo, y fue prácticamente una visita privada ya que sólo compartíamos guía con otra familia. El guía nos explicó la historia del castillo, su arquitectura y su importancia estratégica en la historia de Japón. Subimos a la torre principal, que ofrece vistas panorámicas de la ciudad y los alrededores. Nos gustó mucho la visita guiada, más allá de el contenido puramente histórico el guía nos contó muchas anécdotas interesantes sobre la vida en el castillo y las técnicas de defensa utilizadas en su construcción.
+Hicimos la visita guiada en inglés al complejo del castillo, y fue prácticamente una visita privada ya que sólo compartíamos guía con una familia. El guía nos explicó la historia del castillo, su arquitectura y su importancia estratégica en la historia de Japón. Subimos a la torre principal, que ofrece vistas panorámicas de la ciudad y los alrededores. Nos gustó mucho la visita guiada, más allá de el contenido puramente histórico el guía nos contó muchas anécdotas interesantes sobre la vida en el castillo y las técnicas de defensa utilizadas en su construcción.
 
 También visitamos el **Jardín de Koko-en**, un jardín tradicional japonés ubicado junto al castillo, que es un lugar perfecto para relajarse y apreciar la belleza del diseño paisajístico japonés. No estaba demasiado concurrido, lo que nos permitió disfrutar un montón del jardín y hacernos innumerables fotos.
 
