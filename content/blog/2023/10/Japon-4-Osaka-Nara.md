@@ -26,20 +26,29 @@ Debo decir que lo primero que hice al llegar fue cortarme el pelo en una barber�
 
 La primera noche no dudamos en acercarnos a conocer el famoso **Dotonbori**: un entramado de calles comerciales (mayoritariamente cubiertas) llenas de tiendas y restaurantes de todo tipo. Carteles luminosos gigantescos, fachadas con muñecos o figuras animadas, pantallas de publicidad con sonido, y en definitiva estimulos infinitos tratando de captar tu atención. Esta zona de Osaka es única, no vimos nada tan loco ni siquiera en Tokyo. La fina lluvia que caía le daba un toque Blade Runner adicional.
 
-{{< recommendation >}}
-Rematamos nuestro paseo relajado haciendo un poco de cola para cenar en un restaurante de okonomiyaki y negiyaki (especialidad de Osaka con base de puerros tiernos) con muy buenas valoraciones: [**Fukutaro**](https://maps.app.goo.gl/1bshanFAPBSL4Ebw8). Se nos fue un poco la mano con la cantidad, pero no sobró nada.
-{{< / recommendation >}}
-
 <div class="slider-container">  
   {{< image classes="image slider-item" src="https://i.imgur.com/1yPd53D.jpeg" title="El famoso cartel del corredor de Glico en Dotonbori" >}}
   {{< image classes="image slider-item" src="https://i.imgur.com/o2Gd0Cu.jpeg" title="La noria de la tienda de Don Quijote, en Dotonbori" >}}
   {{< image classes="image slider-item" src="https://i.imgur.com/Vidm6hp.jpeg" title="Llegando al puente de Ebisubashi, en Dotonbori" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/opkvo7I.jpeg" title="Okonomiyaki y Negiyaki en Fukutaro" >}}
 </div>  
 
-Al día siguiente nuestro primer destino fue visitar el **Castillo de Osaka**. El castillo en sí está reconstruido completamente y apenas contiene trazas de materiales o técnicas originales pero en cualquier caso es una visita recomendable. Está en lo alto y es inmenso, por lo que desde arriba hay unas vistas espectaculares, y dentro contiene un museo bastante interesante. El castillo está rodeado por un gran parque que también merece la pena pasear y disfrutar. Hay una parte de los jardines que requiere entrada, pero incluye alguna exposición y acceso a varias torres por lo que resulta un buen complemento a la visita al castillo principal.
+{{< recommendation >}}
+Rematamos nuestro paseo relajado haciendo un poco de cola para cenar en un restaurante de okonomiyaki y negiyaki (especialidad de Osaka con base de puerros tiernos) con muy buenas valoraciones: [**Fukutaro**](https://maps.app.goo.gl/1bshanFAPBSL4Ebw8). Se nos fue un poco la mano con la cantidad, pero no sobró nada.
+{{< / recommendation >}}
+
+{{< image classes="image central" src="https://i.imgur.com/opkvo7I.jpeg" title="Okonomiyaki y Negiyaki en Fukutaro" >}}
+
+Al día siguiente nuestro primer destino fue visitar el **Castillo de Osaka**. El castillo en sí está reconstruido completamente y apenas contiene trazas de materiales o técnicas originales pero en cualquier caso es una visita recomendable. Está en lo alto y es inmenso, por lo que desde arriba hay unas vistas espectaculares, y dentro contiene un museo bastante interesante.
+
+{{< image classes="image central" src="https://i.imgur.com/MwXwa6m.jpeg" title="Bajo la imponente fachada del Castillo de Osaka" >}}
+
+El castillo está rodeado por un gran parque que también merece la pena pasear y disfrutar. Hay una parte de los jardines que requiere entrada, pero incluye alguna exposición y acceso a varias torres por lo que resulta un buen complemento a la visita al castillo principal.
+
+{{< image classes="image central" src="https://i.imgur.com/sOXxeHN.jpeg" title="Vistas desde lo alto del Castillo de Osaka" >}}
 
 Desde el castillo bajamos en metro hasta el barrio de Tennoji Ward. Antes de recorrer sus templos decidimos parar a comer en un restaurante de soba tradicional ([**Shitennoji Hayauchi**](https://maps.app.goo.gl/Wkfue45ZJRXVJFhy7)) con buenas reseñas. En el breve rato en el que estuvimos esperando mesa entré a cotillear en una tienda de antigüedades y artículos de segunda mano y salí de allí con un juego de sake con jarrita y varios vasos hecho a mano que me encantó. La (casi centenaria) persona que me atendió puso un empeño enorme para envolver todo de forma perfecta. Si hubiera estado abierto cuando salimos de comer, creo que habría comprado más cosas.
+
+{{< image classes="image central" src="https://i.imgur.com/82Gmf2k.jpeg" title="El primer soba frío que tomé en Japón, de Shitennoji Hayauchi" >}}
 
 En esta zona visitamos los templos budistas de **Shitennoji**, incluyendo subida a una pagoda de 5 plantas, y vimos por fuera el interesante templo budista de **Isshin-ji** (no pudimos entrar por una celebración religiosa). Entramos al **Parque de Tennoji** y paseamos lo más tranquilos que pudimos porque estaba muy animado. Tenían conciertos, espectáculos de magia en algún rincón, y en general bastante gente pasando el día de picnic. En este parque vimos los campos de fútbol **Capitán Tsubasa** (la serie que en España conocemos como **Campeones: Oliver y Benji**).
 
@@ -47,22 +56,19 @@ En esta zona visitamos los templos budistas de **Shitennoji**, incluyendo subida
 <b>Chema</b>: En el parque probamos una especie de buñuelos o agujeros de donut que vendían en un puesto ambulante y que parecían bastante populares entre la gente local. La verdad es que era una especie de masa de tortita americana en forma de buñuelo, sin más, pero nos dieron energía para el resto del paseo hasta la hora de comer.
 </blockquote>
 
-<div class="slider-container">  
-  {{< image classes="image slider-item" src="https://i.imgur.com/sOXxeHN.jpeg" title="Vistas desde lo alto del Castillo de Osaka" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/MwXwa6m.jpeg" title="Bajo la imponente fachada del Castillo de Osaka" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/82Gmf2k.jpeg" title="El primer soba frío que tomé en Japón, de Shitennoji Hayauchi" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/hsOoVXR.jpeg" title="Templo budista de Shitennoji con su pagoda visitable de 5 plantas" >}}
-</div>  
+{{< image classes="image central" src="https://i.imgur.com/hsOoVXR.jpeg" title="Templo budista de Shitennoji con su pagoda visitable de 5 plantas" >}}
 
 Desde el parque atravesamos por encima el zoo de Tennoji para llegar al barrio de Shinsekai, una zona que se ha puesto de moda más recientemente y también está llena de restaurantes y tiendas, en este caso con cierta especialización en locales de azar. Este barrio es muy popular y fotogénico por su **Torre Tsūtenkaku** de 103 metros, a la que se puede subir pero nosotros no lo hicimos.
 
-Rematamos ese día en el **Osaka Craft Brewing Festival**, que se celebra una vez al año y casualmente nos pilló allí. No podíamos no ir a un festival con sake y cerveza artesanales, así como no podíamos no probar un montón de variedades (incluso de vino). El vino era malísimo y las tres o cuatro cervezas que tomamos muy normalitas, pero los sakes sí estaban muy ricos. A medida que avanzaba la noche todo nos entraba incluso mejor, por qué será. El paseo de esa noche por Dotonbori después de darlo todo en el festival fue bastante más divertido, la pena es que no encontramos ningún karaoke abierto. Lo que sí hicimos fue subir a la increíble noria que emerge de la fachada de la popular tienda **Don Quijote**. ¿Dónde más puedes encontrar una noria dentro de una tienda?
+{{< image classes="image central" src="https://i.imgur.com/DPKP2vx.jpeg" title="el onmipresente buda de la suerte de Shinsekai" >}}
 
-<div class="slider-container">  
-  {{< image classes="image slider-item" src="https://i.imgur.com/GXW6DLD.jpeg" title="Subiendo en la noria de Don Quijote, en Dotonbori" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/Ey72waz.jpeg" title="Osaka Craft Brewing Festival" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/DPKP2vx.jpeg" title="el onmipresente buda de la suerte de Shinsekai" >}}
-</div>  
+Rematamos ese día en el **Osaka Craft Brewing Festival**, que se celebra una vez al año y casualmente nos pilló allí. No podíamos no ir a un festival con sake y cerveza artesanales, así como no podíamos no probar un montón de variedades (incluso de vino). El vino era malísimo y las tres o cuatro cervezas que tomamos muy normalitas, pero los sakes sí estaban muy ricos. A medida que avanzaba la noche todo nos entraba incluso mejor, por qué será.
+
+{{< image classes="image central" src="https://i.imgur.com/Ey72waz.jpeg" title="Osaka Craft Brewing Festival" >}}
+
+El paseo de esa noche por Dotonbori después de darlo todo en el festival fue bastante más divertido, la pena es que no encontramos ningún karaoke abierto. Lo que sí hicimos fue subir a la increíble noria que emerge de la fachada de la popular tienda **Don Quijote**. ¿Dónde más puedes encontrar una noria dentro de una tienda?
+
+{{< image classes="image central" src="https://i.imgur.com/GXW6DLD.jpeg" title="Subiendo en la noria de Don Quijote, en Dotonbori" >}}
 
 Hay otras zonas interesantes en Osaka si vais con tiempo: **Nipponbashi Denden Town** y sus tiendas, la isla de **Nakanoshima** con sus jardines, o el distrito de **Umeda** con sus rascacielos.
 
@@ -78,12 +84,13 @@ El parque en general me pareció una pasada y el ambiente me encantó. Había mu
 
 Me encantaron varias atracciones: la maldición de **Sadako** (una montaña rusa con temática de **The Ring** con casi todo el recorrido en completa oscuridad), la atracción acuática (sin tener que mojarse) de **Tiburón** (muy bien preparada, creo que esta puede ser de las que te encuentras en parques de otros países), el brutal espectáculo de acción acuática basado en **WaterWorld**, y un pasaje del terror con todos los monstruos clásicos de Universal (tienen los derechos de casi todos los que se te vienen a la cabeza). Sin duda la atracción que más nos gustó fue **The Amazing Adventures of Spider-Man**, una montaña rusa en 4D que realmente era inmersivo. Leí en su día que había ganado muchísimos premios, y leo ahora con pena que [cierra a primeros de 2024 después de 20 años operativa](https://www.timeout.com/tokyo/news/universal-studios-japan-is-closing-its-long-running-spider-man-ride-in-early-2024-051723). Es la única atracción que repetimos porque a  ambos nos encantó. La atracción de Mario Kart dentro de la zona de Super Nintendo merece mención aparte. 
 
+{{< image classes="image central" src="https://i.imgur.com/YMqE4A0.jpeg" title="Con Sadako, primos hermanos" >}}
+
 También nos impresionó la zona de **Harry Potter**, aunque yo no soy muy fan y estaba demasiado petada de gente. Además, creo que esto sí lo puedes encontrar en otros Universal Studios.
 
 <div class="slider-container">  
-  {{< image classes="image slider-item" src="https://i.imgur.com/YMqE4A0.jpeg" title="Con Sadako, primos hermanos" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/b47f87y.jpeg" title="Parte del decorado de la zona Jurásica" >}}
   {{< image classes="image slider-item" src="https://i.imgur.com/EFyzNtx.jpeg" title="La impresionante área de Harry Potter" >}}
+  {{< image classes="image slider-item" src="https://i.imgur.com/b47f87y.jpeg" title="Parte del decorado de la zona Jurásica" >}}
 </div>  
 
 El acceso a la zona de Super Nintendo está mucho más restringido, ya que por temas de aforo no puedes pasar aunque tengas la entrada al parque. Requiere que hayas reservado una hora para entrar y no hay horas disponibles para que todos los visitantes del parque puedan entrar. Además, la hora para entrar sólo puede reservarse una vez has entrado al parque y tras validar tu entrada en los tornos del parque. Todo esto nos supuso bastante cabreo y frustración porque habiendo llegado a primerísima hora, sólo conseguimos entrar a la zona de Super Nintendo a última hora, ya de noche y con poco tiempo para disfrutar de esa zona.
@@ -108,7 +115,11 @@ Como decía más arriba, nosotros decidimos ir a **Nara** desde Osaka en lugar d
 
 Nara fue la capital de Japón y residencia del Emperador durante casi todo el siglo VIII, y por ello tiene bastantes lugares interesantes a lo largo de la ciudad. En cualquier caso lo que la mayor parte de la gente visita (y lo que nosotros visitamos) es el Parque de Nara, sus infinitos ciervos, sus templos y sus museos.
 
-Nada más salir de la estación, sin haber entrado en el propio Parque, ya te vas encontrando numerosos ciervos campando libre y alegremente por las aceras y los jardines. Son bastante tranquilos y te ignoran bastante, salvo que tengas chuches que puedas ofrecerle. El camino hasta llegar al parque está plagado de puestos callejeros de venta de unas galletas de tipo oblea para ciervos. La turistada típica es ofrecerle la galleta al ciervo, de forma que agache la cabeza simulando una reverencia, y en ese momento le acercas la galleta para que se la coma. La realidad es que estos ciervos se pasan el día comiendo galletas, así que es habitual que se ahorren la cortesía.
+Nada más salir de la estación, sin haber entrado en el propio Parque, ya te vas encontrando numerosos ciervos campando libre y alegremente por las aceras y los jardines.
+
+{{< image classes="image central" src="https://i.imgur.com/1iXxiU9.jpeg" title="Ciervos hasta en las jardineras" >}}
+
+Son bastante tranquilos y te ignoran bastante, salvo que tengas chuches que puedas ofrecerle. El camino hasta llegar al parque está plagado de puestos callejeros de venta de unas galletas de tipo oblea para ciervos. La turistada típica es ofrecerle la galleta al ciervo, de forma que agache la cabeza simulando una reverencia, y en ese momento le acercas la galleta para que se la coma. La realidad es que estos ciervos se pasan el día comiendo galletas, así que es habitual que se ahorren la cortesía.
 
 {{< raw-video classes="vertical" src="https://i.imgur.com/nEFLkxh.mp4" type="video/mp4" title="Claramente el de las reverencias era yo" >}} 
 
@@ -118,7 +129,11 @@ Nada más salir de la estación, sin haber entrado en el propio Parque, ya te va
 
 Es destacable (y nos encantó) el Templo budista de **Tōdai-ji**, que contiene en su interior la estatua de buda hecha de bronce más grande del mundo con casi 15 m de altura y unas 500 toneladas de peso. Junto al templo también se encuentra el Museo de Tōdai-ji que os recomiendo si tenéis tiempo, es corto y se ve bastante rápido. Contiene numerosas estatuas, esculturas y tesoros relacionados con el templo.
 
+{{< image classes="image central" src="https://i.imgur.com/C90cGUf.jpeg" title="El impresionante Templo de Tōdai-ji" >}}
+
 Si nos adentramos en el parque, llegaremos facilmente a otra de las joyas de Nara, el Templo sintoísta de **Kasuga-Taisha**. Este templo, en un estado de conservación impecable como muchos otros, destaca por su colección de innumerables farolillos, incluyendo un altar que recorres en completa oscuridad con la única luz de varias filas de farolillos. Un lugar muy especial y recomendable, tanto por sí mismo como por el camino hasta llegar a él.
+
+{{< image classes="image central" src="https://i.imgur.com/X0oUtrB.jpeg" title="Las innumerables lámparas de Kasuga-Taisha" >}}
 
 Hay otras paradas interesantes como el **Jardín Botánico**, el **Museo Nacional de Nara**, o el templo budista de **Kōfuku-ji**, del que se conserva (reconstruída muchas veces, como casi todo) una gran pagoda de 5 plantas, 
 
@@ -126,11 +141,6 @@ Hay otras paradas interesantes como el **Jardín Botánico**, el **Museo Naciona
 En Nara comimos en [**Tōdai-ji Nagomi**](https://todaiji-nagomi.com/), un sitio que nos gustó bastante y al que se puede sacar mucho partido. No era barato pero era bastante especial. La carta consiste en unos menús con más o menos platos (de 50 a 150€) y una selección de sake y whisky de lo mejor que vimos en todo el viaje. Pedimos unos menús relativamente pequeños, porque no teníamos mucha hambre, pero me quedé con ganas de darme un festín porque el sitio claramente lo merecía.
 {{< / recommendation >}}
 
-<div class="slider-container">  
-  {{< image classes="image slider-item" src="https://i.imgur.com/1iXxiU9.jpeg" title="Ciervos hasta en las jardineras" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/C90cGUf.jpeg" title="El impresionante Templo de Tōdai-ji" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/X0oUtrB.jpeg" title="Las innumerables lámparas de Kasuga-Taisha" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/QXDnGxx.jpeg" title="Menú del día versión gourmet en Tōdai-ji Nagomi, Nara" >}}
-</div>  
+{{< image classes="image central" src="https://i.imgur.com/QXDnGxx.jpeg" title="Menú del día versión gourmet en Tōdai-ji Nagomi, Nara" >}}
 
 Próximas paradas: **¡Himeji, Hiroshima y Miyajima!**
