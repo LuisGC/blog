@@ -98,6 +98,7 @@ ignoreErrors = ["error-remote-getjson"]
     rssFooter           = false
     # Sets Social Media icons to appear on the sidebar
     socialFooter        = false
+    since               = 2003
 
   [params.staticman]
     enabled             = true
