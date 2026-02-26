@@ -2,10 +2,12 @@
 author = "LuisGC"
 title = "Japón (V): Himeji, Hiroshima y Miyajima"
 date = "2023-10-28"
+description = "Desde Osaka, nuestro siguiente plan fue visitar Himeji, una ciudad famosa por su impresionante castillo conocido como el Castillo de Himeji o Castillo de la Garza Blanca debido a su elegante apariencia blanca. Este castillo es uno de los más grandes y mejor conservados de Japón, y es Patrimonio de la Humanidad por la UNESCO"
 type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
+image = "https://imgur.com/uOFGA3N.jpeg"
 [[images]]
   src = "https://imgur.com/uOFGA3N.jpeg"
   alt = "2023-10-27 La Gran Puerta Torii de Miyajima"

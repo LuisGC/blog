@@ -2,10 +2,13 @@
 author = "LuisGC"
 title = "Japón (VI): Monte Fuji y Yokohama"
 date = "2023-11-03"
+description = "Antes de abordar el post sobre Tokio, voy a escribir uno intermedio sobre dos excursiones que hicimos desde la capital japonesa: una a los alrededores del Monte Fuji y otra a Yokohama"
 type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
+image = "https://imgur.com/V9O9qm4.jpeg"
+
 [[images]]
   src = "https://imgur.com/V9O9qm4.jpeg"
   alt = "2023-11-01 Vista del Monte Fuji desde el Lago Kawaguchi"
