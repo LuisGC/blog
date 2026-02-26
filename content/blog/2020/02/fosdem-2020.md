@@ -74,7 +74,7 @@ They continued their presentation introducing some new Freedoms applicable to AI
 
 They also suggested how we, as a global community, could respect and enforce these freedoms: reproducibility, liability and responsible design, and specially human centered appealing mechanisms.
 
-{{< tweet user="mbbroberg" id="1223579974923358209" >}}
+{{< x user="mbbroberg" id="1223579974923358209" >}}
 
 [**Organizing Open Source for Cities**](https://fosdem.org/2020/schedule/event/ospoforcities/), by Jacob Green
 
@@ -99,7 +99,7 @@ We cannot settle with Open Source (as it is described today). It's necessary but
 * What do we owe to each other as people?
 * How do we evolve as a community?
 
-{{< tweet user="luiyo" id="1223903221523066880" >}}
+{{< x user="luiyo" id="1223903221523066880" >}}
 
 [**Engineers, Call Your Policy People!**](https://fosdem.org/2020/schedule/event/corppolicyteamoutreach/), by Astor Nummelin Carlberg & Paula Grzegorzewska
 
@@ -113,7 +113,7 @@ Deb Nicholson ([@baconandcoconut](https://twitter.com/baconandcoconut)), Directo
 
 Rainbow capitalism... is still capitalism. Open Source exploitation... is still exploitation. How can we fix things from the inside? Encouraging self-reporting, organizing strikes or walkouts if needed, but mainly building our own alternatives. We should bind our future and our software to ethical choices. She closed with two interesting thoughts: What policy changes are needed? Should we require ethical audits and ethical boards in the companies/projects?
 
-{{< tweet user="luiyo" id="1223917428272508928" >}}
+{{< x user="luiyo" id="1223917428272508928" >}}
 
 [**UXBOX, the time for an open source online prototyping platform has arrived**](https://fosdem.org/2020/schedule/event/uxbox_open_source_online_prototyping_platform/), by Pablo Ruiz Múzquiz
 

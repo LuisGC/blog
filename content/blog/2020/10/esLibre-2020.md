@@ -42,11 +42,11 @@ Además del factor cultural, el proyecto tiene interesantes implicaciones desde 
 
 Esta keynote fue una fantástica charla de apertura para un congreso como este.
 
-{{< tweet user="rdicosmo" id="700184001701478400" >}}
+{{< x user="rdicosmo" id="700184001701478400" >}}
 
 [**Sobre la gobernanza en lenguajes de programación**](https://propuestas.eslib.re/2020/charlas/gobernanza-lenguajes-programacion), por **un servidor**
 
-{{< tweet user="dgomezg" id="1306595952279470088" >}}
+{{< x user="dgomezg" id="1306595952279470088" >}}
 
 Me encanta esta charla. Prepararla me lleva muchísimo tiempo pero disfruto cada minuto. No me cansaré de actualizarla y repetirla siempre que perciba que sigue siendo relevante y bien recibida. Por el feedback que obtengo cada vez, diría que a la gente también le gusta mucho. En cualquier caso no espero repetirla en bastante tiempo, salvo que tenga claro que la audiencia es claramente nueva.
 
@@ -76,7 +76,7 @@ Esta charla me sorprendió muchísimo. Tenía cierto conocimiento de oídas sobr
 
 [**The Things Network**](https://www.thethingsnetwork.org/) consiste básicamente en una red global abierta basada en el protocolo [LoRaWAN](https://www.thethingsnetwork.org/docs/lorawan/). En otras palabras, es una red de dispositivos IoT desplegada y mantenida por la comunidad con muchos e interesantes casos de uso.
 
-{{< tweet user="luiyo" id="1306918777003573250" >}}
+{{< x user="luiyo" id="1306918777003573250" >}}
 
 [**Linux, The Gothic Cathedral of our times**](https://propuestas.eslib.re/2020/charlas/linux-gothic-cathedral), por Daniel Germán
 
@@ -90,7 +90,7 @@ Para Daniel Germán, las grandes catedrales de nuestro tiempo serían aquellas d
 
 {{< image classes="image central" src="https://live.staticflickr.com/65535/50550572243_a7e898151e_o.png" title="The Linux Super-Repository, by Daniel Germán" >}}
 
-{{< tweet user="luiyo" id="1307239806599135237" >}}
+{{< x user="luiyo" id="1307239806599135237" >}}
 
 [**UXBOX, la solución libre para diseño y prototipado**](https://propuestas.eslib.re/2020/charlas/uxbox-solucion-libre-dise%C3%B1o-prototipado), por Juan de la Cruz
 

@@ -18,7 +18,7 @@ For those of you who don't know [**FOSDEM**](https://fosdem.org/), I will keep m
 
 Being online, this year the interaction was limited to [**Matrix**](https://matrix.org/) and IRC [**Freenode**](https://freenode.net/) channels in parallel to the live streaming, and [**Jitsi**](https://meet.jit.si/) for the streaming. Everything is open source, and scaled amazingly.
 
-{{< tweet user="jitsinews" id="1357978829692764162" >}}
+{{< x user="jitsinews" id="1357978829692764162" >}}
 
 I already wrote about it in previous years:
 
@@ -87,7 +87,7 @@ Interesting overview about how [**Gitlab**](https://gitlab.com/) copes with thei
 
 Dave Stoker, community manager at [**MySQL**](https://www.mysql.com/), gave an historical overview of MySQL since its beginning.
 
-{{< tweet user="lefred" id="1358335694725406721" >}}
+{{< x user="lefred" id="1358335694725406721" >}}
 
 It was a nice presentation, with the sense of humor you expect in this nostalgic exercises.
 

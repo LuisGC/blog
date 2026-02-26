@@ -96,7 +96,7 @@ The slides can be found as well in the [talks](/talks) section, but again if you
 
 Again, very happy with the result and our execution, and the [feedback we are receiving](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5690945286701056/5749033075212288) is impressively positive.
 
-{{< tweet user="cesalberca" id="1197803557883465729" >}}
+{{< x user="cesalberca" id="1197803557883465729" >}}
 
 [**En un mundo hiperconectado, las bases de datos de grafos son tu arma secreta**](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5690945286701056/6331574253518848), by Javier Ramírez ([@supercoco9](https://twitter.com/supercoco9))
 
@@ -138,7 +138,7 @@ The [slides are already online](https://luiyo.net/concerning-governance-programm
 
 Again, I'm very happy with the final materials and my execution, and the attendees gave me a [extremely good feedback](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5137837183729664/5632673116585984). I'm very glad they enjoyed it as much as I did.
 
-{{< tweet user="sergio_7rc" id="1198190484834996224" >}}
+{{< x user="sergio_7rc" id="1198190484834996224" >}}
 
 [**¿Quieres un buen modelo de Machine Learning? Empieza por el procesado de datos**](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5137837183729664/5202217602646016), by Axel Blanco ([@drimmark](https://twitter.com/drimmark))
 

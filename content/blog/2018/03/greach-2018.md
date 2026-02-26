@@ -27,13 +27,13 @@ Let me summarize some of the talks I attended:
 
 Paul King, Groovy Technical Lead at [OCI](https://objectcomputing.com/), gave a good overview on the status and roadmap of the Apache Groovy language. Paul summarized the features announced for Groovy 2.5 (GA expected Q2 2018) and Groovy 2.6 / 3.0 (RC end of 2018). Apart from more (and better) AST transformations, Groovy 2.6 / 3.0 version will come with the brand new Parrot parser that brings several improvements and better Java syntax support for a lot of use cases.
 
-{{< tweet user="luiyo" id="974554994010501120" >}}
+{{< x user="luiyo" id="974554994010501120" >}}
 
 [**Building DSL using Groovy**](http://2018.greachconf.com/sessions/building-dsl-using-groovy/), by [Puneet Behl](http://2018.greachconf.com/speakers/puneet-behl/) ([@puneetbhl](https://twitter.com/puneetbhl))
 
 Puneet, Software Engineer at OCI, started with a brief introduction to DSLs, for those who are not familiar with them. He focused on the advantages of the DSLs in some use cases, allowing the Domain experts to help, validate and even code DSL expressions. After that, he showed with some examples how to create a DSL language with Groovy. The talk was nice but probably he could've made the assumption that everyone in Greach knows Groovy basics or what a DSL is.
 
-{{< tweet user="luiyo" id="974574345099141120" >}}
+{{< x user="luiyo" id="974574345099141120" >}}
 
 [**I’ve seen Grails code you wouldn’t believe…**](http://2018.greachconf.com/sessions/ive-seen-grails-code-you-wouldnt-believe/), by [Iván López](http://2018.greachconf.com/speakers/ivan-lopez/) ([@ilopmar](https://twitter.com/ilopmar))
 
@@ -43,13 +43,13 @@ Iván made, as usual, a well prepared an amusing talk about some mistakes that h
 
 I wasn't sure if Jacob's talk was going to be too basic, but knowing the speaker from other conferences I was confident that I could learn something. I was right in both assumptions, the talk was a complete review of the GString class in Groovy covering all the basic usages and the differences with the Java String class, the template engines, and the main caveats but the speaker also gave several interesting tips and tricks, and I didn't knew all of them. It was specially nice the _stripIndent_ method.
 
-{{< tweet user="jmiguel" id="974606055681462274" >}}
+{{< x user="jmiguel" id="974606055681462274" >}}
 
 [**From Functions to Monadic Style**](http://2018.greachconf.com/sessions/from-functions-to-monadic-style/), by [Dierk König](http://2018.greachconf.com/speakers/dierk-konig/) ([@mittie](https://twitter.com/mittie))
 
 Dierk's talk was mainly a live coding session. He performed an interesting exercise, typical in functional programming workshops, but with the twist of adding specific rules to the exercise in an incremental way as in a coding kata. The talk was very interesting and sometimes amusing starting with an hilarious statement: "As soon as you have understood monads, you immediately lose the ability to explain it!".
 
-{{< tweet user="greachconf" id="974633674082832384" >}}
+{{< x user="greachconf" id="974633674082832384" >}}
 
 [**Mapping a tree with Grails**](http://2018.greachconf.com/sessions/mapping-a-tree-with-grails/), by [Sergio del Amo](http://2018.greachconf.com/speakers/sergio-del-amo/) ([@sdelamo](https://twitter.com/sdelamo))
 
@@ -63,13 +63,13 @@ This talk was also very complete, describing the advantages of a reactive enviro
 
 Another hilarious moment for me came when Steve described as a reason to keep using [RabbitMQ](https://www.rabbitmq.com/) that "you don't mind being looked down upon by Kafka fans". Not related to this, but in my company we are precisely replacing RabbitMQ with [Apache Kafka](https://kafka.apache.org/) everywhere.
 
-{{< tweet user="luiyo" id="974665874572427264" >}}
+{{< x user="luiyo" id="974665874572427264" >}}
 
 [**Launching the Micro Future: Groovy, Grails and MicroNaut**](http://2018.greachconf.com/sessions/grails-keynote/), by [Graeme Rocher](http://2018.greachconf.com/speakers/graeme-rocher/) ([@graemerocher](https://twitter.com/graemerocher))
 
 Iván López warned us about this talk and it was much more that what I expected. Graeme Rocher made the worldwide presentation of [**MicroNaut**](http://micronaut.io/), an ultra-light cloud native reactive framework for the JVM. It'll be compatible with Groovy and Java, but also with other languages of the JVM like Kotlin. The first milestones will be released by Q2 2018 and the GA version is expected by the end of the year.
 
-{{< tweet user="micronautfw" id="974683748909371393" >}}
+{{< x user="micronautfw" id="974683748909371393" >}}
 
 Graeme and the rest of the OCI people have been working on this since at least 1.5 years ago. They released Grails ten years ago, so they have all our confidence and respect. The premise is that Grails, and Spring of course, were not designed for a microservices world. They come from an era without most of the things that are common nowadays: microservices, without containers,...
 
@@ -89,7 +89,7 @@ Some quick hints about MicroNaut:
 
 Graeme also commented the roadmap of Grails (4.0 version in Q4 2018). We were all just too excited with MicroNaut but he confirmed that OCI will still evolve Grails (with MicroNaut integration), and that's good news for everyone.
 
-{{< tweet user="ObjectComputing" id="974685113375248384" >}}
+{{< x user="ObjectComputing" id="974685113375248384" >}}
 
 [**Reactive Microservices with MicroNaut**](http://2018.greachconf.com/sessions/reactive-microservices-with-particle/), by [Álvaro Sánchez-Mariscal](http://2018.greachconf.com/speakers/alvaro-sanchez-mariscal/) ([@alvaro_sanchez](https://twitter.com/alvaro_sanchez))
 
@@ -105,7 +105,7 @@ Graeme gave another very good talk, this time about GORM Data Services. He expla
 
 I saw a lot of powerful features behind GORM Data Services, improving the performance and code maintenance, and simplifying amazingly the multi-tenant application development.
 
-{{< tweet user="jmiguel" id="974945350166474755" >}}
+{{< x user="jmiguel" id="974945350166474755" >}}
 
 [**101 scripts that can save you the day**](http://2018.greachconf.com/sessions/101-scripts-that-can-save-you-the-day/), by [Jorge Aguilera](http://2018.greachconf.com/speakers/jorge-aguilera/) ([@jagedn](https://twitter.com/jagedn)) and [Miguel Ángel Rueda](http://2018.greachconf.com/speakers/miguel-angel-rueda/) ([@MiguelRuGa](https://twitter.com/MiguelRuGa))
 
