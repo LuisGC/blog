@@ -9,7 +9,7 @@ disqusShortname         = "luiyologia"
 # googleAnalytics         = "UA-555064-1"
 pluralizeListTitles     = false
 disableLanguages        = [""]
-ignoreErrors = ["error-remote-getjson"]
+ignoreErrors            = ["error-remote-getjson"]
 
 [markup.goldmark.renderer]
   unsafe                = true
@@ -89,9 +89,11 @@ ignoreErrors = ["error-remote-getjson"]
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
     postAmount          = 5
     # set to show or to hide categories in the sidebar
-    categories          = false
+    categories          = true
     # Sets Categories to sort by number of posts instead of alphabetical
     categoriesByCount   = true
+    subtitle            = "The Science that studies my interests and concerns"
+#    avatar              = "/images/avatar.png"
 
   [params.footer]
     # Sets RSS icons to appear on the sidebar with the social media buttons
@@ -232,6 +234,28 @@ ignoreErrors = ["error-remote-getjson"]
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
 # and socialAppearAtBottom.
+
+[[menu.social]]
+  identifier            = "github"
+  name                  = "Github"
+  url                   = "https://github.com/luisgc"
+  params.newTab         = true
+  params.icon           = "brand-github"
+
+[[menu.social]]
+  identifier            = "linkedin"
+  name                  = "LinkedIn"
+  url                   = "https://www.linkedin.com/in/luisgc"
+  params.newTab         = true
+#  params.icon           = "brand-linkedin"
+
+[[menu.social]]
+  identifier            = "youtube"
+  name                  = "YouTube"
+  url                   = "https://youtube.com/@LuisGC_"
+  params.newTab         = true
+#  params.icon           = "brand-youtube"
+
 [social]
   # Coding Communities
   github                = "luisgc"
@@ -281,3 +305,8 @@ ignoreErrors = ["error-remote-getjson"]
   mastodon              = ""
   # Email
   email                 = "luiyologia@gmail.com"
+
+[tableOfContents]
+  endLevel              = 4
+  ordered               = true
+  startLevel            = 2
