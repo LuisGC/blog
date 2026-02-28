@@ -18,7 +18,7 @@ _(séptimo artículo sobre mi viaje a Japón, en los siguientes enlaces podéis 
 * [Japón (V): Himeji, Hiroshima y Miyajima](/blog/2023/10/japon-5-himeji-hiroshima-miyajima/)
 * [Japón (VI): Monte Fuji y Yokohama](/blog/2023/11/japon-6-monte-fuji-yokohama/)
 
-### TOKYO
+### Shinjuku
 
 Desde Miyajima, el siguiente destino era Tokyo, la capital de Japón. Para llegar a Tokyo desde Miyajima, lo más sencillo es volver a Hiroshima y coger un tren bala, el trayecto dura unas 4 horas y es una buena oportunidad para disfrutar del paisaje japonés. Fue nuestro trayecto más largo en **shinkansen** de todo el viaje, pero no se hizo nada pesado. De nuevo, habíamos enviado nuestras maletas con anterioridad a Tokyo, así que sólo llevábamos una mochila cada uno.
 
@@ -36,17 +36,29 @@ Si pasas por Shinjuku (de día o de noche) no olvides subir a la azotea del edif
 
 El broche de oro fue cruzar de nuevo el centro de la ciudad hasta llegar a la zona de **Shimbashi** para juntarnos con una pareja de amigos que en esos días estaban de luna de miel por Japón y aunque los itinerarios eran similares ese era el único día en el que coincidíamos por unas horas en la misma ciudad. El plan escogido fue entrar a un karaoke ([Big Echo Shimbashi Karasumoriguchi](https://maps.app.goo.gl/oP9Dmb9fmJ5sHWAe7)) a darlo todo. En Japón se toman en serio el karaoke, son edificios enteros que se encuentran por todas partes en ciudades grandes y en los que típicamente alquilas salas privadas de varios tamaños para cantar con tus amigos. Tienen una amplia selección de canciones en varios idiomas y un sistema de sonido de alta calidad. Desde la propia sala dispones de una pantalla táctil para seleccionar las canciones, pedir comida y bebida, y controlar el volumen y los efectos de sonido... Increíble.
 
+### Meiji Jingu, Yoyogi Park, Omotesando y Shibuya
+
+Para estos dos días habíamos cogido el hotel cerca de Roppongi para ver esta zona de la ciudad. Después de la locura de Shinjuku el plan empezó mucho más tranquilo con un paseo por el **Meiji Jingu**, un santuario sintoísta dedicado al emperador Meiji y a su esposa, la emperatriz Shoken. El santuario está rodeado por un bosque de más de 100.000 árboles, lo que lo convierte en un oasis de tranquilidad en medio de la ciudad. Es un lugar muy bonito para pasear, con una arquitectura impresionante y una atmósfera muy especial.
+
+De hecho, estaban de celebración. Los dos enormes árboles que presiden el patio del santuario parecían ser homenajeados por la comunidad local, con un montón de personas haciendo ofrendas, rezando, ... Fue una experiencia muy bonita y diferente a lo que habíamos vivido hasta entonces.
+
+Kazaridaru, ofrendas de sake a los árboles del santuario realizadas pro fabricantes todo el país. Tamibén hay muchos barriles de vino donados por bodegas europeas en honor a la apertura cultural y comercial promovida por el emperador Meiji.
+
 29
 Meiji Jingu
 Yoyogi Park
 Omotesando
 Shibuya
 
+### Mori Art Museum, National Art Center, FujiFilm Gallery y Aoyama Cemetery
+
 30
 Mori Art Museum
 National Art Center
 FujiFilm Gallery
 Aoyama Cemetery
+
+### Jardines Imperial Palace, Tokyo National Museum, Ueno Park, Yanaka, Akihabara
 
 31
 Jardines Imperial Palace
@@ -55,6 +67,8 @@ Ueno Park
 Yanaka
 Akihabara
 
+### Tsukiji Fish Market, Teatro Kabuki, Ginza shops, Kaminarimon Gate, Senso-Ji
+
 02
 Tsujiki Fish Market
 Teatro Kabuki
@@ -62,17 +76,9 @@ Ginza shops
 Kaminarimon Gate
 Senso-Ji
 
+### Imperial Palace, tienda Arquería, Akihabara
+
 04
 Imperial Palace
 Tienda Arquería
 Akihabara
-
-
-<!--
-<div class="slider-container">  
-  {{< image classes="image slider-item" src="" title="" >}}
-  {{< image classes="image slider-item" src="" title="" >}}
-  {{< image classes="image slider-item" src="" title="" >}}
-  {{< image classes="image slider-item" src="" title="" >}}
-</div>  
->
