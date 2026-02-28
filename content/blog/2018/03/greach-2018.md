@@ -27,13 +27,9 @@ Let me summarize some of the talks I attended:
 
 Paul King, Groovy Technical Lead at [OCI](https://objectcomputing.com/), gave a good overview on the status and roadmap of the Apache Groovy language. Paul summarized the features announced for Groovy 2.5 (GA expected Q2 2018) and Groovy 2.6 / 3.0 (RC end of 2018). Apart from more (and better) AST transformations, Groovy 2.6 / 3.0 version will come with the brand new Parrot parser that brings several improvements and better Java syntax support for a lot of use cases.
 
-{{< x user="luiyo" id="974554994010501120" >}}
-
 [**Building DSL using Groovy**](http://2018.greachconf.com/sessions/building-dsl-using-groovy/), by [Puneet Behl](http://2018.greachconf.com/speakers/puneet-behl/) ([@puneetbhl](https://twitter.com/puneetbhl))
 
 Puneet, Software Engineer at OCI, started with a brief introduction to DSLs, for those who are not familiar with them. He focused on the advantages of the DSLs in some use cases, allowing the Domain experts to help, validate and even code DSL expressions. After that, he showed with some examples how to create a DSL language with Groovy. The talk was nice but probably he could've made the assumption that everyone in Greach knows Groovy basics or what a DSL is.
-
-{{< x user="luiyo" id="974574345099141120" >}}
 
 [**I’ve seen Grails code you wouldn’t believe…**](http://2018.greachconf.com/sessions/ive-seen-grails-code-you-wouldnt-believe/), by [Iván López](http://2018.greachconf.com/speakers/ivan-lopez/) ([@ilopmar](https://twitter.com/ilopmar))
 
@@ -62,8 +58,6 @@ Sergio gave a complete talk reviewing the tree data structure, commenting some u
 This talk was also very complete, describing the advantages of a reactive environment, the anatomy of a reactive service and how to make the main technology choices to build a proper Reactive application. Among all the advantages described by Steve I'll highlight the optimized usage of resources, the reduction of synchronous communications and the increase of error protection due to have more decoupled and independent systems.
 
 Another hilarious moment for me came when Steve described as a reason to keep using [RabbitMQ](https://www.rabbitmq.com/) that "you don't mind being looked down upon by Kafka fans". Not related to this, but in my company we are precisely replacing RabbitMQ with [Apache Kafka](https://kafka.apache.org/) everywhere.
-
-{{< x user="luiyo" id="974665874572427264" >}}
 
 [**Launching the Micro Future: Groovy, Grails and MicroNaut**](http://2018.greachconf.com/sessions/grails-keynote/), by [Graeme Rocher](http://2018.greachconf.com/speakers/graeme-rocher/) ([@graemerocher](https://twitter.com/graemerocher))
 

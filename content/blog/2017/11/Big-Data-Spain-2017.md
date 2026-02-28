@@ -48,8 +48,6 @@ Carlos gave a technical overview of how to protecting the data and services of a
 
 Holden gave several good tips and tricks about [Apache Spark](https://spark.apache.org/) in general, and specifically about using it from outside the Java ecosystem in Python. As a Python connoisseur, but not a Spark user (yet), I just learned a couple of usable tips but the talk was great anyway and it was a pleasure to meet Holden.
 
-{{< x user="luiyo" id="931129784498782208" >}}
-
 **[Why big data didn’t end causal inference](https://www.bigdataspain.org/2017/talk/why-big-data-didnt-end-causal-inference), by [Totte Harinen](https://twitter.com/totteh) (Uber)**
 
 This talk was one of the most promising for me after reviewing the schedule a couple of days before the event. Several years ago there were rumours of the death of [causal inference](https://en.wikipedia.org/wiki/Causal_inference) at the hands of Big Data. The main reasons why Big Data might have done it are:
@@ -79,8 +77,6 @@ Tyler based his session on a very simple but interesting concept: "Tables are da
 **[The Data Errors we Make](https://www.bigdataspain.org/2017/talk/the-data-errors-we-make), by [Sean J. Taylor](https://twitter.com/seanjtaylor) (Facebook)**
 
 This was a surprisingly interesting talk, despite I entered the room with very low expectations. In summary, Sean emphasized the necessity to think about errors, to prevent them and to estimate the uncertainty based on the fact that there will always be errors. He gave several examples and some useful tips and tricks.
-
-{{< x user="luiyo" id="931480332599287808" >}}
 
 **[AI in VR](https://www.bigdataspain.org/2017/talk/tbc-michael-ludden), by [Michael Ludden](https://twitter.com/Michael_Ludden) (IBM Watson)**
 

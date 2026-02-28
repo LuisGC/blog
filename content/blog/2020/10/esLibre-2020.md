@@ -76,8 +76,6 @@ Esta charla me sorprendió muchísimo. Tenía cierto conocimiento de oídas sobr
 
 [**The Things Network**](https://www.thethingsnetwork.org/) consiste básicamente en una red global abierta basada en el protocolo [LoRaWAN](https://www.thethingsnetwork.org/docs/lorawan/). En otras palabras, es una red de dispositivos IoT desplegada y mantenida por la comunidad con muchos e interesantes casos de uso.
 
-{{< x user="luiyo" id="1306918777003573250" >}}
-
 [**Linux, The Gothic Cathedral of our times**](https://propuestas.eslib.re/2020/charlas/linux-gothic-cathedral), por Daniel Germán
 
 Otra charla interesantísima y muy recomendable, en la que el ponente desarrolla su opinión sobre la premisa lanzada por [Eric Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond) en [_The Cathedral and the Bazaar_](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar). En esta obra Raymond define básicamente dos modelos de desarrollo de software:
@@ -89,8 +87,6 @@ Ambos modelos coexisten en el software libre, siendo mucho más apropiado el seg
 Para Daniel Germán, las grandes catedrales de nuestro tiempo serían aquellas desarrolladas de forma abierta, sirviendo de referente y guía para el resto del mundo. El gran ejemplo de esto, que el ponente desarrollo con varios ejemplos y análisis, sería el [kernel de Linux](https://en.wikipedia.org/wiki/Linux_kernel). Aprendí mucho en esta charla, y me quedé con ganas de investigar más sobre aspectos como el papel del repositorio del propio Linus Torvalds en el ecosistema Linux.
 
 {{< image classes="image central" src="https://live.staticflickr.com/65535/50550572243_a7e898151e_o.png" title="The Linux Super-Repository, by Daniel Germán" >}}
-
-{{< x user="luiyo" id="1307239806599135237" >}}
 
 [**UXBOX, la solución libre para diseño y prototipado**](https://propuestas.eslib.re/2020/charlas/uxbox-solucion-libre-dise%C3%B1o-prototipado), por Juan de la Cruz
 

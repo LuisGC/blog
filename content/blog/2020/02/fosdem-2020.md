@@ -99,8 +99,6 @@ We cannot settle with Open Source (as it is described today). It's necessary but
 * What do we owe to each other as people?
 * How do we evolve as a community?
 
-{{< x user="luiyo" id="1223903221523066880" >}}
-
 [**Engineers, Call Your Policy People!**](https://fosdem.org/2020/schedule/event/corppolicyteamoutreach/), by Astor Nummelin Carlberg & Paula Grzegorzewska
 
 Astor and Paula from **OpenForum Europe** ([@OpenForumEurope](https://twitter.com/OpenForumEurope)) explained their mission, connecting FOSS communities and projects with policy makers (specially in the EU). They explained what they learned during the recent campaign against the Copyright Directive, and how they created the [**SaveCodeShare.eu**](https://www.savecodeshare.eu/) portal.
@@ -112,8 +110,6 @@ Regulations affect for profit business, but what happens with Open Source? Activ
 Deb Nicholson ([@baconandcoconut](https://twitter.com/baconandcoconut)), Director of Community Operations at **Software Freedom Conservancy** ([@conservancy](https://twitter.com/conservancy)), shared her view about ethical software in the most vindictive talk of the weekend. FOSS still depends on funding, and affinity is key. It's easy to see the [ROI](https://en.wikipedia.org/wiki/Return_on_investment) in big FOSS projects, but how can we justify (and measure) helping people as the main business model?
 
 Rainbow capitalism... is still capitalism. Open Source exploitation... is still exploitation. How can we fix things from the inside? Encouraging self-reporting, organizing strikes or walkouts if needed, but mainly building our own alternatives. We should bind our future and our software to ethical choices. She closed with two interesting thoughts: What policy changes are needed? Should we require ethical audits and ethical boards in the companies/projects?
-
-{{< x user="luiyo" id="1223917428272508928" >}}
 
 [**UXBOX, the time for an open source online prototyping platform has arrived**](https://fosdem.org/2020/schedule/event/uxbox_open_source_online_prototyping_platform/), by Pablo Ruiz Múzquiz
 
