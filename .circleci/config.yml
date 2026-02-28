@@ -113,23 +113,40 @@ jobs:
         command: |
             if [ "${CIRCLE_BRANCH}" = "master" ]; then
               echo -e "Starting to deploy to Github Pages\n"
-              cd ~/LuisGC/blog
-              # using token clone gh-pages branch
-              git clone --quiet --branch=$CIRCLE_BRANCH https://${GH_TOKEN}@github.com/$TARGET_REPO built_website > /dev/null
+
+              # Basic environment validation
+              if [ -z "${GH_TOKEN}" ] || [ -z "${TARGET_REPO}" ]; then
+                echo "ERROR: GH_TOKEN and TARGET_REPO must be set in CircleCI project settings."
+                echo "GH_TOKEN set? ->" $( [ -n "${GH_TOKEN}" ] && echo yes || echo no )
+                echo "TARGET_REPO set? ->" $( [ -n "${TARGET_REPO}" ] && echo yes || echo no )
+                exit 1
+              fi
+
+              cd ~/LuisGC/blog || exit 1
+
+              # Clone the target branch into a separate folder for deployment
+              echo "Cloning target repo: ${TARGET_REPO} (branch: ${CIRCLE_BRANCH})"
+              git clone --quiet --branch=${CIRCLE_BRANCH} https://${GH_TOKEN}@github.com/${TARGET_REPO} built_website > /dev/null || {
+                echo "ERROR: git clone failed. Check GH_TOKEN and TARGET_REPO values and permissions."; exit 1; }
 
               # go into directory and copy data we're interested in to that directory
-              cd built_website
-              echo "installing rsync..."
-              apt-get -y install rsync
+              cd built_website || exit 1
+
+              # Ensure rsync is available; install only if missing (avoids unnecessary apt runs)
+              if ! command -v rsync >/dev/null 2>&1; then
+                echo "rsync not found, installing..."
+                apt-get update && apt-get -y install rsync || { echo "Failed to install rsync"; exit 1; }
+              fi
+
               echo "rsync built code with checked out code..."
-              rsync -r --exclude=.git --exclude=CNAME --exclude=LICENSE --exclude=README.md ../$HUGO_OUTPUT_FOLDER/ .
+              rsync -r --exclude=.git --exclude=CNAME --exclude=LICENSE --exclude=README.md ../${HUGO_OUTPUT_FOLDER}/ .
 
               echo "add files to git..."
               git add -f .
               echo "commit files to git repository..."
-              if git commit -m "CircleCI build $CIRCLE_BUILD_NUM on $(date) pushed to Github Pages" ; then
+              if git commit -m "CircleCI build ${CIRCLE_BUILD_NUM} on $(date) pushed to Github Pages" ; then
                 echo "git push files with force..."
-                git push -fq origin master > /dev/null
+                git push -fq origin ${CIRCLE_BRANCH} > /dev/null
                 echo -e "Deploy completed\n"
               else
                 echo "Content not changed, nothing to deploy"
