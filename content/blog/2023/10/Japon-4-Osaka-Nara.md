@@ -6,11 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
-[[images]]
-  src = "https://i.imgur.com/B2Upcqp.jpeg"
-  alt = "Super Nintendo World"
-  caption = "Super Nintendo World - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
-  stretch = ""
+image = "https://i.imgur.com/B2Upcqp.jpeg"
 +++
 
 _(cuarto artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_

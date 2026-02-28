@@ -6,10 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "tourism"]
 status = "published"
-[[images]]
-  src = "https://live.staticflickr.com/65535/48610504063_58292fe036_o.jpg"
-  alt = "Views from the Mathemical Tower terrace in Kremsmünster Abbey"
-  caption = "Views from the Mathemical Tower terrace in Kremsmünster Abbey<br />Source: My own pictures - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
+image = "https://live.staticflickr.com/65535/48610504063_58292fe036_o.jpg"
 +++
 
 This is the second part of my chronicle about our trip through the [**Romantikstraße**](http://www.romantikstrasse.at/es/), you can read the rest here:

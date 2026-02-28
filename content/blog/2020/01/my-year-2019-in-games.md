@@ -6,11 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["games", "culture", "personal"]
 status = "published"
-[[images]]
-  src = "https://live.staticflickr.com/65535/49334930482_21e4a54749_b.jpg"
-  alt = "A tag cloud with all the boardgames that I have played in 2019"
-  caption = "A tag cloud with all the boardgames that I have played in 2019"
-  stretch = "H"
+image = "https://live.staticflickr.com/65535/49334930482_21e4a54749_b.jpg"
 +++
 
 Welcome again to this yearly post, where I try to analyze my gaming behavior during the last year. You can read about my previous years:

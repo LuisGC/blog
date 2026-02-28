@@ -6,10 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["event", "open-source", "technology", "culture", "personal"]
 status = "published"
-[[images]]
-  src = "https://farm8.staticflickr.com/7860/47207681772_102c9156fb_k.jpg"
-  alt = "Edward Betts in FOSDEM 2019 presenting his tool to link OpenStreetMap and Wikidata"
-  caption = "Edward Betts in FOSDEM 2019 presenting his tool to link OpenStreetMap and Wikidata"
+image = "https://farm8.staticflickr.com/7860/47207681772_102c9156fb_k.jpg"
 +++
 
 My Saturday finished having a great dinner with friends and lots of laughs in one of our favorite restaurants in Brussels.

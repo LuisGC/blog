@@ -6,10 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["skeptics-in-the-pub", "outreach", "event", "technology", "skepticism", "science"]
 status = "published"
-[[images]]
-  src = "https://live.staticflickr.com/65535/48610741916_a5bcb82660_o.jpg"
-  alt = "Susan Gerbic April 2015 at SJC"
-  caption = "Susan Gerbic April 2015 at SJC<br /> Source: <a href='https://commons.wikimedia.org/wiki/User:Sgerbic'>Susan Gerbic</a> @ <a href='https://commons.wikimedia.org/wiki/File:Gerbic_at_SJC.jpg'>Wikimedia Commons</a> - <a href='http://creativecommons.org/licenses/by-sa/4.0/'><i>CC BY-SA</i></a>"
+image = "https://live.staticflickr.com/65535/48610741916_a5bcb82660_o.jpg"
 +++
 
 <center><i>This entry is also published in Spanish in <a href="http://www.escepticos.es/node/5374">the website of ARP-SAPC</a></i></center><br />

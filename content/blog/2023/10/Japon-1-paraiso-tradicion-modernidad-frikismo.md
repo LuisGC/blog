@@ -6,11 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
-[[images]]
-  src = "https://i.imgur.com/NIVvatY.jpg"
-  alt = "Chema y Luiyo en Miyajima"
-  caption = "Chema y Luiyo en Miyajima - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
-  stretch = ""
+image = "https://i.imgur.com/NIVvatY.jpg"
 +++
 
 Llevaba mucho tiempo pensando en viajar a Japón, y a primeros de 2023 decidí que sería este año sí o sí. Empecé a planificar fechas y sitios a visitar y a medida que iba ~~dando envidia~~ compartiendo mis planes con mi entorno, uno de mis compañeros de trabajo y sin embargo amigo (**Chema**) me comentó: _yo también llevo tiempo queriendo ir, ¿te apetece que vayamos juntos?_ y con las mismas comenzamos a planificar el viaje para los dos.

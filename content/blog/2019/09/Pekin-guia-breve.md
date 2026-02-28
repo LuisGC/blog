@@ -6,11 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
-[[images]]
-  src = "https://live.staticflickr.com/65535/48813003923_398aedd7ec_h.jpg"
-  alt = "Quite excited to be in Tiananmen Square, and ready to discuss about Software Freedom"
-  caption = "Quite excited to be in Tiananmen Square, and ready to discuss about Software Freedom - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
-  stretch = ""
+image = "https://live.staticflickr.com/65535/48813003923_398aedd7ec_h.jpg"
 +++
 
 _**Disclaimer**: Out of necessity, this entry will be shorter than I would like (although it may not seem so) and in Spanish, despite more than 90% of my readers (according to Google Analytics) do not have Spanish as their main language. For the first time I managed to take notes during the trip and I had to limit myself to transcribe those notes._

@@ -8,11 +8,6 @@ categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
 image = "https://imgur.com/uOFGA3N.jpeg"
-[[images]]
-  src = "https://imgur.com/uOFGA3N.jpeg"
-  alt = "2023-10-27 La Gran Puerta Torii de Miyajima"
-  caption = "2023-10-27 La Gran Puerta Torii de Miyajima - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
-  stretch = ""
 +++
 
 _(quinto artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_

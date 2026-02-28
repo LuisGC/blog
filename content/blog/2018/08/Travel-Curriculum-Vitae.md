@@ -6,10 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
-[[images]]
-  src = "https://farm2.staticflickr.com/1856/29339852607_8debb3a60e_o.png"
-  alt = "My visited countries as of August 2018"
-  caption = "My visited countries as of August 2018"
+image = "https://farm2.staticflickr.com/1856/29339852607_8debb3a60e_o.png"
 +++
 
 I was eager to introduce this section on this site for a long time, after seeing it on my favorite travel blog: [**Dendarii.es**](https://dendarii.es/), written by my dearest **Yami**. Yes, it's about travels since I enjoy more and more traveling and reviewing my trips.

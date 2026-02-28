@@ -8,12 +8,6 @@ categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
 image = "https://imgur.com/V9O9qm4.jpeg"
-
-[[images]]
-  src = "https://imgur.com/V9O9qm4.jpeg"
-  alt = "2023-11-01 Vista del Monte Fuji desde el Lago Kawaguchi"
-  caption = "2023-11-01 Vista del Monte Fuji desde el Lago Kawaguchi - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
-  stretch = ""
 +++
 
 _(sexto artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_

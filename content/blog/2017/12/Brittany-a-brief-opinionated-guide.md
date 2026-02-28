@@ -6,10 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
-[[images]]
-  src = "https://live.staticflickr.com/65535/48609293977_2cc32f1872_o.jpg"
-  alt = "Vannes"
-  caption = "Vannes - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
+image = "https://live.staticflickr.com/65535/48609293977_2cc32f1872_o.jpg"
 +++
 
 As explained in the previous post, I've recently been in Normandy and Brittany with my friend **Agatha**. After publishing the first part of the trip ([**Normandy: a brief opinionated guide**](/blog/2017/12/normandy-a-brief-opinionated-guide/)) now I proceed to do the same with Brittany.

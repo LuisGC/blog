@@ -6,10 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["technology"]
 status = "published"
-[[images]]
-  src = "https://live.staticflickr.com/65535/48610717071_0c14940e6a_o.jpg"
-  alt = "Big Data Spain 2017"
-  caption = "Big Data Spain 2017"
+image = "https://live.staticflickr.com/65535/48610717071_0c14940e6a_o.jpg"
 +++
 
 Last week I attended [**Big Data Spain**](https://www.bigdataspain.org/) (BDS), a renowned event focused particularly on [Big Data](https://en.wikipedia.org/wiki/Big_data), [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning). It's a reference event about Big Data, not only in Spain but across Europe. The event is almost entirely held in English and attracts top level speakers and public.

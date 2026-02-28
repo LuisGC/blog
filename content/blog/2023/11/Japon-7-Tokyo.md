@@ -6,11 +6,7 @@ type = "page"
 categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
-[[images]]
-  src = "https://picsum.photos/880/280?blur=3"
-  alt = "2023-10-xx TBD"
-  caption = "2023-10-xx TBD - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
-  stretch = ""
+image = "https://picsum.photos/880/280?blur=3"
 +++
 
 _(séptimo artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_

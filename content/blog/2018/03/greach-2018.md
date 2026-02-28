@@ -5,10 +5,7 @@ date = "2018-03-23"
 type = "post"
 categories = ["post"]
 tags = ["event", "open-source", "technology"]
-[[images]]
-  src = "https://farm2.staticflickr.com/1796/29055005757_97973f26e6_o.jpg"
-  alt = "Greach Conference 2018"
-  caption = "Greach Conference 2018"
+image = "https://farm2.staticflickr.com/1796/29055005757_97973f26e6_o.jpg"
 +++
 
 {{< image classes="image lateral" src="https://farm2.staticflickr.com/1812/43273840094_a4955a2262_o.png" title="Greach 2018" >}}

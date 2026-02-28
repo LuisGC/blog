@@ -6,9 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["event", "open-source", "technology", "culture", "personal"]
 status = "published"
-[[images]]
-  src = "https://live.staticflickr.com/65535/50550526218_18a96fd1c3_o.png"
-  alt = "Evento social del Congreso esLibre 2020 en Mozilla Hubs"
+image = "https://live.staticflickr.com/65535/50550526218_18a96fd1c3_o.png"
 +++
 
 _**Disclaimer**: Out of necessity, this entry will be shorter than I would like and in Spanish, despite most of my readers (according to Google Analytics) do not have Spanish as their main language._
