@@ -39,8 +39,6 @@ Iván made, as usual, a well prepared an amusing talk about some mistakes that h
 
 I wasn't sure if Jacob's talk was going to be too basic, but knowing the speaker from other conferences I was confident that I could learn something. I was right in both assumptions, the talk was a complete review of the GString class in Groovy covering all the basic usages and the differences with the Java String class, the template engines, and the main caveats but the speaker also gave several interesting tips and tricks, and I didn't knew all of them. It was specially nice the _stripIndent_ method.
 
-{{< x user="jmiguel" id="974606055681462274" >}}
-
 [**From Functions to Monadic Style**](http://2018.greachconf.com/sessions/from-functions-to-monadic-style/), by [Dierk König](http://2018.greachconf.com/speakers/dierk-konig/) ([@mittie](https://twitter.com/mittie))
 
 Dierk's talk was mainly a live coding session. He performed an interesting exercise, typical in functional programming workshops, but with the twist of adding specific rules to the exercise in an incremental way as in a coding kata. The talk was very interesting and sometimes amusing starting with an hilarious statement: "As soon as you have understood monads, you immediately lose the ability to explain it!".
@@ -98,8 +96,6 @@ He also made a live demo testing some of the capabilities: service discovery, lo
 Graeme gave another very good talk, this time about GORM Data Services. He explained a lot of improvements, mainly related to joins and multi-tenancy. It was very interesting, now in my project we are analyzing the approach for a bunch of multi-tenant data bases and the talk gave me some ideas. He offered two distinct modes to tackle the multi-tenancy problems: data partitioning and isolating connections/sessions. GORM supports both approaches perfectly.
 
 I saw a lot of powerful features behind GORM Data Services, improving the performance and code maintenance, and simplifying amazingly the multi-tenant application development.
-
-{{< x user="jmiguel" id="974945350166474755" >}}
 
 [**101 scripts that can save you the day**](http://2018.greachconf.com/sessions/101-scripts-that-can-save-you-the-day/), by [Jorge Aguilera](http://2018.greachconf.com/speakers/jorge-aguilera/) ([@jagedn](https://twitter.com/jagedn)) and [Miguel Ángel Rueda](http://2018.greachconf.com/speakers/miguel-angel-rueda/) ([@MiguelRuGa](https://twitter.com/MiguelRuGa))
 

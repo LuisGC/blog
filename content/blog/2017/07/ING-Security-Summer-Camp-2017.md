@@ -40,9 +40,7 @@ Let me also say that it's worthy of praise for a company like ING to allow and p
 
 # Escape the Room
 
-Sadly I couldn't participate, but everyone said it was awesome. I'll just leave you with a glimpse:
-
-{{< x user="usr0000" id="888418392318898176" >}}
+Sadly I couldn't participate, but everyone said it was awesome.
 
 # Capture The Flag
 

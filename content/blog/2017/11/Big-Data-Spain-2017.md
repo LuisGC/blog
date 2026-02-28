@@ -28,8 +28,6 @@ Anyway, Óscar gave some interesting concepts. I specially liked the way he expl
 * Second disruption, use distributed applications via microservices
 * Third disruption, smart data centers moving first to IaaS and then to PaaS
 
-{{< x user="FOSSjunkie" id="931099635816509440" >}}
-
 **[Big Data, Analytics, and Tax Fraud](https://www.bigdataspain.org/2017/talk/big-data-and-tax-fraud) - José Borja Tomé (Agencia Tributaria)**
 
 José Borja started with the disclaimer "As you can imagine, I'm not here to show you how to pay less taxes", and just with that he got all my attention and friendship. He also explained, for the greater tranquility of the Spanish audience, that Agencia Tributaria (the Spanish Tax Agency) is trying to modernize itself in terms of combating fraud and help the tax payers fill in the required forms. He delivered this messages with some slides that looked like they were made with Office 95 but the important thing is the content, not the appearance.

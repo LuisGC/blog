@@ -138,8 +138,6 @@ The [slides are already online](https://luiyo.net/concerning-governance-programm
 
 Again, I'm very happy with the final materials and my execution, and the attendees gave me a [extremely good feedback](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5137837183729664/5632673116585984). I'm very glad they enjoyed it as much as I did.
 
-{{< x user="sergio_7rc" id="1198190484834996224" >}}
-
 [**¿Quieres un buen modelo de Machine Learning? Empieza por el procesado de datos**](https://www.koliseo.com/events/commit-2019/r4p/5106829466009600/agenda#/5137837183729664/5202217602646016), by Axel Blanco ([@drimmark](https://twitter.com/drimmark))
 
 A well structured talk, it's a pity that he did not enter into something more detailed but it's fine as the talk was labeled as _beginner_. As a suggestion to improve, sometimes the talk was more like a commercial presentation about what Keepler (his employer) offers (both to customers and engineers).
