@@ -199,8 +199,12 @@ ignoreErrors            = ["error-remote-getjson"]
   params.newTab         = true
   params.icon           = "brand-slideshare"
 
-  # Email
-  email                 = "luiyologia@gmail.com"
+[[menu.social]]
+  identifier            = "email"
+  name                  = "email"
+  url                   = "mailto:luiyologia@gmail.com"
+  params.newTab         = true
+  params.icon           = "email"
 
 [tableOfContents]
   endLevel              = 4
