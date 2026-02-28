@@ -247,14 +247,21 @@ ignoreErrors            = ["error-remote-getjson"]
   name                  = "LinkedIn"
   url                   = "https://www.linkedin.com/in/luisgc"
   params.newTab         = true
-#  params.icon           = "brand-linkedin"
+  params.icon           = "brand-linkedin"
 
 [[menu.social]]
   identifier            = "youtube"
   name                  = "YouTube"
   url                   = "https://youtube.com/@LuisGC_"
   params.newTab         = true
-#  params.icon           = "brand-youtube"
+  params.icon           = "brand-youtube"
+
+[[menu.social]]
+  identifier            = "slideshare"
+  name                  = "SlideShare"
+  url                   = "https://slideshare.com/LuisGarcaCastro"
+  params.newTab         = true
+  params.icon           = "brand-slideshare"
 
 [social]
   # Coding Communities
