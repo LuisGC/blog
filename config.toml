@@ -263,53 +263,6 @@ ignoreErrors            = ["error-remote-getjson"]
   params.newTab         = true
   params.icon           = "brand-slideshare"
 
-[social]
-  # Coding Communities
-  github                = "luisgc"
-  gitlab                = ""
-  stackoverflow         = "" # User Number
-  bitbucket             = ""
-  jsfiddle              = ""
-  codepen               = ""
-  # Visual Art Communities
-  deviantart            = ""
-  flickr                = "luiyo"
-  behance               = ""
-  dribbble              = ""
-  # Publishing Communities
-  wordpress             = ""
-  medium                = ""
-  # Professional/Business Oriented Communities
-  linkedin              = "luisgc"
-  linkedin_company      = ""
-  foursquare            = ""
-  xing                  = ""
-  slideshare            = "LuisGarcaCastro"
-  # Social Networks
-  facebook              = ""
-  googleplus            = ""
-  reddit                = "Luiyo"
-  quora                 = ""
-  youtube               = "@LuisGC_"
-  vimeo                 = ""
-  whatsapp              = "" # WhatsApp Number
-    # WeChat and QQ need testing.
-    wechat              = ""
-    qq                  = "" # User ID Number
-  instagram             = ""
-  tumblr                = ""
-  twitter               = ""
-  strava                = ""
-  skype                 = ""
-  snapchat              = ""
-  pinterest             = ""
-  telegram              = ""
-  vine                  = ""
-  googlescholar         = ""
-  orcid                 = ""
-  researchgate          = ""
-  keybase               = ""
-  mastodon              = ""
   # Email
   email                 = "luiyologia@gmail.com"
 
@@ -317,3 +270,14 @@ ignoreErrors            = ["error-remote-getjson"]
   endLevel              = 4
   ordered               = true
   startLevel            = 2
+
+[widgets]
+    homepage = [
+        { type = "search" },
+        { type = "archives", params = { limit = 5 } },
+        { type = "categories", params = { limit = 10 } },
+        { type = "tag-cloud", params = { limit = 10 } },
+    ]
+    page     = [{ type = "toc" }]
+
+  
