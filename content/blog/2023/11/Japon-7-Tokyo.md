@@ -31,8 +31,10 @@ Ya de noche seguimos nuestro paseo por Shinjuku, buscando la [enorme cabeza de *
 Después de eso, nos dirigimos a **Omoide Yokocho**, una callejuela llena de pequeños bares y restaurantes donde se puede disfrutar de la comida japonesa más tradicional. Es un lugar muy pintoresco, calles estrechas, luces tenues, carteles sólo en japonés... Puedo reconocer su encanto pero estaba demasiado masificado y no nos apetecía nada quedarnos allí a cenar, así que seguimos nuestro paseo por la zona buscando un sitio apetecible.
 
 {{< recommendation >}}
-El broche de oro de la noche fue subir a la azotea del edificio del **Tokyo Metropolitan Government Building**, desde donde se pueden disfrutar de unas vistas impresionantes de la ciudad. Es un lugar gratuito, así que no hay excusa para no subir.  Fue una experiencia increíble, una forma perfecta de terminar nuestro primer día en Tokyo.
+Si pasas por Shinjuku (de día o de noche) no olvides subir a la azotea del edificio del **Tokyo Metropolitan Government Building**, desde donde se pueden disfrutar de unas vistas impresionantes de la ciudad. Es un lugar gratuito y la experiencia es increíble, con unas vistas privilegiadas de la ciudad.
 {{< / recommendation >}}
+
+El broche de oro fue cruzar de nuevo el centro de la ciudad hasta llegar a la zona de **Shimbashi** para juntarnos con una pareja de amigos que en esos días estaban de luna de miel por Japón y aunque los itinerarios eran similares ese era el único día en el que coincidíamos por unas horas en la misma ciudad. El plan escogido fue entrar a un karaoke ([Big Echo Shimbashi Karasumoriguchi](https://maps.app.goo.gl/oP9Dmb9fmJ5sHWAe7)) a darlo todo. En Japón se toman en serio el karaoke, son edificios enteros que se encuentran por todas partes en ciudades grandes y en los que típicamente alquilas salas privadas de varios tamaños para cantar con tus amigos. Tienen una amplia selección de canciones en varios idiomas y un sistema de sonido de alta calidad. Desde la propia sala dispones de una pantalla táctil para seleccionar las canciones, pedir comida y bebida, y controlar el volumen y los efectos de sonido... Increíble.
 
 29
 Meiji Jingu
