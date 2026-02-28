@@ -71,7 +71,7 @@ jobs:
     - run:
         name: "Build Website With Hugo"
         command: |
-          hugo -v --destination="${HUGO_OUTPUT_FOLDER}" --cleanDestinationDir --baseURL="${BASE_URL}"
+          hugo --destination="${HUGO_OUTPUT_FOLDER}" --cleanDestinationDir --baseURL="${BASE_URL}"
 
     # Save dependency cache
     - save_cache:
