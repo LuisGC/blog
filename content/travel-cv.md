@@ -21,28 +21,28 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 
 | Country | Main visited places (x times) | Visiting order |
 |---|---|---|
-| Algeria | Argel, Tamanrasset, Ahaggar National Park, Tassili N'Ajjer NAtional Park, Djanet | 25<sup>th</sup> |
+| Algeria | Ahaggar National Park, Argel, Djanet, Tamanrasset, Tassili N'Ajjer National Park | 25<sup>th</sup> |
 | Andorra | Andorra la Vella | 2<sup>nd</sup> |
 | Austria | Romantikstrasse & Vienna | 15<sup>th</sup> |
-| Belgium | Brussels (x7) | 13<sup>th</sup> |
+| Belgium | Bruges, Brussels (x7) & Ghent | 13<sup>th</sup> |
 | China | Beijing & Great Wall | 20<sup>th</sup> |
 | Czech Republic | Kutná Hora & Prague (x4) | 14<sup>th</sup> |
 | France | Annecy, Auray, Bayeaux, Bordeaux, Caen, Cancale, Carcassonne, Carnac, Concarneau, Dinard, Euro Disney, Fougeres, Grenoble, Honfleur, La Loire à Vélo, Le Mans, Mont Sant Michel, Morlaix, Paris (x3), Pointe du Raz, Pont-Aven, Quimper, Rennes, Rochefort-en-Terre, Rouen, Saint Malo, Tolouse, Vannes & Vitré | 10<sup>th</sup> |
-| Germany | Aachen, Augsburg, Bad Mergentheim, Berlin, Bonn, Cologne, Dachau, Dinkelsbühl, Donauwörth, Düsseldorf, Feuchtwangen, Füssen, Landsberg am Lech, Munich, Nördlingen, Nuremberg, Potsdam, Rothenburg ob der Tauber, Röttingen, Schwangau, Tauberbischofsheim, Weikersheim & Würzburg | 3<sup>rd</sup> |
+| Germany | Aachen, Augsburg, Bad Mergentheim, Berlin, Bonn, Cologne, Dachau, Dinkelsbühl, Donauwörth, Düsseldorf, Feuchtwangen, Frankfurt am Main, Füssen, Landsberg am Lech, Munich, Nördlingen, Nuremberg, Potsdam, Rothenburg ob der Tauber, Röttingen, Schwangau, Tauberbischofsheim, Weikersheim & Würzburg | 3<sup>rd</sup> |
 | Hungary | Budapest | 17<sup>th</sup> |
-| Iceland | Selfoss, Skogafoss, Thorsmork, Seljalandsfoss, Kvernufoss, Vik, Skaftafell, Jökulsárlón, Seydisfjordur, Studlagil, Dettifoss, Húsavik, Reykholt, Reykjavík, Blue Lagoon, Thingvellir, Landmannalaugar | 23<sup>rd</sup> |
+| Iceland | Blue Lagoon, Dettifoss, Húsavik, Jökulsárlón, Kvernufoss, Landmannalaugar, Reykholt, Reykjavík, Selfoss, Seljalandsfoss, Seydisfjordur, Skaftafell, Skogafoss, Studlagil, Thingvellir, Thorsmork & Vik | 23<sup>rd</sup> |
 | Ireland | Connemara, Dublín & Galway | 9<sup>th</sup> |
 | Italy | Milan (x2) & Rome | 4<sup>th</sup> |
-| Japan | Nagoya, Takayama, Shirakawa-go, Kyoto, Osaka, Hiroshima, Itsukushima, Tokyo | 22<sup>nd</sup> |
+| Japan | Hiroshima, Itsukushima, Kyoto, Nagoya, Osaka, Shirakawa-go, Takayama & Tokyo | 22<sup>nd</sup> |
 | Netherlands | Amsterdam (x12), Edam, Haarlem (x3), Marken, Noordwijk, Rotterdam (x2), Utrecht & Volendam | 6<sup>th</sup> |
 | Poland | Austchwitz, Katowice (x2), Krakow, Wieliczka, Wroclaw & Zakopane | 18<sup>th</sup> |
-| Portugal | Évora, Lisboa, Sintra, Tavira, Vila Real de Santo Antonio, Vila Real, Amarante, Guimarães, Braga, Porto, Póvoa de Varzim & Bragança | 8<sup>th</sup> |
+| Portugal | Amarante, Braga, Bragança, Évora, Guimarães, Lisboa, Porto, Póvoa de Varzim, Sintra, Tavira, Vila Real & Vila Real de Santo Antonio | 8<sup>th</sup> |
 | Romania | Bucharest | 19<sup>th</sup> |
 | Serbia | Belrade | 24<sup>th</sup> |
 | Slovakia | Bratislava | 16<sup>th</sup> |
 | Spain | _too many_ | 1<sup>st</sup> |
 | Switzerland | Aareschlucht, Almendhubel, CERN, Chillon, Geneve, Gruyeres, Interlaken, Jungfraujoch, Lausanne, Meiringen, Montreux, Mürren & Reichenbackfall | 12<sup>th</sup> |
-| United Kingdom | Balloch, Bath, Birmingham, Blenheim Palace, Bristol, Cambridge, Cawdor, Cromarty, Durham, Edinburgh, Glasgow, Glencoe Valley, Inverness, Isle of Skye, Loch Ness, London (x5), Luss, Manchester, Newcastle upon Tyne, Oban, Pitlochry, Oxford (x2), Stirling, Stonehenge & Taunton (x3) | 7<sup>th</sup> |
+| United Kingdom | Balloch, Bath, Birmingham, Blenheim Palace, Bristol, Cambridge, Cawdor, Cromarty, Durham, Edinburgh, Glasgow, Glencoe Valley, Inverness, Isle of Skye, Loch Ness, London (x5), Luss, Manchester, Newcastle upon Tyne, Oban, Oxford (x2), Pitlochry, Stirling, Stonehenge & Taunton (x3) | 7<sup>th</sup> |
 | United Republic of Tanzania | Tarangire National Park, Serengeti National Park & Ngorongoro Conservation Area | 21<sup>st</sup> |
 | United States | New York & Washington D.C. | 11<sup>th</sup> |
 | Vatican City State | Vatican City | 5<sup>th</sup> |
@@ -53,6 +53,7 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 
 ## 2026
 
+* <span>MAR</span> <p>Frankfurt am Main (Germany)</p>
 * <span>JAN</span> <p>Belgium</p>
   - Ghent, Bruges, Brussels, FOSDEM 2026
 * <span>JAN</span> <p>Tenerife</p>
