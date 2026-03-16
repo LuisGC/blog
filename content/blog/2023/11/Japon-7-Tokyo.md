@@ -44,11 +44,15 @@ En nuestro paseo también cruzamos _Kazaridaru_, que son barriles de sake decora
 
 Continuamos con el plan tranquilo y nos dirigimos a **Yoyogi Park**, un parque enorme que se encuentra justo al lado del Meiji Jingu. Es un lugar muy popular entre los locales para hacer deporte, pasear, hacer picnic... En nuestro caso vimos a varias personas haciendo tai chi o similar, pero principalmente vimos gente en general disfrutando del buen tiempo.
 
-29
-Meiji Jingu
-Yoyogi Park
-Omotesando
-Shibuya
+De vuelta a la ciudad, nos dirigimos a **Omotesando**, una de las calles más elegantes y exclusivas de Tokyo, conocida por sus tiendas de lujo, sus boutiques de moda y su arquitectura impresionante. Es un lugar perfecto para pasear, hacer compras o simplemente disfrutar del ambiente. Aprovechamos para visitar algunas tiendas de cosas de anime, manga y videojuegos, aunque no compramos nada (creo recordar).
+
+También por esa zona recorrimos **Takeshita Street**, que es una calle peatonal muy popular entre los jóvenes, llena de tiendas de moda, accesorios y comida. Es un lugar muy colorido y animado, con un ambiente muy juvenil y moderno. Es un lugar perfecto para ver las últimas tendencias de la moda japonesa y disfrutar de la cultura pop. En varios rincones tenían fachadas rotuladas tipo _photo-call_ con personajes de anime, manga o videojuegos, y la gente se paraba a hacerse fotos.
+
+Quisimos entrar al **Ōta Memorial Museum of Art**, un museo dedicado al arte tradicional japonés _Ukiyo-e_, con una colección impresionante de cerámica, textiles, pinturas y esculturas. Por desgracia estaba cerrado por reformas, así que nos quedamos con las ganas de verlo por dentro. Después de un paseo por el precioso **Cementerio de Aoyama**, para resarcirnos entramos al **Taro Okamoto Museum of Art**, un museo dedicado a la obra del artista japonés Taro Okamoto, conocido por su estilo vanguardista y su enfoque en temas sociales y políticos. El museo tiene una colección impresionante de pinturas, esculturas y obras de arte contemporáneo. Es un lugar muy interesante para visitar si te interesa el arte moderno japonés.
+
+Terminamos un día muy intenso con una visita a **Shibuya**, uno de los barrios más famosos de Tokyo conocido por su famoso cruce peatonal, sus tiendas de moda y su vida nocturna. Os sonará el cruce de Shibuya porque es uno de los lugares más icónicos de Tokyo, donde cientos de personas cruzan al mismo tiempo desde todas las direcciones. Después de cruzar varias veces y hacernos varias fotos y vídeos, nos dirigimos a la zona de tiendas, una de las más afamadas de la ciudad. Hay para todos los gustos, yo destacaría las que visitamos: la tienda oficial de **Nintendo** (que vende todo tipo de productos relacionados con la marca, desde consolas hasta juegos, ropa y accesorios) y **Mandarake Shibuya**, una tienda de segunda mano especializada en manga, anime y videojuegos. La zona en general es un lugar increíble para los fans de la cultura pop japonesa, con una gran cantidad de productos raros y difíciles de encontrar.
+
+Por desgracia no pudimos ver la **Estatua de Hachiko**, el perro más famoso de Japón, que se encuentra justo al lado del cruce de Shibuya. La estatua es un homenaje a la lealtad y el amor incondicional de Hachiko hacia su dueño, y es un lugar muy popular entre los turistas y los locales. Sin embargo, estaba en obras durante nuestra visita, así que no pudimos verla.
 
 ### Mori Art Museum, National Art Center, FujiFilm Gallery y Aoyama Cemetery
 
