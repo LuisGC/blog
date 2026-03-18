@@ -26,15 +26,23 @@ Al llegar a Tokyo también nos llevó un rato llegar al hotel para hacer el chec
 
 El contraste con Miyajima no podía ser más grande, de repente nos encontrábamos en una ciudad enorme, con rascacielos mires donde mires, luces de neón, gente por todas partes y un ambiente completamente diferente al que habíamos vivido hasta entonces. Lo primero que hicimos para aclimatarnos fue entrar a uno de los múltiples edificios que hay que son salones recreativos, con máquinas de videojuegos, máquinas de _gashapon_ (máquinas expendedoras de cápsulas con juguetes dentro) y todo tipo de entretenimientos. Cada planta del edificio estaba dedicada a un tipo de juego diferente, había una planta con máquinas de baile, otra con máquinas de disparos, otra con máquinas de carreras... y así hasta el infinito. No pudimos resistir la tentación de jugar a alguna máquina, aunque como el resto del viaje evitamos gastar en las que se basan en el azar o los premios sorpresa.
 
+{{< image classes="image central" src="/img/2023/11/Tokyo-Shinjuku.jpg" title="De lo poco que podíamos jugar sin entender nada de lo que ponía en pantalla" >}}
+
 Ya de noche seguimos nuestro paseo por Shinjuku, buscando la [enorme cabeza de **Godzilla**](https://maps.app.goo.gl/UzAi3jbLW3w2BUHK8) que asoma por encima de uno de los edificios. Es un lugar muy turístico, pero también es un símbolo de la ciudad y no podíamos irnos sin verlo. Lo cierto es que la zona es tan alucinante que no es lo único que llama la atención. Una cosa que nos explotó la cabeza fue la cantidad de carteles publicitarios que había por todas partes, con anuncios de todo tipo, desde productos de consumo hasta espectáculos y eventos. Había incluso camiones con pantallas gigantes y altavoces enormes, altavoces en los pasos de cebra en los que sonaba la música del anuncio que tenías enfrente a varios metros, ... Todo ruido y luces, que claramente no será del gusto de todos los públicos.
 
 Después de eso, nos dirigimos a [**Omoide Yokocho**](https://maps.app.goo.gl/ZDpxJvYrALUDz59s9), una callejuela llena de pequeños bares y restaurantes donde se puede disfrutar de la comida japonesa más tradicional. Es un lugar muy pintoresco, calles estrechas, luces tenues, carteles sólo en japonés... Puedo reconocer su encanto pero estaba demasiado masificado y no nos apetecía nada quedarnos allí a cenar, así que seguimos nuestro paseo por la zona buscando un sitio apetecible.
 
+{{< image classes="image vertical" src="/img/2023/11/Tokyo-Omoide-Yokocho.jpg" title="Foto al salir, un poco alegre por haber salido" >}}
+
 {{< recommendation >}}
-Si pasas por Shinjuku (de día o de noche) no olvides subir a la azotea del edificio del [**Tokyo Metropolitan Government Building**](https://maps.app.goo.gl/23tXk1AsAMgrjo378), desde donde se pueden disfrutar de unas vistas impresionantes de la ciudad. Es un lugar gratuito y la experiencia es increíble, con unas vistas privilegiadas de la ciudad.
+Si pasas por Shinjuku (de día o de noche) no olvides subir a la azotea del edificio del [**Tokyo Metropolitan Government Building**](https://maps.app.goo.gl/23tXk1AsAMgrjo378), desde donde se pueden disfrutar de unas vistas impresionantes de la ciudad. Es una visita gratuita y la experiencia es increíble, con unas vistas privilegiadas de la ciudad.
 {{< / recommendation >}}
 
+{{< image classes="image central" src="/img/2023/11/Tokyo-Metropolitan-Gvmt-Building.jpg" title="Ninguna foto hace justicia a las vistas desde este edificio" >}}
+
 El broche de oro fue cruzar de nuevo el centro de la ciudad hasta llegar a la zona de **Shimbashi** para juntarnos con una pareja de amigos que en esos días estaban de luna de miel por Japón y aunque los itinerarios eran similares ese era el único día en el que coincidíamos por unas horas en la misma ciudad. El plan escogido fue entrar a un karaoke ([Big Echo Shimbashi Karasumoriguchi](https://maps.app.goo.gl/oP9Dmb9fmJ5sHWAe7)) a darlo todo. En Japón se toman en serio el karaoke, son edificios enteros que se encuentran por todas partes en ciudades grandes y en los que típicamente alquilas salas privadas de varios tamaños para cantar con tus amigos. Tienen una amplia selección de canciones en varios idiomas y un sistema de sonido de alta calidad. Desde la propia sala dispones de una pantalla táctil para seleccionar las canciones, pedir comida y bebida, y controlar el volumen y los efectos de sonido... Increíble.
+
+{{< image classes="image central" src="/img/2023/11/Tokyo-Karaoke.jpg" title="No podía faltar un rato de Karaoke" >}}
 
 ### Meiji Jingu, Yoyogi Park, Omotesando y Shibuya
 
