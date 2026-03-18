@@ -86,6 +86,8 @@ Terminamos la jornada cultural en el [**Mori Art Museum**](https://maps.app.goo.
     
 {{< image classes="image central" src="/img/2023/11/Tokyo-Mori-Art.jpg" title="Vistas desde lo alto de la Torre Mori, destaca el Cementerio de Aoyama" >}}
 
+Para completar el día hicimos el último cambio de hotel, para alojarnos el resto de nuestra estancia en Tokyo en la zona de Akihabara. Creo que fue un gran acierto por lo bien comunicada que está esa zona.
+
 ### Jardines Imperial Palace, Tokyo National Museum, Ueno Park, Yanaka, Akihabara
 
 31
