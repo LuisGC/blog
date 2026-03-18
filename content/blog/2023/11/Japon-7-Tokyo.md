@@ -54,14 +54,16 @@ Terminamos un día muy intenso con una visita a **Shibuya**, uno de los barrios 
 
 Por desgracia no pudimos ver la [**Estatua de Hachiko**](https://maps.app.goo.gl/kANvGQo3NnjdPy1P6), el perro más famoso de Japón, que se encuentra justo al lado del cruce de Shibuya. La estatua es un homenaje a la lealtad y el amor incondicional de Hachiko hacia su dueño, y es un lugar muy popular entre los turistas y los locales. Sin embargo, estaba en obras durante nuestra visita, así que no pudimos verla.
 
-### Mori Art Museum, National Art Center, FujiFilm Gallery y Aoyama Cemetery
+### Roppongi: FujiFilm Gallery, National Art Center y Mori Art Museum
 
-30
-Mori Art Museum
-National Art Center
-FujiFilm Gallery
-Aoyama Cemetery
+Antes de dejar nuestro hotel en Roppongi decidimos dedicar un día completo a los museos y galerías de arte de la zona. Empezamos por la [**FujiFilm Gallery**](https://maps.app.goo.gl/GZzpzLtMF1GkU4459), un pequeño museo dedicado a la historia y la cultura de la fotografía. Esta galería cuenta con una colección impresionante de cámaras, accesorios, fotografías y otros objetos relacionados con esta prestigiosa marca y con la fotografía en general. Durante esos días tenían dos exposiciones temporales. La primera de ellas dedicada a _Ultraman 7_, un personaje de la cultura pop japonesa que es un superhéroe gigante que lucha contra monstruos y alienígenas para proteger a la humanidad. La segunda era [_Salt & Tears_](https://fujifilmsquare.jp/en/exhibition/231027_01.html), de [_Yulia Skogoreva_](https://www.yuliasko.com/), una fotógrafa rusa residente en Tokyo que se especializa en retratos y paisajes urbanos. La exposición presentaba una serie de fotografías de un niño que se preparaba duramente para convertirse en un luchador de sumo, mostrando su entrenamiento, su dieta y su vida diaria. Fue una experiencia muy interesante y una oportunidad única para ver instantáneas bastante particulares sobre la cultura del sumo en Japón.
 
+Muy cerca de allí se encuentra el [**National Art Center**](https://maps.app.goo.gl/QYeAzerycRydGGDv5), un museo que cuenta con una colección impresionante e interminable de obras de arte de artistas japoneses e internacionales. El edificio en sí mismo es una obra de arte, con un diseño bastante innovador y práctico. Nos gustó muchísimo, pero al final es cierto que tuvimos que acelerar el ritmo porque no se acababa nunca. Cada sala estaba muy bien aprovechada, con cuadros en doble e incluso triple altura.
+
+Nuestra siguiente parada después de comer fue entrar al hall del canal de televisión [**TV Asahi**](https://maps.app.goo.gl/Q2WmrWQGC6S2ctJN8), en el que pudimos hacernos fotos con figuras a escala real de _Doraemon_ o _Shin-chan_ con toda su familia. Es una chorrada, pero estaba cerca y nos hizo mucha gracia.
+
+Terminamos la jornada cultural en el [**Mori Art Museum**](https://maps.app.goo.gl/Brfk1DnRHvK397Tm8), un museo de arte contemporáneo que se encuentra en la cima de la _Torre Mori_, uno de los rascacielos más altos de Tokyo. El museo es pequeño y es de esos que te encanta o lo odias, así que revisad antes de ir cuál es la exposición que está en curso. El museo ofrece también una vista panorámica impresionante de la ciudad desde su ubicación en la cima del edificio. Es un lugar muy recomendable para visitar si te interesa el arte contemporáneo y/o quieres disfrutar de unas vistas increíbles de Tokyo.
+    
 ### Jardines Imperial Palace, Tokyo National Museum, Ueno Park, Yanaka, Akihabara
 
 31
