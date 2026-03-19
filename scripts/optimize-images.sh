@@ -29,6 +29,7 @@ function check_tool() {
 apply=false
 make_webp=false
 webp_quality=80
+keep_jpg=false
 
 while [[ $# -gt 0 ]]; do
   case "$1" in
@@ -44,14 +45,19 @@ while [[ $# -gt 0 ]]; do
       webp_quality="$2"
       shift 2
       ;;
+    --keep-jpg)
+      keep_jpg=true
+      shift
+      ;;
     --help|-h)
       cat <<'EOF'
-Uso: optimize-images.sh [--apply] [--webp] [--quality N]
+Uso: optimize-images.sh [--apply] [--webp] [--quality N] [--keep-jpg]
 
 Opciones:
   --apply        Optimiza los JPGs en su lugar (lossless, strip metadata).
   --webp         Genera versiones .webp junto al JPG original.
   --quality N    Calidad WebP (por defecto 80).
+  --keep-jpg     Mantiene el JPG original al convertir a WebP (por defecto lo borra).
   --help         Muestra esta ayuda.
 EOF
       exit 0
@@ -110,7 +116,14 @@ if [[ "$make_webp" == true ]]; then
       echo "  ERROR: falló cwebp para $f" >&2
       continue
     }
-    echo "  OK: $(basename "$out")"
+    
+    # Borra el JPG original a menos que --keep-jpg esté activado
+    if [[ "$keep_jpg" != true ]]; then
+      rm -f "$f"
+      echo "  OK: $(basename "$out") (JPG borrado)"
+    else
+      echo "  OK: $(basename "$out")"
+    fi
   done
 fi
 
