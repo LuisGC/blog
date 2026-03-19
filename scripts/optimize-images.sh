@@ -2,12 +2,25 @@
 # Optimiza imágenes en static/img para reducir tamaño en disco/transferencia.
 #
 # Uso:
-#   ./scripts/optimize-images.sh [--apply] [--webp] [--quality N]
+#   ./scripts/optimize-images.sh [--apply] [--webp] [--quality N] [--keep-jpg]
+#
+# Ejemplos:
+#
+# Generar WebP y borrar JPGs originales
+#   ./scripts/optimize-images.sh --webp
+# Generar WebP pero mantener JPGs originales
+#   ./scripts/optimize-images.sh --webp --keep-jpg
+# Combinar con optimización JPEG (no borra nada)
+#   ./scripts/optimize-images.sh --apply
+# Todo junto: optimiza JPGs + convierte a WebP + borra JPGs
+#   ./scripts/optimize-images.sh --apply --webp
 #
 # Por defecto muestra un resumen de las herramientas disponibles y qué hará.
 # - --apply: sobreescribe los JPGs haciendo optimización lossless con jpegtran.
 # - --webp: genera copias .webp para cada JPG (usa cwebp).
 # - --quality N: calidad WebP (default 80).
+# - --keep-jpg: mantiene el JPG original al convertir a WebP (por defecto lo borra).
+
 
 set -euo pipefail
 
