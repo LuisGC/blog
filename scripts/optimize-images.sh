@@ -99,6 +99,13 @@ if [[ "$make_webp" == true ]]; then
   echo "-> Generando WebP (calidad $webp_quality)"
   find "$IMG_DIR" -type f \( -iname '*.jpg' -o -iname '*.jpeg' \) | while read -r f; do
     out="${f%.*}.webp"
+    
+    # Salta si el WebP ya existe
+    if [[ -f "$out" ]]; then
+      echo "  SKIP: $(basename "$out") (ya existe)"
+      continue
+    fi
+    
     cwebp -q "$webp_quality" "$f" -o "$out" >/dev/null 2>&1 || {
       echo "  ERROR: falló cwebp para $f" >&2
       continue
