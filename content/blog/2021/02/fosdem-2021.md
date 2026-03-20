@@ -6,7 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["event", "open-source", "technology", "culture", "personal"]
 status = "published"
-image = "https://i.imgur.com/MBUiKS3.jpg"
+image = "/img/2021/02/FOSDEM-2021.jpg"
 +++
 
 Due to the pandemic this year I could not make my yearly pilgrimage to Brussels, but I was still able to attend FOSDEM as it mutated to an online conference for the first time. It has not been the same, but it is still an experience I cannot miss.
