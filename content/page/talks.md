@@ -9,7 +9,7 @@ menu:
     main: 
         weight: -50
         params:
-            icon: user
+            icon: speakerphone
 comments: false
 ---
 

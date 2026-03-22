@@ -9,7 +9,7 @@ menu:
     main: 
         weight: -80
         params:
-            icon: user
+            icon: world
 comments: false
 ---
 
