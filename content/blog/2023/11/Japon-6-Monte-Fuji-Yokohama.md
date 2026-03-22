@@ -16,6 +16,7 @@ _(sexto artículo sobre mi viaje a Japón, en los siguientes enlaces podéis lee
 * [Japón (III): Kyoto](/blog/2023/10/japon-3-kyoto/)
 * [Japón (IV): Osaka, Universal Studios y Nara](/blog/content/blog/2023/10/japon-4-osaka-nara/)
 * [Japón (V): Himeji, Hiroshima y Miyajima](/blog/2023/10/japon-5-himeji-hiroshima-miyajima/)
+* [Japón (VII): Tokyo](/blog/2023/11/japon-7-tokyo/)
 
 Antes de abordar el post sobre Tokio, voy a escribir uno intermedio sobre dos excursiones que hicimos desde la capital japonesa: una a los alrededores del Monte Fuji y otra a Yokohama.
 

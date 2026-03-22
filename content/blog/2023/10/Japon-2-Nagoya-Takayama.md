@@ -13,6 +13,9 @@ _(segundo artículo sobre mi viaje a Japón, en los siguientes enlaces podéis l
 * [Japón (I): paraíso de la tradición, la modernidad y el frikismo](/blog/2023/10/japon-1-paraiso-tradicion-modernidad-frikismo/)
 * [Japón (III): Kyoto](/blog/2023/10/japon-3-kyoto/)
 * [Japón (IV): Osaka, Universal Studios y Nara](/blog/2023/10/japon-4-osaka-nara/)
+* [Japón (V): Himeji, Hiroshima y Miyajima](/blog/2023/10/japon-5-himeji-hiroshima-miyajima/)
+* [Japón (VI): Monte Fuji y Yokohama](/blog/2023/11/japon-6-monte-fuji-yokohama/)
+* [Japón (VII): Tokyo](/blog/2023/11/japon-7-tokyo/)
 
 ## Aeropuerto de Haneda
 

@@ -15,7 +15,8 @@ _(quinto artículo sobre mi viaje a Japón, en los siguientes enlaces podéis le
 * [Japón (II): Llegada a Japón, Nagoya y Takayama](/blog/2023/10/japon-2-nagoya-takayama/)
 * [Japón (III): Kyoto](/blog/2023/10/japon-3-kyoto/)
 * [Japón (IV): Osaka, Universal Studios y Nara](/blog/2023/10/japon-4-osaka-nara/)
-
+* [Japón (VI): Monte Fuji y Yokohama](/blog/2023/11/japon-6-monte-fuji-yokohama/)
+* [Japón (VII): Tokyo](/blog/2023/11/japon-7-tokyo/)
 
 ## Himeji
 

@@ -17,9 +17,9 @@ He decidido dividir la crónica en varios artículos, que irán siguiendo el iti
 * [Llegada a Japón, Nagoya y Takayama](/blog/2023/10/japon-2-nagoya-takayama/) (5 días)
 * [Kyoto](/blog/2023/10/japon-3-kyoto/) (6 días)
 * [Osaka, Universal Studios y Nara](/blog/2023/10/japon-4-osaka-nara/) (4 días)
-* Himeji, Hiroshima y Miyajima (3 días)
-* Tokyo (6 días)
-* Alrededores de Tokyo y regreso (2 días)
+* [Himeji, Hiroshima y Miyajima](/blog/2023/10/japon-5-himeji-hiroshima-miyajima/) (3 días)
+* [Monte Fuji y Yokohama](/blog/2023/11/japon-6-monte-fuji-yokohama/) (2 días)
+* [Tokyo](/blog/2023/11/japon-7-tokyo/) (6 días)
 
 Y como novedad respecto a otras reseñas, esta vez probaré a incluir incisos o comentarios que el propio Chema muy generosamente ha aceptado añadir a lo largo de los artículos.
 

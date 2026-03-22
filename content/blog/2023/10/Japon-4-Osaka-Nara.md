@@ -13,6 +13,9 @@ _(cuarto artículo sobre mi viaje a Japón, en los siguientes enlaces podéis le
 * [Japón (I): paraíso de la tradición, la modernidad y el frikismo](/blog/2023/10/japon-1-paraiso-tradicion-modernidad-frikismo/)
 * [Japón (II): Llegada a Japón, Nagoya y Takayama](/blog/2023/10/japon-2-nagoya-takayama/)
 * [Japón (III): Kyoto](/blog/2023/10/japon-3-kyoto/)
+* [Japón (V): Himeji, Hiroshima y Miyajima](/blog/2023/10/japon-5-himeji-hiroshima-miyajima/)
+* [Japón (VI): Monte Fuji y Yokohama](/blog/2023/11/japon-6-monte-fuji-yokohama/)
+* [Japón (VII): Tokyo](/blog/2023/11/japon-7-tokyo/)
 
 ## Osaka
 
