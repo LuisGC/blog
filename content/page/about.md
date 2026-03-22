@@ -10,6 +10,7 @@ menu:
         weight: -90
         params:
             icon: user
+comments: false
 ---
 
 I am a **Computer Engineering** graduate, with strong experience guiding and coordinating high performance teams in strategic projects. My skills (emphasizing leadership, mentoring, organization and analysis) have led me to perform all kinds of tasks in addition to the purely technical. 

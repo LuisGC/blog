@@ -1,11 +1,17 @@
-+++
-author = "LuisGC"
-title = "Main public talks"
-date = "2019-10-05"
-type = "page"
-categories = ["page"]
-status = "published"
-+++
+---
+author: "LuisGC"
+title: "Main public talks"
+date: "2019-10-05"
+type: "page"
+categories: ["page"]
+status: "published"
+menu:
+    main: 
+        weight: -50
+        params:
+            icon: user
+comments: false
+---
 
 List of the main public talks I have humbly given (in reverse chronological order)
 
