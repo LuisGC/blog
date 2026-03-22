@@ -14,7 +14,7 @@ _(cuarto artículo sobre mi viaje a Japón, en los siguientes enlaces podéis le
 * [Japón (II): Llegada a Japón, Nagoya y Takayama](/blog/2023/10/japon-2-nagoya-takayama/)
 * [Japón (III): Kyoto](/blog/2023/10/japon-3-kyoto/)
 
-### Osaka
+## Osaka
 
 **Osaka** fue una de las ciudades que más disfrutamos, más allá de la parte cultural y monumental. Es conocida por su gastronomía y su ocio nocturno, y no nos defraudó aunque seguramente no fue en el lugar en el que mejor comimos. Estuvimos más días de lo normal, pero es cierto que uno de los días volvimos a Kyoto (está al lado), otro día desde allí fuimos a Nara y otro día completo más lo dedicamos al Parque Universal.
 
@@ -68,7 +68,7 @@ El paseo de esa noche por Dotonbori después de darlo todo en el festival fue ba
 
 Hay otras zonas interesantes en Osaka si vais con tiempo: **Nipponbashi Denden Town** y sus tiendas, la isla de **Nakanoshima** con sus jardines, o el distrito de **Umeda** con sus rascacielos.
 
-### Universal Studios y Super Nintendo World
+## Universal Studios y Super Nintendo World
 
 Una de las visitas más esperadas, que al final supuso un esfuerzo económico importante en relación al resto del viaje (en parte por nuestra culpa/torpeza), fue la que hicimos al [**Universal Studios Japan**](https://maps.app.goo.gl/wXhPkuM7SxpmvuXf7), y más específicamente a la zona de **Super Nintendo World** que se encuentra dentro del parque.
 
@@ -105,7 +105,7 @@ En resumen, un dineral que sólo compensa si tienes mucha pasión por el univers
 <b>Chema</b>: Como fan de Super Mario puedo confirmar que se trata de una experiencia única. La recreación de personajes, escenarios y ambientación en general es espectacular, con muchísimos guiños más o menos evidentes a todo el lore de la saga. A pesar de las dificultades que nos fueron surgiendo, siempre guardaré este recuerdo como algo único, y cualquier persona fan de ese universo que pueda permitirse encajar una visita como esta en su viaje debería considerarlo.
 </blockquote>
 
-### Nara
+## Nara
 
 Como decía más arriba, nosotros decidimos ir a **Nara** desde Osaka en lugar de ir desde Kyoto. La gente relaciona Nara con Kyoto por su pasado imperial, pero realmente está mejor comunicado y más cerca de Osaka. En cualquier caso está accesible desde ambas ciudades.
 

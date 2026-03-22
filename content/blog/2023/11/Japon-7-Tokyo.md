@@ -18,7 +18,7 @@ _(séptimo artículo sobre mi viaje a Japón, en los siguientes enlaces podéis 
 * [Japón (V): Himeji, Hiroshima y Miyajima](/blog/2023/10/japon-5-himeji-hiroshima-miyajima/)
 * [Japón (VI): Monte Fuji y Yokohama](/blog/2023/11/japon-6-monte-fuji-yokohama/)
 
-### Shinjuku
+## Shinjuku
 
 Desde Miyajima, el siguiente destino era Tokyo, la capital de Japón. Para llegar a Tokyo desde Miyajima, lo más sencillo es volver a Hiroshima y coger un tren bala, el trayecto dura unas 4 horas y es una buena oportunidad para disfrutar del paisaje japonés. Fue nuestro trayecto más largo en **shinkansen** de todo el viaje, pero no se hizo nada pesado. De nuevo, habíamos enviado nuestras maletas con anterioridad a Tokyo, así que sólo llevábamos una mochila cada uno.
 
@@ -44,7 +44,7 @@ El broche de oro fue cruzar de nuevo el centro de la ciudad hasta llegar a la zo
 
 {{< image classes="image central" src="/img/2023/11/Tokyo-Karaoke.jpg" title="No podía faltar un rato de Karaoke" >}}
 
-### Meiji Jingu, Yoyogi Park, Omotesando y Shibuya
+## Meiji Jingu, Yoyogi Park, Omotesando y Shibuya
 
 Para estos dos días habíamos cogido el hotel cerca de Roppongi para ver esta zona de la ciudad. Después de la locura de Shinjuku el plan empezó mucho más tranquilo con un paseo por el [**Meiji Jingu**](https://maps.app.goo.gl/ZGgvrqQfTFoxMi5r6), un santuario sintoísta dedicado al emperador Meiji y a su esposa, la emperatriz Shoken. El santuario está rodeado por un bosque de más de 100.000 árboles, lo que lo convierte en un oasis de tranquilidad muy cerca del centro de la ciudad. Es un lugar muy bonito para pasear, con una arquitectura impresionante y una atmósfera muy especial. De hecho, estaban de celebración, y los dos enormes árboles (Sudajii, si no recuerdo mal) que presiden el patio del santuario parecían ser homenajeados por la comunidad local con un montón de personas haciendo ofrendas, rezando, ... 
 
@@ -70,7 +70,7 @@ Terminamos un día muy intenso con una visita a **Shibuya**, uno de los barrios 
 
 Por desgracia no pudimos ver la [**Estatua de Hachiko**](https://maps.app.goo.gl/kANvGQo3NnjdPy1P6), el perro más famoso de Japón, que se encuentra justo al lado del cruce de Shibuya. La estatua es un homenaje a la lealtad y el amor incondicional de Hachiko hacia su dueño, y es un lugar muy popular entre los turistas y los locales. Sin embargo, estaba en obras durante nuestra visita, así que no pudimos verla.
 
-### Roppongi: FujiFilm Gallery, National Art Center y Mori Art Museum
+## Roppongi: FujiFilm Gallery, National Art Center y Mori Art Museum
 
 Antes de dejar nuestro hotel en Roppongi decidimos dedicar un día completo a los museos y galerías de arte de la zona. Empezamos por la [**FujiFilm Gallery**](https://maps.app.goo.gl/GZzpzLtMF1GkU4459), un pequeño museo dedicado a la historia y la cultura de la fotografía. Esta galería cuenta con una colección impresionante de cámaras, accesorios, fotografías y otros objetos relacionados con esta prestigiosa marca y con la fotografía en general. Durante esos días tenían dos exposiciones temporales. La primera de ellas dedicada a _Ultraman 7_, un personaje de la cultura pop japonesa que es un superhéroe gigante que lucha contra monstruos y alienígenas para proteger a la humanidad. La segunda era [_Salt & Tears_](https://fujifilmsquare.jp/en/exhibition/231027_01.html), de [_Yulia Skogoreva_](https://www.yuliasko.com/), una fotógrafa rusa residente en Tokyo que se especializa en retratos y paisajes urbanos. La exposición presentaba una serie de fotografías de un niño que se preparaba duramente para convertirse en un luchador de sumo, mostrando su entrenamiento, su dieta y su vida diaria. Fue una experiencia muy interesante y una oportunidad única para ver instantáneas bastante particulares sobre la cultura del sumo en Japón.
 
@@ -88,7 +88,7 @@ Terminamos la jornada cultural en el [**Mori Art Museum**](https://maps.app.goo.
 
 Para completar el día hicimos el último cambio de hotel, para alojarnos el resto de nuestra estancia en Tokyo en la zona de Akihabara. Creo que fue un gran acierto por lo bien comunicada que está esa zona.
 
-### Jardines Imperial Palace, Tokyo National Museum, Ueno Park, Yanaka, Akihabara
+## Jardines Imperial Palace, Tokyo National Museum, Ueno Park, Yanaka, Akihabara
 
 31
 Jardines Imperial Palace
@@ -97,7 +97,7 @@ Ueno Park
 Yanaka
 Akihabara
 
-### Tsukiji Fish Market, Teatro Kabuki, Ginza shops, Kaminarimon Gate, Senso-Ji
+## Tsukiji Fish Market, Teatro Kabuki, Ginza shops, Kaminarimon Gate, Senso-Ji
 
 02
 Tsujiki Fish Market
@@ -106,7 +106,7 @@ Ginza shops
 Kaminarimon Gate
 Senso-Ji
 
-### Imperial Palace, tienda Arquería, Akihabara
+## Imperial Palace, tienda Arquería, Akihabara
 
 04
 Imperial Palace

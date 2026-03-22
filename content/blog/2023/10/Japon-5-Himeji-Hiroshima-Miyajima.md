@@ -17,7 +17,7 @@ _(quinto artículo sobre mi viaje a Japón, en los siguientes enlaces podéis le
 * [Japón (IV): Osaka, Universal Studios y Nara](/blog/2023/10/japon-4-osaka-nara/)
 
 
-### Himeji
+## Himeji
 
 Desde Osaka, nuestro siguiente plan fue visitar **Himeji**, una ciudad famosa por su impresionante castillo conocido como el **Castillo de Himeji** o "_Castillo de la Garza Blanca_" debido a su elegante apariencia blanca. Este castillo es uno de los más grandes y mejor conservados de Japón, y es Patrimonio de la Humanidad por la UNESCO. No puedo opinar mucho del resto de la ciudad, ya que sólo estuvimos unas horas, pero el castillo y sus alrededores merecen mucho la pena.
 
@@ -39,7 +39,7 @@ También visitamos el **Jardín de Koko-en**, un jardín tradicional japonés ub
   {{< image classes="image slider-item" src="https://imgur.com/nhTqRX8.jpeg" title="Todo es Zen, en Koko-en" >}}
 </div>  
 
-### Hiroshima
+## Hiroshima
 
 Nuestra siguiente parada fue en **Hiroshima**. Como todos ya sabéis, es una ciudad con una historia profundamente marcada por los eventos de la Segunda Guerra Mundial, siendo tristemente famosa por ser el primer lugar en el mundo donde se utilizó una bomba atómica en un conflicto bélico el 6 de agosto de 1945.
 
@@ -63,7 +63,7 @@ El resto de la tarde lo dedicamos a pasear por el centro de Hiroshima, visitando
   {{< image classes="image slider-item" src="https://imgur.com/AxNwsMM.jpeg" title="Típica carta para turistas, con algunas cosas medio traducidas al inglés" >}}
 </div>  
 
-### Miyajima
+## Miyajima
 
 Al día siguiente nos dirigimos a la isla de **Miyajima**, conocida oficialmente como **Itsukushima**. Esta isla es famosa por su santuario sintoísta, el [**Santuario de Itsukushima**](https://maps.app.goo.gl/nvWjzC7MsjqSpgEXA), que es Patrimonio de la Humanidad por la UNESCO y es conocido por su icónico y majestuoso torii flotante de 15 metros de altura que parece flotar en el agua durante la marea alta.
 

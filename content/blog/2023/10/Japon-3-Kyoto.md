@@ -21,7 +21,7 @@ Llegamos a Kyoto a mediodía con tiempo suficiente para antes de comer llegar al
 El hotel [**Stay Sakura de Kyoto**](https://maps.app.goo.gl/QJRuuhgRq8GNqnM7A) nos gustó mucho, nos trataron bien y estuvimos muy cómodos. Es pequeño, por lo que no tiene recepción 24h ni ofrece desayuno, pero las habitaciones eran muy amplias y disponían de una pequeña cocina con lavadora en cada habitación. La lavadora era muy cómoda y muy práctica en combinación con el cuarto de la ducha que tenía un extractor enorme en el techo que se podía poner en modo _secadora_ y convertía el cuarto entero en una secadora, acelerando el secado de la colada. Se podía dejar permanente o programarlo para que se quede unas horas funcionando. Nunca había visto algo así y me pareció espectacularmente cómodo. El hotel además está bastante bien comunicado por metro y bus con la estación central de Kyoto y con las principales atracciones/visitas. Creo que repetiría si vuelvo.
 {{< /recommendation >}}
 
-### GION
+## GION
 
 Por la tarde-noche habíamos reservado un free walking tour por el barrio de **Gion**, uno de los más tradicionales (y exclusivos) de Kyoto. De camino al punto de salida, andando desde el hotel, hicimos una buena vuelta de reconocimiento por la gran **Avenida Shijo**, repleta de grandes almacenes comerciales; el trepidante [**Nishiki Market**](https://maps.app.goo.gl/ioycS1SM2u47t25p8), una larguísima calle comercial especializada en puestos de comida callejera; el callejón [**Pontocho**](https://maps.app.goo.gl/TQR9SXPzFhsdPRqw6) (o Ponto-chō), lleno de locales con encanto y trampas de turistas; y las terrazas de esas mismas trampas de turistas que se asomaban al [**Río Kamo**](https://maps.app.goo.gl/krPfD5zVHvHxrwMo9) en unas ampliaciones a base de andamios de madera bastante pintorescas.
 
@@ -51,7 +51,7 @@ Seguimos el recorrido por el templo budista de [**Chion-in**](https://maps.app.g
 
 El recinto del templo se fusiona con el Parque de Maruyama, al que ya nos asomamos la noche anterior pero esta vez recorremos la parte más oriental con su gran estanque y sus [jardines japoneses](https://maps.app.goo.gl/impiQ6d8DLwcWStJ7), rodeados de múltiples variedades de cerezos. Me habría encantado ver este parque en época de **_hanami_** por el sakura, o incluso en un Otoño más pleno.
 
-### Ninenzaka y Sannenzaka
+## Ninenzaka y Sannenzaka
 
 El tour continuaba para recorrer los famosos y pintorescos barrios de **Ninenzaka** y **Sannenzaka**, con el objetivo de terminar por todo lo alto (en todos los sentidos) en el **Templo de Kiyomizu-dera**. Lo que inicialmente era un plan de mañana, acabo siendo un plan de día completo porque tras el tour nos quedamos con las ganas de deshacer despacio esta última parte del recorrido para ver todo con más detalle, cotillear en tiendas, entrar en algún templo más y comer en alguno de los múltiples puestos de comida que había.
 
@@ -83,7 +83,7 @@ Terminamos el día bajando a la estación de metro de **Kyoto-Kawaramachi**, que
 una tienda exclusiva de especias picantes no es algo que Chema estuviera dispuesto a dejar pasar. La tienda se llama [**Ocha-no-ko SAISAI**](https://maps.app.goo.gl/RcfCDoNDUsKji6PUA) y se sitúa en una casita pequeñita en mitad de una de las escalinatas que suben hacia Kōdai-ji. Su especialidad es el chile **Hontaka**, pero vendían varios tipos de picante desde mono-cultivo hasta otras con mezcla de otras cosas para ganar aromas y matices, y en varios niveles de _picante_. Además de la propia especia, vendían patatuelas y otros snacks a los que se había expuesto a cada una de las mezclas de especias. Degustamos casi todo y cogimos varios botes para cocinar.
 {{< /recommendation >}}
 
-### Palacio imperial de Kyoto
+## Palacio imperial de Kyoto
 
 Al día siguiente, nuestro plan arrancaba en el [**Palacio imperial de Kyoto**](https://maps.app.goo.gl/tS2aoCdwHFkDgeN98), que sirvió como palacio oficial hasta la restauración Meiji a finales del siglo XIX. Hay una visita guiada bastante interesante que permite recorrer casi todo el Palacio. Son grupos grandes y hay que pegarse mucho al guía, por lo que yo no descartaría hacer la visita por libre con una buena audioguía o documentación. Un grupo tan grande tampoco facilita ver las cosas con calma y hacer fotos tranquilamente.
 
@@ -95,7 +95,7 @@ El recinto del Palacio se encuentra dentro del gran Jardín Nacional de **Kyōto
 
 {{< image classes="image" src="https://i.imgur.com/PyQib4h.jpg" title="Lago Kujō con la casita de té Shūsui-tei en la orilla opuesta" >}}
 
-### Fushimi Inari Taisha
+## Fushimi Inari Taisha
 
 No nos quisimos entretener para poder llegar a una hora prudente a uno de los lugares estrella de Kyoto: el [**Santuario sintoísta de Fushimi Inari Taisha**](https://maps.app.goo.gl/QZAp7i3rrZHC6nv4A). Este santuario, situado en lo alto de un monte y rodeado de naturaleza, es conocido porque se llega a él por varios caminos que están delimitados por cientos y cientos de puertas rojas (llamadas **_torii_**). En esos mismos caminos se encuentran otros altares y más de una tienda de recuerdos. Sólo se puede subir andando, y en casi todo el camino hay sitios preparados para hacer _paradas técnicas_ con máquinas de vending, en las que el agua cada vez es más cara a medida que vas ascendiendo. Lo entendimos perfectamente al ver al _reponedor_ subir con una carretilla con las bebidas.
 
@@ -122,7 +122,7 @@ Bajamos del santuario ya anocheciendo y nos quisimos acercar a la zona de Fushim
 Elegimos uno de los restaurantes más tradicionales de toda la zona, [**Tsuki no kurabito**](https://maps.app.goo.gl/gvG5Gc18FQ4z7Emu5), y salimos encantados. Además de una carta de sake brutal, su especialidad era la anguila así que aceptamos el desafío y todos los platos que pedimos eran distintas elaboraciones de anguila: una especie de tortilla francesa rellena de anguila, anguila al carbón macerada con sake Gekkeikan, y varios trozos de nigiri de anguila a la brasa. Todo eso (y abundante sake) por menos de 4 mil yenes por persona.
 {{< / recommendation >}}
 
-### Ryōan-ji
+## Ryōan-ji
 
 El día siguiente fue uno de los días más completos y satisfactorios de todo el viaje.
 
@@ -140,7 +140,7 @@ Un **_Tsukubai_** es una pila (generalmente de piedra) que se sitúa a la entrad
 
 {{< image classes="image vertical" src="https://i.imgur.com/YYxp2pb.jpeg" title="Learn only to be content" >}}
 
-### Kinkaku-ji
+## Kinkaku-ji
 
 Desde allí subimos al también budista [**Templo de Kinkaku-ji**](https://maps.app.goo.gl/WxNnCu17iSEbcrh3A) o _Templo del Pabellón de Oro_. El templo realmente se llama **Rokuon-ji** (_Templo del jardín de los ciervos_) pero por algún motivo la gente lo recuerda por su **Pabellón Dorado** o **_Kinkaku_**.
 
@@ -158,7 +158,7 @@ También nos llamaron la atención varios puntos en los que animaban a los visit
 
 {{< image classes="image central" src="https://i.imgur.com/zPMyePu.jpeg" title="En Japón todo adquiere un toque extra de azar y competitividad, incluso los saca-cuartos" >}}
 
-### Castillo Nijō
+## Castillo Nijō
 
 Volvimos al centro de nuevo en autobús para detenernos en otra de las paradas obligatorias: el [**Castillo Nijō**](https://maps.app.goo.gl/zGxWJyz8gfC3ANch9), construido en el siglo XVII por el clan **Tokugawa**. El recinto de este castillo tiene poco que envidiar al Palacio Imperial de Kyoto: doble foso, altos muros, varias torres de defensa... Lo primero que se visita al entrar al recinto por la puerta Este (**Higashi Otemon**) es el fabuloso **Palacio de Ninomaru**, decorado lujosamente con múltiples grabados en madera, oro y fantásticas pinturas. Como en otros palacios similares, es muy destacable el contraste en la decoración y organización del espacio entre las salas más exteriores, accesibles por los visitantes de clases sociales más bajas, hasta las salas más interiores pensadas no solamente para presumir sino también para intimidar a los visitantes de rangos más altos. Hay hasta 33 habitaciones sobre 800 _tatami_.
 
@@ -172,7 +172,7 @@ Los **Jardines de Ninomaru**, el **Palacio de Honmaru**, las ruinas de la torre 
 
 {{< image classes="image central" src="https://i.imgur.com/Qi5DYHC.jpeg" title="Vistas del Palacio de Honmaru desde lo alto de las ruinas de Tensyukaku" >}}
 
-### Paseo del Filósofo
+## Paseo del Filósofo
 
 Ese día lo rematamos recorriendo por la tarde el [**Paseo o Camino del Filósofo**](https://maps.app.goo.gl/EuEDXRpZL21nWPtX9), una agradable ruta a lo largo de un canal de agua rodeado principalmente de cerezos que se llamó así por dos profesores de filosofía que la recorrían a diario para reflexionar mientras hacían algo de ejercicio. Es un recorrido relativamente corto, se puede hacer en media hora larga sin pausas, pero se convierte en un plan más interesante por la cantidad y variedad de los templos que se pueden visitar a lo largo del paseo.
 
@@ -195,7 +195,7 @@ En nuestro caso, destacaría (y recomendaría) empezar por el [**Templo budista 
 Después de tanto caminar, ese día los dos teníamos antojo de sushi así que buscamos un buen sitio en una de las zonas nocturnas más populares. Tuvimos suerte porque encontramos uno con una muy buena relación calidad precio, [**Sugidama Kyoto Kawaramachi**](https://maps.app.goo.gl/8QztCR6eW5AadGGw6). Probamos bastantes variedades de sashimi, un montón de nigiris premium, un gunkan roll de erizo de mar, una montaña enorme de atún picado relleno de atún y cubierto con atún y huevas de salmón, verduras en tempura y un original postre que era como un mochi transparente. Todo por unos seis mil yenes por persona.
 {{< /recommendation >}}
 
-### Jidai Matsuri
+## Jidai Matsuri
 
 Otra cosa que nos coincidió con el viaje, y cuadramos para asistir, es el Desfile **_Jidai Matsuri_** o _Festival de las Épocas_ o _las Edades_. Se celebra una vez al año (el 22 de Octubre) y es de los festivales más famosos de Kyoto. Se trata de un desfile de recreación histórica en la que más de 2000 voluntarios y artistas pasan vestidos con trajes auténticos, elaborados con materiales y técnicas originales, representando períodos y personajes de la historia feudal de Japón. Además muchos de ellos van cantando o tocando instrumentos tradicionales, con lo que el desfile es bastante animado.
 
