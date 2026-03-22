@@ -126,13 +126,6 @@ ignoreErrors            = ["error-remote-getjson"]
     weight            = 1
 
   [[menu.main]]
-    name              = "About"
-    identifier        = "about"
-    url               = "/about/"
-    pre               = "<i class='far fa-id-card'></i>"
-    weight            = 2
-
-  [[menu.main]]
     name              = "Blog"
     identifier        = "blog"
     url               = "/blog/"
@@ -214,9 +207,9 @@ ignoreErrors            = ["error-remote-getjson"]
 [params.widgets]
     homepage = [
         { type = "search" },
-        { type = "archives", params = { limit = 5 } },
-        { type = "categories", params = { limit = 5 } },
         { type = "tag-cloud", params = { limit = 30 } },
+        { type = "archives", params = { limit = 10 } },
+#        { type = "categories", params = { limit = 5 } },
     ]
     page     = [{ type = "toc" }]
 

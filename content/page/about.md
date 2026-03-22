@@ -1,11 +1,16 @@
-+++
-author = "LuisGC"
-title = "About the author"
-date = "2003-10-07"
-type = "page"
-categories = ["page"]
-status = "published"
-+++
+---
+author: "LuisGC"
+title: "About the author"
+date: "2003-10-07"
+type: "page"
+categories: ["page"]
+status: "published"
+menu:
+    main: 
+        weight: -90
+        params:
+            icon: user
+---
 
 I am a **Computer Engineering** graduate, with strong experience guiding and coordinating high performance teams in strategic projects. My skills (emphasizing leadership, mentoring, organization and analysis) have led me to perform all kinds of tasks in addition to the purely technical. 
 
