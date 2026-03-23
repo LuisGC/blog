@@ -90,12 +90,24 @@ Para completar el día hicimos el último cambio de hotel, para alojarnos el res
 
 ## Jardines Imperial Palace, Tokyo National Museum, Ueno Park, Yanaka, Akihabara
 
-31
-Jardines Imperial Palace
-Tokyo National Museum
-Ueno Park
-Yanaka
-Akihabara
+Al día siguiente nuestro plan era visitar el **Palacio Imperial**. Tal y como habiamos leído, acudimos muy temprano a la [_Puerta Kikyō-mon_](https://maps.app.goo.gl/h5cr85t5f9YzKdiK7) para intentar conseguir una de las entradas (gratuitas y sobre todo limitadas) que se reparten cada día para visitar el recinto del Palacio. Tras un rato de cola, uno de los funcionarios nos dijo que no era necesaria la cola y que podríamos entrar directamente por la [_Puerta Ōte-mon_](https://maps.app.goo.gl/uzFQEpFeFVQWNcY76), así que nos dirigimos allí y conseguimos nuestras entradas sin ningún problema. Lo malo es que por allí sólo se podía acceder a los [**Jardines Orientales del Palacio Imperial**](https://maps.app.goo.gl/6EjRaYFSDvheJHbh6), no al resto del recinto, y ya era tarde para volver al plan inicial. Tras el cabreo oportuno y sin entender por qué aquel guía nos dió una información mala, decidimos sacarle partido a la situación y disfrutar de los jardines, que son sin duda preciosos y en cualquier caso estaban en nuestro plan.
+
+Los Jardines están muy bien cuidados, con una gran variedad de plantas y árboles, estanques, puentes y caminos que te permiten pasear y disfrutar de la naturaleza en medio de la ciudad. Además, desde los jardines se pueden ver algunas partes del Palacio Imperial, lo que añade un toque histórico y cultural a la visita. En general, es un lugar muy recomendable para visitar si quieres disfrutar de un poco de tranquilidad y belleza natural en medio de la bulliciosa ciudad de Tokyo.
+
+Después nos dirigimos al norte de la ciudad, al barrio de **Ueno**, para visitar el [**Tokyo National Museum**](https://maps.app.goo.gl/kKd1QFR1JzBr3AL77), que cuenta con una colección impresionante de arte y objetos históricos japoneses y asiáticos. El museo está dividido en varias galerías temáticas, cada una dedicada a un período o estilo artístico diferente. Es un lugar imprescindible para cualquier persona interesada en la historia y la cultura japonesa.
+
+El museo se encuentra dentro del [**Ueno Park**](https://maps.app.goo.gl/qTgvNudhwyWbvBNb7), un parque enorme que es uno de los lugares más populares de Tokyo para disfrutar de la naturaleza. Es un lugar muy agradable para pasear, con varios templos, estanques enormes y muchos senderos para explorar. Una de las cosas que más nos gustó fue el [**Shinobazu Pond**](https://maps.app.goo.gl/9TjrteL5VcRdv3x46), un estanque enorme con una isla en el centro que alberga el templo de Bentendo, dedicado a la diosa de la fortuna y la sabiduría. La mayor parte del estanque estaba cubierto de nenúfares gigantes, lo que le daba un aspecto único.
+
+Intentamos también entrar al [**Tokyo Metropolitan Art Museum**](https://maps.app.goo.gl/AXe7e5hRvA8MUSbBA), pero estaban justo en esos días cambiando toda la exposición, así que nos quedamos con las ganas.
+
+Muy cerca del Parque Ueno se encuentra el barrio de **Yanaka**, un barrio tradicional que ha logrado conservar su encanto y su atmósfera única a pesar de la modernización de la ciudad. Es un lugar perfecto para pasear, con calles estrechas, casas tradicionales, tiendas de artesanía y una gran cantidad de templos y santuarios. Como extra, también cuenta con un cementerio enorme y muy paseable, el [**Cementerio de Yanaka**](https://maps.app.goo.gl/TSPae6VGp9Dd88sT8), que es uno de los más grandes de Tokyo y alberga las tumbas de muchas figuras históricas y culturales importantes.
+
+Ya de vuelta en Akihabara, terminamos el día recorriendo una buena cantidad de tiendas de anime, manga y videojuegos. La zona es un paraíso para los fans de la cultura pop japonesa, con una gran cantidad de tiendas especializadas. Es un lugar perfecto para encontrar productos raros y difíciles de encontrar en otros lugares. Por destacar algunos de los imprescindibles:
+
+* [**Super Potato Akihabara**](https://maps.app.goo.gl/uiePGTrAeNRKz8Zs8), una tienda de videojuegos retro que cuenta con una impresionante colección de consolas, juegos y accesorios de todas las épocas.
+* [**Animate Akihabara**](https://maps.app.goo.gl/a68KwrVWzuZQo9848), una tienda de anime y manga que ofrece una amplia selección de productos relacionados con la cultura pop japonesa, desde figuras de acción hasta ropa y accesorios.
+* [**Don Quijote Akihabara**](https://maps.app.goo.gl/7dZBDaTuGz6oWYFZ6), una tienda de descuento que ofrece una amplia variedad de productos, desde alimentos y bebidas hasta ropa y electrónica. Estuvimos en varios Donkis durante el viaje, pero este de Akihabara es especialmente grande y tiene una sección dedicada a productos de anime y manga.
+* [**Akihabara Radio Center**](https://maps.app.goo.gl/nApXhFf3oL6VxWTKA), una tienda de electrónica que ofrece una amplia variedad de productos, desde componentes electrónicos hasta gadgets y accesorios para computadoras.
 
 ## Tsukiji Fish Market, Teatro Kabuki, Ginza shops, Kaminarimon Gate, Senso-Ji
 
