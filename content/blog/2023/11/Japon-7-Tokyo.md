@@ -88,7 +88,7 @@ Terminamos la jornada cultural en el [**Mori Art Museum**](https://maps.app.goo.
 
 Para completar el día hicimos el último cambio de hotel, para alojarnos el resto de nuestra estancia en Tokyo en la zona de Akihabara. Creo que fue un gran acierto por lo bien comunicada que está esa zona.
 
-## Jardines Imperial Palace, Tokyo National Museum, Ueno Park, Yanaka, Akihabara
+## Jardines del Palacio Imperial
 
 Al día siguiente nuestro plan era visitar el **Palacio Imperial**. Tal y como habiamos leído, acudimos muy temprano a la [_Puerta Kikyō-mon_](https://maps.app.goo.gl/h5cr85t5f9YzKdiK7) para intentar conseguir una de las entradas (gratuitas y sobre todo limitadas) que se reparten cada día para visitar el recinto del Palacio. Tras un rato de cola, uno de los funcionarios nos dijo que no era necesaria la cola y que podríamos entrar directamente por la [_Puerta Ōte-mon_](https://maps.app.goo.gl/uzFQEpFeFVQWNcY76), así que nos dirigimos allí y conseguimos nuestras entradas sin ningún problema. Lo malo es que por allí sólo se podía acceder a los [**Jardines Orientales del Palacio Imperial**](https://maps.app.goo.gl/6EjRaYFSDvheJHbh6), no al resto del recinto, y ya era tarde para volver al plan inicial. Tras el cabreo oportuno y sin entender por qué aquel guía nos dió una información mala, decidimos sacarle partido a la situación y disfrutar de los jardines, que son sin duda preciosos y en cualquier caso estaban en nuestro plan.
 
@@ -97,6 +97,8 @@ Al día siguiente nuestro plan era visitar el **Palacio Imperial**. Tal y como h
 Los Jardines están muy bien cuidados, con una gran variedad de plantas y árboles, estanques, puentes y caminos que te permiten pasear y disfrutar de la naturaleza en medio de la ciudad rodeados por grandes edificios. Además, desde los jardines se pueden ver algunas partes del Palacio Imperial, lo que añade un toque histórico y cultural a la visita. En general, es un lugar muy recomendable para visitar si quieres disfrutar de un poco de tranquilidad y belleza natural en medio de la bulliciosa ciudad de Tokyo.
 
 {{< image classes="image central" src="/img/2023/11/Tokyo-Imperial-Palace-Gardens.jpg" title="Vistas desde las ruinas del Castillo de la Era Edo" >}}
+
+## Ueno: Tokyo National Museum, Ueno Park, Yanaka
 
 Después nos dirigimos al norte de la ciudad, al barrio de **Ueno**, para visitar el [**Tokyo National Museum**](https://maps.app.goo.gl/kKd1QFR1JzBr3AL77), que cuenta con una colección impresionante de arte y objetos históricos japoneses y asiáticos. El museo está dividido en varias galerías temáticas, cada una dedicada a un período o estilo artístico diferente. Es un lugar imprescindible para cualquier persona interesada en la historia y la cultura japonesa.
 
@@ -112,6 +114,8 @@ Muy cerca del Parque Ueno se encuentra el barrio de **Yanaka**, un barrio tradic
 
 {{< image classes="image central" src="/img/2023/11/Tokyo-Yanaka-Cemetery.jpg" title="Uno de los múltiples rincones pintorescos del Cementerio de Yanaka" >}}
 
+## Akihabara
+
 Ya de vuelta en Akihabara, terminamos el día recorriendo una buena cantidad de tiendas de anime, manga y videojuegos. La zona es un paraíso para los fans de la cultura pop japonesa, con una gran cantidad de tiendas especializadas. Es un lugar perfecto para encontrar productos raros y difíciles de encontrar en otros lugares. Por destacar algunos de los imprescindibles:
 
 * [**Super Potato Akihabara**](https://maps.app.goo.gl/uiePGTrAeNRKz8Zs8), una tienda de videojuegos retro que cuenta con una impresionante colección de consolas, juegos y accesorios de todas las épocas.
@@ -121,14 +125,33 @@ Ya de vuelta en Akihabara, terminamos el día recorriendo una buena cantidad de 
 
 {{< image classes="image central" src="/img/2023/11/Tokyo-Akihabara.jpg" title="Uno de los incontables pasillos de Super Potato Akihabara" >}}
 
-## Tsukiji Fish Market, Teatro Kabuki, Ginza shops, Kaminarimon Gate, Senso-Ji
+## Ginza: Tsukiji Fish Market y Teatro Kabuki
 
-02
-Tsujiki Fish Market
-Teatro Kabuki
-Ginza shops
-Kaminarimon Gate
-Senso-Ji
+Otra zona que nos gustó bastante y nos quedamos con ganas de recorrer más fue el barrio de **Ginza**, conocido por sus tiendas de lujo, sus restaurantes y su vida nocturna. En nuestro caso no era el lujo ni la vida nocturna lo que nos atraía, sino la posibilidad de visitar el [**Tsukiji Fish Market**](https://maps.app.goo.gl/kELX3pKKHT1HrrrB7), uno de los mercados de pescado más grandes y famosos del mundo. El mercado se encuentra en el barrio de Tsukiji, justo al lado de Ginza, y es un lugar increíble para ver la variedad y la frescura del pescado japonés. Hay dos zonas diferenciadas, el mercado propiamente dicho, y las calles cercanas que están llenas de restaurantes donde se puede disfrutar de sushi fresco y otros platos de marisco por un precio bastante razonable. Es un lugar muy recomendable para visitar si te gusta el pescado y quieres experimentar la cultura culinaria japonesa.
+
+Junto al mercado se encuentra el templo [**Namiyoke Inari**](https://maps.app.goo.gl/LYzG5CZREwjGC52g9), un templo sintoísta dedicado a la deidad del mar y la pesca. Es un lugar muy curioso para visitar, con una atmósfera muy especial.
+
+{{< image classes="image central" src="/img/2023/11/Tokyo-Tsukiji-Fish-Market.jpg" title="Puesto de venta con varios cortes diferentes de atún fresco" >}}
+
+Volviendo a la zona de Ginza, pasamos por delante del [**Teatro Kabuki-za**](https://maps.app.goo.gl/Hp521ECmDoaGttTm9), un teatro dedicado a la representación de obras de kabuki, un estilo de teatro tradicional japonés que se caracteriza por su música, su vestuario y su maquillaje elaborados. Tuvimos la enorme suerte de que unos minutos después empezaba una sesión matinal, así que no dudamos en comprar entradas y disfrutar de la experiencia. La obra duraba casi cuatro horas, pero lo tienen muy bien organizado y puedes comprar entradas sólo para el primer acto (más de 90 minutos), que nos pareció suficiente para disfrutar de la experiencia sin que se nos hiciera demasiado largo.
+
+La obra, _The War Chronicles of the [Mahabharata](https://es.wikipedia.org/wiki/Mahabharata)_, es una adaptación de la epopeya india del mismo nombre, y es una historia épica que narra las aventuras de varios héroes y dioses de la mitología hindú. La representación es impresionante, con un vestuario y un maquillaje elaborados, una música en vivo increíble y una actuación muy intensa. Para los turistas existía la opción de comprar una especie de audioguía que no ofrecía traducción simultánea pero que iba resumiendo lo que ocurría en la obra. Es una experiencia única e inolvidable, totalmente recomendable.
+
+{{< image classes="image central" src="/img/2023/11/Tokyo-Kabuki-za.jpg" title="Momento super épico cerca del final del primer Acto" >}}
+
+Y no podía irme de Ginza sin intentar entrar (al menos a saludar) al mítico restaurante de sushi [**Sukiyabashi Jiro**](https://maps.app.goo.gl/7ocHTrvqk8jTr8Zc7), que se hizo famoso por el documental _Jiro Dreams of Sushi_ y que cuenta con tres estrellas Michelin. El restaurante es muy pequeño, con sólo 10 asientos, y es prácticamente imposible conseguir una reserva sin ser un cliente habitual o tener buenos contactos. Por desgracia estaba cerrado, pero al menos me pude inmortalizar con su cartel y su puerta, que ya es algo.
+
+{{< image classes="image central" src="/img/2023/11/Tokyo-Sukiyabashi-Jiro.jpg" title="En la puerta de Sukiyabashi Jiro, el restaurante de sushi más famoso del mundo" >}}
+
+## Asakusa: Puerta de Kaminarimon, Senso-Ji
+
+Otra zona que visitamos, y que sin duda podríamos haber explorado más tiempo, fue el barrio de **Asakusa**, conocido por su ambiente tradicional y su famoso templo [**Senso-Ji**](https://maps.app.goo.gl/VCs2JwwAYcPw5aYL9). El templo es uno de los más antiguos y famosos de Tokyo, y es un lugar muy popular entre los turistas y los locales. La entrada al templo se encuentra a través de la [**Puerta Kaminarimon**](https://maps.app.goo.gl/E8yHsPnKEB2f3fs99), que es una puerta enorme con una linterna gigante en el centro lo que convierte al sitio en uno de los más fotogénicos y fotografiados de la ciudad. Después de pasar por la puerta, se llega a una calle comercial llamada _Nakamise-dori_, que está llena de tiendas de souvenirs, comida callejera y otros productos relacionados con el templo. Es un lugar muy animado y colorido, perfecto para comprar recuerdos o probar algunos snacks tradicionales japoneses.
+
+{{< image classes="image central" src="/img/2023/11/Tokyo-Kaminarimon.jpg" title="La famosa puerta de Kaminarimon, con su enorme linterna" >}}
+
+{{< recommendation >}}
+Muy cerca del templo también puede visitarse la [**Calle Kappabashi**](https://maps.app.goo.gl/a1FzsnvbbAP8frvS6), conocida como la "calle de los utensilios de cocina", donde se pueden encontrar todo tipo de productos relacionados con la cocina japonesa, desde cuchillos y ollas hasta platos y tazas. Es sorprendente la densidad de tiendas de cuchillos en esta zona. En mi caso me llevé un par de cuchillos de alta calidad por un precio bastante razonable, para un encargo y un regalo.
+{{< / recommendation >}}
 
 ## Imperial Palace, tienda Arquería, Akihabara
 
