@@ -124,3 +124,15 @@ article.post h4 {
 .slider-container .image {
   margin: 0 0 10px 0;
 }
+
+.raw-video {
+  max-width: 100%;
+  margin: 0 auto 1rem;
+  overflow: hidden;
+}
+
+.raw-video > video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
