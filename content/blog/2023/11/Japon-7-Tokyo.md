@@ -3,11 +3,11 @@ author = "LuisGC"
 title = "Japón (VII): Tokyo"
 date = "2023-11-05"
 description = "Último artículo sobre mi viaje a Japón, dedicado a la capital del país, Tokyo"
-type = "page"
+type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
-image = "https://picsum.photos/880/280?blur=3"
+image = "/img/2023/11/Japon-7-Tokyo.jpg"
 +++
 
 _(séptimo artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_
