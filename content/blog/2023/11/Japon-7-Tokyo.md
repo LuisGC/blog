@@ -88,7 +88,7 @@ Terminamos la jornada cultural en el [**Mori Art Museum**](https://maps.app.goo.
 
 Para completar el día hicimos el último cambio de hotel, para alojarnos el resto de nuestra estancia en Tokyo en la zona de Akihabara. Creo que fue un gran acierto por lo bien comunicada que está esa zona.
 
-## Jardines del Palacio Imperial
+## Palacio Imperial y sus Jardines
 
 Al día siguiente nuestro plan era visitar el **Palacio Imperial**. Tal y como habiamos leído, acudimos muy temprano a la [_Puerta Kikyō-mon_](https://maps.app.goo.gl/h5cr85t5f9YzKdiK7) para intentar conseguir una de las entradas (gratuitas y sobre todo limitadas) que se reparten cada día para visitar el recinto del Palacio. Tras un rato de cola, uno de los funcionarios nos dijo que no era necesaria la cola y que podríamos entrar directamente por la [_Puerta Ōte-mon_](https://maps.app.goo.gl/uzFQEpFeFVQWNcY76), así que nos dirigimos allí y conseguimos nuestras entradas sin ningún problema. Lo malo es que por allí sólo se podía acceder a los [**Jardines Orientales del Palacio Imperial**](https://maps.app.goo.gl/6EjRaYFSDvheJHbh6), no al resto del recinto, y ya era tarde para volver al plan inicial. Tras el cabreo oportuno y sin entender por qué aquel guía nos dió una información mala, decidimos sacarle partido a la situación y disfrutar de los jardines, que son sin duda preciosos y en cualquier caso estaban en nuestro plan.
 
@@ -97,6 +97,10 @@ Al día siguiente nuestro plan era visitar el **Palacio Imperial**. Tal y como h
 Los Jardines están muy bien cuidados, con una gran variedad de plantas y árboles, estanques, puentes y caminos que te permiten pasear y disfrutar de la naturaleza en medio de la ciudad rodeados por grandes edificios. Además, desde los jardines se pueden ver algunas partes del Palacio Imperial, lo que añade un toque histórico y cultural a la visita. En general, es un lugar muy recomendable para visitar si quieres disfrutar de un poco de tranquilidad y belleza natural en medio de la bulliciosa ciudad de Tokyo.
 
 {{< image classes="image central" src="/img/2023/11/Tokyo-Imperial-Palace-Gardens.jpg" title="Vistas desde las ruinas del Castillo de la Era Edo" >}}
+
+Por suerte, un par de días después pudimos visitar de nuevo la zona y, esta vez sí, conseguimos entrar al recinto del [**Palacio Imperial**](https://maps.app.goo.gl/Qk2VW2P3zeY8dumP7) sin ningún problema. El Palacio Imperial es la residencia oficial del emperador de Japón, y es un lugar muy importante desde el punto de vista histórico y cultural. El recinto está rodeado por un foso y una muralla, y cuenta con varios edificios y jardines. La visita es guiada y dura aproximadamente una hora, durante la cual se pueden ver por fuera algunos de los edificios más importantes del recinto, como el Salón de Recepciones o el Salón de Audiencias. Es una experiencia interesante para conocer más sobre la historia japonesa, aunque es cierto que no es una visita imprescindible. Quizá si en otras ocasiones es posible visitar el interior de alguno de los edificios, la experiencia sería más completa.
+
+{{< image classes="image central" src="/img/2023/11/Tokyo-Imperial-Palace.jpg" title="La preciosa torre Fujimi-yagura, dentro del recinto del Palacio Imperial" >}}
 
 ## Ueno: Tokyo National Museum, Ueno Park, Yanaka
 
@@ -152,10 +156,3 @@ Otra zona que visitamos, y que sin duda podríamos haber explorado más tiempo, 
 {{< recommendation >}}
 Muy cerca del templo también puede visitarse la [**Calle Kappabashi**](https://maps.app.goo.gl/a1FzsnvbbAP8frvS6), conocida como la "calle de los utensilios de cocina", donde se pueden encontrar todo tipo de productos relacionados con la cocina japonesa, desde cuchillos y ollas hasta platos y tazas. Es sorprendente la densidad de tiendas de cuchillos en esta zona. En mi caso me llevé un par de cuchillos de alta calidad por un precio bastante razonable, para un encargo y un regalo.
 {{< / recommendation >}}
-
-## Imperial Palace, tienda Arquería, Akihabara
-
-04
-Imperial Palace
-Tienda Arquería
-Akihabara
