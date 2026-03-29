@@ -6,7 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
-image = "https://i.imgur.com/Z8CIvCf.jpg"
+image = "/img/2023/10/Japon-2-Nagoya-Takayama.jpg"
 +++
 
 _(segundo artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_
@@ -39,47 +39,53 @@ Llegamos a **Nagoya** sólo unas pocas horas después de haber aterrizado en Jap
 
 El primer gran recuerdo es el del [**Castillo de Nagoya**](https://maps.app.goo.gl/mBQZovw3CBzL341i8). No es el castillo más grande, ni el más alto, ni el más espectacular, pero fue el primero que vimos y me llamó mucho la atención. La visita al [**Palacio de Honmaru**](https://maps.app.goo.gl/LcjMbVHSbNNaTwHT6) (visto en retrospectiva con todo lo que vimos después) merece la pena y el paseo por el recinto del castillo, sin apenas turistas, me dejó muy buen sabor de boca.
 
+{{< image classes="image central" src="/img/2023/10/Nagoya-Castle-Honmaru-Palace-woodwork.jpg" title="Madera tallada y pintada con todo lujo y detalle" >}}
+
 <blockquote>
 <b>Chema</b>: Aquí experimentamos por primera vez (de muchas por venir) el requisito de quitarnos los zapatos antes de entrar a este tipo de edificios con suelo de madera o de tatami. Y también comprobamos que, en algunos casos, no les gusta nada que se entre a ellos mascando chicle, probablemente porque suponen dónde podría terminar ese chicle
 </blockquote>
 
-<div class="slider-container">  
-  {{< image classes="image slider-item" src="https://i.imgur.com/JRJ1Xx5.jpg" title="La decoración contaba un relato, al estilo de un cómic" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/CEsqBMu.jpeg" title="La sala de los tigres" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/UeHtoLj.jpeg" title="Madera tallada y pintada con todo lujo y detalle" >}}
-</div>
+{{< image classes="image central" src="/img/2023/10/Nagoya-Castle-Honmaru-Palace.jpg" title="La decoración contaba un relato, al estilo de un cómic" >}}
 
 Volvimos al centro para pasear y cenar por los alrededores de [**Osu Kannon**](https://maps.app.goo.gl/3ALEV8XxLVLGHftB6), que nos gustó aunque sólo pudimos verlo por fuera y anocheciendo. Tanto este templo budista como la plaza en la que se encuentra son bastante pintorescos y creo que es recomendable pasarse si estás en Nagoya. Habíamos leído además alguna recomendación acerca de las tiendas de la calle Kannon que resultó bastante decepcionante, pero lo que no decepcionó fue la cena. Filtramos en Google Maps los sitios con mejores reseñas y entramos en [**Gojobashi Gen**](https://maps.app.goo.gl/uKmpTj8Z1SeKZ8hA7), un pequeño restaurante que acabó siendo de nuestras mejores cenas de todo el viaje. Cenamos un soba de ternera con curry espectacular, tempura de verduras, croquetas de cangrejo, salmón frito y cuando le pedimos al chef algo para rematar nos sirvió un interesante sashimi de ballena. Todo ello preparado al otro lado de la barra, mientras charlamos con el chef y una camarera muy extrañados de que estuviéramos allí.
 
-{{< image classes="image" src="https://i.imgur.com/B8woIUX.jpg" title="El chef de Gojobashi Gen, que mutó de arisco a simpatiquísimo" >}}
+{{< image classes="image" src="/img/2023/10/Nagoya-Gojobashi-Gen.jpg" title="El chef de Gojobashi Gen, que mutó de arisco a simpatiquísimo" >}}
 
 {{< recommendation >}}
 El [**Hotel Jal City Nagoya Nishiki**](https://maps.app.goo.gl/LG3UuJfbGuA7sw2w7). Sólo estuvimos una noche pero nos encantó todo: la habitación, los servicios, el desayuno, la atención impecable del personal... Durante el resto del viaje siempre era la referencia con la que ibamos comparando alojamientos (y todos salían perdiendo).
 {{< /recommendation >}}
 
-Al día siguiente, después de nuestro primer desayuno a la japonesa en el hotel, fuimos a uno de los lugares que más ganas tenía de visitar en todo el viaje: el [**Parque Ghibli**](https://ghibli-park.jp/en/). Se trata de un complejo enorme dedicado a las películas del **Studio Ghibli**, que se montó en 2022 en el parque que se hizo con motivo de la **Expo Universal 2005 de Aichi**. El Parque Ghibli son varias instalaciones y todas ellas requieren de entradas independientes que salen a la venta con tres meses de antelación. Lleva poco tiempo abierto y tiene mucha demanda y un aforo muy controlado, por lo que es bastante difícil conseguir entrada para el edificio principal y extremadamente difícil conseguirla para las otras áreas temáticas. Estuve pendiente y traté de coger las entradas el día que se ponían a la venta (repito, tres meses antes) pero no conseguimos nada más que el acceso al edificio principal, el **Ghibli's Grand Warehouse**, que es lo que resumiré (aunque podría escribir un artículo largo sólo con este sitio).
+Al día siguiente, después de nuestro primer desayuno a la japonesa en el hotel, fuimos a uno de los lugares que más ganas tenía de visitar en todo el viaje: el [**Parque Ghibli**](https://ghibli-park.jp/en/). Se trata de un complejo enorme dedicado a las películas del **Studio Ghibli**, que se montó en 2022 en el parque que se hizo con motivo de la **Expo Universal 2005 de Aichi**.
+
+{{< image classes="image central" src="/img/2023/10/Nagoya-Ghibli-Park-Totoro.jpg" title="De charla con mi amigo Totoro" >}}
+
+El Parque Ghibli son varias instalaciones y todas ellas requieren de entradas independientes que salen a la venta con tres meses de antelación. Lleva poco tiempo abierto y tiene mucha demanda y un aforo muy controlado, por lo que es bastante difícil conseguir entrada para el edificio principal y extremadamente difícil conseguirla para las otras áreas temáticas.
+
+{{< image classes="image central" src="/img/2023/10/Nagoya-Ghibli-Park-Gatobus.jpg" title="Bajando del Gatobús" >}}
+
+Estuve pendiente y traté de coger las entradas el día que se ponían a la venta (repito, tres meses antes) pero no conseguimos nada más que el acceso al edificio principal, el **Ghibli's Grand Warehouse**, que es lo que resumiré (aunque podría escribir un artículo largo sólo con este sitio).
+
+{{< image classes="image central" src="/img/2023/10/Nagoya-Ghibli-Park-Sin-Rostro.jpg" title="Viajando en tren con Sin Rostro" >}}
 
 <blockquote>
 <b>Chema</b>: Para mejorar la probabilidad de conseguir entradas el día que se ponen a la venta, es buena idea tener en cuenta la diferencia horaria, aunque pueda implicar hacer la compra de madrugada
 </blockquote>
 
-El Ghibli's Grand Warehouse es un pabellón enorme y techado, en el que hay varios edificios, exposiciones, muestras e incluso una sala de cine. Es un pequeño parque temático pero sin atracciones, consiste en pasear, hacer alguna que otra cola, para hacer cientos de fotos mientras evitas que se desencaje la mandibula. Mires donde mires encuentras todo tipo de objetos y detalles rememorando todas las películas de forma extremadamente original y cuidadosa. En la sala de cine se exponen cortos del Studio que sólo pueden verse allí o en el **Museo Ghibli** de Tokyo. Sólo la tienda ya merecería la visita, tuvimos que hacer verdaderos esfuerzos para no dejarnos un dineral.
+El Ghibli's Grand Warehouse es un pabellón enorme y techado, en el que hay varios edificios, exposiciones, muestras e incluso una sala de cine. Es un pequeño parque temático pero sin atracciones, consiste en pasear, hacer alguna que otra cola, para hacer cientos de fotos mientras evitas que se desencaje la mandibula.
 
-<div class="slider-container">  
-  {{< image classes="image slider-item" src="https://i.imgur.com/5rtXO6y.jpg" title="De charla con mi amigo Totoro" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/7CaCMdp.jpg" title="Bajando del Gatobús" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/XIAdIDX.jpeg" title="Viajando en tren con Sin Rostro" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/oiUSLOg.jpeg" title="Ayudando a Pazu a rescatar a Sheeta" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/yXO9p5e.jpeg" title="Con Ponyo en pleno tsunami para buscar a Sōsuke" >}}
-</div>
+{{< image classes="image central" src="/img/2023/10/Nagoya-Ghibli-Park-Pazu.jpg" title="Ayudando a Pazu a rescatar a Sheeta" >}}
 
-El resto del parque conmemorativo de la Expo está muy cuidado y también merece un paseo, aunque no consigáis entradas para las otras áreas. Cerca de la localización del bosque de Dondoko hay un jardín japonés especialmente cuidado con una recreación de la casa de _Mei_ y _Satsuki_ de **Mi Vecino Totoro**.
+Mires donde mires encuentras todo tipo de objetos y detalles rememorando todas las películas de forma extremadamente original y cuidadosa. En la sala de cine se exponen cortos del Studio que sólo pueden verse allí o en el **Museo Ghibli** de Tokyo. Sólo la tienda ya merecería la visita, tuvimos que hacer verdaderos esfuerzos para no dejarnos un dineral.
 
-<div class="slider-container">  
-  {{< image classes="image slider-item" src="https://i.imgur.com/GJZmvrh.jpeg" title="Entrando al Bosque de Dondoko, en el Parque Ghibli" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/UH6iOvI.jpeg" title="La Casa de Mei y Satsuki, envuelta en el bosque de Dondoko" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/2THVuc3.jpeg" title="Un trozo del enorme jardín japonés, que hasta tenía niebla artificial" >}}
-</div>
+{{< image classes="image central" src="/img/2023/10/Nagoya-Ghibli-Park-Ponyo.jpg" title="Con Ponyo en pleno tsunami para buscar a Sōsuke" >}}
+
+El resto del parque conmemorativo de la Expo está muy cuidado y también merece un paseo, aunque no consigáis entradas para las otras áreas.
+
+{{< image classes="image central" src="/img/2023/10/Nagoya-Ghibli-Park-Garden.jpg" title="Un trozo del enorme jardín japonés, que hasta tenía niebla artificial" >}}
+
+Cerca de la localización del bosque de Dondoko hay un jardín japonés especialmente cuidado con una recreación de la casa de _Mei_ y _Satsuki_ de **Mi Vecino Totoro**.
+
+{{< image classes="image central" src="/img/2023/10/Nagoya-Ghibli-Park-Dondoko.jpg" title="Entrando al Bosque de Dondoko, en el Parque Ghibli" >}}
 
 También podéis ir al [Museo de la Expo de 2005](https://maps.app.goo.gl/YQ2LNKUE8315oASw7) que recomendaban bastante, nosotros no pudimos por falta de tiempo pero pilla bastante a mano y puede ser un buen complemento.
 
