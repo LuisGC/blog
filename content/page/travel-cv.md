@@ -19,7 +19,7 @@ comments: false
 
 _(Inspired by the [CV Viajero by Dendarii](https://dendarii.es/cv-viajero/))_
 
-# Visited Countries
+## Visited Countries
 
 <center><div id="travel-cv-map" /></center>
 
@@ -55,9 +55,9 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 
 <br />
 
-# In chronological order
+## In chronological order
 
-## 2026
+### 2026
 
 * <span>MAR</span> <p>Frankfurt am Main (Germany)</p>
 * <span>JAN</span> <p>Belgium</p>
@@ -65,7 +65,7 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 * <span>JAN</span> <p>Tenerife</p>
   - Santa Cruz de Tenerife, Candelaria, San Cristóbal de La Laguna, Macizo de Anaga, Puerto de la Cruz, Masca, Los Gigantes, Puerto de Santiago, Playa de los Cristianos, El Médano, Vilaflor, Teno Rural Park and Teide National Park
 
-## 2025
+### 2025
 
 * <span>SEP</span> <p>Parc National des Pyrénees and Pays Basque (France)</p>
   - Gavarnie, Pont d'Espagne, Capbreton, Bayonne, Biarritz, Saint-Jean-de-Luz
@@ -78,7 +78,7 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 * <span>MAR</span> <p>Belgrade, Serbia</p>
 * <span>MAR</span> <p>Amsterdam (Netherlands)</p>
 
-## 2024
+### 2024
 
 * <span>NOV</span> <p>Amsterdam (Netherlands)</p>
 * <span>NOV</span> <p>Huesca</p>
@@ -95,7 +95,7 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 * <span>MAR</span> <p>Guipúzcoa, Spain</p>
   - San Sebastián, Hondarribia, Azcoitia, Zarautz, Zumaia
 
-## 2023
+### 2023
 
 * <span>NOV</span> <p>Granada (Spain)</p>
 * <span>OCT</span> <p>Japan</p>
@@ -109,7 +109,7 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
   - Haarlem, Amsterdam
 * <span>FEB</span> <p>FOSDEM 2023 - Brussels (Belgium)</p>
 
-## 2022
+### 2022
 
 * <span>OCT</span> <p>Picos de Europa</p>
   - Lagos de Covadonga, Ruta del Cares, Bulnes, Fuente Dé, Potes
@@ -121,20 +121,20 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 * <span>MAY</span> <p>I El Fonsado - Madrid (Spain)</p>
 * <span>APR</span> <p>Mallorca (Spain)</p>
 
-## 2021
+### 2021
 
 * <span>NOV</span> <p>Huesca & Navarra (Spain)</p>
   - Parque Nacional de Doñana y Monte Perdido, Jaca, Selva de Irati, Valle de Baztán, Parque Natural Señorío de Bertiz, Caves of Zugarramurdi, Sare and Urdax
 * <span>AUG</span> <p>El Rompido (Spain)</p>
 * <span>JUL</span> <p>Orduña (Spain)</p>
 
-## 2020
+### 2020
 
 * <span>SEP</span> <p>Isla Canela in Ayamonte (Spain)</p>
 * <span>AUG</span> <p>Val d'Aran Walking Festival (Spain)</p>
 * <span>FEB</span> <p>FOSDEM 2020 - Brussels (Belgium)</p>
 
-## 2019
+### 2019
 
 * <span>NOV</span> <p>[Commit Conf](/blog/2019/12/big-things-commit-conf-2019/), Madrid (Spain)</p>
 * <span>NOV</span> <p>[Big Things Conference](/blog/2019/12/big-things-commit-conf-2019/), Madrid (Spain)</p>
@@ -158,7 +158,7 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 * <span>FEB</span> <p>[FOSDEM 2019](/blog/2019/02/fosdem-2019-saturday/) - Brussels (Belgium)</p>
 * <span>JAN</span> <p>Milan (Italy)</p>
 
-## 2018
+### 2018
 
 * <span>DEC</span> <p>[Romantische Strasse](/blog/2018/12/the-german-romantische-strasse/) (Germany)</p>
   - Dachau, Nuremberg, Würzburg, Tauberbischofsheim, Bad Mergentheim, Weikersheim, Röttingen, Rothenburg ob der Tauber, Feuchtwangen, Dinkelsbühl, Nördlingen, Donauwörth, Augsburg, Landsberg am Lech, Schwangau, Füssen and Munich
@@ -183,7 +183,7 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 * <span>FEB</span> <p>[FOSDEM 2018](/blog/2018/02/fosdem-2018-saturday/) - Brussels (Belgium)</p>
 * <span>JAN</span> <p>Prague (Czech Republic)</p>
 
-## 2017
+### 2017
 
 * <span>DEC</span> <p>[Brittany](/blog/2017/12/brittany-a-brief-opinionated-guide/) (France)</p>
   - Cancale, Saint Malo, Dinard, Morlaix, Pointe du Raz, Quimper, Concarneau, Pont-Aven, Carnac, Auray, Vannes, Rochefort-en-Terre, Rennes, Vitré, Fougeres and Le Mans
@@ -209,7 +209,7 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 * <span>MAR</span> <p>[Greach 2017](/blog/2017/04/greach-2017-groovy-spanish-conference/) - Madrid (Spain)</p>
 * <span>MAR</span> <p>Chinchón (Spain)</p>
 
-## 2016
+### 2016
 
 * <span>DEC</span> <p>Teruel (Spain)</p>
   - Albarracín, Peracense, Ojos Negros and Teruel
@@ -231,7 +231,7 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 * <span>MAR</span> <p>Zamora (Spain)</p>
 * <span>JAN</span> <p>[FOSDEM 2016](/blog/2016/03/fosdem-2016-friday/) - Brussels (Belgium)</p>
 
-## 2015
+### 2015
 
 * <span>DEC</span> <p>Extremadura (Spain)</p>
   - Mérida, Cáceres and Trujillo
@@ -252,7 +252,7 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 * <span>FEB</span> <p>Ávila (Spain)</p>
 * <span>JAN</span> <p>FOSDEM 2015 - Brussels (Belgium)</p>
 
-## 2014
+### 2014
 
 * <span>DEC</span> <p>Zaragoza (Spain)</p>
 * <span>NOV</span> <p>Central Europe (Czech Republic, Austria, Slovakia and Hungary)</p>
@@ -267,7 +267,7 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 * <span>MAR</span> <p>Encuentro de Protos y Tipos Ludo - Zaragoza (Spain)</p>
 * <span>MAR</span> <p>Monasterio de Piedra - Zaragoza (Spain)</p>
 
-## 2013
+### 2013
 
 * <span>DEC</span> <p>Paris (France)</p>
 * <span>NOV</span> <p>PyConEs 2013 - Madrid (Spain)</p>
@@ -281,7 +281,7 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
   - Montreux, Chillon, Gruyeres, Reichenbackfall, Meiringen, Aareschlucht, Interlaken, Jungfraujoch, Mürren, Almendhubel and Lausanne
 * <span>FEB</span> <p>Geneve, [CERN](/blog/2013/02/cronica-de-una-visita-guiada-al-cern/), Annecy and Grenoble (Switzerland and France)</p>
 
-## 2012
+### 2012
 
 * <span>NOV</span> <p>Hayedo de Tejera Negra - Guadalajara (Spain)</p>
 * <span>SEP</span> <p>Bordeaux (France)</p>
@@ -297,7 +297,7 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 * <span>MAR</span> <p>[QED 2012](/blog/2012/03/qed-2012-question-explore-discover/) - Manchester (United Kingdom)</p>
 * <span>JAN</span> <p>[SkeptiCamp Madrid 2012](/blog/2012/01/skepticamp-madrid-2012/) - Madrid (Spain)</p>
 
-## 2011
+### 2011
 
 * <span>DEC</span> <p>Lorca, Murcia (Spain)</p>
 * <span>DEC</span> <p>Toulouse (France)</p>
@@ -312,14 +312,14 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 * <span>JUN</span> <p>Canyoning in Pirineos (Spain)</p>
 * <span>APR</span> <p>Évora, Lisboa and Sintra (Portugal)</p>
 
-## 2010
+### 2010
 
 * <span>DEC</span> <p>Alicante and Elche (Spain)</p>
 * <span>OCT</span> <p>[TAM London 2010](/blog/2010/10/tam-london-2010/) (United Kingdom)</p>
 * <span>MAY</span> <p>Bilbao (Spain)</p>
 * <span>MAR</span> <p>Lagunas de Ruidera, Ciudad Real (Spain)</p>
 
-## 2009
+### 2009
 
 * <span>DEC</span> <p>London, Oxford, Cambridge (United Kingdom)</p>
 * <span>AUG</span> <p>Vitoria (Spain)</p>
@@ -328,12 +328,12 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 * <span>APR</span> <p>Gijón (Spain)</p>
 * <span>JAN</span> <p>London (United Kingdom)</p>
 
-## 2007
+### 2007
 
 * <span>NOV</span> <p>Lagunas de Ruidera, Guadalajara (Spain)</p>
 * <span>APR</span> <p>Amsterdam (Netherlands)</p>
 
-## 2006
+### 2006
 
 * <span>NOV</span> <p>Roma (Italy) & Vatican City (Vatican City State)</p>
 * <span>OCT</span> <p>[Costa Dorada](/blog/2006/10/descansando-en-la-costa-dorada/) (Spain)</p>
@@ -346,7 +346,7 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 * <span>MAR</span> <p>Tablas de Daimiel, Ciudad Real (Spain)</p>
 * <span>FEB</span> <p>Logroño (Spain)</p>
 
-## 2005
+### 2005
 
 * <span>DEC</span> <p>Córdoba (Spain)</p>
 * <span>DEC</span> <p>Salamanca (Spain)</p>
@@ -358,7 +358,7 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 * <span>APR</span> <p>[Jerez de la Frontera](/blog/2005/04/fin-de-semana-en-jerez/) (Spain)</p>
 * <span>MAR</span> <p>Alicante (Spain)</p>
 
-## 2004
+### 2004
 
 * <span>DEC</span> <p>Roncesvalles, Navarra (Spain)</p>
 * <span>DEC</span> <p>Segovia (Spain)</p>
@@ -368,24 +368,24 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 * <span>MAY</span> <p>[Montmeló](/blog/2004/05/apuntes-breves-para-un-fin-de-semana/) and Barcelona (Spain)</p>
 * <span>APR</span> <p>Horcajo de los Montes, Ciudad Real (Spain)</p>
 
-## 2003
+### 2003
 
 * <span>NOV</span> <p>Valladolid (Spain)</p>
 * <span>NOV</span> <p>Oviedo (Spain)</p>
 * <span>SEP</span> <p>Casteldefells and Barcelona (Spain)</p>
 
-## 2001
+### 2001
 
 * <span>MAR</span> <p>Logroño, La Rioja (Spain)</p>
 
-## 2000
+### 2000
 
 * <span>OCT</span> <p>Bilbao (Spain)</p>
 * <span>AUG</span> <p><i>Xiringüelu</i> 2000 (Spain)</p>
 * <span>JUN</span> <p>Cáceres (Spain)</p>
 * <span>MAY</span> <p>Bilbao (Spain)</p>
 
-## 1999
+### 1999
 
 * <span>NOV</span> <p>Valencia (Spain)</p>
 * <span>NOV</span> <p>Segovia (Spain)</p>
