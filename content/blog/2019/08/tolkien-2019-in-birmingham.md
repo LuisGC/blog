@@ -3,7 +3,7 @@ author = "LuisGC"
 title = "Tolkien 2019 in Birmingham"
 date = "2019-08-18"
 type = "post"
-categories = ["post"]
+categories = ["Travel"]
 tags = ["event", "culture", "literature", "personal", "tolkien"]
 image = "https://live.staticflickr.com/65535/48565095461_ea29b3021c_k.jpg"
 +++
