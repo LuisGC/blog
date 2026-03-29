@@ -37,6 +37,12 @@ blockquote.twitter-tweet p{
   min-height: 200px;
 }
 
+@media (prefers-color-scheme: dark) {
+  .excerpt {
+    background: none;
+  }
+}
+
 .recommendation {
   background: transparent url(../img/blog/up_hand.png) no-repeat left top;
   background-size: 64px 64px;
