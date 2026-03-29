@@ -62,7 +62,7 @@ El resto de la tarde lo dedicamos a pasear por el centro de Hiroshima, visitando
 
 Al día siguiente nos dirigimos a la isla de **Miyajima**, conocida oficialmente como **Itsukushima**. Esta isla es famosa por su santuario sintoísta, el [**Santuario de Itsukushima**](https://maps.app.goo.gl/nvWjzC7MsjqSpgEXA), que es Patrimonio de la Humanidad por la UNESCO y es conocido por su icónico y majestuoso torii flotante de 15 metros de altura que parece flotar en el agua durante la marea alta.
 
-{{< image classes="image central" src="https://imgur.com/wjaPA5G.jpeg" title="Pasarelas sobre el agua en el Santuario de Itsukushima" >}}
+{{< image classes="image central" src="/img/2023/10/Miyajima-Itsukushima-Sanctuary.jpg" title="Pasarelas sobre el agua en el Santuario de Itsukushima" >}}
 
 Como casi todos los turistas, llegamos a la isla tomando un ferry desde el [**Puerto de Miyajimaguchi**](https://maps.app.goo.gl/xA6vFpDhGHn67yp18). El viaje en ferry es corto y ofrece vistas panorámicas de la isla y una perspectiva diferente del gran torii y de su santuario. Se puede llegar sin problemas a la terminal de ferris de Miyajimaguchi desde Hiroshima en tren, autobús e incluso tranvía.
 

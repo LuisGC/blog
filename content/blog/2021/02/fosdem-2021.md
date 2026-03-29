@@ -135,7 +135,7 @@ In summary: licenses are important and useful, but put your community first
 
 Then, he directly started a commented demo using Penpot to re-design the FOSDEM website. It was amazing to see the current maturity of the tool. He completed the demo explaining some integrations they are working on between Penpot and [**Taiga**](https://www.taiga.io/), taking advantage of the fact that they are the creators and core developers of both tools.
 
-{{< image classes="image central" src="https://i.imgur.com/PgTqe6Q.jpg" title="Pablo Ruiz presenting Penpot in FOSDEM 2021" >}}
+{{< image classes="image central" src="/img/2021/02/penpot-in-fosdem-2021.jpg" title="Pablo Ruiz presenting Penpot in FOSDEM 2021" >}}
 
 <br />
 
