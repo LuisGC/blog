@@ -6,7 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
-image = "/img/2023/10/Japon-3-Kyoto.jpg"
+image = "/img/2023/10/Japon-3-Kyoto.webp"
 +++
 
 _(tercer artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_
@@ -101,7 +101,7 @@ El recinto del Palacio se encuentra dentro del gran Jardín Nacional de **Kyōto
 
 No nos quisimos entretener para poder llegar a una hora prudente a uno de los lugares estrella de Kyoto: el [**Santuario sintoísta de Fushimi Inari Taisha**](https://maps.app.goo.gl/QZAp7i3rrZHC6nv4A). Este santuario, situado en lo alto de un monte y rodeado de naturaleza, es conocido porque se llega a él por varios caminos que están delimitados por cientos y cientos de puertas rojas (llamadas **_torii_**). En esos mismos caminos se encuentran otros altares y más de una tienda de recuerdos. Sólo se puede subir andando, y en casi todo el camino hay sitios preparados para hacer _paradas técnicas_ con máquinas de vending, en las que el agua cada vez es más cara a medida que vas ascendiendo. Lo entendimos perfectamente al ver al _reponedor_ subir con una carretilla con las bebidas.
 
-{{< raw-video classes="vertical" src="/video/2023/10/Fushimi-Inari-Taisha.mp4" type="video/mp4" title="Increíble el ritmo al que subía, superior al de muchos visitantes" >}} 
+{{< raw-video classes="vertical" src="/video/2023/10/Kyoto-Fushimi-Inari-Taisha.mp4" type="video/mp4" title="Increíble el ritmo al que subía, superior al de muchos visitantes" >}} 
 
 Recorrer estos caminos y escaleras casi cubiertos de torii es una experiencia difícil de describir. A medida que asciendes por la montaña la densidad de turistas desciente y la sensación de asombro se amplifica. No es un ascenso duro, pero conviene igulamente tomarse el paseo con calma para disfrutar de cada uno de los altares que encuentras a tu paso. En algunas de las fotos veréis las puertecitas torii de varios tamaños (a precios algo disparatados) que se vendían para que la gente simplemente luego las amontonase de cualquier manera. Hay tantas que es seguramente imposible colocarlas mejor.
 
