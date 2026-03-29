@@ -31,7 +31,7 @@
       {{ .Get "source" }}
     {{ if .Get "sourcelink"}}</a> {{ end }}
     {{ if .Get "cc-license"}}
-        - <i><a href="https://creativecommons.org/licenses/{{.}}/4.0/">CC {{.}} License</a></i>
+        - <i><a href="https://creativecommons.org/licenses/{{ .Get "cc-license" }}/4.0/">CC {{ .Get "cc-license" }} License</a></i>
     {{ else }}
         - <i><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA License</a></i>
     {{ end }}
