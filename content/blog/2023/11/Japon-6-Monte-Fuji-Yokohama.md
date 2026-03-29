@@ -7,7 +7,7 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
-image = "/img/2023/11/Japon-6-Monte-Fuji-Yokohama.jpg"
+image = "/img/2023/11/Japon-6-Monte-Fuji-Yokohama.webp"
 +++
 
 _(sexto artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_
