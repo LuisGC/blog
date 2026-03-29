@@ -3,7 +3,7 @@ author = "LuisGC"
 title = "Big Things Conference and Commit Conf 2019"
 date = "2019-12-08"
 type = "post"
-categories = ["post"]
+categories = ["Tech"]
 tags = ["event", "open-source", "technology"]
 image = "https://live.staticflickr.com/65535/49188308296_420b0c82e1_k.jpg"
 +++

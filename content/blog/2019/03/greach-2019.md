@@ -3,7 +3,7 @@ author = "LuisGC"
 title = "Greach 2019"
 date = "2019-03-30"
 type = "post"
-categories = ["post"]
+categories = ["Tech"]
 tags = ["event", "open-source", "technology"]
 image = "https://farm8.staticflickr.com/7814/33631536158_ccbbe9ea24_k.jpg"
 +++
