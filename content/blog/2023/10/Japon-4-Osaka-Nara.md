@@ -114,11 +114,11 @@ Nara fue la capital de Japón y residencia del Emperador durante casi todo el si
 
 Nada más salir de la estación, sin haber entrado en el propio Parque, ya te vas encontrando numerosos ciervos campando libre y alegremente por las aceras y los jardines.
 
-{{< image classes="image central" src="https://i.imgur.com/1iXxiU9.jpeg" title="Ciervos hasta en las jardineras" >}}
+{{< image classes="image central" src="/img/2023/10/Nara-deer.jpg" title="Ciervos hasta en las jardineras" >}}
 
 Son bastante tranquilos y te ignoran bastante, salvo que tengas chuches que puedas ofrecerle. El camino hasta llegar al parque está plagado de puestos callejeros de venta de unas galletas de tipo oblea para ciervos. La turistada típica es ofrecerle la galleta al ciervo, de forma que agache la cabeza simulando una reverencia, y en ese momento le acercas la galleta para que se la coma. La realidad es que estos ciervos se pasan el día comiendo galletas, así que es habitual que se ahorren la cortesía.
 
-{{< raw-video classes="vertical" src="https://i.imgur.com/nEFLkxh.mp4" type="video/mp4" title="Claramente el de las reverencias era yo" >}} 
+{{< raw-video classes="vertical" src="/video/2023/10/Nara-saluting-deers.mp4" type="video/mp4" title="Claramente el de las reverencias era yo" >}} 
 
 <blockquote>
 <b>Chema</b>: La mayoría de los ciervos tienen los cuernos afeitados y son pacíficos, pero parece que hay algunos que consiguen escapar a esos controles y mantener la cornamenta. Eso es algo a tener en cuenta si no vas con cuidado a hora de darles las chuches, ya que vimos a algunas personas un poco despistadas/confiadas que no conseguían dejarle claro a los ciervos que tenían que pedirlas educadamente, y no quitárselas a traición de las manos o los bolsillos.
@@ -126,11 +126,11 @@ Son bastante tranquilos y te ignoran bastante, salvo que tengas chuches que pued
 
 Es destacable (y nos encantó) el Templo budista de **Tōdai-ji**, que contiene en su interior la estatua de buda hecha de bronce más grande del mundo con casi 15 m de altura y unas 500 toneladas de peso. Junto al templo también se encuentra el Museo de Tōdai-ji que os recomiendo si tenéis tiempo, es corto y se ve bastante rápido. Contiene numerosas estatuas, esculturas y tesoros relacionados con el templo.
 
-{{< image classes="image central" src="https://i.imgur.com/C90cGUf.jpeg" title="El impresionante Templo de Tōdai-ji" >}}
+{{< image classes="image central" src="/img/2023/10/Nara-Todai-ji.jpg" title="El impresionante Templo de Tōdai-ji" >}}
 
 Si nos adentramos en el parque, llegaremos facilmente a otra de las joyas de Nara, el Templo sintoísta de **Kasuga-Taisha**. Este templo, en un estado de conservación impecable como muchos otros, destaca por su colección de innumerables farolillos, incluyendo un altar que recorres en completa oscuridad con la única luz de varias filas de farolillos. Un lugar muy especial y recomendable, tanto por sí mismo como por el camino hasta llegar a él.
 
-{{< image classes="image central" src="https://i.imgur.com/X0oUtrB.jpeg" title="Las innumerables lámparas de Kasuga-Taisha" >}}
+{{< image classes="image central" src="/img/2023/10/Nara-Kasuga-Taisha.jpg" title="Las innumerables lámparas de Kasuga-Taisha" >}}
 
 Hay otras paradas interesantes como el **Jardín Botánico**, el **Museo Nacional de Nara**, o el templo budista de **Kōfuku-ji**, del que se conserva (reconstruída muchas veces, como casi todo) una gran pagoda de 5 plantas, 
 
@@ -138,6 +138,6 @@ Hay otras paradas interesantes como el **Jardín Botánico**, el **Museo Naciona
 En Nara comimos en [**Tōdai-ji Nagomi**](https://todaiji-nagomi.com/), un sitio que nos gustó bastante y al que se puede sacar mucho partido. No era barato pero era bastante especial. La carta consiste en unos menús con más o menos platos (de 50 a 150€) y una selección de sake y whisky de lo mejor que vimos en todo el viaje. Pedimos unos menús relativamente pequeños, porque no teníamos mucha hambre, pero me quedé con ganas de darme un festín porque el sitio claramente lo merecía.
 {{< / recommendation >}}
 
-{{< image classes="image central" src="https://i.imgur.com/QXDnGxx.jpeg" title="Menú del día versión gourmet en Tōdai-ji Nagomi, Nara" >}}
+{{< image classes="image central" src="/img/2023/10/Nara-Todai-ji-Nagomi.jpg" title="Menú del día versión gourmet en Tōdai-ji Nagomi, Nara" >}}
 
 Próximas paradas: **¡Himeji, Hiroshima y Miyajima!**
