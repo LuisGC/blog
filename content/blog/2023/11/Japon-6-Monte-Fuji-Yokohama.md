@@ -2,15 +2,12 @@
 author = "LuisGC"
 title = "Japón (VI): Monte Fuji y Yokohama"
 date = "2023-11-03"
+description = "Antes de abordar el post sobre Tokio, voy a escribir uno intermedio sobre dos excursiones que hicimos desde la capital japonesa: una a los alrededores del Monte Fuji y otra a Yokohama"
 type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
-[[images]]
-  src = "https://imgur.com/V9O9qm4.jpeg"
-  alt = "2023-11-01 Vista del Monte Fuji desde el Lago Kawaguchi"
-  caption = "2023-11-01 Vista del Monte Fuji desde el Lago Kawaguchi - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
-  stretch = ""
+image = "https://imgur.com/V9O9qm4.jpeg"
 +++
 
 _(sexto artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_
@@ -19,10 +16,11 @@ _(sexto artículo sobre mi viaje a Japón, en los siguientes enlaces podéis lee
 * [Japón (III): Kyoto](/blog/2023/10/japon-3-kyoto/)
 * [Japón (IV): Osaka, Universal Studios y Nara](/blog/content/blog/2023/10/japon-4-osaka-nara/)
 * [Japón (V): Himeji, Hiroshima y Miyajima](/blog/2023/10/japon-5-himeji-hiroshima-miyajima/)
+* [Japón (VII): Tokyo](/blog/2023/11/japon-7-tokyo/)
 
 Antes de abordar el post sobre Tokio, voy a escribir uno intermedio sobre dos excursiones que hicimos desde la capital japonesa: una a los alrededores del Monte Fuji y otra a Yokohama.
 
-### MONTE FUJI
+## Monte Fuji
 
 La excursion a los alrededores del **Monte Fuji** es una de las pocas cosas que teníamos reservadas con antelación. En lugar de pretender subir, decidimos hacer una excursión de un día para explorar la zona y disfrutar de varias vistas panorámicas del famoso Monte. Se entiende perfectamente la importancia cultural y espiritual del Monte Fuji en Japón, es muy visible desde muchos puntos del país y eso lo convierte en un símbolo nacional muy reconocido.
 
@@ -50,7 +48,7 @@ La última para del tour fue en las [**Cataratas de Shiraito**](https://maps.app
 Hay varias empresas que hacen este tipo de excursiones, pero nosotros elegimos [**Excursiones Fujiyama**](https://excursionesfujiyama.com/itinerario/), que ofrece un tour bastante completo por unos 13.000 yenes por persona. El desplazamiento hasta el punto de recogida y el de vuelta a Tokio no están incluidos, pero el trayecto en Shinkansen (o autobús, supongo) desde Tokio no es demasiado caro ni problemático al estar bastante cerca (una ahora aprox). Con el tiempo me acuerdo principalmente de lo bueno y he olvidado lo malo (que lo hubo), pero creo que en general recomendaría esta empresa para hacer la excursión.
 {{< /recommendation >}}
 
-### YOKOHAMA
+## Yokohama
 
 Cada 3 de noviembre se celebra el [**Bunka no Hi** (Día de la Cultura)](https://es.wikipedia.org/wiki/Bunka_no_hi), festivo nacional en Japón. Casi todo lo que queríamos visitar en Tokio ese día estaba cerrado pero casualmente casi nada lo estaba en **Yokohama**, la segunda ciudad más grande de Japón situada a unos 30 km al sur de Tokio, por lo que aprovechamos para hacer una excursión de un día a esta conocida ciudad portuaria.
 

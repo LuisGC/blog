@@ -6,11 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
-[[images]]
-  src = "https://i.imgur.com/NIVvatY.jpg"
-  alt = "Chema y Luiyo en Miyajima"
-  caption = "Chema y Luiyo en Miyajima - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
-  stretch = ""
+image = "https://i.imgur.com/NIVvatY.jpg"
 +++
 
 Llevaba mucho tiempo pensando en viajar a Japón, y a primeros de 2023 decidí que sería este año sí o sí. Empecé a planificar fechas y sitios a visitar y a medida que iba ~~dando envidia~~ compartiendo mis planes con mi entorno, uno de mis compañeros de trabajo y sin embargo amigo (**Chema**) me comentó: _yo también llevo tiempo queriendo ir, ¿te apetece que vayamos juntos?_ y con las mismas comenzamos a planificar el viaje para los dos.
@@ -21,9 +17,9 @@ He decidido dividir la crónica en varios artículos, que irán siguiendo el iti
 * [Llegada a Japón, Nagoya y Takayama](/blog/2023/10/japon-2-nagoya-takayama/) (5 días)
 * [Kyoto](/blog/2023/10/japon-3-kyoto/) (6 días)
 * [Osaka, Universal Studios y Nara](/blog/2023/10/japon-4-osaka-nara/) (4 días)
-* Himeji, Hiroshima y Miyajima (3 días)
-* Tokyo (6 días)
-* Alrededores de Tokyo y regreso (2 días)
+* [Himeji, Hiroshima y Miyajima](/blog/2023/10/japon-5-himeji-hiroshima-miyajima/) (3 días)
+* [Monte Fuji y Yokohama](/blog/2023/11/japon-6-monte-fuji-yokohama/) (2 días)
+* [Tokyo](/blog/2023/11/japon-7-tokyo/) (6 días)
 
 Y como novedad respecto a otras reseñas, esta vez probaré a incluir incisos o comentarios que el propio Chema muy generosamente ha aceptado añadir a lo largo de los artículos.
 

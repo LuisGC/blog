@@ -6,10 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["blog", "technology", "design"]
 status = "published"
-[[images]]
-  src = "https://live.staticflickr.com/65535/48611202357_c781558dfa_o.png"
-  alt = "Bake your own site with JBake"
-  caption = "Bake your own site with JBake"
+image = "https://live.staticflickr.com/65535/48611202357_c781558dfa_o.png"
 +++
 
 Almost since [I created my personal blog](/blog/2003/10/arranca-luiyologia/) in 2003 I thought about moving it from blogger to my own domain, private hosting and so on. My laziness prevented me from doing so. Not because the migration itself, but for the maintenance it entailed.

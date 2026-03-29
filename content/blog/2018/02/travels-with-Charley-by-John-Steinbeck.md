@@ -6,10 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["review", "literature", "culture"]
 status = "published"
-[[images]]
-  src = "https://farm1.staticflickr.com/930/42184068000_866fd405fb_o.jpg"
-  alt = "'Travels with Charley' map at the National Steinbeck Center, Salinas, CA"
-  caption = "'Travels with Charley' map at the National Steinbeck Center, Salinas, CA<br /> Source: <a href='https://www.flickr.com/photos/jillclardy/'>Jill Clardy</a> @ <a href='https://www.flickr.com/photos/jillclardy/2566233086'>Flickr</a> - <a href='http://creativecommons.org/licenses/by-sa/2.0/'><i>CC BY-SA</i></a>"
+image = "https://farm1.staticflickr.com/930/42184068000_866fd405fb_o.jpg"
 +++
 
 [**Travels with Charley: In Search of America**](https://www.goodreads.com/book/show/8135136-travels-with-charley) is mainly what they call a [travelogue o travel literature](https://en.wikipedia.org/wiki/Travelogue_%28literature%29). It's not the first time that I read one and I'm starting to enjoy the genre. I added this one to my _want to read_ in [Goodreads](https://www.goodreads.com) a long time ago after reading some hilarious paragraphs during a couple of English lessons, and the rest of the book had not disappointed me at all.

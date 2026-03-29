@@ -1,6 +1,29 @@
 <div class="{{ .Get "classes" }}">
   {{ with .Get "imagelink"}}<a href="{{.}}">{{ end }}
-    <img src="{{ .Get "src" }}" alt="{{ .Get "title" }}">
+    {{/* Generate WebP filename from original src */}}
+    {{ $src := .Get "src" }}
+    {{ $webp := replaceRE "\\.jpe?g$" ".webp" $src }}
+    
+    {{/* Check if the original file exists and has a static path */}}
+    {{ $filePath := printf "static%s" $src }}
+    {{ $fileExists := fileExists $filePath }}
+    {{ $webpExists := false }}
+    
+    {{/* Check if WebP version exists if original is JPG/JPEG */}}
+    {{ if ne $webp $src }}
+      {{ $webpPath := printf "static%s" $webp }}
+      {{ $webpExists = fileExists $webpPath }}
+    {{ end }}
+    
+    {{/* Use picture element if WebP exists, else fallback to img */}}
+    {{ if $webpExists }}
+      <picture>
+        <source srcset="{{ $webp }}" type="image/webp">
+        <img src="{{ $src }}" alt="{{ .Get "title" }}">
+      </picture>
+    {{ else }}
+      <img src="{{ $src }}" alt="{{ .Get "title" }}">
+    {{ end }}
   {{ if .Get "imagelink"}}</a> {{ end }}
   <figcaption>
     {{ .Get "title" }}

@@ -6,10 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["games", "culture", "personal"]
 status = "published"
-[[images]]
-  src = "https://live.staticflickr.com/65535/48609259967_796298865a_o.png"
-  alt = "games tag cloud 2017"
-  caption = "Un tag cloud con los juegos a los que jugué en 2017, el tamaño indica cantidad de partidas"
+image = "https://live.staticflickr.com/65535/48609259967_796298865a_o.png"
 +++
 
 Vuelvo al castellano, para dar continuidad a esta serie de análisis sobre las partidas que he jugado durante el año anterior. Podéis leer lo que escribí anteriormente en:
@@ -79,14 +76,14 @@ Todo, como ya sabéis, gracias a <strike>la manía</strike> mi hábito de regist
 
 {{< image classes="image central" src="https://live.staticflickr.com/65535/48608751108_c3e2df5e52_o.png" title="Partidas jugadas por mes hasta 2017" >}}
 
-### Análisis
+## Análisis
 
 * En 2017 he jugado menos partidas que en 2016 volviendo a las cifras de 2015 y 2014, pero curiosamente he jugado a 72 juegos diferentes. Una cifra muy alta considerando el total de partidas (84).
 * De los 72 juegos diferentes que he jugado este año, 43 de ellos eran totalmente nuevos (para mí). Nuevamente una proporción altísima.
 * En el análisis de 2016 ya anticipaba que en 2017 lo tendría mal para jugar a Steam y así ha sido. Tengo **cero** horas registradas en 2017.
 * Mi <a href="https://en.wikipedia.org/wiki/H-index"><b><i>h-index</i></b></a> como jugador se mantiene en <b>11</b>, es difícil que suba con mi dinámica actual de no repetir mucho los juegos.
 
-### Retrospectiva
+## Retrospectiva
 
 * El tiempo que puedo dedicarle a los juegos de mesa siempre es limitado, el tiempo de ocio en general lo es, pero tengo como propósito mantenerlo y darle cierta prioridad este 2018.
 * Sigo sin poder retomar con cierta continuidad el rol, ni como jugador ni como director. Este año apenas he jugado un puñado de partidas y ha sido principalmente en jornadas o demostraciones. Este año haré un nuevo intento de arrancar algo estable, veremos si tengo éxito.

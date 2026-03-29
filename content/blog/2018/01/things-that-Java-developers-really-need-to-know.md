@@ -6,10 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["open-source", "technology"]
 status = "published"
-[[images]]
-  src = "https://live.staticflickr.com/65535/48609259497_a092b32596_b.jpg"
-  alt = "The final overview of the modular JDK, by Mark Reinhold"
-  caption = "The final overview of the modular JDK, by Mark Reinhold @ <a href='https://twitter.com/mreinhold/status/882644292036026368'>Twitter</a>"
+image = "https://live.staticflickr.com/65535/48609259497_a092b32596_b.jpg"
 +++
 
 

@@ -6,10 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "technology", "culture"]
 status = "published"
-[[images]]
-  src = "https://live.staticflickr.com/65535/48610763241_2c5618d6a9_o.png"
-  alt = "Map status of the ING CTF competition with less than 22h left"
-  caption = "Map status of the ING CTF competition with less than 22h left"
+image = "https://live.staticflickr.com/65535/48610763241_2c5618d6a9_o.png"
 +++
 
 Last week I had the huge pleasure to participate in a week-long **Security Summer Camp** organized by the Information Security department of [**ING Spain**](https://www.ing.es/). The agenda was very promising and implied some theory and lots of practice, ending with an **Escape the Room** game and a 2,5 days long **Capture The Flag** hacking competition. Several speakers from the Infosec Squad prepared talks and workshops about different topics, focusing on [Ethical Hacking](https://en.wikipedia.org/wiki/Hacker_ethic), secure development, [server hardening](http://www.linuxjournal.com/content/server-hardening) or [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence).
@@ -20,29 +17,27 @@ Let me also say that it's worthy of praise for a company like ING to allow and p
 
 # Talks and Workshops
 
-### Sleeping with the Enemy: Ethical Hacking workshop
+## Sleeping with the Enemy: Ethical Hacking workshop
 
 **Beatriz Portela** ([@usr0000](https://twitter.com/usr0000)) gave a series of workshops focusing on the most common and basic vectors of attack, learning what a vulnerability is and how to take advantage of it.
 
-### Server hardening
+## Server hardening
 
 **Sergi Llorente** explained how to protect a server from malicious attackers: [DDoS](https://en.wikipedia.org/wiki/Denial-of-service_attack) prevention, firewall policies, optimal configurations, password and banning policies and even physical attacks prevention policies. Very complete, and ended with a contest asking all the audience to infiltrate a prepared virtual machine with a weak spot, retrieving the admin password and getting access to a console with admin rights on it.
 
-### Secure development
+## Secure development
 
 **Daniel Medianero** ([@dmedianero](https://twitter.com/dmedianero)) prepared a good combination of theory and practice regarding bad smells and vulnerabilities in code, both in backend and frontend. He even prepared an online survey for the audience to vote if a given code snippet presented a vulnerability and of what kind. It was very educational and entertaining.
 
 **Vicente Carreras** ([@vicentecarreras](https://twitter.com/vicentecarreras)) checked if the attendees listened carefuly enough in Daniel's talks with a contest by teams.
 
-### OSINT, don't be part of it
+## OSINT, don't be part of it
 
 **Martina Matarí** ([@da3n3rys](https://twitter.com/da3n3rys)) talked about [Open Source Intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence), the danger it entails and what proactive methods exist to monitor it and specially to stop being a part of it.
 
 # Escape the Room
 
-Sadly I couldn't participate, but everyone said it was awesome. I'll just leave you with a glimpse:
-
-{{< tweet user="usr0000" id="888418392318898176" >}}
+Sadly I couldn't participate, but everyone said it was awesome.
 
 # Capture The Flag
 

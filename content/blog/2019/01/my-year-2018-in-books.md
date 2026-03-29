@@ -6,10 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["review", "literature", "culture"]
 status = "published"
-[[images]]
-  src = "https://farm8.staticflickr.com/7825/46560537701_875ce8d48b_b.jpg"
-  alt = "Juan Gómez Jurado during the presentation of Reina Roja in Málaga"
-  caption = "Juan Gómez Jurado during the presentation of Reina Roja in Málaga<br /> Source: <a href='https://www.laopiniondemalaga.es/cultura-espectaculos/2018/11/23/prohibo-terminantemente-leais-entrevista/1049352.html'>La Opinión de Málaga</a>"
+image = "https://farm8.staticflickr.com/7825/46560537701_875ce8d48b_b.jpg"
 +++
 
 Any [**Goodreads**](https://www.goodreads.com/) user has access to a yearly report with some statistics and basically the covers of all the books read in one year. In order to have it the user only has to set the books as _read_ and the _read date_ to any time in that year.

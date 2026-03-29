@@ -6,10 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "tourism"]
 status = "published"
-[[images]]
-  src = "https://live.staticflickr.com/65535/48611202407_32db4d7746_o.jpg"
-  alt = "Schallaburg Castle and garden"
-  caption = "Schallaburg Castle and garden<br />Source: My own pictures - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
+image = "https://live.staticflickr.com/65535/48611202407_32db4d7746_o.jpg"
 +++
 
 A couple of weeks ago I had the immense pleasure of making a road trip through Austria following what they call the [**Romantikstraße**](http://www.romantikstrasse.at/es/), *Romantic Road* or *Romantic Trail* in English. Interestingly, ours was a **singles** trip initially planned for three friends but sadly in the end we were only two because at the last minute Roberto had to cancel. I shared this great adventure only with **Agatha** and it was great (as expected). I suppose that in the eyes of any innkeeper or bartender we were a happy couple celebrating something.

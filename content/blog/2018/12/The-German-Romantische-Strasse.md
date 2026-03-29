@@ -6,10 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
-[[images]]
-  src = "https://farm5.staticflickr.com/4896/31593446587_eb0c64a565_k.jpg"
-  alt = "Splendid picture of the Neuschwanstein Castle from Marienbrucke"
-  caption = "Splendid picture of the Neuschwanstein Castle from Marienbrucke - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
+image = "https://farm5.staticflickr.com/4896/31593446587_eb0c64a565_k.jpg"
 +++
 
 Some weeks ago I had the pleasure to make again an awesome road trip with my friend **Agatha**, this time through the German [**Romantische Strasse**](https://www.romantischestrasse.de/). It is not the first (and most probably will not be the last) trip together, you can read about my trips with her through [Scotland](/blog/2018/05/scotland-a-brief-opinionated-guide/), [Austria](/blog/2017/05/romantikstrasse-the-romantic-road_1/), [Brittany](/blog/2017/12/brittany-a-brief-opinionated-guide/) or [Normandy](/blog/2017/12/normandy-a-brief-opinionated-guide/) (and we have made a few more).

@@ -6,10 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["event", "open-source", "technology", "culture", "personal"]
 status = "published"
-[[images]]
-  src = "https://farm2.staticflickr.com/1816/42184071080_56145dbc1b_o.jpg"
-  alt = "Simon Phipps speaking about the Open Source Initiative (OSI) in FOSDEM 2018"
-  caption = "Simon Phipps speaking about the Open Source Initiative (OSI) in FOSDEM 2018"
+image = "https://farm2.staticflickr.com/1816/42184071080_56145dbc1b_o.jpg"
 +++
 
 After an uncertain landing a few hours ago (the airport in Madrid was barely working due to a snowy morning), I've just arrived home but instead of having some rest after an intense and though-provoking FOSDEM I felt the urge to start writing about my weekend in Brussels.

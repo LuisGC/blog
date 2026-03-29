@@ -6,10 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["event", "open-source", "technology", "culture", "personal"]
 status = "published"
-[[images]]
-  src = "https://farm1.staticflickr.com/935/43087629135_5e527e3690_o.jpg"
-  alt = "Incredible statistics related to food at FOSDEM 2018"
-  caption = "Incredible statistics related to food at FOSDEM 2018"
+image = "https://farm1.staticflickr.com/935/43087629135_5e527e3690_o.jpg"
 +++
 
 After an interesting Saturday, finished with a great dinner with some friends in one of our favorite restaurants in Brussels, my Sunday at [**FOSDEM**](https://fosdem.org/) started again very early.

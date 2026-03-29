@@ -6,19 +6,18 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
-[[images]]
-  src = "https://i.imgur.com/Z8CIvCf.jpg"
-  alt = "Palacio de Honmaru en el Castillo de Nagoya"
-  caption = "Palacio de Honmaru en el Castillo de Nagoya - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
-  stretch = ""
+image = "https://i.imgur.com/Z8CIvCf.jpg"
 +++
 
 _(segundo artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_
 * [Japón (I): paraíso de la tradición, la modernidad y el frikismo](/blog/2023/10/japon-1-paraiso-tradicion-modernidad-frikismo/)
 * [Japón (III): Kyoto](/blog/2023/10/japon-3-kyoto/)
 * [Japón (IV): Osaka, Universal Studios y Nara](/blog/2023/10/japon-4-osaka-nara/)
+* [Japón (V): Himeji, Hiroshima y Miyajima](/blog/2023/10/japon-5-himeji-hiroshima-miyajima/)
+* [Japón (VI): Monte Fuji y Yokohama](/blog/2023/11/japon-6-monte-fuji-yokohama/)
+* [Japón (VII): Tokyo](/blog/2023/11/japon-7-tokyo/)
 
-### Aeropuerto de Haneda
+## Aeropuerto de Haneda
 
 Nuestros vuelos de ida y regreso fueron al Aeropuerto de **Haneda**, uno de los dos aeropuertos internacionales del Gran Tokio. No fue por elección propia (es el que usa Lufthansa para volar a Tokio desde Europa) y no conozco el otro aeropuerto (**Narita**), pero diría que os recomiendo llegar a Haneda si fuera posible. Es cómodo de transitar y se encuentra a media hora larga de monorail de la Estación central de Tokio. Además, si hacéis como nosotros y dejáis Tokio para el final (mi recomendación), el primer día no tendréis ni que llegar hasta _Tokio Central_ para coger la línea **Hokkaidō Shinkansen** con lo que resulta especialmente cómodo y recomendable frente a llegar por Narita que está mucho más alejado de Tokio y además hacia el Este.
 
@@ -34,7 +33,7 @@ La única pega (por decir algo) es que, salvo pagando un recargo importante, la 
 
 Una vez enviadas las maletas, y con la mochila preparada para pasar un día y medio en nuestro primer destino, salimos del aeropuerto y en algo más de media hora ya estábamos subidos al tren bala con un par de cajas de **_bentō_** para acelerar la inmersión. En este primer trayecto recorrimos más de 350 km en poco más de una hora. Una pasada.
 
-### Nagoya
+## Nagoya
 
 Llegamos a **Nagoya** sólo unas pocas horas después de haber aterrizado en Japón, con una tarde completa por delante. Es cierto que en general no tiene mucho que ver pero me dejó recuerdos inborrables.
 
@@ -86,7 +85,7 @@ También podéis ir al [Museo de la Expo de 2005](https://maps.app.goo.gl/YQ2LNK
 
 Por si todo eso fuera poco, para llegar al Parque Ghibli desde el centro de Nagoya se puede (y recomiendo) usar la línea Linimo que utiliza [trenes de tipo **_maglev_**](https://es.wikipedia.org/wiki/Tren_de_levitaci%C3%B3n_magn%C3%A9tica). Esta línea se montó para la Expo 2005 y ahora forma parte de la red de transporte público de Nagoya. Volvimos al centro en el maglev, directos a la estación para coger el tren destino a Takayama.
 
-### Takayama
+## Takayama
 
 Llegamos a **Takayama** a última hora de la tarde, después de un fantástico viaje en tren (incluido en el JR Pass) que recorre en paralelo al Río Hida un montón de valles espectaculares y muy pintorescos. Lo veríamos mejor al volver, que hicimos el recorrido inverso durante el día. Hay otras opciones para llegar a Takayama pero sin duda el tren es cómodo y directo. Sin ser muy grande, es una de las ciudades más importantes de esta región (conocida como los Alpes Japoneses) y tampoco hay muchas más formas de llegar.
 
@@ -134,7 +133,7 @@ Sin estar muy masificado, Takayama parece ser un destino popular casi todo el a�
 
 Nos quedamos con muy buenas sensaciones, creo que unos cuantos días más allí podrían merecer la pena. Habrá que volver :-)
 
-### Shirakawa-Gō
+## Shirakawa-Gō
 
 La manera más rápida y sencilla de llegar a **Shirakawa** (el pueblo en el que se encuentra Shirakawa-Gō) es precisamente en autobús desde Takayama. Shirakawa es una pequeña villa en mitad de las montañas, que se ha convertido en un santuario de casas del estilo tradicional **_gasshō-zukuri_**, por la alta cantidad que se han conservado allí y porque en los últimos años incluso han trasladado casas enteras de este estilo desde otros lugares de Japón para que puedan ser preservadas y admiradas aquí.
 
