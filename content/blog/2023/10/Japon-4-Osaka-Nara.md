@@ -6,7 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
-image = "/img/2023/10/Japon-4-Osaka-Nara.jpg"
+image = "/img/2023/10/Japon-4-Osaka-Nara.webp"
 +++
 
 _(cuarto artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_
