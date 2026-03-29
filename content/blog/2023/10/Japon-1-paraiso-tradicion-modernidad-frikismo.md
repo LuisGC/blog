@@ -6,7 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
-image = "/img/2023/10/Japon-1-paraiso-tradicion-modernidad-frikismo.jpg"
+image = "/img/2023/10/Japon-1-paraiso-tradicion-modernidad-frikismo.webp"
 +++
 
 Llevaba mucho tiempo pensando en viajar a Japón, y a primeros de 2023 decidí que sería este año sí o sí. Empecé a planificar fechas y sitios a visitar y a medida que iba ~~dando envidia~~ compartiendo mis planes con mi entorno, uno de mis compañeros de trabajo y sin embargo amigo (**Chema**) me comentó: _yo también llevo tiempo queriendo ir, ¿te apetece que vayamos juntos?_ y con las mismas comenzamos a planificar el viaje para los dos.
