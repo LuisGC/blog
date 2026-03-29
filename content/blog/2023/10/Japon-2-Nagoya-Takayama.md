@@ -6,7 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
-image = "/img/2023/10/Japon-2-Nagoya-Takayama.jpg"
+image = "/img/2023/10/Japon-2-Nagoya-Takayama.webp"
 +++
 
 _(segundo artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_
