@@ -7,7 +7,7 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "history"]
 status = "published"
-image = "/img/2023/10/Japon-5-Himeji-Hiroshima-Miyajima.jpg"
+image = "/img/2023/10/Japon-5-Himeji-Hiroshima-Miyajima.webp"
 +++
 
 _(quinto artículo sobre mi viaje a Japón, en los siguientes enlaces podéis leer el resto)_
