@@ -206,14 +206,14 @@ Otra cosa que nos coincidió con el viaje, y cuadramos para asistir, es el Desfi
 El desfile colmó (y en mi caso superó) las expectativas. Llegamos de los primeros y pudimos coger un sitio fantástico para verlo cómodamente en primera fila. Fueron varias horas de ver pasar gente a pie, a caballo o en carruaje con kimonos, trajes, armaduras y en general todo tipo de vestimentas. Debo decir que muchísimos de ellos también portaban arcos ;-) Sólo del desfile hice más de 200 fotos, os dejo algunas de las más representativas.
 
 <div class="slider-container">  
-  {{< image classes="image slider-item" src="https://i.imgur.com/2w6N4HA.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/AYJeQPr.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/xIhefe6.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/b8MqoOy.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/eC2s3ht.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/C0qTKWR.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/K7Z0R13.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
-  {{< image classes="image slider-item" src="https://i.imgur.com/72ESyq1.jpeg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image slider-item" src="/img/2023/10/Kyoto-Jidai-Matsuri-2023-1.jpg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image slider-item" src="/img/2023/10/Kyoto-Jidai-Matsuri-2023-2.jpg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image slider-item" src="/img/2023/10/Kyoto-Jidai-Matsuri-2023-3.jpg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image slider-item" src="/img/2023/10/Kyoto-Jidai-Matsuri-2023-4.jpg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image slider-item" src="/img/2023/10/Kyoto-Jidai-Matsuri-2023-5.jpg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image slider-item" src="/img/2023/10/Kyoto-Jidai-Matsuri-2023-6.jpg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image slider-item" src="/img/2023/10/Kyoto-Jidai-Matsuri-2023-7.jpg" title="Jidai Matsuri 2023, en Kyoto" >}}
+  {{< image classes="image slider-item" src="/img/2023/10/Kyoto-Jidai-Matsuri-2023-8.jpg" title="Jidai Matsuri 2023, en Kyoto" >}}
 </div>
 
 Tengo grabado todo el desfile con la Insta 360, pero no tengo claro cuándo tendré tiempo de editar todo ese material, por ahora os dejo también un vídeo corto que hice y publiqué allí mismo con lo poco que grabé con el teléfono móvil.
