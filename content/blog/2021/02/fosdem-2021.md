@@ -3,13 +3,10 @@ author = "LuisGC"
 title = "FOSDEM 2021, the first virtual FOSDEM"
 date = "2021-02-07"
 type = "post"
-categories = ["post"]
-tags = ["event", "open-source", "technology", "linux", "programming", "internet", "culture", "computer-science", "personal"]
+categories = ["Tech"]
+tags = ["event", "open-source", "technology", "culture", "personal"]
 status = "published"
-[[images]]
-  src = "https://i.imgur.com/MBUiKS3.jpg"
-  alt = "FOSDEM 2021, a virtual event"
-  stretch = "H"
+image = "/img/2021/02/fosdem-2021.webp"
 +++
 
 Due to the pandemic this year I could not make my yearly pilgrimage to Brussels, but I was still able to attend FOSDEM as it mutated to an online conference for the first time. It has not been the same, but it is still an experience I cannot miss.
@@ -18,7 +15,7 @@ For those of you who don't know [**FOSDEM**](https://fosdem.org/), I will keep m
 
 Being online, this year the interaction was limited to [**Matrix**](https://matrix.org/) and IRC [**Freenode**](https://freenode.net/) channels in parallel to the live streaming, and [**Jitsi**](https://meet.jit.si/) for the streaming. Everything is open source, and scaled amazingly.
 
-{{< tweet user="jitsinews" id="1357978829692764162" >}}
+{{< x user="jitsinews" id="1357978829692764162" >}}
 
 I already wrote about it in previous years:
 
@@ -87,7 +84,7 @@ Interesting overview about how [**Gitlab**](https://gitlab.com/) copes with thei
 
 Dave Stoker, community manager at [**MySQL**](https://www.mysql.com/), gave an historical overview of MySQL since its beginning.
 
-{{< tweet user="lefred" id="1358335694725406721" >}}
+{{< x user="lefred" id="1358335694725406721" >}}
 
 It was a nice presentation, with the sense of humor you expect in this nostalgic exercises.
 
@@ -138,7 +135,7 @@ In summary: licenses are important and useful, but put your community first
 
 Then, he directly started a commented demo using Penpot to re-design the FOSDEM website. It was amazing to see the current maturity of the tool. He completed the demo explaining some integrations they are working on between Penpot and [**Taiga**](https://www.taiga.io/), taking advantage of the fact that they are the creators and core developers of both tools.
 
-{{< image classes="image central" src="https://i.imgur.com/PgTqe6Q.jpg" title="Pablo Ruiz presenting Penpot in FOSDEM 2021" >}}
+{{< image classes="image central" src="/img/2021/02/penpot-in-fosdem-2021.jpg" title="Pablo Ruiz presenting Penpot in FOSDEM 2021" >}}
 
 <br />
 

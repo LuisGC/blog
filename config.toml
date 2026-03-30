@@ -3,19 +3,19 @@
 baseurl                 = "https://luiyo.net"
 DefaultContentLanguage  = "en"
 title                   = "Luiyología"
-theme                   = "hugo-future-imperfect-slim"
-paginate                = 10
+theme                   = "hugo-theme-stack"
+pagination.pagerSize    = 10
 disqusShortname         = "luiyologia"
-googleAnalytics         = "UA-555064-1"
+# googleAnalytics         = "UA-555064-1"
 pluralizeListTitles     = false
 disableLanguages        = [""]
-ignoreErrors = ["error-remote-getjson"]
+ignoreErrors            = ["error-remote-getjson"]
 
 [markup.goldmark.renderer]
   unsafe                = true
 
 [outputs]
-  home                  = ["html", "json", "rss"]
+  home                  = ["html", "rss"]
 
 [params]
   mainSections          = ["blog", "post"]
@@ -38,7 +38,7 @@ ignoreErrors = ["error-remote-getjson"]
   removeBlur            = true
   # Sets which Social Share links appear in posts.
   # Options are twitter, facebook, reddit, linkedin, pinterest, email
-  socialShare           = ["twitter", "facebook", "reddit", "linkedin", "email"]
+  socialShare           = ["reddit", "linkedin", "email"]
   hideEmptyStats        = false
 
   [params.meta]
@@ -89,15 +89,18 @@ ignoreErrors = ["error-remote-getjson"]
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
     postAmount          = 5
     # set to show or to hide categories in the sidebar
-    categories          = false
+    categories          = true
     # Sets Categories to sort by number of posts instead of alphabetical
     categoriesByCount   = true
+    subtitle            = "The Science that studies my interests and concerns"
+#    avatar              = "/images/avatar.png"
 
   [params.footer]
     # Sets RSS icons to appear on the sidebar with the social media buttons
     rssFooter           = false
     # Sets Social Media icons to appear on the sidebar
     socialFooter        = false
+    since               = 2003
 
   [params.staticman]
     enabled             = true
@@ -116,46 +119,11 @@ ignoreErrors = ["error-remote-getjson"]
   # Identifier prepends a Font Awesome icon to the menu item
 
   [[menu.main]]
-    name              = "Home"
-    identifier        = "home"
-    url               = "https://luiyo.net/"
-    pre               = "<i class='fa fa-home'></i>"
-    weight            = 1
-
-  [[menu.main]]
-    name              = "About"
-    identifier        = "about"
-    url               = "/about/"
-    pre               = "<i class='far fa-id-card'></i>"
-    weight            = 2
-
-  [[menu.main]]
-    name              = "Blog"
-    identifier        = "blog"
-    url               = "/blog/"
-    pre               = "<i class='far fa-newspaper'></i>"
-    weight            = 3
-
-  [[menu.main]]
     name              = "Tags"
     identifier        = "tags"
     url               = "/tags/"
     pre               = "<i class='fas fa-tags'></i>"
     weight            = 4
-
-  [[menu.main]]
-    name              = "Travel CV"
-    identifier        = "travelCV"
-    url               = "/travel-cv/"
-    pre               = "<i class='fas fa-globe-europe'></i>"
-    weight            = 5
-
-  [[menu.main]]
-    name              = "Talks"
-    identifier        = "talks"
-    url               = "/talks/"
-    pre               = "<i class='fas fa-microphone'></i>"
-    weight            = 6
 
   [[menu.main]]
     name              = "RSS"
@@ -164,119 +132,57 @@ ignoreErrors = ["error-remote-getjson"]
     pre               = "<i class='fas fa-rss'></i>"
     weight            = 7
 
-[Languages]
-  # Each language has its own menu.
-
-  [Languages.en]
-    LanguageCode        = "en"
-    LanguageName        = "English"
-    weight              = 1
-
-  [Languages.es]
-    LanguageCode        = "es"
-    LanguageName        = "Español"
-    title               = "Luiyología en Español"
-    description         = "La Ciencia que estudia mis intereses y preocupaciones"
-    weight              = 2
-
-    [[Languages.es.menu.main]]
-      name              = "Inicio"
-      identifier        = "home"
-      url               = "/"
-      pre               = "<i class='fas fa-home'></i>"
-      weight            = 1
-
-    [[Languages.es.menu.main]]
-      name              = "Acerca de"
-      identifier        = "about"
-      url               = "/about/"
-      pre               = "<i class='far fa-id-card'></i>"
-      weight            = 2
-
-    [[Languages.es.menu.main]]
-      name              = "Blog"
-      identifier        = "blog"
-      url               = "/blog/"
-      pre               = "<i class='far fa-newspaper'></i>"
-      weight            = 3
-
-    [[Languages.es.menu.main]]
-      name              = "Etiquetas"
-      identifier        = "tags"
-      url               = "/tags/"
-      pre               = "<i class='fas fa-tags'></i>"
-      weight            = 4
-
-    [[Languages.es.menu.main]]
-      name              = "Travel CV"
-      identifier        = "travelCV"
-      url               = "/travel-cv/"
-      pre               = "<i class='fas fa-globe-europe'></i>"
-      weight            = 5
-
-    [[Languages.es.menu.main]]
-      name              = "Charlas"
-      identifier        = "talks"
-      url               = "/talks/"
-      pre               = "<i class='fas fa-microphone'></i>"
-      weight            = 6
-
-    [[Languages.es.menu.main]]
-      name              = "RSS"
-      identifier        = "rss"
-      url               = "/blog/feed.xml"
-      pre               = "<i class='fas fa-rss'></i>"
-      weight            = 7
-
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
 # and socialAppearAtBottom.
-[social]
-  # Coding Communities
-  github                = "luisgc"
-  gitlab                = ""
-  stackoverflow         = "" # User Number
-  bitbucket             = ""
-  jsfiddle              = ""
-  codepen               = ""
-  # Visual Art Communities
-  deviantart            = ""
-  flickr                = "luiyo"
-  behance               = ""
-  dribbble              = ""
-  # Publishing Communities
-  wordpress             = ""
-  medium                = ""
-  # Professional/Business Oriented Communities
-  linkedin              = "luisgc"
-  linkedin_company      = ""
-  foursquare            = ""
-  xing                  = ""
-  slideshare            = "LuisGarcaCastro"
-  # Social Networks
-  facebook              = ""
-  googleplus            = ""
-  reddit                = "Luiyo"
-  quora                 = ""
-  youtube               = ""
-  vimeo                 = ""
-  whatsapp              = "" # WhatsApp Number
-    # WeChat and QQ need testing.
-    wechat              = ""
-    qq                  = "" # User ID Number
-  instagram             = ""
-  tumblr                = ""
-  twitter               = "luiyo"
-  strava                = ""
-  skype                 = ""
-  snapchat              = ""
-  pinterest             = ""
-  telegram              = ""
-  vine                  = ""
-  googlescholar         = ""
-  orcid                 = ""
-  researchgate          = ""
-  keybase               = ""
-  mastodon              = ""
-  # Email
-  email                 = "luiyologia@gmail.com"
+
+[[menu.social]]
+  identifier            = "github"
+  name                  = "Github"
+  url                   = "https://github.com/luisgc"
+  params.newTab         = true
+  params.icon           = "brand-github"
+
+[[menu.social]]
+  identifier            = "linkedin"
+  name                  = "LinkedIn"
+  url                   = "https://www.linkedin.com/in/luisgc"
+  params.newTab         = true
+  params.icon           = "brand-linkedin"
+
+[[menu.social]]
+  identifier            = "youtube"
+  name                  = "YouTube"
+  url                   = "https://youtube.com/@LuisGC_"
+  params.newTab         = true
+  params.icon           = "brand-youtube"
+
+[[menu.social]]
+  identifier            = "slideshare"
+  name                  = "SlideShare"
+  url                   = "https://slideshare.com/LuisGarcaCastro"
+  params.newTab         = true
+  params.icon           = "brand-slideshare"
+
+[[menu.social]]
+  identifier            = "email"
+  name                  = "email"
+  url                   = "mailto:luiyologia@gmail.com"
+  params.newTab         = true
+  params.icon           = "email"
+
+[tableOfContents]
+  endLevel              = 4
+  ordered               = true
+  startLevel            = 2
+
+[params.widgets]
+    homepage = [
+        { type = "search" },
+        { type = "categories", params = { limit = 6 } },
+        { type = "tag-cloud", params = { limit = 30 } },
+        { type = "archives", params = { limit = 10 } },
+    ]
+    page     = [{ type = "toc" }]
+
+  

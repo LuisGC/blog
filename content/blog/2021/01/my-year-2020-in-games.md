@@ -3,14 +3,10 @@ author = "LuisGC"
 title = "My Year 2020 in Games"
 date = "2021-01-10"
 type = "post"
-categories = ["post"]
-tags = ["games", "culture", "personal", "retrospective"]
+categories = ["Games"]
+tags = ["games", "culture", "personal"]
 status = "published"
-[[images]]
-  src = "https://i.imgur.com/VBiYSqx.png"
-  alt = "A tag cloud with all the boardgames that I have played in 2020"
-  caption = "A tag cloud with all the boardgames that I have played in 2020"
-  stretch = "H"
+image = "/img/2021/01/my-year-2020-in-games.png"
 +++
 
 Welcome again to this yearly post, where I try to analyze my gaming behavior during the last year. You can read about my previous years:
@@ -36,7 +32,7 @@ Welcome again to this yearly post, where I try to analyze my gaming behavior dur
 
 <figcaption>Evolution of my boardgame plays over the last 5 years</figcaption>
 
-{{< image classes="image central" src="https://i.imgur.com/42rGmJd.png" title="Games played per year until the end of 2020" >}}
+{{< image classes="image central" src="/img/2021/01/games-played-per-year.png" title="Games played per year until the end of 2020" >}}
 
 ## Retrospective
 

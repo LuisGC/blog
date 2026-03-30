@@ -3,13 +3,10 @@ author = "LuisGC"
 title = "Some things that Java developers really need to know in 2018"
 date = "2018-01-23"
 type = "post"
-categories = ["post"]
-tags = ["programming", "computer-science", "open-source", "technology"]
+categories = ["Tech"]
+tags = ["open-source", "technology"]
 status = "published"
-[[images]]
-  src = "https://live.staticflickr.com/65535/48609259497_a092b32596_b.jpg"
-  alt = "The final overview of the modular JDK, by Mark Reinhold"
-  caption = "The final overview of the modular JDK, by Mark Reinhold @ <a href='https://twitter.com/mreinhold/status/882644292036026368'>Twitter</a>"
+image = "https://live.staticflickr.com/65535/48609259497_a092b32596_b.jpg"
 +++
 
 

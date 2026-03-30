@@ -3,12 +3,10 @@ author = "LuisGC"
 title = "FOSDEM 2020, 20 Years of FOSDEM"
 date = "2020-02-25"
 type = "post"
-categories = ["post"]
-tags = ["event", "open-source", "technology", "linux", "programming", "internet", "culture", "computer-science", "personal"]
+categories = ["Tech"]
+tags = ["event", "open-source", "technology", "culture", "personal"]
 status = "published"
-[[images]]
-  src = "https://live.staticflickr.com/65535/49585666592_700db085cf_k.jpg"
-  alt = "Pablo Ruiz presenting UXBOX at FOSDEM 2020"
+image = "https://live.staticflickr.com/65535/49585666592_700db085cf_k.jpg"
 +++
 
 It has been almost a month since I returned from another intense and thought-provoking weekend in Brussels, although it still feels like it was just yesterday. I couldn't write this before, as I have been quite busy both at work and at home.
@@ -74,7 +72,7 @@ They continued their presentation introducing some new Freedoms applicable to AI
 
 They also suggested how we, as a global community, could respect and enforce these freedoms: reproducibility, liability and responsible design, and specially human centered appealing mechanisms.
 
-{{< tweet user="mbbroberg" id="1223579974923358209" >}}
+{{< x user="mbbroberg" id="1223579974923358209" >}}
 
 [**Organizing Open Source for Cities**](https://fosdem.org/2020/schedule/event/ospoforcities/), by Jacob Green
 
@@ -99,8 +97,6 @@ We cannot settle with Open Source (as it is described today). It's necessary but
 * What do we owe to each other as people?
 * How do we evolve as a community?
 
-{{< tweet user="luiyo" id="1223903221523066880" >}}
-
 [**Engineers, Call Your Policy People!**](https://fosdem.org/2020/schedule/event/corppolicyteamoutreach/), by Astor Nummelin Carlberg & Paula Grzegorzewska
 
 Astor and Paula from **OpenForum Europe** ([@OpenForumEurope](https://twitter.com/OpenForumEurope)) explained their mission, connecting FOSS communities and projects with policy makers (specially in the EU). They explained what they learned during the recent campaign against the Copyright Directive, and how they created the [**SaveCodeShare.eu**](https://www.savecodeshare.eu/) portal.
@@ -112,8 +108,6 @@ Regulations affect for profit business, but what happens with Open Source? Activ
 Deb Nicholson ([@baconandcoconut](https://twitter.com/baconandcoconut)), Director of Community Operations at **Software Freedom Conservancy** ([@conservancy](https://twitter.com/conservancy)), shared her view about ethical software in the most vindictive talk of the weekend. FOSS still depends on funding, and affinity is key. It's easy to see the [ROI](https://en.wikipedia.org/wiki/Return_on_investment) in big FOSS projects, but how can we justify (and measure) helping people as the main business model?
 
 Rainbow capitalism... is still capitalism. Open Source exploitation... is still exploitation. How can we fix things from the inside? Encouraging self-reporting, organizing strikes or walkouts if needed, but mainly building our own alternatives. We should bind our future and our software to ethical choices. She closed with two interesting thoughts: What policy changes are needed? Should we require ethical audits and ethical boards in the companies/projects?
-
-{{< tweet user="luiyo" id="1223917428272508928" >}}
 
 [**UXBOX, the time for an open source online prototyping platform has arrived**](https://fosdem.org/2020/schedule/event/uxbox_open_source_online_prototyping_platform/), by Pablo Ruiz Múzquiz
 

@@ -3,13 +3,10 @@ author = "LuisGC"
 title = "Romantikstraße, the Romantic Road (5 of 5)"
 date = "2017-07-28"
 type = "post"
-categories = ["post"]
-tags = ["personal", "tourism", "holidays", "history", "politics"]
+categories = ["travel"]
+tags = ["personal", "tourism", "history", "politics"]
 status = "published"
-[[images]]
-  src = "https://live.staticflickr.com/65535/48610763261_2e54019036_o.jpg"
-  alt = "Mauthausen Spanish memorial"
-  caption = "Mauthausen Spanish memorial - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
+image = "https://live.staticflickr.com/65535/48610763261_2e54019036_o.jpg"
 +++
 
 This is the fifth and last part of my chronicle about our trip through the [**Romantikstraße**](http://www.romantikstrasse.at/es/), you can read the rest here:

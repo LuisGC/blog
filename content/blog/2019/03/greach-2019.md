@@ -3,12 +3,9 @@ author = "LuisGC"
 title = "Greach 2019"
 date = "2019-03-30"
 type = "post"
-categories = ["post"]
-tags = ["event", "open-source", "technology", "programming", "internet", "computer-science"]
-[[images]]
-  src = "https://farm8.staticflickr.com/7814/33631536158_ccbbe9ea24_k.jpg"
-  alt = "Greach Conference 2019"
-  caption = "Greach Conference 2019"
+categories = ["Tech"]
+tags = ["event", "open-source", "technology"]
+image = "https://farm8.staticflickr.com/7814/33631536158_ccbbe9ea24_k.jpg"
 +++
 
 {{< image classes="image lateral" src="https://farm8.staticflickr.com/7886/47508138651_ab994ce172_o.png" title="Greach 2019" >}}

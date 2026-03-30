@@ -3,13 +3,10 @@ author = "LuisGC"
 title = "Big Data Spain 2017"
 date = "2017-11-17"
 type = "post"
-categories = ["post"]
-tags = ["programming", "computer-science", "technology"]
+categories = ["Tech"]
+tags = ["technology"]
 status = "published"
-[[images]]
-  src = "https://live.staticflickr.com/65535/48610717071_0c14940e6a_o.jpg"
-  alt = "Big Data Spain 2017"
-  caption = "Big Data Spain 2017"
+image = "https://live.staticflickr.com/65535/48610717071_0c14940e6a_o.jpg"
 +++
 
 Last week I attended [**Big Data Spain**](https://www.bigdataspain.org/) (BDS), a renowned event focused particularly on [Big Data](https://en.wikipedia.org/wiki/Big_data), [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning). It's a reference event about Big Data, not only in Spain but across Europe. The event is almost entirely held in English and attracts top level speakers and public.
@@ -28,8 +25,6 @@ Anyway, Óscar gave some interesting concepts. I specially liked the way he expl
 * Second disruption, use distributed applications via microservices
 * Third disruption, smart data centers moving first to IaaS and then to PaaS
 
-{{< tweet user="FOSSjunkie" id="931099635816509440" >}}
-
 **[Big Data, Analytics, and Tax Fraud](https://www.bigdataspain.org/2017/talk/big-data-and-tax-fraud) - José Borja Tomé (Agencia Tributaria)**
 
 José Borja started with the disclaimer "As you can imagine, I'm not here to show you how to pay less taxes", and just with that he got all my attention and friendship. He also explained, for the greater tranquility of the Spanish audience, that Agencia Tributaria (the Spanish Tax Agency) is trying to modernize itself in terms of combating fraud and help the tax payers fill in the required forms. He delivered this messages with some slides that looked like they were made with Office 95 but the important thing is the content, not the appearance.
@@ -42,13 +37,11 @@ He ended his talk with several surprising and exciting figures. For example, and
 
 Carlos gave a technical overview of how to protecting the data and services of a company in a Big Data environment when everything is data-centric. He summarized that it is distributed in two areas: protect the data and protect the service. You should review this talk if you are in the security business.
 
-{{< tweet user="danielcsant" id="931122319573114880" >}}
+{{< x user="danielcsant" id="931122319573114880" >}}
 
 **[Playing Well Together: Big Data beyond the JVM w/Spark etc](https://www.bigdataspain.org/2017/talk/apache-spark-machine-learning), by [Holden Karau](https://twitter.com/holdenkarau) (Google)**
 
 Holden gave several good tips and tricks about [Apache Spark](https://spark.apache.org/) in general, and specifically about using it from outside the Java ecosystem in Python. As a Python connoisseur, but not a Spark user (yet), I just learned a couple of usable tips but the talk was great anyway and it was a pleasure to meet Holden.
-
-{{< tweet user="luiyo" id="931129784498782208" >}}
 
 **[Why big data didn’t end causal inference](https://www.bigdataspain.org/2017/talk/why-big-data-didnt-end-causal-inference), by [Totte Harinen](https://twitter.com/totteh) (Uber)**
 
@@ -80,8 +73,6 @@ Tyler based his session on a very simple but interesting concept: "Tables are da
 
 This was a surprisingly interesting talk, despite I entered the room with very low expectations. In summary, Sean emphasized the necessity to think about errors, to prevent them and to estimate the uncertainty based on the fact that there will always be errors. He gave several examples and some useful tips and tricks.
 
-{{< tweet user="luiyo" id="931480332599287808" >}}
-
 **[AI in VR](https://www.bigdataspain.org/2017/talk/tbc-michael-ludden), by [Michael Ludden](https://twitter.com/Michael_Ludden) (IBM Watson)**
 
 this session was very funny and interesting. Michael summarized the current ecosystem regarding AI in VR, explained the current approaches to AI (and the pros and cons of each) and even made some predictions about what will happen in the future. As Director of Product of [**IBM Watson**](https://www.ibm.com/watson/), he presented as an example [_Star Trek: Bridge Crew_](https://www.ubisoft.com/en-US/game/star-trek-bridge-crew/), an amazing VR game that reacts not only to the player movements but also to voice commands. I'll just leave you with the trailer:
@@ -94,7 +85,7 @@ My last choice could not be other than my colleague David. He explained what we 
 
 In summary, what ING is building is an event-driven architecture delivered as one platform, with [Apache Kafka](https://kafka.apache.org/), [Apache Flink](https://flink.apache.org/) and [SAS RTDM](https://www.sas.com/en_us/software/real-time-decision-manager.html) in the core. I hope that you'll listen more about this in the future.
 
-{{< tweet user="dgomezg" id="931523731754815490" >}}
+{{< x user="dgomezg" id="931523731754815490" >}}
 
 # Conclusion
 

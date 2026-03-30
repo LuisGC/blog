@@ -3,13 +3,10 @@ author = "LuisGC"
 title = "Romantikstraße, the Romantic Road (4 of 5)"
 date = "2017-07-01"
 type = "post"
-categories = ["post"]
-tags = ["personal", "tourism", "holidays"]
+categories = ["travel"]
+tags = ["personal", "tourism"]
 status = "published"
-[[images]]
-  src = "https://live.staticflickr.com/65535/48610914397_c6233fa613_o.jpg"
-  alt = "Hallstatt panoramic"
-  caption = "Hallstatt panoramic - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
+image = "https://live.staticflickr.com/65535/48610914397_c6233fa613_o.jpg"
 +++
 
 This is the fourth part of my chronicle about our trip through the [**Romantikstraße**](http://www.romantikstrasse.at/es/), you can read the rest here:
