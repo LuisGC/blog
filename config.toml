@@ -16,6 +16,8 @@ ignoreErrors            = ["error-remote-getjson"]
 
 [outputs]
   home                  = ["html", "rss"]
+  section               = ["html", "rss"]
+  page                  = ["html", "rss"]
 
 [params]
   mainSections          = ["blog", "post"]
