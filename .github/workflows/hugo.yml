@@ -56,13 +56,13 @@ jobs:
           HUGO_ENVIRONMENT: production
         run: |
           hugo \
-            --destination="docs" \
+            --minify \
             --cleanDestinationDir \
             --baseURL "https://luiyo.net/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: ./docs
+          path: ./public
 
   # Deployment job
   deploy:
