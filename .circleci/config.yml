@@ -70,7 +70,7 @@ jobs:
 
     - run:
         name: "Checking baseURL"
-        command: echo "Base URL: ${BASE_URL}"
+        command: echo ${BASE_URL}
 
     - run:
         name: "Build Website With Hugo"
