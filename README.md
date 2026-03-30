@@ -2,7 +2,7 @@
 
 This blog uses [**Hugo**](https://gohugo.io/), enriched by the [**Stack Theme**](https://github.com/CaiJimmy/hugo-theme-stack) by [**Jimmy Cai**](https://jimmycai.com/).
 
-[![Build Status](https://circleci.com/gh/LuisGC/blog.svg?style=shield&circle-token=84b0c3abe4224e336ee9d92c7e04204e9a2b2767)](https://circleci.com/gh/LuisGC/blog)
+[![Deploy Hugo site to Pages](https://github.com/LuisGC/blog/actions/workflows/hugo.yml/badge.svg)](https://github.com/LuisGC/blog/actions/workflows/hugo.yml)
 
 ## License
 
