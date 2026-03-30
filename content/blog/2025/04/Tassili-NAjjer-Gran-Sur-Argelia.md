@@ -3,7 +3,7 @@ author = "LuisGC"
 title = "Tassili N'Ajjer y el Gran Sur de Argelia"
 date = "2025-04-28"
 type = "post"
-categories = ["post"]
+categories = ["Travel"]
 tags = ["personal", "tourism", "holidays", "history"]
 status = "published"
 image = "https://picsum.photos/880/280?blur=3"
