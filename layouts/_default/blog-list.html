@@ -14,7 +14,7 @@
     {{- $pages := where (where .Site.RegularPages "Type" "post") "Section" "blog" -}}
     {{- $pages := $pages | sort "Date" "desc" -}}
     
-    {{- $paginator := .Paginate $pages -}}
+    {{- $paginator := $.Paginate $pages -}}
     
     <div class="article-list--compact">
         {{- range $paginator.Pages -}}

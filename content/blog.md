@@ -1,6 +1,6 @@
 +++
 title = "Blog"
 description = "Blog posts"
-draft = false
-layout = "list"
+url = "/blog/"
+layout = "blog-list"
 +++
