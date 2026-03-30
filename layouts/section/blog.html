@@ -1,0 +1,28 @@
+{{ define "main" }}
+    <header>
+        <h3 class="section-title">Blog</h3>
+        <div class="section-card">
+            <div class="section-details">
+                <h1 class="section-term">{{ .Title }}</h1>
+                {{ with .Params.description }}
+                    <h2 class="section-description">{{ . }}</h2>
+                {{ end }}
+            </div>
+        </div>
+    </header>
+
+    {{- $pages := where (where .Site.RegularPages "Type" "post") "Section" "blog" -}}
+    {{- $pages := $pages | sort "Date" "desc" -}}
+    
+    {{- $paginator := .Paginate $pages -}}
+    
+    <div class="article-list--compact">
+        {{- range $paginator.Pages -}}
+            {{- partial "article-list/compact" . -}}
+        {{- end -}}
+    </div>
+
+    {{- if gt $paginator.TotalPages 1 }}
+        {{- partial "pagination" . -}}
+    {{- end -}}
+{{ end }}
