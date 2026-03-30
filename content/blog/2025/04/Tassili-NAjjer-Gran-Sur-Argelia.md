@@ -6,11 +6,7 @@ type = "post"
 categories = ["post"]
 tags = ["personal", "tourism", "holidays", "history"]
 status = "published"
-[[images]]
-  src = "https://picsum.photos/880/280?blur=3"
-  alt = ""
-  caption = " - <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'><i>CC BY-NC-SA</i></a>"
-  stretch = ""
+image = "https://picsum.photos/880/280?blur=3"
 +++
 
 Para la Semana Santa de 2025 surgió hace muchos meses la posibilidad de hacer este viaje tan fuera de lo común. Tras revisar un poco las fechas y el presupuesto, no dudamos en apuntarnos. Es el típico destino al que jamás irás por tu cuenta, e incluso te pensarás mucho en ir con según qué grupo organizado.
@@ -102,12 +98,3 @@ TBC
 <center>
   {{< youtube VS7wkSg_x34 >}}
 </center>
-
-<!--
-<div class="slider-container">  
-  {{< image classes="image slider-item" src="" title="" >}}
-  {{< image classes="image slider-item" src="" title="" >}}
-  {{< image classes="image slider-item" src="" title="" >}}
-  {{< image classes="image slider-item" src="" title="" >}}
-</div>  
->
