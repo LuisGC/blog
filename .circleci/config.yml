@@ -69,10 +69,6 @@ jobs:
         command: hugo version
 
     - run:
-        name: "Checking baseURL"
-        command: echo ${BASE_URL}
-
-    - run:
         name: "Build Website With Hugo"
         command: |
           hugo --destination="${HUGO_OUTPUT_FOLDER}" --cleanDestinationDir --baseURL="${BASE_URL}"
@@ -120,7 +116,6 @@ jobs:
               echo -e "Starting to deploy to Github Pages\n"
 
               # Basic environment validation
-              echo "Target repo: ${TARGET_REPO}"
               if [ -z "${GH_TOKEN}" ] || [ -z "${TARGET_REPO}" ]; then
                 echo "ERROR: GH_TOKEN and TARGET_REPO must be set in CircleCI project settings."
                 echo "GH_TOKEN set? ->" $( [ -n "${GH_TOKEN}" ] && echo yes || echo no )
