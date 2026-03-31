@@ -17,7 +17,7 @@ comments: false
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" />
 <link rel="stylesheet" type="text/css" href="/css/travel-cv.css" />
 
-_(Inspired by the [CV Viajero by Dendarii](https://dendarii.es/cv-viajero/))_
+_(Inspired by the amazing [CV Viajero by Dendarii](https://dendarii.es/cv-viajero/))_
 
 ## Visited Countries
 
