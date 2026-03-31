@@ -2,7 +2,7 @@
 author = "LuisGC"
 title = "Japón (VII): Tokyo"
 date = "2023-11-05"
-description = "Último artículo sobre mi viaje a Japón, dedicado a la capital del país, Tokyo"
+description = "Último artículo sobre mi viaje a Japón, dedicado a la capital del país, describiendo los lugares que visitamos, las experiencias que vivimos y las cosas que aprendimos sobre la cultura japonesa en esta ciudad tan fascinante."
 type = "post"
 categories = ["travel"]
 tags = ["personal", "tourism", "history"]
