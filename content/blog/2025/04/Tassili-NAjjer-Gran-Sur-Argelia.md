@@ -45,9 +45,11 @@ Terminamos el día volviendo al aeropuerto para coger un vuelo interno hasta Tam
 
 ## Tamanrasset, Guelta de Afilal y Assekrem
 
-Subir y bajar al Assekrem en todo terreno resultó ser toda una aventura.
+El vuelo aterrizó ya de madrugada en el aeropuerto de Tamanrasset. Tras un rato cargando los todo terrenos y aclarando nuestros planes con los gendarmes, por fin pudimos ir a descansar un poco a un hotel. Durante el camino hasta el hotel, todo lo que vimos fue calles y carreteras vacías, y muchísimos cuarteles por todas partes. Esta zona, cercana a las fronteras con Níger y Malí, es una zona de conflicto, así que el ejército argelino tiene una presencia muy fuerte.
 
-Parque Nacional de Ahaggar.
+Se trataba del [**Hotel Tahat**](https://maps.app.goo.gl/TT6V8RkgHsv93EiU9), que era casi una mini-fortaleza con muros muy altos rodenando todo el recinto. No dormimos mucho porque al día siguiente nos esperaba una jornada bastante intensa. Después del desayuno pudimos ver un poco más el hotel y la verdad es que tenía muy buena pinta. Incluso tenían una pista de pádel, aunque no estaba en condiciones de ser utilizada.
+
+El recorrido hacia el Refugio del Assekrem nos llevaría a cruzar buena parte del [**Parque Nacional de Ahaggar**](https://maps.app.goo.gl/7phbNb8Sz5FwWoS7A). Hicimos algunas paradas en sitios pintorescos, y los caminos no permitían en cualquier caso ir muy rápido, así que a mediodía paramos a comer en la [**Guelta de Afilal**](https://maps.app.goo.gl/DmBB1ysh76QwCxx98), un oasis con una pequeña laguna que es el hogar de varias especies de aves migratorias. Las gueltas son un fenómeno típico del Sáhara, y se forman cuando el agua de lluvia se acumula en zonas bajas entre las rocas. En este caso, la guelta de Afilal es especialmente importante porque es una de las pocas fuentes de agua en la región, lo que la convierte en un refugio vital para la fauna local.
 
 Ermita del Padre [**Charles de Foucauld**](https://en.wikipedia.org/wiki/Charles_de_Foucauld), que realizó el primer y único diccionario del tamachek-touareg al francés.
 
