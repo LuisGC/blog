@@ -100,9 +100,29 @@ Aunque gran parte del Ksar está ahora en ruinas, todavía se pueden apreciar al
   {{< youtube vdL032MCXd0 >}}
 </center>
 
-## Ascenso al Tassili N'Ajjer - Ruta por Tamrit Rock City y Tan Zoumaitak
+## Tassili N'Ajjer
 
-Llegada al Plató del N'Ajjers, donde esperan el guía, el cocinero y los burros.
+Nuevo madrugón para empezar la ruta a pie por el Parque Nacional de Tassili N'Ajjer. Nos reunimos en el **Plató del N'Ajjers** con un nuevo grupo de guías especializados que nos acompañarían durante todos los días que íbamos a pasar en el parque, y con los burros que nos ayudarían a transportar todo el equipaje durante la ruta.
+
+El **Tassili N'Ajjer** es un parque nacional que se extiende por una superficie de más de 72.000 km², y es conocido por su impresionante paisaje de formaciones rocosas, cañones y pinturas rupestres. El parque es Patrimonio de la Humanidad desde 1982, y es considerado uno de los sitios arqueológicos más importantes del mundo debido a la gran cantidad de arte rupestre que se encuentra en sus paredes. Es una meseta de roca elevada varios cientos de metros respecto al entorno desértico que lo rodea, por lo que sólo hay unas pocas rutas de acceso, y todas ellas son bastante exigentes.
+
+Este lugar tan geológicamente especial ha sido habitado por diferentes culturas a lo largo de miles de años, y las miles de pinturas rupestres que se encuentran en el parque son una muestra de la rica historia y diversidad cultural de la región. Se representan escenas de la vida cotidiana, como la caza, la recolección, la danza y la música, así como figuras humanas y animales. Algunas de las pinturas datan de hace más de 10.000 años, lo que las convierte en algunas de las obras de arte más antiguas del mundo. Es increíble la cantidad de pinturas que hay y además la mayoría están muy bien conservadas dado que aquí históricamente no ha subido casi nadie y el clima es muy seco, lo que ayuda a preservar el arte rupestre.
+
+Una vez cargados los burros, empezamos a caminar hacia arriba. Ya en la primera subida los burros se desviaron con varios de los guías por una ruta bastante más larga pero más llana y nosotros seguimos por la ruta más directa, que era bastante más empinada. El camino era bastante duro, con tramos de escalada y zonas en las que había que ir con mucho cuidado para no resbalar, pero las vistas que se iban abriendo a nuestro alrededor hacían que el esfuerzo mereciera la pena. A medida que íbamos subiendo, podíamos ver cómo el paisaje iba cambiando, con formaciones rocosas cada vez más impresionantes y vistas panorámicas del desierto que se extendía a nuestro alrededor.
+
+Enseguida entramos en varios cañones y pasajes entre las rocas, con paredes de varios metros de altura a ambos lados. En algunos tramos había que usar las manos para agarrarse a las rocas y avanzar, lo que añadía un toque de aventura (y cierto riesgo, aunque mínimo) a la experiencia. Durante toda la subida, que nos llevó prácticamente todo el día, sólo nos cruzamos con un grupo similar al nuestro que ya bajaba, así que pudimos disfrutar de la sensación de estar completamente solos en medio de un paisaje tan impresionante.
+
+La llegada a la planicie superior del Tassili N'Ajjer fue un momento muy especial, cuando de repente se abrió ante nosotros un paisaje completamente diferente, muy llano y sin apenas vegetación. Celebramos el ascenso pero enseguida seguimos la caminata para no llegar muy tarde hasta nuestra siguiente parada, en la que ya montaríamos el campamento para pasar la noche.
+
+## Tamrit Rock City y Tan Zoumaitak
+
+Nuestra primera parada en el Tassili N'Ajjer fue en la zona de **Tamrit Rock City**, un conjunto de formaciones rocosas que se asemejan a una ciudad construida por la naturaleza. Las rocas tienen formas muy curiosas, con arcos, pasajes y cuevas que parecen haber sido esculpidos por manos humanas.
+
+Aprovechamos que los burros no habían llegado aún para dar un paseo por la zona y ver las primeras pinturas rupestres. Empezamos por todo lo alto con el paraje de [**Tan Zoumaitak**](https://maps.app.goo.gl/ixL1oMPexzmY9DmZ6), que es un pequeño cañón en el que se encuentran algunas de las pinturas más impresionantes del parque. En este caso, las pinturas representan principalmente figuras humanas, con detalles muy elaborados como los peinados o la ropa que llevan. También hay varias escenas de caza, con figuras de animales como gacelas, vacas de muchos tipos, cabras o incluso elefantes.
+
+El paseo por la zona incluyó el increíble **Cañon de Tamrit** y el **Valle de los Cipreses Centenarios**, con varios cipreses enormes que contrastan con el paisaje desértico y casi estéril que los rodea. También nos cruzamos con varios burros y un camello salvajes, que en esta zona viven completamente libres y se han adaptado a las duras condiciones del desierto. Vimos muchas más pinturas rupestres pero ninguna como las primeras de Tan Zoumaitak, que nos dejaron con la boca abierta.
+
+Cena bajo las estrellas y a dormir, que al día siguiente nos esperaba una jornada aún más intensa.
 
 <center>
   {{< youtube ZOe-GQPmxTw >}}
