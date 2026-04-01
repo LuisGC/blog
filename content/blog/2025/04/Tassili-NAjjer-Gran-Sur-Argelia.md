@@ -2,6 +2,7 @@
 author = "LuisGC"
 title = "Tassili N'Ajjer y el Gran Sur de Argelia"
 date = "2025-04-28"
+description = "Para la Semana Santa de 2025 surgió hace muchos meses la posibilidad de hacer este viaje tan fuera de lo común. Tras revisar un poco las fechas y el presupuesto, no dudamos en apuntarnos. Es el típico destino al que jamás irás por tu cuenta, e incluso te pensarás mucho en ir con según qué grupo organizado"
 type = "post"
 categories = ["Travel"]
 tags = ["personal", "tourism", "holidays", "history"]
@@ -9,11 +10,7 @@ status = "published"
 image = "https://picsum.photos/880/280?blur=3"
 +++
 
-Para la Semana Santa de 2025 surgió hace muchos meses la posibilidad de hacer este viaje tan fuera de lo común. Tras revisar un poco las fechas y el presupuesto, no dudamos en apuntarnos. Es el típico destino al que jamás irás por tu cuenta, e incluso te pensarás mucho en ir con según qué grupo organizado.
-
-## Resumen del viaje
-
-El viaje consiste en un circuito de 11 días bastante exigente por el _Gran Sur_ de Argelia, el país más grande de África y el que contiene la mayor parte del desierto del Sáhara. De hecho, parte del viaje incluía contemplar un atardecer y un amanecer increíbles desde el punto más alto del Sáhara, el Assekrem (2.780 m).
+El viaje consistió en un circuito de 11 días bastante exigente por el _Gran Sur_ de Argelia, el país más grande de África y el que contiene la mayor parte del desierto del Sáhara. De hecho, parte del viaje incluía contemplar un atardecer y un amanecer increíbles desde el punto más alto del Sáhara, el Assekrem (2.780 m).
 
 El plato fuerte del viaje vendría después, con un itinerario de varios días a pie por el **Parque Nacional de Tassili N'Ajjer**, considerado el museo a cielo abierto de pinturas prehistóricas más importante y grande del mundo. Destaca su cantidad (más de 15 mil) y su variedad y antigüedad (algunas datan del 10.000 AC).
 
@@ -43,13 +40,17 @@ Terminamos el día volviendo al aeropuerto para coger un vuelo interno hasta Tam
   {{< youtube pIDGNTL0gLQ >}}
 </center>
 
-## Tamanrasset, Guelta de Afilal y Assekrem
+## Tamanrasset
 
-El vuelo aterrizó ya de madrugada en el aeropuerto de Tamanrasset. Tras un rato cargando los todo terrenos y aclarando nuestros planes con los gendarmes, por fin pudimos ir a descansar un poco a un hotel. Durante el camino hasta el hotel, todo lo que vimos fue calles y carreteras vacías, y muchísimos cuarteles por todas partes. Esta zona, cercana a las fronteras con Níger y Malí, es una zona de conflicto, así que el ejército argelino tiene una presencia muy fuerte.
+El vuelo aterrizó ya de madrugada en el aeropuerto de **Tamanrasset**. Tras un rato cargando los todo terrenos y aclarando nuestros planes con los gendarmes, por fin pudimos ir a descansar un poco a un hotel. Durante el camino hasta el hotel, todo lo que vimos fue calles y carreteras vacías, y muchísimos cuarteles por todas partes. Esta zona, cercana a las fronteras con Níger y Malí, es una zona de conflicto, así que el ejército argelino tiene una presencia muy fuerte.
 
 Se trataba del [**Hotel Tahat**](https://maps.app.goo.gl/TT6V8RkgHsv93EiU9), que era casi una mini-fortaleza con muros muy altos rodenando todo el recinto. No dormimos mucho porque al día siguiente nos esperaba una jornada bastante intensa. Después del desayuno pudimos ver un poco más el hotel y la verdad es que tenía muy buena pinta. Incluso tenían una pista de pádel, aunque no estaba en condiciones de ser utilizada.
 
+## Guelta de Afilal
+
 El recorrido hacia el Refugio del Assekrem nos llevaría a cruzar buena parte del [**Parque Nacional de Ahaggar**](https://maps.app.goo.gl/7phbNb8Sz5FwWoS7A). Hicimos algunas paradas en sitios pintorescos, y los caminos no permitían en cualquier caso ir muy rápido, así que a mediodía paramos a comer en la [**Guelta de Afilal**](https://maps.app.goo.gl/DmBB1ysh76QwCxx98), un oasis con una pequeña laguna que es el hogar de varias especies de aves migratorias. Las gueltas son un fenómeno típico del Sáhara, y se forman cuando el agua de lluvia se acumula en zonas bajas entre las rocas. En este caso, la guelta de Afilal es especialmente importante porque es una de las pocas fuentes de agua en la región, lo que la convierte en un refugio vital para la fauna local.
+
+## Assekrem
 
 Tras comer y disfrutar de nuestra primera _ceremonia_ de té touareg, continuamos el camino hacia el Assekrem, el punto más alto del Sáhara. El [refugio del Assekrem](https://maps.app.goo.gl/C1v2zwUpMvEfuVKk7) está muy cerca de una pequeña ermita construida por el padre [**Charles de Foucauld**](https://en.wikipedia.org/wiki/Charles_de_Foucauld), un explorador y misionero francés que vivió en el Sahara a finales del siglo XIX y principios del XX. La [**ermita de Foucauld**](https://maps.app.goo.gl/pA9tPD1sUS75T6zZ8) se encuentra a 2.780 metros de altura y ofrece unas vistas impresionantes del desierto circundante. Es un lugar de gran importancia histórica y espiritual, ya que Charles de Foucauld dedicó su vida a vivir entre los pueblos nómadas del Sahara y a estudiar sus costumbres y lenguas. De hecho, fue él quien realizó el primer y único diccionario del tamachek-touareg al francés, lo que ha sido fundamental para la comprensión de esta cultura.
 
@@ -67,7 +68,7 @@ Tras pasar cerca del pueblo de [**Idles**](https://maps.app.goo.gl/U8kyCLkLscP29
   {{< youtube -4iaRvI9dpg >}}
 </center>
 
-## Tikoubaouine, Erg D'Admer y Djanet
+## Tikoubaouine
 
 Al día siguiente desmontamos las tiendas y volvimos a meter todos los bultos en los tres todo terrenos que nos acompañarían durante el resto del viaje. Paramos a comer en un lugar muy especial, [**Tikoubaouine**](https://maps.app.goo.gl/sjDtMb9gqCAnFUkK6), una zona aún muy rocosa pero en la que el desierto a penetrado completamente, formando un paisaje de dunas entre las rocas. Es un lugar muy fotogénico, con un contraste entre el color rojizo de las rocas y el amarillo de la arena.
 
@@ -77,11 +78,23 @@ Pudimos dar un buen paseo por la zona y disfrutar de los pasajes, arcos y formac
 
 Después se produjo uno de los momentos más mágicos del viaje: **Santi**, uno de los compañeros de viaje había traído un proyector de cine portátil así que colocamos como pudimos una tela clara sobre una pared más o menos lisa de roca y nos pusimos a ver un corto de [**Javier Fesser**](https://es.wikipedia.org/wiki/Javier_Fesser): [_Binta y la gran idea_](https://www.themoviedb.org/movie/245017-binta-y-la-gran-idea), sobre una niña de Senegal, su vida y la importancia de la educación para las niñas. La selección no pudo ser más acertada porque además del tema la vimos en versión original en francés (con subtítulos en castellano) así que nuestros guías touareg también pudieron participar de la experiencia.
 
+## Erg D'Admer
+
 Al día siguiente continuamos el camino hacia la zona de las dunas del [**Erg D'Admer**](https://maps.app.goo.gl/EN7qAESryzZqn8vC7), un paisaje completamente diferente al que habíamos visto hasta entonces, con grandes dunas de arena que se extendían hasta el horizonte. Entramos un buen rato por el interior de las dunas con los todoterreno y luego nos bajamos y seguimos caminando un rato por la zona, disfrutando de la sensación de caminar sobre la arena y de las vistas que se abrían a nuestro alrededor.
 
-Ya muy cerca de nuestro destino nos desviamos para ir a ver [_La Vaca que Llora_ (La vache qui pleure)](https://en.wikipedia.org/wiki/La_vache_qui_pleure_(rock_engravings)), una enorme roca que en uno de sus lados tiene varias vacas esculpidas que datan de hace más de 7 mil años, con la curiosidad de que varias de ellas muestran lágrimas cayendo de sus ojos. Es increíble el estado de conservación de estas esculturas después de tanto tiempo y el detalle con el que están hechas aprovechando la forma de la roca en algunos casos. Está considerada una de las obras maestras a nivel mundial de escultura del Neolítico. El hecho de que lloren, cosa poco habitual en bóvidos, ha dado lugar a muchas interpretaciones. Se cree que podrían representar a la diosa madre de la fertilidad, una figura importante en la mitología de las culturas prehistóricas del Sahara.
+## La Vache qui Pleure
 
-Ya en Djanet, la ciudad más cercana al Parque Nacional de Tassili N'Ajjer, nos alojamos en el [**Hotel Zeriba**](https://maps.app.goo.gl/pEEnvVsuPF5Djav28), un hotel bastante modesto pero cómodo y con una ubicación muy buena para explorar la zona. Descargamos los bultos a las habitaciones y nos fuimos a dar una vuelta por la ciudad antes de cenar. Decidimos subir a los restos del [**Ksar el Mihan**](https://maps.app.goo.gl/iPDU8VTvAypwTSr88), una antigua fortaleza construida por los bereberes que se encuentra en lo alto de una colina con vistas a la ciudad. Tirando de persuasión y con la ayuda de unos chavales que estaban por allí, consiguieron que se pudiera acercar alguien con la llave para entrar al Ksar, y un lugareño muy simpático que daba clases de inglés en el pueblo. Nos hizo de guía improvisado y nos contó un poco sobre la historia del lugar, que fue construido en el siglo XVI como una fortaleza para proteger a los habitantes de los ataques de los tuaregs. Aunque gran parte del Ksar está ahora en ruinas, todavía se pueden apreciar algunos detalles arquitectónicos interesantes, como las puertas de madera tallada y las ventanas con celosías. Desde lo alto del Ksar, pudimos disfrutar de una vista panorámica de Djanet y sus alrededores, con el desierto extendiéndose hasta el horizonte. También pudimos escuchar con mucha claridad la llamada a la oración de una mezquita cercana, que resonaba por toda la ciudad y añadía un toque especial a la experiencia.
+Ya muy cerca de nuestro destino nos desviamos para ir a ver [_La Vaca que Llora_](https://en.wikipedia.org/wiki/La_vache_qui_pleure_(rock_engravings)), una enorme roca que en uno de sus lados tiene varias vacas esculpidas que datan de hace más de 7 mil años, con la curiosidad de que varias de ellas muestran lágrimas cayendo de sus ojos.
+
+Es increíble el estado de conservación de estas esculturas después de tanto tiempo y el detalle con el que están hechas aprovechando la forma de la roca en algunos casos. Está considerada una de las obras maestras a nivel mundial de escultura del Neolítico. El hecho de que lloren, cosa poco habitual en bóvidos, ha dado lugar a muchas interpretaciones. Se cree que podrían representar a la diosa madre de la fertilidad, una figura importante en la mitología de las culturas prehistóricas del Sahara.
+
+## Djanet
+
+Ya en [**Djanet**](https://maps.app.goo.gl/7hwWSNHN4M1GTMdJ7), la ciudad más cercana al Parque Nacional de Tassili N'Ajjer, nos alojamos en el [**Hotel Zeriba**](https://maps.app.goo.gl/pEEnvVsuPF5Djav28), un hotel bastante modesto pero cómodo y con una ubicación muy buena para explorar la zona. Descargamos los bultos a las habitaciones y nos fuimos a dar una vuelta por la ciudad antes de cenar. Decidimos subir a los restos del [**Ksar el Mihan**](https://maps.app.goo.gl/iPDU8VTvAypwTSr88), una antigua fortaleza construida por los bereberes que se encuentra en lo alto de una colina con vistas a la ciudad.
+
+Tirando de persuasión y con la ayuda de unos chavales que estaban por allí, consiguieron que se pudiera acercar alguien con la llave para entrar al Ksar, y un lugareño muy simpático que daba clases de inglés en el pueblo. Nos hizo de guía improvisado y nos contó un poco sobre la historia del lugar, que fue construido en el siglo XVI como una fortaleza para proteger a los habitantes de los ataques de los tuaregs.
+
+Aunque gran parte del Ksar está ahora en ruinas, todavía se pueden apreciar algunos detalles arquitectónicos interesantes, como las puertas de madera tallada y las ventanas con celosías. Desde lo alto del Ksar, pudimos disfrutar de una vista panorámica de Djanet y sus alrededores, con el desierto extendiéndose hasta el horizonte. También pudimos escuchar con mucha claridad la llamada a la oración de una mezquita cercana, que resonaba por toda la ciudad y añadía un toque especial a la experiencia.
 
 <center>
   {{< youtube vdL032MCXd0 >}}
