@@ -128,9 +128,23 @@ Cena bajo las estrellas y a dormir, que al día siguiente nos esperaba una jorna
   {{< youtube ZOe-GQPmxTw >}}
 </center>
 
-## Tassili N'Ajjer - Tin Itinen, Tin Tazarift y Sefar
+## Tin Itinen y Tin Tazarift
 
-TBC
+Dejamos atrás la zona de Tamrit y continuamos caminando por el Tassili N'Ajjer, con destino a la zona de **Tin Itinen**, que es una de las zonas más ricas en pinturas rupestres del parque. El camino hasta allí fue bastante duro, con un sol resplandeciente y sin apenas sombra, pero las vistas que se iban abriendo a nuestro alrededor hacían que el esfuerzo mereciera la pena.
+
+Ya en la zona de **Tin Tazarift** nos empezamos a encontrar de nuevo una acumulación enorme de pinturas rupestres: muchas más vacas, leopardos, cocodrilos, gacelas, camellos, cabras, monos, buhos, ... también figuras humanas, algunas de las cuales parecían representar dioses o seres mitológicos rodeados de otras figuras orando a su alrededor.
+
+Una de las pinturas que más nos gustó de esta zona era lo que yo llamé un catálogo de vacas: varios ejemplares de bóvidos con diferentes formas, tamaños y colores, con detalles muy elaborados como los cuernos o las manchas en el cuerpo.
+
+El detalle de algunas figuras, con detalles muy elaborados y a veces formas raras como cabezas completamente redondas, ha dado lugar a múltiples interpretaciones sobre su significado. Se cree que podrían representar a seres sobrenaturales o dioses, y que las figuras humanas que los rodean podrían estar realizando rituales de adoración o petición de protección. Algunos de los _cabezas redondas_ tenían cosas saliendo de sus cabezas tipo cuernos (¿o antenas?) y otros tenían lo que parecían ser máscaras, lo que ha dado lugar a interpretaciones aún más misteriosas sobre su significado. Este tipo de figuras abundaban por todo el Tassili N'Ajjer.
+
+## Sefar
+
+Ya por la tarde llegamos a la zona de **Sefar**, que es una de las más espectaculares y en la que haríamos nuestra siguiente parada para montar el campamento. Aprovechamos las últimas horas de luz para recorrer el **Sefar de la Négresse**, que son varios cañones con paredes de roca muy roja y (sorpresa) con pinturas rupestres por todas partes. En esta zona se encuentran algunas de las pinturas más famosas del parque, como la _Négresse de Sefar_, una figura humana con rasgos femeninos y piel oscura que de nuevo ha dado lugar a muchas interpretaciones sobre su significado. Se cree que podría representar a una diosa madre o a una figura de gran importancia en la mitología de las culturas prehistóricas del Sahara.
+
+Otra zona muy curiosa es una larga pared de un cañón con tres máscaras enormes pintadas en la roca, con detalles muy elaborados como los ojos, la boca o los adornos que llevan.
+
+Esa noche después de cenar pasamos un buen rato con nuestros amigos touaregs, que nos cantaron alrededor de la hoguera diversas canciones tradicionales de su cultura, acompañados de instrumentos típicos como el bidón de agua vacío convertido en tambor. Nos pidieron que les cantáramos algo nosotros también, y lo hicimos pero desde luego con mucho menos arte que ellos. Algunas de sus canciones eran muy pegadizas y aún hoy resuenan sus estribillos en mi cabeza.
 
 <center>
   {{< youtube hvdLmi3vb-c >}}
