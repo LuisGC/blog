@@ -138,7 +138,7 @@ Una de las pinturas que más nos gustó de esta zona era lo que yo llamé un cat
 
 El detalle de algunas figuras, con detalles muy elaborados y a veces formas raras como cabezas completamente redondas, ha dado lugar a múltiples interpretaciones sobre su significado. Se cree que podrían representar a seres sobrenaturales o dioses, y que las figuras humanas que los rodean podrían estar realizando rituales de adoración o petición de protección. Algunos de los _cabezas redondas_ tenían cosas saliendo de sus cabezas tipo cuernos (¿o antenas?) y otros tenían lo que parecían ser máscaras, lo que ha dado lugar a interpretaciones aún más misteriosas sobre su significado. Este tipo de figuras abundaban por todo el Tassili N'Ajjer.
 
-## Sefar
+## Sefar de la Négresse
 
 Ya por la tarde llegamos a la zona de **Sefar**, que es una de las más espectaculares y en la que haríamos nuestra siguiente parada para montar el campamento. Aprovechamos las últimas horas de luz para recorrer el **Sefar de la Négresse**, que son varios cañones con paredes de roca muy roja y (sorpresa) con pinturas rupestres por todas partes. En esta zona se encuentran algunas de las pinturas más famosas del parque, como la _Négresse de Sefar_, una figura humana con rasgos femeninos y piel oscura que de nuevo ha dado lugar a muchas interpretaciones sobre su significado. Se cree que podría representar a una diosa madre o a una figura de gran importancia en la mitología de las culturas prehistóricas del Sahara.
 
@@ -150,9 +150,23 @@ Esa noche después de cenar pasamos un buen rato con nuestros amigos touaregs, q
   {{< youtube hvdLmi3vb-c >}}
 </center>
 
-## Tassili N'Ajjer - Desde Sefar hasta Tin Itinen
+## Sefar
 
-TBC
+Arrancamos el circuito principal de Sefar con una de las pinturas más famosas de todo el parque natural: el _Dios Pescador_, una figura humana con una cabeza muy extraña (¿de pez?) que es especialmente interesante porque representa a un ser mitológico que podría combinar características humanas y animales. Se cree que podría representar a un dios relacionado con el agua o la fertilidad, y que las figuras humanas que lo rodean podrían estar realizando rituales de adoración o petición de protección. Junto al Dios Pescador había alguna que parecía ser un alce o similar enorme, que no es el animal más común en el Sahara.
+
+Y un poco después llegamos al _Gran Dios de Sefar_, que de nuevo tiene una forma extraña en la cabeza y unos bultos en los brazos que podrían representar grandes bíceps o algún tipo de adorno o armadura. Es una figura imponente, con una gran altura en proporción al resto. Alrededor de ella se ven mucho más claramente lo que parecen ser figuras humanas orando o realizando algún tipo de ritual, lo que refuerza la idea de que esta figura podría representar a un dios o ser mitológico de gran importancia.
+
+## In Etouami y Tin Itinen
+
+Seguumos la ruta hacia el sur, pasando por **In Etouami**, una zona con formaciones rocosas muy curiosas y con varias pinturas rupestres, aunque ninguna tan espectacular como las que habíamos visto hasta entonces. Estos desplazamientos intermedios eran bastante duros, especialmente los últimos días en los que no nos sobraba el agua potable.
+
+Continuamos hacia la zona de **Tin Itinen**, más o menos cerca de Tamrit Rock City donde habíamos acampado días atrás. Sería nuestro lugar de acampada para la siguiente noche, para desde allí afrontar el camino de bajada al día siguiente.
+
+Esa noche nuestros amigos guías nos prepararon su conocida taguella touareg, una especie de torta plana de pan que se cocina haciendo un pequeño agujero en la arena, cubriendo el agujero con ceniza y colocando la masa encima, para luego taparlo todo con más arena y brasas y dejarlo cocinar durante un buen rato. El resultado es un pan con una textura muy particular, con una corteza crujiente y un interior suave y esponjoso, que se suele acompañar con salsas o guisos tradicionales de la cocina tuareg.
+
+Esa noche era mi cumpleaños, así que me prepararon por sorpresa una _tarta_ de taguella decorada con velas, y me cantaron el cumpleaños feliz en castellano y tamachek-touareg. Fue un momento muy especial y me sentí muy agradecido por la sorpresa. Hicieron que mi cumpleaños fuera aún más inolvidable en un lugar tan mágico como el Tassili N'Ajjer bajo un cielo lleno de estrellas.
+
+Rematamos la noche con una sesión de fotografía nocturna, usando nuestros frontales y linternas en posiciones estratégicas para iluminar las formaciones rocosas a nuestro alrededor y dar luz al interior de algunas tiendas, de forma que contrastara todo con el inmenso cielo estrellado del desierto. Salieron algunas fotos bastante chulas, aunque la verdad es que no hacen justicia a lo espectacular que era el paisaje en ese momento.
 
 <center>
   {{< youtube Zte6KXE-p3c >}}
