@@ -156,6 +156,8 @@ Arrancamos el circuito principal de Sefar con una de las pinturas más famosas d
 
 Y un poco después llegamos al _Gran Dios de Sefar_, que de nuevo tiene una forma extraña en la cabeza y unos bultos en los brazos que podrían representar grandes bíceps o algún tipo de adorno o armadura. Es una figura imponente, con una gran altura en proporción al resto. Alrededor de ella se ven mucho más claramente lo que parecen ser figuras humanas orando o realizando algún tipo de ritual, lo que refuerza la idea de que esta figura podría representar a un dios o ser mitológico de gran importancia.
 
+Muy cerca del Gran Dios de Sefar pudimos coger un caché también inolvidable: un caché de Terreno 5 en bastantes buenas condiciones a pesar de llevar escondido desde el año 2003 expuesto a las duras condiciones del desierto durante tantos años, lo que demuestra la resistencia de estos objetos y la dedicación de los geocachers que los mantienen.
+
 ## In Etouami y Tin Itinen
 
 Seguumos la ruta hacia el sur, pasando por **In Etouami**, una zona con formaciones rocosas muy curiosas y con varias pinturas rupestres, aunque ninguna tan espectacular como las que habíamos visto hasta entonces. Estos desplazamientos intermedios eran bastante duros, especialmente los últimos días en los que no nos sobraba el agua potable.
