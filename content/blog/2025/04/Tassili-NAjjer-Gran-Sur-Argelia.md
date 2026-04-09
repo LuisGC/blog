@@ -176,8 +176,20 @@ Rematamos la noche con una sesión de fotografía nocturna, usando nuestros fron
 
 ## Tassili N'Ajjer - Descenso desde Tin Itinen
 
-TBC
+Tras nuestro último desayuno en el Tassili N'Ajjer, desmontamos el campamento y empezamos a bajar por la ruta de Tin Itinen. Para bajar teníamos dos opciones: una ruta más larga pero más llana (que es la que hacen los burros con los bultos), o la ruta más directa pero bastante más empinada que habíamos utilizado para subir. Algunas trepadas eran bastante duras, y es mucho peor al descender que al subir, por lo que decidimos bajar por la ruta de los burros. De esta manera también pudimos disfrutar de otro paisaje diferente, con formaciones rocosas y vistas panorámicas del desierto que no habíamos visto durante la subida.
+
+Fue especialmente memorable el momento en el que nos separamos del grupo de burros y yo dejé en uno de ellos (que para la bajada ya iba sin equipaje) mi cámara Insta 360 para grabar un vídeo de la bajada desde el punto de vista del burro, con la cámara enganchada en la montura. El resultado fue un vídeo bastante chulo, con la sensación de estar bajando por el Tassili N'Ajjer a lomos de un burro, con vistas panorámicas del paisaje que se iba abriendo a nuestro alrededor.
+
+Un rato más tarde los burros nos alcanzaron y pude desmontar la cámara y confirmar que se había grabado perfectamente, incluyendo varios momentos en los que los amabilísimos guías touareg se acercaban a ver si la luz roja de la cámara seguía parpadeando.
+
+Incluso en la ruta de los burros hubo un tramo muy empinado que se bajaba haciendo un poco de eslalon entre las rocas, con el suelo muy suelto y resbaladizo. Es increíble que por allí mismo pudieran ir bajando los burros con los bultos.
+
+Completamos el descenso sin mayores incidentes y llegamos al punto de encuentro con los todoterrenos, que nos llevaron de vuelta a Djanet para pasar la última noche en el hotel antes de volar al día siguiente a Argel y desde allí a Barcelona.
 
 <center>
   {{< youtube VS7wkSg_x34 >}}
 </center>
+
+En definitiva, una aventura increíble en un lugar mágico, con paisajes impresionantes, arte rupestre de gran valor histórico y cultural, y la oportunidad de compartir la experiencia con un grupo de personas maravillosas, incluyendo a nuestros guías touareg que nos trataron como a parte de su familia durante todo el viaje.
+
+Sin duda, una experiencia que recordaré toda mi vida y que me ha dejado con ganas de seguir explorando lugares tan especiales como este.
