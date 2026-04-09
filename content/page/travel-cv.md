@@ -23,7 +23,7 @@ _(Inspired by the [CV Viajero by Dendarii](https://dendarii.es/cv-viajero/))_
 
 <center><div id="travel-cv-map" /></center>
 
-I have visited **25 out of 193** countries (among those [recognized by United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) plus the [observer states](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations#Observers_and_non-members)). This is the list in alphabetical order:
+I have visited **26 out of 193** countries (among those [recognized by United Nations](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations) plus the [observer states](https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations#Observers_and_non-members)). This is the list in alphabetical order:
 
 | Country | Main visited places (x times) | Visiting order |
 |---|---|---|
@@ -48,6 +48,7 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 | Slovakia | Bratislava | 16<sup>th</sup> |
 | Spain | _too many_ | 1<sup>st</sup> |
 | Switzerland | Aareschlucht, Almendhubel, CERN, Chillon, Geneve, Gruyeres, Interlaken, Jungfraujoch, Lausanne, Meiringen, Montreux, Mürren & Reichenbackfall | 12<sup>th</sup> |
+| Tunisia | El Jem, Kairouan, Matmata, Sbeitla, Tozeur & Tunis | 26<sup>th</sup> |
 | United Kingdom | Balloch, Bath, Birmingham, Blenheim Palace, Bristol, Cambridge, Cawdor, Cromarty, Durham, Edinburgh, Glasgow, Glencoe Valley, Inverness, Isle of Skye, Loch Ness, London (x5), Luss, Manchester, Newcastle upon Tyne, Oban, Oxford (x2), Pitlochry, Stirling, Stonehenge & Taunton (x3) | 7<sup>th</sup> |
 | United Republic of Tanzania | Tarangire National Park, Serengeti National Park & Ngorongoro Conservation Area | 21<sup>st</sup> |
 | United States | New York & Washington D.C. | 11<sup>th</sup> |
@@ -59,6 +60,8 @@ I have visited **25 out of 193** countries (among those [recognized by United Na
 
 ### 2026
 
+* <span>APR</span> <p>Tunisia</p>
+  - Tunis, El Jem, Matmata, Tozeur, Sbeitla & Kairouan
 * <span>MAR</span> <p>Frankfurt am Main (Germany)</p>
 * <span>JAN</span> <p>Belgium</p>
   - Ghent, Bruges, Brussels, FOSDEM 2026
