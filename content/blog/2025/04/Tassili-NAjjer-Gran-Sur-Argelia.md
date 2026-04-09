@@ -44,7 +44,7 @@ Terminamos el día volviendo al aeropuerto para coger un vuelo interno hasta Tam
 
 El vuelo aterrizó ya de madrugada en el aeropuerto de **Tamanrasset**. Tras un rato cargando los todo terrenos y aclarando nuestros planes con los gendarmes, por fin pudimos ir a descansar un poco a un hotel. Durante el camino hasta el hotel, todo lo que vimos fue calles y carreteras vacías, y muchísimos cuarteles por todas partes. Esta zona, cercana a las fronteras con Níger y Malí, es una zona de conflicto, así que el ejército argelino tiene una presencia muy fuerte.
 
-Se trataba del [**Hotel Tahat**](https://maps.app.goo.gl/TT6V8RkgHsv93EiU9), que era casi una mini-fortaleza con muros muy altos rodenando todo el recinto. No dormimos mucho porque al día siguiente nos esperaba una jornada bastante intensa. Después del desayuno pudimos ver un poco más el hotel y la verdad es que tenía muy buena pinta. Incluso tenían una pista de pádel, aunque no estaba en condiciones de ser utilizada.
+Se trataba del [**Hotel Tahat**](https://maps.app.goo.gl/TT6V8RkgHsv93EiU9), que era casi una mini-fortaleza con muros muy altos rodeando todo el recinto. No dormimos mucho porque al día siguiente nos esperaba una jornada bastante intensa. Después del desayuno pudimos ver un poco más el hotel y la verdad es que tenía muy buena pinta. Incluso tenían una pista de pádel, aunque no estaba en condiciones de ser utilizada.
 
 ## Guelta de Afilal
 
