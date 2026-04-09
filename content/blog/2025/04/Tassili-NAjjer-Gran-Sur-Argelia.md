@@ -54,7 +54,7 @@ El recorrido hacia el Refugio del Assekrem nos llevaría a cruzar buena parte de
 
 Tras comer y disfrutar de nuestra primera _ceremonia_ de té touareg, continuamos el camino hacia el Assekrem, el punto más alto del Sáhara. El [refugio del Assekrem](https://maps.app.goo.gl/C1v2zwUpMvEfuVKk7) está muy cerca de una pequeña ermita construida por el padre [**Charles de Foucauld**](https://en.wikipedia.org/wiki/Charles_de_Foucauld), un explorador y misionero francés que vivió en el Sahara a finales del siglo XIX y principios del XX. La [**ermita de Foucauld**](https://maps.app.goo.gl/pA9tPD1sUS75T6zZ8) se encuentra a 2.780 metros de altura y ofrece unas vistas impresionantes del desierto circundante. Es un lugar de gran importancia histórica y espiritual, ya que Charles de Foucauld dedicó su vida a vivir entre los pueblos nómadas del Sahara y a estudiar sus costumbres y lenguas. De hecho, fue él quien realizó el primer y único diccionario del tamachek-touareg al francés, lo que ha sido fundamental para la comprensión de esta cultura.
 
-Dejamos nuestros sacos de dormir en el refugio y subimos a la cima del Assekrem para contemplar el atardecer. Nada más subir salió a recibirnos el **Padre Ventura**, un monje franciscano que se encarga de cuidar la ermita y el refugio. Nos contó un poco sobre la historia del lugar y sobre la labor que hacen él y sus compañeros para mantener el refugio en condiciones, a pesar de las duras condiciones climáticas y la lejanía del lugar.
+Dejamos nuestros sacos de dormir en el refugio y subimos a la cima del Assekrem para contemplar el atardecer. Nada más subir salió a recibirnos el **Padre Ventura**, un monje franciscano de origen español que se encarga de cuidar la ermita y el refugio. Nos contó un poco sobre la historia del lugar y sobre la labor que hacen él y sus compañeros para mantener el refugio en condiciones, a pesar de las duras condiciones climáticas y la lejanía del lugar.
 
 El atardecer fue espectacular, con un cielo lleno de colores cálidos que contrastaban con el paisaje árido del desierto. Me gustó tanto que a la mañana siguiente madrugué infinito para volver a subir a la cima y contemplar el amanecer.
 
@@ -62,7 +62,7 @@ Amanecer en el corazón del Sáhara a 2.750 metros de altura y con un horizonte 
 
 Después del desayuno era el momento de despedirse del Assekrem y del Padre Ventura, y continuar el viaje hacia el sur, con destino a la región de Djanet, donde se encuentra el Parque Nacional de Tassili N'Ajjer. Podríamos haber cruzado por la zona más montañosa, pero los gendarmes que nos escoltaban no lo permitieron porque cruzaba varias zonas sin cobertura de móvil, así que tuvimos que dar un rodeo por la zona más llana, lo que alargó bastante el viaje. En cualquier caso el camino fue espectacular, buena parte de las caarreteras estaban cortadas o en obras así que casi todo el día lo dedicamos a recorrer caminos de tierra o directamente campo a través.
 
-Tras pasar cerca del pueblo de [**Idles**](https://maps.app.goo.gl/U8kyCLkLscP29dzA9) buscamos una explanada que satisfaciera las necesidades de los gendarmes para montar el campamento, y allí pasamos la noche. Primer día montando las tiendas de campaña y durmiendo bajo las estrellas. Antes de acostarnos, ya en completa oscuridad, pudimos ver con mucha claridad una fila de satélites de **Starlink** cruzando el cielo, buscando su órbita. Fue un momento bastante surrealista, con la sensación de estar en un lugar completamente aislado del mundo, pero al mismo tiempo conectado a través de la tecnología. Qué pensarán los touaregs de todo esto...
+Tras pasar cerca del pueblo de [**Idles**](https://maps.app.goo.gl/U8kyCLkLscP29dzA9) buscamos una explanada que pudiera satisfacer las necesidades de los gendarmes para montar el campamento, y allí pasamos la noche. Primer día montando las tiendas de campaña y durmiendo bajo las estrellas. Antes de acostarnos, ya en completa oscuridad, pudimos ver con mucha claridad una fila de satélites de **Starlink** cruzando el cielo, buscando su órbita. Fue un momento bastante surrealista, con la sensación de estar en un lugar completamente aislado del mundo, pero al mismo tiempo conectado a través de la tecnología. Qué pensarán los touaregs de todo esto...
 
 <center>
   {{< youtube -4iaRvI9dpg >}}
@@ -70,7 +70,7 @@ Tras pasar cerca del pueblo de [**Idles**](https://maps.app.goo.gl/U8kyCLkLscP29
 
 ## Tikoubaouine
 
-Al día siguiente desmontamos las tiendas y volvimos a meter todos los bultos en los tres todo terrenos que nos acompañarían durante el resto del viaje. Paramos a comer en un lugar muy especial, [**Tikoubaouine**](https://maps.app.goo.gl/sjDtMb9gqCAnFUkK6), una zona aún muy rocosa pero en la que el desierto a penetrado completamente, formando un paisaje de dunas entre las rocas. Es un lugar muy fotogénico, con un contraste entre el color rojizo de las rocas y el amarillo de la arena.
+Al día siguiente desmontamos las tiendas y volvimos a meter todos los bultos en los tres todo terrenos que nos acompañarían durante el resto del viaje. Paramos a comer en un lugar muy especial, [**Tikoubaouine**](https://maps.app.goo.gl/sjDtMb9gqCAnFUkK6), una zona aún muy rocosa pero en la que el desierto ha penetrado completamente, formando un paisaje de dunas entre las rocas. Es un lugar muy fotogénico, con un contraste entre el color rojizo de las rocas y el amarillo de la arena.
 
 Además, es un lugar sagrado para los touaregs, que lo consideran un lugar de poder y espiritualidad. En varias zonas de Tikoubaouine se pueden encontrar mezquitas tuaregs, que son básicamente siluetas de piedra en el suelo que representan la forma de un templo con la orientación correcta hacia La Meca. Estas mezquitas son utilizadas por los touaregs para rezar y realizar sus rituales religiosos, y se consideran lugares de gran importancia espiritual. También se pueden encontrar túmulos de antiguos líderes tuaregs. Estos enterramientos suelen estar marcados por grandes piedras o montículos de arena, y son visitados por los touaregs para rendir homenaje a sus antepasados y pedir su protección.
 
@@ -80,21 +80,21 @@ Después se produjo uno de los momentos más mágicos del viaje: **Santi**, uno 
 
 ## Erg D'Admer
 
-Al día siguiente continuamos el camino hacia la zona de las dunas del [**Erg D'Admer**](https://maps.app.goo.gl/EN7qAESryzZqn8vC7), un paisaje completamente diferente al que habíamos visto hasta entonces, con grandes dunas de arena que se extendían hasta el horizonte. Entramos un buen rato por el interior de las dunas con los todoterreno y luego nos bajamos y seguimos caminando un rato por la zona, disfrutando de la sensación de caminar sobre la arena y de las vistas que se abrían a nuestro alrededor.
+Al día siguiente continuamos el camino hacia la zona de las dunas del [**Erg D'Admer**](https://maps.app.goo.gl/EN7qAESryzZqn8vC7), un paisaje completamente diferente al que habíamos visto hasta entonces, con grandes dunas de arena que se extendían hasta el horizonte. Entramos un buen rato por el interior de las dunas con los todoterreno y luego nos bajamos y seguimos caminando por la zona, disfrutando de la sensación de caminar sobre la arena y de las vistas que se abrían a nuestro alrededor.
 
 ## La Vache qui Pleure
 
 Ya muy cerca de nuestro destino nos desviamos para ir a ver [_La Vaca que Llora_](https://en.wikipedia.org/wiki/La_vache_qui_pleure_(rock_engravings)), una enorme roca que en uno de sus lados tiene varias vacas esculpidas que datan de hace más de 7 mil años, con la curiosidad de que varias de ellas muestran lágrimas cayendo de sus ojos.
 
-Es increíble el estado de conservación de estas esculturas después de tanto tiempo y el detalle con el que están hechas aprovechando la forma de la roca en algunos casos. Está considerada una de las obras maestras a nivel mundial de escultura del Neolítico. El hecho de que lloren, cosa poco habitual en bóvidos, ha dado lugar a muchas interpretaciones. Se cree que podrían representar a la diosa madre de la fertilidad, una figura importante en la mitología de las culturas prehistóricas del Sahara.
+Es increíble el estado de conservación de estas esculturas después de tanto tiempo y el detalle con el que están hechas aprovechando la forma de la roca en algunos casos. Está considerada una de las obras maestras a nivel mundial de escultura del Neolítico. El hecho de que lloren, cosa poco habitual en bóvidos, ha dado lugar a muchas interpretaciones. Se cree que podrían representar a la diosa madre de la fertilidad, una figura importante en la mitología de las culturas prehistóricas del Sahara. La opinión de la veterinaria en la expedición es que las vacas estarían simplemente enfermas.
 
 ## Djanet
 
 Ya en [**Djanet**](https://maps.app.goo.gl/7hwWSNHN4M1GTMdJ7), la ciudad más cercana al Parque Nacional de Tassili N'Ajjer, nos alojamos en el [**Hotel Zeriba**](https://maps.app.goo.gl/pEEnvVsuPF5Djav28), un hotel bastante modesto pero cómodo y con una ubicación muy buena para explorar la zona. Descargamos los bultos a las habitaciones y nos fuimos a dar una vuelta por la ciudad antes de cenar. Decidimos subir a los restos del [**Ksar el Mihan**](https://maps.app.goo.gl/iPDU8VTvAypwTSr88), una antigua fortaleza construida por los bereberes que se encuentra en lo alto de una colina con vistas a la ciudad.
 
-Tirando de persuasión y con la ayuda de unos chavales que estaban por allí, consiguieron que se pudiera acercar alguien con la llave para entrar al Ksar, y un lugareño muy simpático que daba clases de inglés en el pueblo. Nos hizo de guía improvisado y nos contó un poco sobre la historia del lugar, que fue construido en el siglo XVI como una fortaleza para proteger a los habitantes de los ataques de los tuaregs.
+Tirando de persuasión y con la ayuda de unos chavales que estaban por allí, consiguieron que se pudiera acercar alguien con la llave para entrar al Ksar, y un lugareño muy simpático que daba clases de inglés en el pueblo. Nos hizo de guía improvisado y nos contó un poco sobre la historia del lugar, que fue construido en el siglo XVI como una fortaleza para proteger a los habitantes de los ataques de los touaregs.
 
-Aunque gran parte del Ksar está ahora en ruinas, todavía se pueden apreciar algunos detalles arquitectónicos interesantes, como las puertas de madera tallada y las ventanas con celosías. Desde lo alto del Ksar, pudimos disfrutar de una vista panorámica de Djanet y sus alrededores, con el desierto extendiéndose hasta el horizonte. También pudimos escuchar con mucha claridad la llamada a la oración de una mezquita cercana, que resonaba por toda la ciudad y añadía un toque especial a la experiencia.
+Aunque gran parte del Ksar está ahora en ruinas, todavía se pueden apreciar algunos detalles arquitectónicos interesantes, como las puertas de madera tallada y las ventanas con celosías. Desde lo alto del Ksar, pudimos disfrutar de una vista panorámica de Djanet y sus alrededores, con el oasis de palmeras que rodea la ciudad y más allá el desierto extendiéndose hasta el horizonte. Desde lo más alto del Ksar pudimos escuchar con mucha claridad la llamada a la oración de una mezquita cercana, que resonaba por toda la ciudad y añadía un toque especial a la experiencia.
 
 <center>
   {{< youtube vdL032MCXd0 >}}
@@ -102,7 +102,7 @@ Aunque gran parte del Ksar está ahora en ruinas, todavía se pueden apreciar al
 
 ## Tassili N'Ajjer
 
-Nuevo madrugón para empezar la ruta a pie por el Parque Nacional de Tassili N'Ajjer. Nos reunimos en el **Plató del N'Ajjers** con un nuevo grupo de guías especializados que nos acompañarían durante todos los días que íbamos a pasar en el parque, y con los burros que nos ayudarían a transportar todo el equipaje durante la ruta.
+Nuevo madrugón para empezar la ruta a pie por el Parque Nacional de Tassili N'Ajjer. Nos reunimos en el **Plató del N'Ajjers** con un nuevo grupo de guías especializados que nos acompañarían durante todos los días que íbamos a pasar en el parque, y con los burros que nos ayudarían a transportar todo el equipaje durante la ruta. En este momento nuestra escolta de gendarmes se despidió por fin de nosotros.
 
 El **Tassili N'Ajjer** es un parque nacional que se extiende por una superficie de más de 72.000 km², y es conocido por su impresionante paisaje de formaciones rocosas, cañones y pinturas rupestres. El parque es Patrimonio de la Humanidad desde 1982, y es considerado uno de los sitios arqueológicos más importantes del mundo debido a la gran cantidad de arte rupestre que se encuentra en sus paredes. Es una meseta de roca elevada varios cientos de metros respecto al entorno desértico que lo rodea, por lo que sólo hay unas pocas rutas de acceso, y todas ellas son bastante exigentes.
 
@@ -174,17 +174,17 @@ Rematamos la noche con una sesión de fotografía nocturna, usando nuestros fron
   {{< youtube Zte6KXE-p3c >}}
 </center>
 
-## Tassili N'Ajjer - Descenso desde Tin Itinen
+## Descenso desde Tin Itinen
 
 Tras nuestro último desayuno en el Tassili N'Ajjer, desmontamos el campamento y empezamos a bajar por la ruta de Tin Itinen. Para bajar teníamos dos opciones: una ruta más larga pero más llana (que es la que hacen los burros con los bultos), o la ruta más directa pero bastante más empinada que habíamos utilizado para subir. Algunas trepadas eran bastante duras, y es mucho peor al descender que al subir, por lo que decidimos bajar por la ruta de los burros. De esta manera también pudimos disfrutar de otro paisaje diferente, con formaciones rocosas y vistas panorámicas del desierto que no habíamos visto durante la subida.
 
-Fue especialmente memorable el momento en el que nos separamos del grupo de burros y yo dejé en uno de ellos (que para la bajada ya iba sin equipaje) mi cámara Insta 360 para grabar un vídeo de la bajada desde el punto de vista del burro, con la cámara enganchada en la montura. El resultado fue un vídeo bastante chulo, con la sensación de estar bajando por el Tassili N'Ajjer a lomos de un burro, con vistas panorámicas del paisaje que se iba abriendo a nuestro alrededor.
+Fue especialmente memorable el momento en el que nos separamos del grupo de burros y yo dejé en uno de ellos (que para la bajada ya iba sin equipaje) mi cámara **Insta 360 One** para grabar un vídeo de la bajada desde el punto de vista del burro, con la cámara enganchada en la montura. El resultado fue un vídeo bastante chulo, con la sensación de estar bajando por el Tassili N'Ajjer a lomos de un simpático burro rodeado de otros muchos.
 
 Un rato más tarde los burros nos alcanzaron y pude desmontar la cámara y confirmar que se había grabado perfectamente, incluyendo varios momentos en los que los amabilísimos guías touareg se acercaban a ver si la luz roja de la cámara seguía parpadeando.
 
-Incluso en la ruta de los burros hubo un tramo muy empinado que se bajaba haciendo un poco de eslalon entre las rocas, con el suelo muy suelto y resbaladizo. Es increíble que por allí mismo pudieran ir bajando los burros con los bultos.
+Incluso en la ruta de los burros hubo un tramo muy empinado que se bajaba haciendo un poco de eslalon entre las rocas, con el suelo muy suelto y un poco resbaladizo. Es increíble que por allí mismo pudieran ir bajando los burros con los bultos.
 
-Completamos el descenso sin mayores incidentes y llegamos al punto de encuentro con los todoterrenos, que nos llevaron de vuelta a Djanet para pasar la última noche en el hotel antes de volar al día siguiente a Argel y desde allí a Barcelona.
+Completamos el descenso sin mayores incidentes y llegamos al punto de encuentro con los todoterrenos, que nos recibieron con abundante agua fresca y nos llevaron de vuelta al hotel de Djanet para pasar la última noche en el Sur de Argelia. Al día siguiente, vuelo a Argel desde el aeropuerto de Djanet para poder volar desde allí a Barcelona.
 
 <center>
   {{< youtube VS7wkSg_x34 >}}
