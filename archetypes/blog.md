@@ -3,19 +3,11 @@ author = "LuisGC"
 title = ""
 date = {{ .Date }}
 type = "post"
-categories = ["post"]
+categories = ["blog"]
 tags = [""]
-status = "draft"
+status = "published"]
+draft = true
 description = ""
 comments = true
 image = "https://picsum.photos/880/280?blur=3"
 +++
-
-<!--
-<div class="slider-container">  
-  {{< image classes="image slider-item" src="" title="" >}}
-  {{< image classes="image slider-item" src="" title="" >}}
-  {{< image classes="image slider-item" src="" title="" >}}
-  {{< image classes="image slider-item" src="" title="" >}}
-</div>  
->
