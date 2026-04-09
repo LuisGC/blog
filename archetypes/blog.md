@@ -8,7 +8,6 @@ tags = [""]
 status = "draft"
 description = ""
 comments = true
-removeBlur = false
 image = "https://picsum.photos/880/280?blur=3"
 +++
 
