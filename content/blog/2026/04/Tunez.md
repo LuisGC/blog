@@ -94,6 +94,8 @@ Volviendo a la región de Matmata, nosotros no lo visitamos por falta de tiempo 
 
 ## Ruinas de Sbeitla
 
+El yacimiento arqueológico de Sbeitla es impresionante. Cuenta con una superficie de más de 20 hectáreas, que equivale a que han mantenido con cierta protección los restos de lo que era más de la mitad de la antigua ciudad romana.
+
 <center>
   {{< youtube nsMjUw4r8Yk >}}
 </center>
