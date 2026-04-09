@@ -5,7 +5,7 @@ date = "2025-04-28"
 description = "Para la Semana Santa de 2025 surgió hace muchos meses la posibilidad de hacer este viaje tan fuera de lo común. Tras revisar un poco las fechas y el presupuesto, no dudamos en apuntarnos. Es el típico destino al que jamás irás por tu cuenta, e incluso te pensarás mucho en ir con según qué grupo organizado"
 type = "post"
 categories = ["Travel"]
-tags = ["personal", "tourism", "holidays", "history"]
+tags = ["personal", "tourism", "history"]
 status = "published"
 image = "/img/2025/04/Tassili-NAjjer-Gran-Sur-Argelia.jpg"
 +++
