@@ -7,7 +7,7 @@ type = "post"
 categories = ["Travel"]
 tags = ["personal", "tourism", "holidays", "history"]
 status = "published"
-image = "https://picsum.photos/880/280?blur=3"
+image = "/img/2025/04/Tassili-NAjjer-Gran-Sur-Argelia.jpg"
 +++
 
 El viaje consistió en un circuito de 11 días bastante exigente por el _Gran Sur_ de Argelia, el país más grande de África y el que contiene la mayor parte del desierto del Sáhara. De hecho, parte del viaje incluía contemplar un atardecer y un amanecer increíbles desde el punto más alto del Sáhara, el Assekrem (2.780 m).
