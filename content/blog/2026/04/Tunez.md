@@ -70,7 +70,7 @@ Nosotros tuvimos la suerte de verlo con pocos visitantes, lo que nos permitió r
 
 Seguimos más hacia el sur para la parte más friki del viaje, visitando algunas de las localizaciones de la saga de **Star Wars** que se encuentran en Túnez. La primera parada fue el [**Hotel Sidi Idriss**](https://maps.app.goo.gl/CsiyQ2MbFooqLb146), que se encuentra en la ciudad de **Matmata**. Este hotel es famoso por haber sido utilizado como escenario para la película original de Star Wars, donde se rodaron las escenas que transcurren en el planeta Tatooine. El hotel está compuesto por varias cuevas subterráneas conectadas por túneles y por _patios_ al aire libre, lo que le da un aspecto muy peculiar y auténtico. Una parte del complejo está pensada como museo, con decoración específica de las películas y algo de memorabilia y recuerdos del rodaje.
 
-La otra parte es el hotel en sí mismo, en el que tuvimos la suerte de poder alojarnos. Tiene varias habitaciones bautizadas como los personajes principales de la saga: C3PO, R2-D2, Jawa, Luke Skywalker, ... Nuestra habitación era la Princesa Leia. Al menos la nuestra contaba con un pequeño baño dentro de la habitación y una cueva adicional al fondo para que pudiera dormir alguien más.
+La otra parte es el hotel en sí mismo, en el que tuvimos la suerte de poder alojarnos. Tiene varias habitaciones bautizadas como los personajes principales de la saga: C-3PO, R2-D2, Jawa, Luke Skywalker, ... Nuestra habitación era la Princesa Leia. Al menos la nuestra contaba con un pequeño baño dentro de la habitación y una cueva adicional al fondo para que pudiera dormir alguien más.
 
 {{< recommendation >}}
 En el hotel Sidi Idriss nos trataron super bien, incluso aceptaron prestarnos una espada láser (de mentira) que tenían en la zona de la tienda del museo para que nos hiciéramos las fotos y vídeos que quisiéramos. No había mucha gente por lo que nos pudimos recrear para disfrute del personal del hotel y de los pocos visitantes que nos vieron. El hotel ofrece media pensión, que es bastante recomendable porque en Matmata no hay casi nada más alrededor. La cena y el desayuno fueron bastante aceptables para lo que pagamos.
@@ -85,6 +85,14 @@ Volviendo a la región de Matmata, nosotros no lo visitamos por falta de tiempo 
 <center>
   {{< youtube lZQzB1ybOcQ >}}
 </center>
+
+## Tozeur
+
+Para poder visitar Mos Espa nos merecía la pena hacer una noche adicional por la zona. El lugar elegido fue Tozeur porque tiene una medina histórica bastante diferente a lo que habíamos visto en Túnez o lo que veríamos en Kairouan.
+
+{{< recommendation >}}
+El camino entre Tozeur y Matmata son más de 3h. Una parada intermedia interesante puede ser una especie de [zona de aguas termales al aire libre](https://maps.app.goo.gl/EuEjTzyCLRhYFBJK9) que se encuentra a las afueras de **Zaouia**. Es difícil de describir pero tienen un sistema para extraer agua caliente del subsuelo y formar unas pequeñas piscinas para meter los pies. Desde allí hasta casi Tozeur la carretera P16 cruza un enorme lago salado seco que es bastante curioso.
+{{< /recommendation >}}
 
 ## Cañón de Mides
 
