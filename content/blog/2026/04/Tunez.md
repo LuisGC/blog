@@ -22,7 +22,7 @@ El paseo por la Medina lo dimos acompañados de un guía local privado, que nos 
 
 Además de las explicaciones, el guía facilitó que pudiéramos entrar en algunos de los edificios, que normalmente están cerrados al público. Creo que fue una experiencia muy interesante y enriquecedora, y que nos permitió conocer mejor la historia y las costumbres del lugar.
 
-El guía nos dejó en la azotea de un edificio muy céntrico , desde el que se podía ver la [**Mezquita de Zitouna**](https://maps.app.goo.gl/BFiAg3br5DTxQffS8), el edificio más importante de la Medina y el minarete más alto de la ciudad. Luego seguimos un rato por nuestra cuenta hasta acabar en el restaurante que habíamos reservado para comer.
+El guía nos dejó en la azotea de un edificio muy céntrico, desde el que se podía ver la [**Mezquita de Zitouna**](https://maps.app.goo.gl/BFiAg3br5DTxQffS8), el edificio más importante de la Medina y el minarete más alto de la ciudad. Luego seguimos un rato por nuestra cuenta hasta acabar en el restaurante que habíamos reservado para comer.
 
 {{< recommendation >}}
 Si vais a comer en la zona de la Medina, os recomiendo el restaurante [**Fondouk el Attarine**](https://maps.app.goo.gl/oo6rFW6vvh5u4nq96), que está muy cerca de la Mezquita de Zitouna. Es un restaurante con una decoración muy cuidada, un gran patio con un ambiente acogedor, y la comida es deliciosa. Además, el servicio fue muy amable y atento.
@@ -76,7 +76,7 @@ La otra parte es el hotel en sí mismo, en el que tuvimos la suerte de poder alo
 En el **Hotel Sidi Idriss** nos trataron super bien, incluso aceptaron prestarnos una espada láser (de mentira) que tenían en la zona de la tienda del museo para que nos hiciéramos las fotos y vídeos que quisiéramos. No había mucha gente por lo que nos pudimos recrear para disfrute del personal del hotel y de los pocos visitantes que nos vieron. El hotel ofrece media pensión, que es bastante recomendable porque en Matmata no hay casi nada más alrededor. La cena y el desayuno fueron bastante aceptables para lo que pagamos.
 {{< /recommendation >}}
 
-La siguiente visita relativa a Star Wars fue para visitar [**Mos Espa**](https://maps.app.goo.gl/sShSWB8K9qsoWmQg7), unos decorados en mitad del desierto cerca de **Nefta** que sirvieron para el rodaje de escenas esxteriores de Tatooine. No está cerca de Matmata, pero es más o menos combinable si has alquilado coche y te vas a quedar varios días por la zona.
+La siguiente visita relativa a Star Wars fue para visitar [**Mos Espa**](https://maps.app.goo.gl/sShSWB8K9qsoWmQg7), unos decorados en mitad del desierto cerca de **Nefta** que sirvieron para el rodaje de escenas exteriores de Tatooine. No está cerca de Matmata, pero es más o menos combinable si has alquilado coche y te vas a quedar varios días por la zona.
 
 Pensé que Mos Espa sería lo que más me gustaría, pero resultó ser al revés. El recinto de Mos Espa es bastante grande pero ahora está invadido de puestos de vendedores que te ofrecen todo tipo de souvenir, paseos en dromedario, rutas guiadas por la región, ... es imposible visitar tranquilamente la zona sin ser asaltado. Verlo todo lleno de vendedores y puestos hace que no suceda la _inmersión_ que esperas tener en un sitio así. Una pena.
 
@@ -91,12 +91,12 @@ Volviendo a la región de Matmata, nosotros no lo visitamos por falta de tiempo 
 Para poder visitar Mos Espa nos merecía la pena hacer una noche adicional por la zona. El lugar elegido fue **Tozeur** porque tiene una medina histórica bastante diferente a lo que habíamos visto en Túnez o lo que veríamos en Kairouan.
 
 {{< recommendation >}}
-El camino entre Tozeur y Matmata son más de 3h. Una parada intermedia interesante puede ser una especie de [zona de aguas termales al aire libre](https://maps.app.goo.gl/EuEjTzyCLRhYFBJK9) que se encuentra a las afueras de **Zaouia**. Es difícil de describir pero tienen un sistema para extraer agua caliente del subsuelo y formar unas pequeñas piscinas para meter los pies.
+El camino entre Tozeur y Matmata es de más de 3 h. Una parada intermedia interesante puede ser una especie de [zona de aguas termales al aire libre](https://maps.app.goo.gl/EuEjTzyCLRhYFBJK9) que se encuentra a las afueras de **Zaouia**. Es difícil de describir, pero tienen un sistema para extraer agua caliente del subsuelo y formar unas pequeñas piscinas para meter los pies.
 {{< /recommendation >}}
 
 De camino a Tozeur está el famoso lago salado seco de [**Chott el Djerid**](https://maps.app.goo.gl/YKmgNcvNZ2TnxDXE6), donde el suelo blanco se extiende hasta el horizonte y el efecto del espejismo es fácil de ver en los días de calor. La carretera lo cruza durante muchos kilómetros, y hay varios puntos en los que puede ser interesante hacer una parada rápida.
 
-Tozeur es la capital de una de las zonas de oasis más grandes del país, y tiene un carácter muy marcado por el contraste entre el desierto y el verdor de sus palmerales. Paseamos por la medina, que está construida con con fachadas geométricas muy llamativas hechas con ladrillo, y entramos en algunas de las pequeñas tiendas de artesanía local. El centro histórico tiene un ambiente tranquilo y muy fotogénico con sus calles laberínticas.Comparado con otras medinas, esta es claramente mucho más pequeña y con menos tiendas, pero tiene un encanto diferente.
+Tozeur es la capital de una de las zonas de oasis más grandes del país, y tiene un carácter muy marcado por el contraste entre el desierto y el verdor de sus palmerales. Paseamos por la medina, que está construida con fachadas geométricas muy llamativas hechas con ladrillo, y entramos en algunas de las pequeñas tiendas de artesanía local. El centro histórico tiene un ambiente tranquilo y muy fotogénico con sus calles laberínticas. Comparado con otras medinas, esta es claramente mucho más pequeña y con menos tiendas, pero tiene un encanto diferente.
 
 Merece bastante la pena subir a la terraza del [**Café Berbère**](https://maps.app.goo.gl/3x4Ls7kLhX6A19us5), desde donde hay vistas panorámicas muy bonitas del palmeral y de la ciudad.
 
@@ -146,7 +146,7 @@ Para comer o cenar en Kairouan, recomiendo valorar el [Restaurante **El Brija**]
 
 ## Conclusión y Logística
 
-Túnez es un destino que estando relativamente cerca pasa desapercibido y merece un poco de atención. Ofrece un conjunto interesante de ciudades con grandes centros históricos de orígen árabe bien conservados, una buena dosis de cultura y gastronomía muy distintas y una enorme cantidad de ruinas romanas y cartaginesas diferentes pero no peores de lo que puedes ver en Italia o Europa en general.
+Túnez es un destino que estando relativamente cerca pasa desapercibido y merece un poco de atención. Ofrece un conjunto interesante de ciudades con grandes centros históricos de origen árabe bien conservados, una buena dosis de cultura y gastronomía muy distintas y una enorme cantidad de ruinas romanas y cartaginesas diferentes pero no peores de lo que puedes ver en Italia o Europa en general.
 
 Los vuelos pueden resultar más o menos baratos según la temporada y las ofertas, pero moverse por Túnez sigue siendo muy económico. Comimos varias veces por unos 12-15 euros (dos personas) y el alquiler de coche para tres días fue poco más de 100 euros. Las dos noches de hotel que hicimos fueron unos 90 euros en el Sidi Idriss (con media pensión) y algo menos de 200 euros en Dar Tozeur que es un hotel casi de lujo.
 
