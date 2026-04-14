@@ -6,7 +6,6 @@ type = "post"
 categories = ["travel"]
 tags = ["Personal", "Tourism", "History"]
 status = "published"
-draft = true
 description = "Resumen de nuestro breve viaje por Túnez, recorriendo magníficos lugares como su capital, Cartago, Sidi Bou Said, el anfiteatro de El Djem, Kairouan, Tozeur o las localizaciones principales relacionadas con Star Wars"
 comments = true
 image = "/img/2026/04/Tunez-norte-sur.webp"
