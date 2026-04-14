@@ -22,6 +22,8 @@ El paseo por la Medina lo dimos acompañados de un guía local privado, que nos 
 
 Además de las explicaciones, el guía facilitó que pudiéramos entrar en algunos de los edificios, que normalmente están cerrados al público. Creo que fue una experiencia muy interesante y enriquecedora, y que nos permitió conocer mejor la historia y las costumbres del lugar.
 
+{{< image classes="image central" src="/img/2026/04/Tunez-Medina.jpg" title="Uno de los sitios a los que entramos por ir con el guía, en este caso un hotel de gran lujo" >}}
+
 El guía nos dejó en la azotea de un edificio muy céntrico, desde el que se podía ver la [**Mezquita de Zitouna**](https://maps.app.goo.gl/BFiAg3br5DTxQffS8), el edificio más importante de la Medina y el minarete más alto de la ciudad. Luego seguimos un rato por nuestra cuenta hasta acabar en el restaurante que habíamos reservado para comer.
 
 {{< recommendation >}}
@@ -46,6 +48,8 @@ Desde allí nos dimos un buen paseo hasta el [**Teatro Romano**](https://maps.ap
 
 Seguimos el paseo hacia la costa para visitar el complejo de las [**Termas de Antonino**](https://maps.app.goo.gl/yWiPhjF41qn9UAvG7), que nos sorprendieron muchísimo. El complejo está bastante bien conservado y da una idea clara de cómo eran en su momento, con sus piscinas, salas de vapor, gimnasios y otras instalaciones. Seguramente el punto fuerte de toda la zona. 
 
+{{< image classes="image central" src="/img/2026/04/Cartago-Termas-Antonino.jpg" title="Uno de los muchos rincones pintorescos de las Termas de Antonino" >}}
+
 La última parada que hicimos fue los [**Puertos Púnicos**](https://maps.app.goo.gl/PWv4a3uwFL5B5yxX7), que se encuentran más o menos cerca de las Termas. Se trata de un complejo de puertos construidos por los cartagineses para facilitar el comercio y la defensa militar naval. Aunque ahora mismo no queda mucho, es interesante ver cómo estaban organizados y cómo funcionaban. De nuevo, la falta de carteles y de restos significativos hace que sea difícil imaginar cómo era el complejo en su momento.
 
 Muy cerca de los puertos se encuentra el [**Tofet**](https://maps.app.goo.gl/yAF2kNatSJDUhrj79), que es un santuario en el que se enterraban niños sacrificados por los cartagineses.
@@ -59,6 +63,8 @@ En general las ruinas de Cartago son una visita fácil de hacer a tu aire, pero 
 ## El Djem
 
 **El Djem** es parada obligatoria para cualquier persona que visite Túnez, al menos para ver su impresionante [**Anfiteatro Romano**](https://maps.app.goo.gl/8wZzLdsyof3ubu5y8), que es el tercero más grande del mundo después del **Coliseo de Roma** y el **Anfiteatro de Capua**. El resto de la ciudad seguramente no es tan interesante, pero el anfiteatro es una visita imprescindible. El anfiteatro tenía una capacidad para unas 35.000 personas y se conserva en un estado bastante bueno.
+
+{{< image classes="image central" src="/img/2026/04/El-Djem-Anfiteatro.jpg" title="Panorámica del anfiteatro desde una de las gradas superiores" >}}
 
 Nosotros tuvimos la suerte de verlo con pocos visitantes, lo que nos permitió recorrerlo con tranquilidad y apreciar su grandiosidad. Es impresionante ver cómo se construyó y cómo funcionaba, y poder recorrer sus pasillos, gradas, arena y las instalaciones subterráneas.
 
@@ -76,9 +82,13 @@ La otra parte es el hotel en sí mismo, en el que tuvimos la suerte de poder alo
 En el **Hotel Sidi Idriss** nos trataron super bien, incluso aceptaron prestarnos una espada láser (de mentira) que tenían en la zona de la tienda del museo para que nos hiciéramos las fotos y vídeos que quisiéramos. No había mucha gente por lo que nos pudimos recrear para disfrute del personal del hotel y de los pocos visitantes que nos vieron. El hotel ofrece media pensión, que es bastante recomendable porque en Matmata no hay casi nada más alrededor. La cena y el desayuno fueron bastante aceptables para lo que pagamos.
 {{< /recommendation >}}
 
+{{< image classes="image central" src="/img/2026/04/Matmata-Sidi-Idriss.jpg" title="Entrenando para salvar la Galaxia en el Hotel Sidi Idriss" >}}
+
 La siguiente visita relativa a Star Wars fue para visitar [**Mos Espa**](https://maps.app.goo.gl/sShSWB8K9qsoWmQg7), unos decorados en mitad del desierto cerca de **Nefta** que sirvieron para el rodaje de escenas exteriores de Tatooine. No está cerca de Matmata, pero es más o menos combinable si has alquilado coche y te vas a quedar varios días por la zona.
 
 Pensé que Mos Espa sería lo que más me gustaría, pero resultó ser al revés. El recinto de Mos Espa es bastante grande pero ahora está invadido de puestos de vendedores que te ofrecen todo tipo de souvenir, paseos en dromedario, rutas guiadas por la región, ... es imposible visitar tranquilamente la zona sin ser asaltado. Verlo todo lleno de vendedores y puestos hace que no suceda la _inmersión_ que esperas tener en un sitio así. Una pena.
+
+{{< image classes="image central" src="/img/2026/04/Mos-Espa.jpg" title="No estás viendo ese dromedario <gesto> No estás viendo esos puestos <gesto>" >}}
 
 Volviendo a la región de Matmata, nosotros no lo visitamos por falta de tiempo pero creo que puede ser buena idea pasar alguna noche adicional en Sidi Idriss o alrededores para visitar [**Tataouine**](https://maps.app.goo.gl/qFtRtQTbrEmnhBUK7) (el pueblo que inspiró el nombre y la arquitectura de Tatooine) y algunos Ksares y cuevas trogloditas que hay por la zona.
 
@@ -100,6 +110,8 @@ Tozeur es la capital de una de las zonas de oasis más grandes del país, y tien
 
 Merece bastante la pena subir a la terraza del [**Café Berbère**](https://maps.app.goo.gl/3x4Ls7kLhX6A19us5), desde donde hay vistas panorámicas muy bonitas del palmeral y de la ciudad.
 
+{{< image classes="image central" src="/img/2026/04/Tozeur-Medina.jpg" title="Ejemplo de fachada decorada con motivos geométricos" >}}
+
 {{< recommendation >}}
 En Tozeur nos dimos el homenaje del viaje, reservando para dormir en [**Dar Tozeur**](https://maps.app.goo.gl/W8TE9VrwKKVQu7uU8) un hotel con muchísimo encanto que sin ser carísimo resulta un gran lujo. Tiene dos piscinas exteriores (una de ellas con el agua climatizada) y un hammam al que también entramos. El personal fue bastante amable con nosotros y tanto el desayuno como la cena fueron bastante buenos. Totalmente recomendable si vas a pernoctar por la zona.
 {{< /recommendation >}}
@@ -107,6 +119,8 @@ En Tozeur nos dimos el homenaje del viaje, reservando para dormir en [**Dar Toze
 ## Cañón de Mides
 
 El [**Cañón de Mides**](https://maps.app.goo.gl/hHkL4rPiUnkUE3jPA) es una de esas visitas que te recuerdan que en Túnez también hay naturaleza salvaje y no solo desierto. Se trata de una garganta profunda con paredes de roca rojiza que el agua ha tallado durante miles de años. Hay un par de miradores principales que ofrecen una vista espectacular de la caída y del pequeño río que discurre al fondo, y varios senderos permiten acercarse al borde para sentir la enorme escala del paisaje.
+
+{{< image classes="image central" src="/img/2026/04/Mides-Canyon.jpg" title="Las vistas del Cañón de Mides son increíbles casi desde cualquier sitio elevado" >}}
 
 Hay una sensación de calma y de aislamiento muy agradable, y desde allí se aprecia muy bien el contraste entre el cauce estrecho del río y las laderas áridas del cañón. Merece la pena bajar un poco desde los miradores para ver el cañón desde distintos ángulos. Si tenéis tiempo se pueden recorrer unos 5-6 kilómetros por el lecho del cañón, aunque nosotros no lo hicimos.
 
@@ -119,6 +133,8 @@ Hay una sensación de calma y de aislamiento muy agradable, y desde allí se apr
 El [**Yacimiento Arqueológico de Sbeitla**](https://maps.app.goo.gl/JiAphPgosN3C7sP26) es impresionante. Cuenta con una superficie de más de 20 hectáreas, ya que por suerte han mantenido con cierta protección los restos de lo que era más de la mitad de la antigua ciudad romana.
 
 Lo más destacable son las tres grandes plazas del foro con sus templos de [**Júpiter**, **Juno** y **Minerva**](https://maps.app.goo.gl/xUypUHHYuNsRKfCXA), rodeadas por naves y columnas que todavía conservan buena parte de su estructura original. También vimos el [Arco del Triunfo de Diocleciano](https://maps.app.goo.gl/JpEtMBjKn9Rkd1zx5), la [basílica](https://maps.app.goo.gl/6fe2eGQ2tGxmT3Qt7), el [mercado](https://maps.app.goo.gl/SpjygFh488cfse8y5) y unas [grandes termas](https://maps.app.goo.gl/Th1CsrUkeukvbrpw8) que ayudan a entender cómo se organizaba la vida urbana en aquella época. También hay un [teatro romano](https://maps.app.goo.gl/fiYGcS4HLnMvXK7Q6), pero está tan reconstruido que cuesta ver qué partes serían originales.
+
+{{< image classes="image central" src="/img/2026/04/Yacimiento-Sbeitla.jpg" title="Puerta de acceso al foro de Sbeitla, con los templos de Júpiter, Juno y Minerva al fondo" >}}
 
 Un punto que nos gustó mucho son los mosaicos que quedan en algunas de las casas mejor conservadas: hay escenas de caza, de pesca, figuras geométricas y motivos religiosos que hacen que la visita sea mucho más rica. La sensación general es la de un gran conjunto arqueológico que no está masificado y donde se puede pasear con tranquilidad. 
 
@@ -135,6 +151,8 @@ Kairouan es una de las ciudades más importantes de Túnez a nivel religioso e h
 Además de la mezquita, la medina de Kairouan es un lugar perfecto para pasear sin rumbo entre talleres de alfombras, de tejidos, puestos de especias y pequeñas tiendas de cerámica. Hay un ambiente muy auténtico y menos turístico que en la medina de Túnez, y se nota la importancia de la ciudad como centro de peregrinación.
 
 No hay que perderse el [**Mausoleo de Sidi Sahbi**](https://maps.app.goo.gl/dT6TZTwNmqqAXc7A9), conocido como la _Mezquita del Barbero_, que es un lugar de gran devoción local y tiene un patio interior muy bonito.
+
+{{< image classes="image central" src="/img/2026/04/Kairouan-Mausoleo-Sidi-Sahbi.jpg" title="Uno de los patios interiores del espectacular Mausoleo de Sidi Sahbi, en Kairouan" >}}
 
 {{< recommendation >}}
 Para comer o cenar en Kairouan, recomiendo valorar el [Restaurante **El Brija**](https://maps.app.goo.gl/az2j8b5mjVmWwWb17), que está prácticamente sobre la muralla de la medina y justo enfrente de la Gran Mezquita. Además de su inmejorable localización, que luce espectacular de noche, la carta es una buena combinación de comida típica tunecina y platos más italianos como pizzas o pastas.
