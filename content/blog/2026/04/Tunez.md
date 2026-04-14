@@ -22,10 +22,10 @@ El paseo por la Medina lo dimos acompañados de un guía local privado, que nos 
 
 Además de las explicaciones, el guía facilitó que pudiéramos entrar en algunos de los edificios, que normalmente están cerrados al público. Creo que fue una experiencia muy interesante y enriquecedora, y que nos permitió conocer mejor la historia y las costumbres del lugar.
 
-El guía nos dejó en la azotea de un edificio muy céntrico , desde el que se podía ver la **Mezquita de Zitouna**, el edificio más importante de la Medina, y el minarete más alto de la ciudad. Luego seguimos un rato por nuestra cuenta hasta acabar en el restaurante que habíamos reservado para comer.
+El guía nos dejó en la azotea de un edificio muy céntrico , desde el que se podía ver la [**Mezquita de Zitouna**](https://maps.app.goo.gl/BFiAg3br5DTxQffS8), el edificio más importante de la Medina y el minarete más alto de la ciudad. Luego seguimos un rato por nuestra cuenta hasta acabar en el restaurante que habíamos reservado para comer.
 
 {{< recommendation >}}
-Si vais a comer en la zona de la Medina, os recomiendo el restaurante [**Fondouk el Attarine**](https://maps.app.goo.gl/oo6rFW6vvh5u4nq96), que está justo al lado de la Mezquita de Zitouna. Es un restaurante con una decoración muy cuidada, un gran patio con un ambiente acogedor, y la comida es deliciosa. Además, el servicio fue muy amable y atento.
+Si vais a comer en la zona de la Medina, os recomiendo el restaurante [**Fondouk el Attarine**](https://maps.app.goo.gl/oo6rFW6vvh5u4nq96), que está muy cerca de la Mezquita de Zitouna. Es un restaurante con una decoración muy cuidada, un gran patio con un ambiente acogedor, y la comida es deliciosa. Además, el servicio fue muy amable y atento.
 {{< /recommendation >}}
 
 Después de comer, nuestros anfitriones regresaron a sus tareas y nosotros nos fuimos a ver el [**Museo Nacional del Bardo**](https://maps.app.goo.gl/XkVeCEXnVaqm8kbj7), que se encuentra a las afueras de la Medina. El museo es uno de los más importantes de África y alberga una gran colección de arte y objetos históricos, especialmente mosaicos romanos. La visita al museo fue muy interesante, aunque la falta de carteles explicativos limitaba mucho la interpretación de las piezas.
@@ -36,7 +36,7 @@ Después de comer, nuestros anfitriones regresaron a sus tareas y nosotros nos f
 
 ## Ruinas de Cartago
 
-Al día siguiente nos fuimos a visitar las ruinas de Cartago, que se encuentran a unos 15 km al este de la capital. Cartago fue una ciudad-estado fenicia que llegó a ser una de las más poderosas del Mediterráneo, hasta que fue destruida por los romanos.
+Al día siguiente nos fuimos a visitar las ruinas de **Cartago**, que se encuentran a unos 15 km al este de la capital. Cartago fue una ciudad-estado fenicia que llegó a ser una de las más poderosas del Mediterráneo, hasta que fue destruida por los romanos.
 
 Hay una entrada general para visitar todas las ruinas. En función del tiempo que tengáis podéis elegir el orden o incluso si os saltáis alguna de las zonas. Casi todo el complejo puede recorrerse andando, pero no faltan los taxis locales que se ofrecen (muy insistentemente) para llevarte de un sitio a otro.
 
@@ -58,7 +58,7 @@ En general las ruinas de Cartago son una visita fácil de hacer a tu aire, pero 
 
 ## El Djem
 
-El Djem es parada obligatoria para cualquier persona que visite Túnez, al menos para ver su impresionante [**Anfiteatro Romano**](https://maps.app.goo.gl/8wZzLdsyof3ubu5y8), que es el tercero más grande del mundo después del **Coliseo de Roma** y el **Anfiteatro de Capua**. El resto de la ciudad seguramente no es tan interesante, pero el anfiteatro es una visita imprescindible. El anfiteatro tenía una capacidad para unas 35.000 personas y se conserva en un estado bastante bueno.
+**El Djem** es parada obligatoria para cualquier persona que visite Túnez, al menos para ver su impresionante [**Anfiteatro Romano**](https://maps.app.goo.gl/8wZzLdsyof3ubu5y8), que es el tercero más grande del mundo después del **Coliseo de Roma** y el **Anfiteatro de Capua**. El resto de la ciudad seguramente no es tan interesante, pero el anfiteatro es una visita imprescindible. El anfiteatro tenía una capacidad para unas 35.000 personas y se conserva en un estado bastante bueno.
 
 Nosotros tuvimos la suerte de verlo con pocos visitantes, lo que nos permitió recorrerlo con tranquilidad y apreciar su grandiosidad. Es impresionante ver cómo se construyó y cómo funcionaba, y poder recorrer sus pasillos, gradas, arena y las instalaciones subterráneas.
 
@@ -68,17 +68,17 @@ Nosotros tuvimos la suerte de verlo con pocos visitantes, lo que nos permitió r
 
 ## Localizaciones de Star Wars
 
-Seguimos más hacia el sur para la parte más friki del viaje, visitando algunas de las localizaciones de la saga de **Star Wars** que se encuentran en Túnez. La primera parada fue el [**Hotel Sidi Idriss**](https://maps.app.goo.gl/CsiyQ2MbFooqLb146), que se encuentra en la ciudad de **Matmata**. Este hotel es famoso por haber sido utilizado como escenario para la película original de Star Wars, donde se rodaron las escenas que transcurren en el planeta Tatooine. El hotel está compuesto por varias cuevas subterráneas conectadas por túneles y por _patios_ al aire libre, lo que le da un aspecto muy peculiar y auténtico. Una parte del complejo está pensada como museo, con decoración específica de las películas y algo de memorabilia y recuerdos del rodaje.
+Seguimos más hacia el sur para la parte más friki del viaje, visitando algunas de las localizaciones de la saga de **Star Wars** que se encuentran en Túnez. La primera parada fue el [**Hotel Sidi Idriss**](https://maps.app.goo.gl/CsiyQ2MbFooqLb146), que se encuentra en la ciudad de **Matmata**. Este hotel es famoso por haber sido utilizado como escenario para la película original de Star Wars, donde se rodaron escenas que transcurren en el planeta _Tatooine_. El hotel está compuesto por varias cuevas subterráneas conectadas por túneles y por _patios_ al aire libre, lo que le da un aspecto muy peculiar y auténtico. Una parte del complejo está pensada como museo, con decoración específica de las películas y algo de memorabilia y recuerdos del rodaje.
 
-La otra parte es el hotel en sí mismo, en el que tuvimos la suerte de poder alojarnos. Tiene varias habitaciones bautizadas como los personajes principales de la saga: C-3PO, R2-D2, Jawa, Luke Skywalker, ... Nuestra habitación era la Princesa Leia. Al menos la nuestra contaba con un pequeño baño dentro de la habitación y una cueva adicional al fondo para que pudiera dormir alguien más.
+La otra parte es el hotel en sí mismo, en el que tuvimos la suerte de poder alojarnos. Tiene varias habitaciones bautizadas como los personajes principales de la saga: _C-3PO_, _R2-D2_, _Jawa_, _Luke Skywalker_, ... Nuestra habitación era la _Princesa Leia_, era bastante amplia y contaba con un pequeño baño dentro de la habitación y una cueva adicional al fondo para que pudiera dormir alguien más. Por lo que pude ver el resto de habitaciones eran similares.
 
 {{< recommendation >}}
-En el hotel Sidi Idriss nos trataron super bien, incluso aceptaron prestarnos una espada láser (de mentira) que tenían en la zona de la tienda del museo para que nos hiciéramos las fotos y vídeos que quisiéramos. No había mucha gente por lo que nos pudimos recrear para disfrute del personal del hotel y de los pocos visitantes que nos vieron. El hotel ofrece media pensión, que es bastante recomendable porque en Matmata no hay casi nada más alrededor. La cena y el desayuno fueron bastante aceptables para lo que pagamos.
+En el **Hotel Sidi Idriss** nos trataron super bien, incluso aceptaron prestarnos una espada láser (de mentira) que tenían en la zona de la tienda del museo para que nos hiciéramos las fotos y vídeos que quisiéramos. No había mucha gente por lo que nos pudimos recrear para disfrute del personal del hotel y de los pocos visitantes que nos vieron. El hotel ofrece media pensión, que es bastante recomendable porque en Matmata no hay casi nada más alrededor. La cena y el desayuno fueron bastante aceptables para lo que pagamos.
 {{< /recommendation >}}
 
 La siguiente visita relativa a Star Wars fue para visitar [**Mos Espa**](https://maps.app.goo.gl/sShSWB8K9qsoWmQg7), unos decorados en mitad del desierto cerca de **Nefta** que sirvieron para el rodaje de escenas esxteriores de Tatooine. No está cerca de Matmata, pero es más o menos combinable si has alquilado coche y te vas a quedar varios días por la zona.
 
-Pensé que Mos Espa sería lo que más me gustaría, pero resultó ser al revés. El recinto de Mos Espa es bastante grande pero ahora está invadido de puestos de vendedores ambulantes que te ofrecen todo tipo de souvenir, paseos en dromedario, paseos guiados por la región, ... es imposible visitar tranquilamente la zona sin ser asaltado, y además verlo todo lleno de vendedores y puestos hace que no suceda la _inmersión_ que esperas tener en un sitio así.
+Pensé que Mos Espa sería lo que más me gustaría, pero resultó ser al revés. El recinto de Mos Espa es bastante grande pero ahora está invadido de puestos de vendedores que te ofrecen todo tipo de souvenir, paseos en dromedario, rutas guiadas por la región, ... es imposible visitar tranquilamente la zona sin ser asaltado. Verlo todo lleno de vendedores y puestos hace que no suceda la _inmersión_ que esperas tener en un sitio así. Una pena.
 
 Volviendo a la región de Matmata, nosotros no lo visitamos por falta de tiempo pero creo que puede ser buena idea pasar alguna noche adicional en Sidi Idriss o alrededores para visitar [**Tataouine**](https://maps.app.goo.gl/qFtRtQTbrEmnhBUK7) (el pueblo que inspiró el nombre y la arquitectura de Tatooine) y algunos Ksares y cuevas trogloditas que hay por la zona.
 
@@ -106,25 +106,23 @@ En Tozeur nos dimos el homenaje del viaje, reservando para dormir en [**Dar Toze
 
 ## Cañón de Mides
 
-El [**Cañón de Mides**](https://maps.app.goo.gl/hHkL4rPiUnkUE3jPA) es una de esas visitas que te recuerdan que en Túnez también hay naturaleza salvaje y no solo desierto. Se trata de una garganta profunda con paredes de roca rojiza que el agua ha tallado durante miles de años. Hay un par de miradores principales que ofrecen una vista espectacular de la caída y del río que discurre al fondo, y varios senderos permiten acercarse al borde para sentir la enorme escala del paisaje.
+El [**Cañón de Mides**](https://maps.app.goo.gl/hHkL4rPiUnkUE3jPA) es una de esas visitas que te recuerdan que en Túnez también hay naturaleza salvaje y no solo desierto. Se trata de una garganta profunda con paredes de roca rojiza que el agua ha tallado durante miles de años. Hay un par de miradores principales que ofrecen una vista espectacular de la caída y del pequeño río que discurre al fondo, y varios senderos permiten acercarse al borde para sentir la enorme escala del paisaje.
 
-Hay una sensación de calma y de aislamiento muy agradable, y desde allí se aprecia muy bien el contraste entre el cauce estrecho del río y las laderas áridas del cañón.
-
-Merece la pena bajar un poco desde los miradores para ver el cañón desde distintos ángulos. Si tenéis tiempo se pueden recorrer unos 5-6 kilómetros por el lecho del cañón.
+Hay una sensación de calma y de aislamiento muy agradable, y desde allí se aprecia muy bien el contraste entre el cauce estrecho del río y las laderas áridas del cañón. Merece la pena bajar un poco desde los miradores para ver el cañón desde distintos ángulos. Si tenéis tiempo se pueden recorrer unos 5-6 kilómetros por el lecho del cañón, aunque nosotros no lo hicimos.
 
 <center>
   {{< youtube 2spb8xmFJ_o >}}
 </center>
 
-## Ruinas de Sbeitla
+## Sbeitla
 
 El [**Yacimiento Arqueológico de Sbeitla**](https://maps.app.goo.gl/JiAphPgosN3C7sP26) es impresionante. Cuenta con una superficie de más de 20 hectáreas, ya que por suerte han mantenido con cierta protección los restos de lo que era más de la mitad de la antigua ciudad romana.
 
-Lo más destacable son las tres grandes plazas del foro con sus templos de [**Júpiter**, **Juno** y **Minerva**](https://maps.app.goo.gl/xUypUHHYuNsRKfCXA), rodeadas por naves y columnas que todavía conservan buena parte de su estructura original. También vimos el [Arco del Triunfo de Diocleciano](https://maps.app.goo.gl/JpEtMBjKn9Rkd1zx5), la [basílica](https://maps.app.goo.gl/6fe2eGQ2tGxmT3Qt7), el [mercado](https://maps.app.goo.gl/SpjygFh488cfse8y5) y unas [grandes termas](https://maps.app.goo.gl/Th1CsrUkeukvbrpw8) que ayudan a entender cómo se organizaba la vida urbana en aquella época.
+Lo más destacable son las tres grandes plazas del foro con sus templos de [**Júpiter**, **Juno** y **Minerva**](https://maps.app.goo.gl/xUypUHHYuNsRKfCXA), rodeadas por naves y columnas que todavía conservan buena parte de su estructura original. También vimos el [Arco del Triunfo de Diocleciano](https://maps.app.goo.gl/JpEtMBjKn9Rkd1zx5), la [basílica](https://maps.app.goo.gl/6fe2eGQ2tGxmT3Qt7), el [mercado](https://maps.app.goo.gl/SpjygFh488cfse8y5) y unas [grandes termas](https://maps.app.goo.gl/Th1CsrUkeukvbrpw8) que ayudan a entender cómo se organizaba la vida urbana en aquella época. También hay un [teatro romano](https://maps.app.goo.gl/fiYGcS4HLnMvXK7Q6), pero está tan reconstruido que cuesta ver qué partes serían originales.
 
-Un punto que nos gustó mucho son los mosaicos que quedan en algunas de las casas mejor conservadas: hay escenas de caza, figuras geométricas y motivos religiosos que hacen que la visita sea mucho más rica. La sensación general es la de un gran conjunto arqueológico que no está masificado y donde se puede pasear con tranquilidad. Dentro del yacimiento también hay un [teatro romano](https://maps.app.goo.gl/fiYGcS4HLnMvXK7Q6), pero está tan reconstruido que cuesta ver qué partes serían originales.
+Un punto que nos gustó mucho son los mosaicos que quedan en algunas de las casas mejor conservadas: hay escenas de caza, de pesca, figuras geométricas y motivos religiosos que hacen que la visita sea mucho más rica. La sensación general es la de un gran conjunto arqueológico que no está masificado y donde se puede pasear con tranquilidad. 
 
-Además del yacimiento romano, la entrada al yacimiento incluye un pequeño [museo arqueológico](https://maps.app.goo.gl/5KYuH6icByrixLiH6) que puede añadir algo más de contexto a la visita.
+Además del yacimiento romano, la entrada incluye el acceso a un pequeño [museo arqueológico](https://maps.app.goo.gl/5KYuH6icByrixLiH6) que puede añadir algo más de contexto a la visita.
 
 <center>
   {{< youtube nsMjUw4r8Yk >}}
@@ -145,3 +143,11 @@ Para comer o cenar en Kairouan, recomiendo valorar el [Restaurante **El Brija**]
 <center>
   {{< youtube 6oUTjLIP5SA >}}
 </center>
+
+## Conclusión y Logística
+
+Túnez es un destino que estando relativamente cerca pasa desapercibido y merece un poco de atención. Ofrece un conjunto interesante de ciudades con grandes centros históricos de orígen árabe bien conservados, una buena dosis de cultura y gastronomía muy distintas y una enorme cantidad de ruinas romanas y cartaginesas diferentes pero no peores de lo que puedes ver en Italia o Europa en general.
+
+Los vuelos pueden resultar más o menos baratos según la temporada y las ofertas, pero moverse por Túnez sigue siendo muy económico. Comimos varias veces por unos 12-15 euros (dos personas) y el alquiler de coche para tres días fue poco más de 100 euros. Las dos noches de hotel que hicimos fueron unos 90 euros en el Sidi Idriss (con media pensión) y algo menos de 200 euros en Dar Tozeur que es un hotel casi de lujo.
+
+El viaje a Túnez fue bastante especial para nosotros. No será raro que repitamos en unos años para ver otras zonas del país que no pudimos visitar esta vez por falta de tiempo.
