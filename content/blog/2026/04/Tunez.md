@@ -14,13 +14,13 @@ image = "https://picsum.photos/880/280?blur=3"
 
 Teníamos pendiente una visita a unos amigos en **Túnez**, y por circunstancias de la vida tenía que ser ahora o quizá ya no les pillaríamos por allí. Revisamos los días disponibles y los horarios de los vuelos y al final nos decidimos por una escapada de 6 días. Aunque corta, podía ser suficiente para visitar algunos de los lugares más emblemáticos del país y pasar por unas cuantas regiones distintas, desde la parte más _urbana_ junto a la capital a las zonas más desérticas y poco pobladas del Sur. En este post os dejo un resumen de los lugares que visitamos, con vídeos resumen de las visitas a los lugares más destacados.
 
-## La Medina de Túnez
+## Túnez
 
-La primera mañana la dedicamos a visitar la Medina de Túnez, el casco antiguo de la ciudad. Es un lugar muy pintoresco y un poco laberíntico, con calles estrechas y llenas de vida. Después de haber recorrido alguno de los zocos en varias ocasiones empecé a orientarme un poco, pero la verdad es que no es sencillo.
+La primera mañana la dedicamos a visitar la **Medina de Túnez**, el casco antiguo de la ciudad. Es un lugar muy pintoresco y un poco laberíntico, con calles estrechas y llenas de vida. Después de haber recorrido alguno de los zocos en varias ocasiones empecé a orientarme un poco, pero la verdad es que no es sencillo.
 
 El paseo por la Medina lo dimos acompañados de un guía local privado, que nos fue explicando las características principales de las medinas y los zocos en general, y de la Medina de Túnez en particular. Nos contó que la Medina de Túnez es una de las más grandes del mundo, con más de 700 calles y callejones, y que fue declarada Patrimonio de la Humanidad por la UNESCO en 1979.
 
-Además de las explicaciones, el guía facilitó que pudiéramos entrar en algunos de los edificios, que normalmente están cerrados al público. Creo que fue una experiencia muy interesante y enriquecedora, y que nos permitió conocer mejor la historia y la cultura del lugar.
+Además de las explicaciones, el guía facilitó que pudiéramos entrar en algunos de los edificios, que normalmente están cerrados al público. Creo que fue una experiencia muy interesante y enriquecedora, y que nos permitió conocer mejor la historia y las costumbres del lugar.
 
 El guía nos dejó en la azotea de un edificio muy céntrico , desde el que se podía ver la **Mezquita de Zitouna**, el edificio más importante de la Medina, y el minarete más alto de la ciudad. Luego seguimos un rato por nuestra cuenta hasta acabar en el restaurante que habíamos reservado para comer.
 
@@ -88,13 +88,29 @@ Volviendo a la región de Matmata, nosotros no lo visitamos por falta de tiempo 
 
 ## Tozeur
 
-Para poder visitar Mos Espa nos merecía la pena hacer una noche adicional por la zona. El lugar elegido fue Tozeur porque tiene una medina histórica bastante diferente a lo que habíamos visto en Túnez o lo que veríamos en Kairouan.
+Para poder visitar Mos Espa nos merecía la pena hacer una noche adicional por la zona. El lugar elegido fue **Tozeur** porque tiene una medina histórica bastante diferente a lo que habíamos visto en Túnez o lo que veríamos en Kairouan.
 
 {{< recommendation >}}
-El camino entre Tozeur y Matmata son más de 3h. Una parada intermedia interesante puede ser una especie de [zona de aguas termales al aire libre](https://maps.app.goo.gl/EuEjTzyCLRhYFBJK9) que se encuentra a las afueras de **Zaouia**. Es difícil de describir pero tienen un sistema para extraer agua caliente del subsuelo y formar unas pequeñas piscinas para meter los pies. Desde allí hasta casi Tozeur la carretera P16 cruza un enorme lago salado seco que es bastante curioso.
+El camino entre Tozeur y Matmata son más de 3h. Una parada intermedia interesante puede ser una especie de [zona de aguas termales al aire libre](https://maps.app.goo.gl/EuEjTzyCLRhYFBJK9) que se encuentra a las afueras de **Zaouia**. Es difícil de describir pero tienen un sistema para extraer agua caliente del subsuelo y formar unas pequeñas piscinas para meter los pies.
+{{< /recommendation >}}
+
+De camino a Tozeur está el famoso lago salado seco de [**Chott el Djerid**](https://maps.app.goo.gl/YKmgNcvNZ2TnxDXE6), donde el suelo blanco se extiende hasta el horizonte y el efecto del espejismo es fácil de ver en los días de calor. La carretera lo cruza durante muchos kilómetros, y hay varios puntos en los que puede ser interesante hacer una parada rápida.
+
+Tozeur es la capital de una de las zonas de oasis más grandes del país, y tiene un carácter muy marcado por el contraste entre el desierto y el verdor de sus palmerales. Paseamos por la medina, que está construida con con fachadas geométricas muy llamativas hechas con ladrillo, y entramos en algunas de las pequeñas tiendas de artesanía local. El centro histórico tiene un ambiente tranquilo y muy fotogénico con sus calles laberínticas.Comparado con otras medinas, esta es claramente mucho más pequeña y con menos tiendas, pero tiene un encanto diferente.
+
+Merece bastante la pena subir a la terraza del [**Café Berbère**](https://maps.app.goo.gl/3x4Ls7kLhX6A19us5), desde donde hay vistas panorámicas muy bonitas del palmeral y de la ciudad.
+
+{{< recommendation >}}
+En Tozeur nos dimos el homenaje del viaje, reservando para dormir en [**Dar Tozeur**](https://maps.app.goo.gl/W8TE9VrwKKVQu7uU8) un hotel con muchísimo encanto que sin ser carísimo resulta un gran lujo. Tiene dos piscinas exteriores (una de ellas con el agua climatizada) y un hammam al que también entramos. El personal fue bastante amable con nosotros y tanto el desayuno como la cena fueron bastante buenos. Totalmente recomendable si vas a pernoctar por la zona.
 {{< /recommendation >}}
 
 ## Cañón de Mides
+
+El [**Cañón de Mides**](https://maps.app.goo.gl/hHkL4rPiUnkUE3jPA) es una de esas visitas que te recuerdan que en Túnez también hay naturaleza salvaje y no solo desierto. Se trata de una garganta profunda con paredes de roca rojiza que el agua ha tallado durante miles de años. Hay un par de miradores principales que ofrecen una vista espectacular de la caída y del río que discurre al fondo, y varios senderos permiten acercarse al borde para sentir la enorme escala del paisaje.
+
+Hay una sensación de calma y de aislamiento muy agradable, y desde allí se aprecia muy bien el contraste entre el cauce estrecho del río y las laderas áridas del cañón.
+
+Merece la pena bajar un poco desde los miradores para ver el cañón desde distintos ángulos. Si tenéis tiempo se pueden recorrer unos 5-6 kilómetros por el lecho del cañón.
 
 <center>
   {{< youtube 2spb8xmFJ_o >}}
@@ -102,13 +118,29 @@ El camino entre Tozeur y Matmata son más de 3h. Una parada intermedia interesan
 
 ## Ruinas de Sbeitla
 
-El yacimiento arqueológico de Sbeitla es impresionante. Cuenta con una superficie de más de 20 hectáreas, que equivale a que han mantenido con cierta protección los restos de lo que era más de la mitad de la antigua ciudad romana.
+El [**Yacimiento Arqueológico de Sbeitla**](https://maps.app.goo.gl/JiAphPgosN3C7sP26) es impresionante. Cuenta con una superficie de más de 20 hectáreas, ya que por suerte han mantenido con cierta protección los restos de lo que era más de la mitad de la antigua ciudad romana.
+
+Lo más destacable son las tres grandes plazas del foro con sus templos de [**Júpiter**, **Juno** y **Minerva**](https://maps.app.goo.gl/xUypUHHYuNsRKfCXA), rodeadas por naves y columnas que todavía conservan buena parte de su estructura original. También vimos el [Arco del Triunfo de Diocleciano](https://maps.app.goo.gl/JpEtMBjKn9Rkd1zx5), la [basílica](https://maps.app.goo.gl/6fe2eGQ2tGxmT3Qt7), el [mercado](https://maps.app.goo.gl/SpjygFh488cfse8y5) y unas [grandes termas](https://maps.app.goo.gl/Th1CsrUkeukvbrpw8) que ayudan a entender cómo se organizaba la vida urbana en aquella época.
+
+Un punto que nos gustó mucho son los mosaicos que quedan en algunas de las casas mejor conservadas: hay escenas de caza, figuras geométricas y motivos religiosos que hacen que la visita sea mucho más rica. La sensación general es la de un gran conjunto arqueológico que no está masificado y donde se puede pasear con tranquilidad. Dentro del yacimiento también hay un [teatro romano](https://maps.app.goo.gl/fiYGcS4HLnMvXK7Q6), pero está tan reconstruido que cuesta ver qué partes serían originales.
+
+Además del yacimiento romano, la entrada al yacimiento incluye un pequeño [museo arqueológico](https://maps.app.goo.gl/5KYuH6icByrixLiH6) que puede añadir algo más de contexto a la visita.
 
 <center>
   {{< youtube nsMjUw4r8Yk >}}
 </center>
 
 ## Kairouan
+
+Kairouan es una de las ciudades más importantes de Túnez a nivel religioso e histórico. Su gran atracción es la [**Gran Mezquita de Uqba**](https://maps.app.goo.gl/stByBS3pdkAk7kKZ6), que es uno de los monumentos islámicos más significativos de todo el Magreb. Entrar a la mezquita es una experiencia sobrecogedora por la sencillez monumental de sus patios, sus pórticos de madera tallada y el impresionante mihrab.
+
+Además de la mezquita, la medina de Kairouan es un lugar perfecto para pasear sin rumbo entre talleres de alfombras, de tejidos, puestos de especias y pequeñas tiendas de cerámica. Hay un ambiente muy auténtico y menos turístico que en la medina de Túnez, y se nota la importancia de la ciudad como centro de peregrinación.
+
+No hay que perderse el [**Mausoleo de Sidi Sahbi**](https://maps.app.goo.gl/dT6TZTwNmqqAXc7A9), conocido como la _Mezquita del Barbero_, que es un lugar de gran devoción local y tiene un patio interior muy bonito.
+
+{{< recommendation >}}
+Para comer o cenar en Kairouan, recomiendo valorar el [Restaurante **El Brija**](https://maps.app.goo.gl/az2j8b5mjVmWwWb17), que está prácticamente sobre la muralla de la medina y justo enfrente de la Gran Mezquita. Además de su inmejorable localización, que luce espectacular de noche, la carta es una buena combinación de comida típica tunecina y platos más italianos como pizzas o pastas.
+{{< /recommendation >}}
 
 <center>
   {{< youtube 6oUTjLIP5SA >}}
