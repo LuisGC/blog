@@ -60,7 +60,7 @@ I have visited **26 out of 193** countries (among those [recognized by United Na
 
 ### 2026
 
-* <span>APR</span> <p>Tunisia</p>
+* <span>APR</span> <p>[Tunisia](/blog/2026/04/tunez-norte-sur/)</p>
   - Tunis, El Jem, Matmata, Tozeur, Sbeitla & Kairouan
 * <span>MAR</span> <p>Frankfurt am Main (Germany)</p>
 * <span>JAN</span> <p>Belgium</p>
@@ -76,7 +76,7 @@ I have visited **26 out of 193** countries (among those [recognized by United Na
   - Bologna, Firenze, Lucca, Pisa, Pistoia, Cinque Terre, Castellina in Chianti, Pienza, Montepulciano, Siena, San Gimignano
 * <span>MAY</span> <p>Current London 2025 - London (United Kingdom)</p>
 * <span>MAY</span> <p>Zona Lúdica 2025 - Málaga (Spain)</p>
-* <span>ABR</span> <p>Algeria</p>
+* <span>ABR</span> <p>[Algeria](/blog/2025/04/tassili-najjer-gran-sur-argelia/)</p>
   - Argel, Tamanrasset, Ahaggar National Park, Tassili N'Ajjer NAtional Park, Djanet
 * <span>MAR</span> <p>Belgrade, Serbia</p>
 * <span>MAR</span> <p>Amsterdam (Netherlands)</p>
