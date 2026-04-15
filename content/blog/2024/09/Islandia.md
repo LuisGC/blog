@@ -1,13 +1,13 @@
 +++
 author = "LuisGC"
-title = "Islandia"
+title = "La Vuelta a Islandia en 15 días"
 date = 2024-09-15
 type = "post"
 categories = ["Travel"]
 tags = ["Personal", "Tourism"]
 status = "published"
 draft = true
-description = ""
+description = "Viaje de 15 días por Islandia, explorando cascadas espectaculares como Gullfoss y Seljalandsfoss, glaciares majestuosos en Vatnajökull, volcanes activos y la rica cultura vikinga en Reykjavik. Una aventura llena de naturaleza salvaje, aguas termales y momentos inolvidables."
 comments = true
 image = "https://picsum.photos/880/280?blur=3"
 +++
