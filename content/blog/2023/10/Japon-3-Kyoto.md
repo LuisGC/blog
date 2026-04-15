@@ -6,6 +6,7 @@ type = "post"
 categories = ["travel"]
 tags = ["personal", "tourism", "history"]
 status = "published"
+description = "Sumérgete en la esencia espiritual de Japón en Kyoto, explorando templos icónicos como Kinkaku-ji y Fushimi Inari, jardines zen serenos y barrios tradicionales como Gion. Una experiencia inolvidable de cultura, historia y belleza atemporal."
 image = "/img/2023/10/Japon-3-Kyoto.webp"
 +++
 

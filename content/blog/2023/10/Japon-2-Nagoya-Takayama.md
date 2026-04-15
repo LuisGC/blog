@@ -6,6 +6,7 @@ type = "post"
 categories = ["travel"]
 tags = ["personal", "tourism", "history"]
 status = "published"
+description = "Descubre Nagoya, la vibrante ciudad industrial con su Castillo reconstruido y el espectacular Parque Ghibli; y Takayama, una encantadora ciudad histórica en las montañas con arquitectura tradicional y mercados matutinos. Una combinación perfecta de innovación urbana y encanto rural en Japón."
 image = "/img/2023/10/Japon-2-Nagoya-Takayama.webp"
 +++
 
@@ -54,6 +55,8 @@ Volvimos al centro para pasear y cenar por los alrededores de [**Osu Kannon**](h
 {{< recommendation >}}
 El [**Hotel Jal City Nagoya Nishiki**](https://maps.app.goo.gl/LG3UuJfbGuA7sw2w7). Sólo estuvimos una noche pero nos encantó todo: la habitación, los servicios, el desayuno, la atención impecable del personal... Durante el resto del viaje siempre era la referencia con la que ibamos comparando alojamientos (y todos salían perdiendo).
 {{< /recommendation >}}
+
+## Parque Ghibli
 
 Al día siguiente, después de nuestro primer desayuno a la japonesa en el hotel, fuimos a uno de los lugares que más ganas tenía de visitar en todo el viaje: el [**Parque Ghibli**](https://ghibli-park.jp/en/). Se trata de un complejo enorme dedicado a las películas del **Studio Ghibli**, que se montó en 2022 en el parque que se hizo con motivo de la **Expo Universal 2005 de Aichi**.
 

@@ -6,6 +6,7 @@ type = "post"
 categories = ["travel"]
 tags = ["personal", "tourism", "history"]
 status = "published"
+description = "Descubre Pekín en esta guía breve, explorando sus principales monumentos históricos, mientras navegas por la cultura china con apps útiles y consejos prácticos. Una experiencia fascinante en la capital china, llena de historia, modernidad y sorpresas culturales. La guinda del pastel fue el Mundial FIBA de Baloncesto."
 image = "https://live.staticflickr.com/65535/48813003923_398aedd7ec_h.jpg"
 +++
 

@@ -6,6 +6,7 @@ type = "post"
 categories = ["travel"]
 tags = ["personal", "tourism", "history"]
 status = "published"
+description = "Explora Osaka, la bulliciosa capital culinaria de Japón con sus mercados nocturnos y Universal Studios, y Nara, donde los ciervos sagrados deambulan libres entre templos antiguos como Todai-ji. Una inmersión en la cultura, la comida y la historia de Kansai."
 image = "/img/2023/10/Japon-4-Osaka-Nara.webp"
 +++
 

@@ -6,6 +6,7 @@ type = "post"
 categories = ["Tech"]
 tags = ["event", "open-source", "technology", "culture", "personal"]
 status = "published"
+description = "Dive into the first virtual FOSDEM 2021, where the open source community adapted to the pandemic by hosting an online conference filled with talks on Tech, modern development, and FOSS projects. Despite the challenges, this free event maintained its essence of networking and learning, delivering hundreds of hours of content to a worldwide audience."
 image = "/img/2021/02/fosdem-2021.webp"
 +++
 

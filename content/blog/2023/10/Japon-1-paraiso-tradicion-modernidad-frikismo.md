@@ -6,6 +6,7 @@ type = "post"
 categories = ["travel"]
 tags = ["personal", "tourism", "history"]
 status = "published"
+description = "Embárcate en una aventura inolvidable a Japón, donde la tradición milenaria se fusiona con la modernidad vibrante y el frikismo más inesperado. Desde la planificación con un compañero de viaje hasta la logística perfecta con Japan Rail Pass y apps útiles, descubre por qué este viaje de 26 días en otoño es un paraíso para los amantes de la cultura nipona."
 image = "/img/2023/10/Japon-1-paraiso-tradicion-modernidad-frikismo.webp"
 +++
 
