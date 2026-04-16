@@ -9,7 +9,7 @@ status = "published"
 draft = true
 description = ""
 comments = true
-image = "/img/2024/09/02/Islandia-1-Keflavik-Krysuvik-Natthagi-Skogafoss.jpg"
+image = "/img/2024/09/02/Islandia-1-Keflavik-Krysuvik-Natthagi-Skogafoss.webp"
 +++
 
 Llegamos ya de noche al **Aeropuerto Internacional de Keflavik**, el punto de entrada principal a Islandia. Después de un largo vuelo, el contraste con el paisaje islandés fue inmediato: un terreno volcánico árido y ventoso nos dio la bienvenida. Al aproximarnos al aeropuerto de noche pudimos ver sin problemas el volcán **Geldingadalir** aún en erupción, culpable de que varias carreteras cercanas a **Grindavik** y el famoso **Blue Lagoon** estuvieran cortadas durante casi todo nuestro viaje.
@@ -66,7 +66,7 @@ Finalmente llegamos al plato fuerte de la jornada, la cascada de **Skógafoss**,
 
 {{< image classes="image lateral" src="/img/2024/09/02/Islandia-1-Skogafoss.jpg" title="Viendo la gran catarata de Skógafoss desde uno de los miradores habilitados en la parte superior" >}}
 
-En un libro del siglo XIII se cuenta que un colono llamado Þrasi escondió un cofre con oro debajo de Skógafoss. Al cabo del tiempo un extremo del cofre empezó a verse a través de la cascada, y varios hombres de Skógar intentaron recuperarlo. Engancharon una cuerda a un aro de hierro en el lateral del cofre y tiraron con mucha fuerza, pero el aro se rompió y no lo consiguieron. Ese mismo aro estuvo durante siglos en la puerta de la Iglesia de Skógar, y ahora se encuentra en un museo de la zona. El siguiente verso recuerda desde entonces esta leyenda:
+En un libro del siglo XIII se cuenta que un colono llamado _Þrasi_ escondió un cofre con oro debajo de Skógafoss. Al cabo del tiempo un extremo del cofre empezó a verse a través de la cascada, y varios hombres de **Skógar** intentaron recuperarlo. Engancharon una cuerda a un aro de hierro en el lateral del cofre y tiraron con mucha fuerza, pero el aro se rompió y no lo consiguieron. Ese mismo aro estuvo durante siglos en la puerta de la Iglesia de Skógar, y ahora se encuentra en un museo de la zona. El siguiente verso recuerda desde entonces esta leyenda:
 
 <blockquote>
 <p>The chest in Þrasi's secret lair<br />
