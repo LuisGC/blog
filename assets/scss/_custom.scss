@@ -19,6 +19,10 @@ blockquote{
   min-height: 70px;
 }
 
+blockquote p{
+  margin-left: 40px;
+}
+
 blockquote.twitter-tweet{
   background: transparent url(../img/blog/logo_twitter.png) no-repeat left top;
   background-size: 64px 46px;
