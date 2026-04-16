@@ -7,16 +7,34 @@ categories = ["Travel"]
 tags = ["Personal", "Tourism"]
 status = "published"
 draft = true
-description = "Viaje de 15 días por Islandia, explorando cascadas espectaculares como Gullfoss y Seljalandsfoss, glaciares majestuosos en Vatnajökull, volcanes activos y la rica cultura vikinga en Reykjavik. Una aventura llena de naturaleza salvaje, aguas termales y momentos inolvidables."
+description = "Viaje de 15 días por Islandia, explorando cascadas espectaculares como Gullfoss y Seljalandsfoss, glaciares majestuosos en Vatnajökull, valles espectaculares como Thórsmörk, volcanes activos y la rica cultura vikinga en Reykjavik. Una aventura llena de naturaleza salvaje, aguas termales y momentos inolvidables."
 comments = true
 image = "https://picsum.photos/880/280?blur=3"
 +++
 
-## Día 1: Keflavik
+Llegamos ya de noche al **Aeropuerto Internacional de Keflavik**, el punto de entrada principal a Islandia. Después de un vuelo largo, el contraste con el paisaje islandés fue inmediato: un terreno volcánico árido y ventoso nos dio la bienvenida. Al aproximarnos al aeropuerto pudimos ver sin problemas el volcán **Geldingadalir** en erupción, que provocaría que varias carreteras cercanas a **Grindavik** y el famoso **Blue Lagoon** estuvieran cortadas durante casi todo nuestro viaje.
 
-Llegamos al aeropuerto internacional de Keflavik, el punto de entrada principal a Islandia. Después de un vuelo largo, el contraste con el paisaje islandés fue inmediato: un terreno volcánico árido y ventoso nos dio la bienvenida. Nos dirigimos a Reykjavik, la capital, donde comenzamos a adaptarnos al clima fresco y a la luz eterna del verano nórdico.
+Era bastante tarde por lo que habíamos reservado [un hotel cercano al aeropuerto](https://maps.app.goo.gl/BT2Yhvx2vNBoygdU6) al que podíamos llegar rápido en taxi para descansar y que nos permitiría al día siguiente ir andando a primera hora de la mañana hasta el lugar de alquiler de la furgoneta camperizada.
 
-En Keflavik, aprovechamos para visitar algunas tiendas duty-free y descansar un poco antes de emprender el viaje. La sensación de estar en una isla remota, rodeada por el Atlántico Norte, era palpable. Este primer día sirvió para aclimatarnos y prepararnos para las aventuras que vendrían en los días siguientes.
+Por referencias de blogs y de otros amigos que habían hecho viajes parecidos, al final escogimos alquilar en [**KuKu Campervan**](https://maps.app.goo.gl/SrJDG4VQmX7T6Grm6). Alquilamos dos diferentes, una de [tipo B](https://www.kukucampers.is/campers/b-campervan) para los primeros 11 días y otra de [tipo E](https://www.kukucampers.is/campers/e-campervan) (con tracción a las cuatro ruedas) para los últimos días. No cogimos la 4x4 durante todo el viaje porque el precio se disparaba, y en realidad sólo pretendíamos entrar en carreteras complicadas (lo que allí llaman "tipo F") durante esos días. Creo que fue un acierto, aunque debes invertir el tiempo en el cambio de vehículo.
+
+En general recomiendo KuKu Campervans. Ambos vehículos estaban bien (el segundo algo machacado, pero eso siempre puede pasarte al alquilar), no tuvimos problemas y nos trataron bastante bien. En el propio local hay una estantería donde la gente va dejando lo que no ha consumido desde comida a latas de gas para la cocina. Es bastante interesante contar con ello antes de ir al primer supermercado a hacer algo de compra para llenar la nevera y la despensa.
+
+Nuestro plan tuvo que ser improvisado constantemente debido a las inclemencias meteorológicas. Finalmente fue el siguiente:
+
+* Día 2: Krýsuvík, Nátthagi Valley, Urriðafoss, Ægissíðufoss, Skógafoss
+* Día 3: Thórsmörk, Valahnúkur, Stakkholtsgjá, Seljalandsfoss, Kvernufoss
+* Día 4: Reynisdrangar, Yoda Cave, Gönguleið um Eldhraun, Fjaðrárgljúfur, Kirkjugólf, Svartifoss
+* Día 5: Skaftafell, Fjallsárlón, Jokulsárlón
+* Día 6: Nykurhylsfoss, Seydisfjordur, Hengifoss, Vok Baths
+* Día 7: Rjúkandafoss, Stuðlagil, Dettifoss
+* Día 8: Húsavik, Hverir, Leirhnjukur
+* Día 9: Barnafoss, Reykholt, Reykjavík
+* Día 10: Reykjavík, Blue Lagoon
+* Día 11: Thingvellir National Park, Geysir, Gullfoss
+* Día 12: Landmannalaugar
+* Día 13: Landmannalaugar, Reynisdrangar
+* Día 14: Reykjavík: Whale Watching, Saga Museum
 
 ## Día 2: Krýsuvík, Nátthagi Valley, Urriðafoss, Ægissíðufoss, Skógafoss
 
