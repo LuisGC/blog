@@ -142,6 +142,18 @@ Desde San Gimignano una parte del grupo nos fuimos a visitar la [**Fattoria Pogg
 
 ## Florencia
 
+Y qué decir sobre Florencia, es una ciudad que no necesita presentación. Es el lugar de nacimiento del Renacimiento, y eso se nota en cada rincón de la ciudad. El centro histórico de Florencia es Patrimonio de la Humanidad por la UNESCO, y es fácil entender por qué. Sólo hay que subir hasta la _Piazzale Michelangelo_ para disfrutar de unas vistas panorámicas de la ciudad y ver la cantidad de monumentos y edificios históricos que tiene.
+
+En la _Piazza del Duomo_ se encuentran la _Cattedrale di Santa Maria del Fiore_, el _Battistero di San Giovanni_ y el _Campanile di Giotto_. Me quedó pendiente entrar a la catedral y subir a su cúpula, no pude hacerlo por falta de tiempo. No me preocupa demasiado, porque así tengo un pretexto para volver.
+
+En la _Piazza della Signoria_ se encuentran el _Palazzo Vecchio_, la _Loggia dei Lanzi_ y la _Fontana di Nettuno_. Junto a ella se encuentra también la _Galleria degli Uffizi_, que es uno de los museos más importantes del mundo, con una colección impresionante de arte renacentista. No estaba en los planes iniciales pero al final sí que pude entrar para disfrutar de las obras maestras de artistas como **Leonardo da Vinci**, **Michelangelo**, **Raffaello** y **Sandro Botticelli**, entre muchísimos otros.
+
+Otro sitio que nos gustó mucho fue el _Palazzo Pitti_, un palacio renacentista que alberga varias galerías de arte y un museo de moda. El palacio también tiene unos jardines impresionantes, los _Giardini di Boboli_, que son un lugar perfecto para pasear y disfrutar de las vistas de la ciudad.
+
+Y por supuesto, no podemos olvidar el _Ponte Vecchio_, un puente medieval que cruza el río Arno y que está lleno de tiendas de joyería. El paseo desde el cercano _Ponte Santa Trinita_ hasta el _Ponte Vecchio_ por el _Borgo San Iacopo_ es uno de los más bonitos de la ciudad, con unas vistas impresionantes del río y de los edificios que lo rodean.
+
+Como pasamos varios días y noches en Florencia, pudimos disfrutar de sus calles tanto de día como de noche, y la verdad es que tiene un encanto especial. Otro sitio más que no me importará repetir en cualquier escapada de fin de semana.
+
 <center>
   {{< youtube wX9CrxYoPSw >}}
 </center>
