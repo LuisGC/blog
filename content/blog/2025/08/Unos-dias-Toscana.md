@@ -36,6 +36,14 @@ Me quedé con ganas de ver más cosas. No descarto volver en cualquier escapada 
 
 ## Lucca
 
+**Lucca** fue una de las pequeñas joyas que visitamos durante nuestro recorrido. Tiene un centro medieval muy bien conservado, con una muralla que lo rodea completamente y que se puede recorrer a pie o en bicicleta. Nosotros no dimos por la vuelta completa a la muralla, pero sí pateamos bastante por el centro, visitando la pintoresca _Piazza dell'Anfiteatro_, la _Chiesa di San Michelle in Foro_, el _Duomo di San Martino_ y la _Basilica di San Frediano_.
+
+Si visitáis Lucca, no dejéis de subir a la [_Torre Guinigi_](https://maps.app.goo.gl/sydw5CduXHaHqd9o8), una torre del siglo XIV que es famosa por tener un jardín en su parte superior, con varios árboles que le dan un aspecto muy peculiar. Desde allí se pueden disfrutar de unas vistas impresionantes de la ciudad y sus alrededores.
+
+{{< recommendation >}}
+bicheando las recomendaciones en Google Maps fuimos a comer a la [**Osteria del Neni**](https://maps.app.goo.gl/U6MwatCnzBa7SRKD6), un restaurante con una decoración muy original y una carta con platos típicos de la región. Probamos unos _Coccoli_, unas bolas de masa de pan fritas que se suelen rellenar con ingredientes como jamón, queso o verduras, y estaban deliciosos. También pedimos unos _tagliatelle al ragú_ de cordero, que estaban muy sabrosos, y para terminar un tiramisú casero que estaba espectacular.
+{{< /recommendation >}}
+
 <center>
   {{< youtube C6T5h_Fza6M >}}
 </center>
