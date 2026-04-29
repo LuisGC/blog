@@ -28,7 +28,7 @@ En su época de mayor esplendor Bolonia llegó a tener hasta 180 torres, aunque 
 
 Después del paseo pudimos comer cerca del centro, así que aprovechamos para probar la mundialmente famosa _salsa Boloñesa_ con unos tagliatelle, algo de mortadela italiana (muy típico de la región) y nuestro primer _tiramisú_ del viaje (lo pedimos prácticamente en todas las comidas/cenas para comparar).
 
-Me quedé con ganas de ver más cosas. No descarto volver en cualquier escapada de fin de semana.
+Me quedé con ganas de ver y comer más cosas. No descarto volver en cualquier escapada de fin de semana.
 
 <center>
   {{< youtube w-mvLGcXXpk >}}
@@ -50,9 +50,21 @@ bicheando las recomendaciones en Google Maps fuimos a comer a la [**Osteria del 
 
 ## Pisa
 
+En **Pisa** también hicimos una parada relativamente corta, y totalmente típica. Visitamos la famosa _Piazza dei Miracoli_, donde se encuentran la _Catredrale di Pisa_, el _Battisterio di San Giovanni_ y, por supuesto, la _Torre di Pisa_. La torre es uno de los monumentos más reconocibles del mundo debido a su inclinación, que se debe a un error en su construcción sobre un terreno inestable. A día de hoy la torre sigue aguantando para disfrute de miles de turistas que cada año se hacen allí la típica foto intentando sostenerla con las manos (o cosas mucho más imaginativas, no siempre para todos los públicos).
+
+Un poco fuera del circuito más mainstream, nos dimos una vuelta por el centro de Pisa, que también tiene su encanto, con calles estrechas y edificios históricos. Visitamos entre otras la _Piazza dei Cavalieri_, que es una plaza histórica que alberga varios edificios importantes, como el _Palazzo della Carovana_ y la _Chiesa di Santo Stefano dei Cavalieri_.
+
 <center>
   {{< youtube CE8pfYF9J90 >}}
 </center>
+
+## Pistoia
+
+Hicimos un par de noches en Pistoia, y la verdad es que me gustó bastante. No pudimos visitar casi nada porque solíamos llegar ya con todo cerrado pero con los paseos antes y después de cenar pudimos conocer un poco el centro y la verdad es que me pareció una ciudad con mucho encanto, con un centro histórico muy bien conservado y con una gran cantidad de iglesias y edificios históricos. La _Piazza del Duomo_ es el corazón de la ciudad, donde se encuentran la _Cattedrale di San Zeno_, el _Battistero di San Giovanni in Corte_ y el _Campanile di San Zeno_. Esta plaza nos pareció espectacular, con una arquitectura impresionante y un ambiente muy agradable.
+
+{{< recommendation >}}
+Muy cerca se encuentra también la _Piazza della Sala_, que es una plaza muy animada con muchos bares y restaurantes, ideal para tomar algo por la noche. Probamos varios pero si tuviera que recomendar uno me quedaría con el [**Ristorante Voronoi**](https://maps.app.goo.gl/qgv7Mvem4gXL8BC26), que nos preparó uno de los mejores tiramisús del viaje, no sólo por sabor sino porque además te lo terminan de preparar en la mesa delante tuya, lo que lo hace aún más especial.
+{{< /recommendation >}}
 
 ## Cinque Terre
 
