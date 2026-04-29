@@ -68,26 +68,52 @@ Muy cerca se encuentra también la _Piazza della Sala_, que es una plaza muy ani
 
 ## Cinque Terre
 
+Visitar esta zona era uno de los puntos fuertes del viaje, especialmente porque nos daban la logística basante resuelta y el tiempo en principio acompañaba. Al final resultó que hizo demasiado calor, lo que hizo que la ruta en barco fuera un poco agobiante, pero aún así disfrutamos mucho de las vistas y del paseo por el mar. La ruta en barco desde **La Spezia** es una de las mejores formas de disfrutar de los paisajes de las **Cinque Terre**, ya que permite ver los cinco pueblos desde una perspectiva diferente y apreciar la belleza de la costa.
+
+El barco va haciendo parada en todos los pueblos, pero nosotros no nos bajamos hasta el último, **Monterosso al Mare**, que es el más grande de los cinco y el que tiene la playa más amplia. En Monterosso al Mare pudimos pasear por sus calles estrechas y disfrutar de su ambiente. Nos hizo gracia que una de las recomendaciones para comer fuera la [Taverna Galin](https://maps.app.goo.gl/ff5RtJpCMas7T6Ws6), que se llama igual que un restaurante de mi pueblo, así que comimos allí y la verdad es que no estuvo nada mal, aunque el tiramisú no fue de los mejores del viaje.
+
+La mayor parte de la playa es privada, y hay que pagar para entrar. Es un modelo curioso que al menos a nosotros nos choca bastante acostumbrados al concepto de playas públicas que tenemos en España. Junto a la _Statua del Gigante_ hay un trozo de playa pública que por supuesto estaba abarrotado, pero aún así pudimos darnos un baño para refrescarnos un poco.
+
+Desde la estación de tren de Monterosso cogimos un tren que nos llevó de vuelta a La Spezia, y desde allí nos dirigimos a la siguiente parada del viaje, la región de Chianti.
+
 <center>
   {{< youtube WGeej8bYwjE >}}
 </center>
 
-## Región de Chianti
+## Castellina in Chianti
+
+El primer pueblo que visitamos en la región de **Chianti** fue **Castellina in Chianti**, un pequeño pueblo medieval situado en lo alto de una colina, rodeado de viñedos y olivares. El centro del pueblo es muy pintoresco, con calles estrechas y empedradas, y una plaza central donde se encuentra la _Chiesa di San Salvatore_. Desde el mirador de la plaza se pueden disfrutar de unas vistas impresionantes de los alrededores.
+
+Uno de los sitios más pintorescos de Castellina in Chianti es el _Via delle Volte_, un pasaje cubierto que transcurre en paralelo a la calle principal cuya construcción se remonta al siglo XIII. Es un lugar muy fotogénico y un punto de referencia para los visitantes del pueblo.
+
+{{< recommendation >}}
+En Castellina in Chianti hay varias enotecas y bodegas que venden los vinos de la región. Comparé mínimamente precios entre varias de ellas y finalmente por su trato y amabilidad compré varias botellas en [**Pepe in Bottega**](https://maps.app.goo.gl/4NwWjcHc2hXvjqRK9), que me mandó los vinos por correo a casa sin ningún problema.
+{{< /recommendation >}}
+
+## Pienza
+
+La siguiente parada fue en el pueblo de **Pienza**, que es una joya del Renacimiento italiano. El centro histórico de Pienza es Patrimonio de la Humanidad por la UNESCO, y es fácil entender por qué. La plaza central, la _Piazza Pio II_, tiene una arquitectura impresionante y un ambiente muy agradable. En la plaza se encuentran varios edificios importantes, como el _Duomo di Pienza_, el _Palazzo Piccolomini_ y el _Palazzo Borgia_.
+
+En Pienza comimos también muy bien en el [Restaurante _Beccofino_](https://maps.app.goo.gl/cmhJjABJEimoiWz99), que se encuentra justo al lado de la plaza central. Probamos varios platos típicos de la región, como la _ribollita_ (un guiso de verduras) y el _pici_ (un tipo de pasta casera) _cacio e pepe_ (una salsa a base de mucho queso y mucha pimienta).
+
+## Montepulciano
+
+La última parada en esta región fue en **Montepulciano**, un pueblo medieval situado en lo alto de una colina, de nuevo rodeado de viñedos y olivares. El centro del pueblo es muy pintoresco y está muy bien conservado. En la _Piazza Grande_ se encuentran varios edificios importantes, como el _Duomo di Montepulciano_, el _Palazzo Comunale_ y el _Palazzo Tarugi_. Desde allí podemos caminar cuesta arriba, para llegar a la _Fortezza Medicea di Montepulciano_, una fortaleza del siglo XVI que ofrece unas vistas impresionantes de los alrededores, o cuesta abajo para seguir callejeando y disfrutando del ambiente del pueblo.
 
 <center>
   {{< youtube FpJz7F70xxs >}}
-</center>
-
-## San Gimignano
-
-<center>
-  {{< youtube ImKUV5IUq1w >}}
 </center>
 
 ## Siena
 
 <center>
   {{< youtube fD_SiLTjslg >}}
+</center>
+
+## San Gimignano
+
+<center>
+  {{< youtube ImKUV5IUq1w >}}
 </center>
 
 ## Florencia
