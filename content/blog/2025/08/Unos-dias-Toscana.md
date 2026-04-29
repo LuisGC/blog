@@ -106,6 +106,20 @@ La última parada en esta región fue en **Montepulciano**, un pueblo medieval s
 
 ## Siena
 
+Sin duda, la sorpresa positiva del viaje fue **Siena**. Tenía grandes expectativas, pero las superó y me encantó. El centro histórico de Siena es Patrimonio de la Humanidad por la UNESCO, y es fácil entender por qué. En su plaza principal, la _Piazza del Campo_, se encuentran varios edificios importantes, como el _Palazzo Pubblico_ y la _Torre del Mangia_. Es muy diferente a cualquier otra plaza que hayas visto, esto se debe a que está diseñada y se usa como circuito de carreras de caballos durante el [**Palio**](https://es.wikipedia.org/wiki/Palio_de_Siena).
+
+El Palio es una carrera de caballos que se celebra dos veces al año, el 2 de julio y el 16 de agosto, en la que compiten los representantes de las 17 _contrade_ (barrios) de Siena. Es un evento muy importante para los habitantes de la ciudad, y durante los días previos a la carrera se pueden ver desfiles, ensayos y otras actividades relacionadas con el Palio. Cada barrio lucía orgullosamente los colores y los símbolos de su contrada en todos los edificios, desde banderas hasta la forma y decoración de puertas, fachadas, farolas, ...
+
+Justo el día anterior a nuestra llegada (de hecho, hubo que alterar el plan del cirtuito para evitarlo por los precios) se celebró el Palio, así que pudimos ver un poco del ambiente festivo que se vive en la ciudad durante esos días. La contrada ganadora (**Valdimontone**, valle del carnero) estuvo desfilando día y noche por la ciudad, y se podían ver banderas y símbolos de la contrade por todas partes. Creo que Siena me habría gustado igualmente pero vivir el ambiente del Palio le dio un toque especial a la visita.
+
+Para que os hagáis una idea del nivel de locura que se vive durante el Palio, [la cantante **Madonna** alquiló toda una planta de uno de los Palazzos que rodean la plaza para poder celebrar su cumpleaños](https://www.cadena100.es/musica/noticias/madonna-celebra-67o-cumpleanos-historico-palio-siena-suenos-realidad-20250821_138790.html) allí durante este Palio de Agosto de 2025. Desde las ventanas del _Palazzo Pannocchieschi d'Elci_ ella y sus invitados tuvieron vistas privilegiadas de la línea de salida de la competición.
+
+En la misma Piazza del Campo se puede acceder al [_Palazzo Pubblico_](https://maps.app.goo.gl/XyqJhtff3sGLHRUp8), que además de ser el ayuntamiento de la ciudad también alberga el **Museo Civico**, donde se pueden ver muchísimas obras de arte, entre ellas los frescos de **Ambrogio Lorenzetti** que representan entre otras cosas el ["Buen Gobierno"](https://museocivico.comune.siena.it/opere/allegoria-del-buon-governo) y el ["Mal Gobierno"](https://museocivico.comune.siena.it/opere/allegoria-del-cattivo-governo), que son una crítica social y política de la época.
+
+{{< recommendation >}}
+También visitamos la _Cattedrale di Siena_, que se ha convertido en mi catedral favorita de todas las que he visitado. Es una obra maestra del arte gótico italiano, con una fachada impresionante y un interior decorado con mármoles de diferentes colores, frescos y esculturas. Todo en esta catedral, desde la fachada, tejado, las paredes, y hasta los suelos, son absolutas obras de arte. La catedral también alberga la impresionante [_Biblioteca Piccolomini_](https://es.wikipedia.org/wiki/Biblioteca_Piccolomini), que es una sala decorada con unos frescos increíbles que representan la vida de Papa Pío II, y que contiene una colección alucinante de manuscritos.
+{{< /recommendation >}}
+
 <center>
   {{< youtube fD_SiLTjslg >}}
 </center>
