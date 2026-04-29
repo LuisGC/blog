@@ -20,6 +20,16 @@ En este viaje he vuelto a hacer un resumen en vídeo de cada una de las ciudades
 
 ## Bolonia
 
+Desde el aeropuerto, el primer lugar al que nos llevaron fue **Bolonia**. Empezamos nuestro paseo en la _Porta Galliera_ y desde allí poco a poco nos fuimos acercando al centro por la _Via dell'Independenza_. Esta vía es uno de los ejes comerciales principales de la ciudad, y ya muestra una de las características principales de Bolonia, los soportales. Se calcula que en total hay más de 40 kilómetros de soportales en Bolonia, lo que la convierte en una de las ciudades con más kilómetros de este tipo de arquitectura del mundo, lo que hace que pasear por allí pueda ser muy agradable incluso en los días de lluvia o de mucho sol.
+
+La visita a Bolonia fue muy breve, pero sí pudimos dar un pequeño paseo guiado por el centro visitando la _Piazza coperta Umberto Eco_, la _Fontanna del Nettuno_, la _Piazza Maggiore_, la _Basilica di San Petronio_, el _Palazzo del Podestà_, el _Palazzo dell'Archiginnasio_ y finalmente el símbolo de la ciudad: las famosas torres de Bolonia, la _Torre degli Asinelli_ y la _Torre Garisenda_.
+
+En su época de mayor esplendor Bolonia llegó a tener hasta 180 torres, aunque hoy en día solo quedan unas 20. La mayoría de estas torres fueron construidas por familias nobles como símbolo de su poder y riqueza, y algunas de ellas tenían funciones defensivas. La _Torre degli Asinelli_ es la más alta de las que quedan, con una altura de 97 metros, y se puede subir a ella para disfrutar de unas vistas panorámicas de la ciudad.
+
+Después del paseo pudimos comer cerca del centro, así que aprovechamos para probar la mundialmente famosa _salsa Boloñesa_ con unos tagliatelle, algo de mortadela italiana (muy típico de la región) y nuestro primer _tiramisú_ del viaje (lo pedimos prácticamente en todas las comidas/cenas para comparar).
+
+Me quedé con ganas de ver más cosas. No descarto volver en cualquier escapada de fin de semana.
+
 <center>
   {{< youtube w-mvLGcXXpk >}}
 </center>
