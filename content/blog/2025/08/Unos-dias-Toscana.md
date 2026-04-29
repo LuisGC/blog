@@ -126,6 +126,16 @@ También visitamos la _Cattedrale di Siena_, que se ha convertido en mi catedral
 
 ## San Gimignano
 
+Tras el subidón de Siena, la siguiente parada fue en **San Gimignano**, un pueblo medieval conocido por sus altísimas torres que le han valido el apodo de "_la Manhattan medieval_". En su época de mayor esplendor llegó a tener hasta 72 torres, aunque hoy en día solo quedan 14. Estas torres fueron construidas por familias nobles como símbolo de su poder y riqueza, igual que pasó en Bolonia y en tantos otros sitios. La gran diferencia es que en San Gimignano la densidad de torres es mucho mayor, lo que hace que el paisaje sea muy característico y reconocible.
+
+Además de las torres, el centro histórico de San Gimignano es muy pintoresco. Está lleno de restaurantes, tiendas y galerías de arte. Está quizá demasiado orientado al turismo, parece más un parque temático que un pueblo con vida propia.
+
+Si visitas San Gimignano, no dejes pasar la ocasión de probar el helado de la [**Gelateria Dondoli**](https://maps.app.goo.gl/1Dyn255XLMvPVKda9), que ha sido galardonada varias veces como la mejor heladería del mundo. Tienen una gran variedad de sabores, desde los clásicos hasta algunos más originales, y todos están deliciosos
+
+{{< recommendation >}}
+Desde San Gimignano una parte del grupo nos fuimos a visitar la [**Fattoria Poggio Alloro**](https://maps.app.goo.gl/unrzQckwbU1rxWHm6), una granja y bodega de vino que se encuentra a las afueras del pueblo. Allí pudimos hacer una visita guiada por los viñedos y la bodega, y luego degustar algunos de sus vinos acompañados de productos típicos de la región, como quesos y embutidos. Fue un buen complemento que nos permitió conocer un poco más sobre la producción de vino en la región de Chianti. Además, las vistas de San Gimignano desde la bodega son impresionantes, con las torres del pueblo destacando en el horizonte.
+{{< /recommendation >}}
+
 <center>
   {{< youtube ImKUV5IUq1w >}}
 </center>
