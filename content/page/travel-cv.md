@@ -409,7 +409,8 @@ var mymap = L.map('travel-cv-map').setView([20, 0], 2);
 L.tileLayer('https://api.maptiler.com/maps/outdoor-v4/{z}/{x}/{y}.png?key={key}', {
     tileSize: 512,
     zoomOffset: -1,
-    maxZoom: 5,
+    minZoom: 2,
+    maxZoom: 4,
     attribution: "\u003ca href=\"https://www.maptiler.com/copyright/\" target=\"_blank\"\u003e\u0026copy; MapTiler\u003c/a\u003e \u003ca href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\"\u003e\u0026copy; OpenStreetMap contributors\u003c/a\u003e",
     crossOrigin: true,
     key: 'm3IJ97WkQ7dWH5y47sEs'
