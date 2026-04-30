@@ -406,7 +406,7 @@ function onEachFeature(feature, layer) {
 
 var mymap = L.map('travel-cv-map').setView([20, 0], 2);
 
-L.tileLayer('https://api.maptiler.com/maps/streets-v4/{z}/{x}/{y}.png?key={key}', {
+L.tileLayer('https://api.maptiler.com/maps/outdoor-v4/{z}/{x}/{y}.png?key={key}', {
     tileSize: 512,
     zoomOffset: -1,
     maxZoom: 5,
