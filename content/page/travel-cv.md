@@ -412,7 +412,7 @@ L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
     id: 'mapbox/outdoors-v11',
     tileSize: 512,
     zoomOffset: -1,
-    accessToken: 'pk.eyJ1IjoibHVpc2djIiwiYSI6ImNpbXV3MWw5dDAwN3V2emx5YXcwemczaWUifQ.CKHjzvK39R-lz0MAZgaLJQ'
+    accessToken: 'pk.eyJ1IjoibHVpc2djIiwiYSI6ImNtb2x2bDllYjBpZWMycXI1ZjJla3k2MGQifQ.FGWWKKOKUjRKEOud0fPSAQ'
 }).addTo(mymap);
 
 L.geoJSON(features, {
