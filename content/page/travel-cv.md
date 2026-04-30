@@ -406,13 +406,13 @@ function onEachFeature(feature, layer) {
 
 var mymap = L.map('travel-cv-map').setView([20, 0], 2);
 
-L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
-    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-    maxZoom: 18,
-    id: 'mapbox/outdoors-v11',
+L.tileLayer('https://api.maptiler.com/maps/streets-v4/{z}/{x}/{y}.png?key={key}', {
     tileSize: 512,
     zoomOffset: -1,
-    accessToken: 'pk.eyJ1IjoibHVpc2djIiwiYSI6ImNtb2x2bDllYjBpZWMycXI1ZjJla3k2MGQifQ.FGWWKKOKUjRKEOud0fPSAQ'
+    maxZoom: 5,
+    attribution: "\u003ca href=\"https://www.maptiler.com/copyright/\" target=\"_blank\"\u003e\u0026copy; MapTiler\u003c/a\u003e \u003ca href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\"\u003e\u0026copy; OpenStreetMap contributors\u003c/a\u003e",
+    crossOrigin: true,
+    key: 'm3IJ97WkQ7dWH5y47sEs'
 }).addTo(mymap);
 
 L.geoJSON(features, {
