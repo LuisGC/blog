@@ -123,7 +123,7 @@ La última parada en esta región fue en **Montepulciano**, un pueblo medieval s
 
 ## Siena
 
-Sin duda, la sorpresa positiva del viaje fue **Siena**. Tenía grandes expectativas, pero las superó y me encantó. El centro histórico de Siena es Patrimonio de la Humanidad por la UNESCO, y es fácil entender por qué. En su plaza principal, la _Piazza del Campo_, se encuentran varios edificios importantes, como el _Palazzo Pubblico_ y la _Torre del Mangia_. Es muy diferente a cualquier otra plaza que hayas visto, esto se debe a que está diseñada y se usa como circuito de carreras de caballos durante el [**Palio**](https://es.wikipedia.org/wiki/Palio_de_Siena).
+Sin duda, la sorpresa positiva del viaje fue **Siena**, cuyo centro histórico de Siena es también Patrimonio de la Humanidad por la UNESCO. Tenía grandes expectativas, pero las superó y me encantó. En su plaza principal, la _Piazza del Campo_, se encuentran varios edificios importantes, como el _Palazzo Pubblico_ y la _Torre del Mangia_. Es muy diferente a cualquier otra plaza que hayas visto, esto se debe a que está diseñada y se usa como circuito de carreras de caballos durante el [**Palio**](https://es.wikipedia.org/wiki/Palio_de_Siena).
 
 El Palio es una carrera de caballos que se celebra dos veces al año, el 2 de julio y el 16 de agosto, en la que compiten los representantes de las 17 _contrade_ (barrios) de Siena. Es un evento muy importante para los habitantes de la ciudad, y durante los días previos a la carrera se pueden ver desfiles, ensayos y otras actividades relacionadas con el Palio. Cada barrio lucía orgullosamente los colores y los símbolos de su contrada en todos los edificios, desde banderas hasta la forma y decoración de puertas, fachadas, farolas, ...
 
