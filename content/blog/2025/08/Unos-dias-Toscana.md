@@ -36,12 +36,16 @@ Me quedé con ganas de ver y comer más cosas. No descarto volver en cualquier e
 
 ## Lucca
 
+{{< image classes="image lateral" src="/img/2025/08/Toscana-Lucca.jpg" title="La Torre Guinigi en Lucca, con sus árboles en la parte superior" >}}
+
 **Lucca** fue una de las pequeñas joyas que visitamos durante nuestro recorrido. Tiene un centro medieval muy bien conservado, con una muralla que lo rodea completamente y que se puede recorrer a pie o en bicicleta. Nosotros no dimos por la vuelta completa a la muralla, pero sí pateamos bastante por el centro, visitando la pintoresca _Piazza dell'Anfiteatro_, la _Chiesa di San Michelle in Foro_, el _Duomo di San Martino_ y la _Basilica di San Frediano_.
 
 Si visitáis Lucca, no dejéis de subir a la [_Torre Guinigi_](https://maps.app.goo.gl/sydw5CduXHaHqd9o8), una torre del siglo XIV que es famosa por tener un jardín en su parte superior, con varios árboles que le dan un aspecto muy peculiar. Desde allí se pueden disfrutar de unas vistas impresionantes de la ciudad y sus alrededores.
 
+Tuve la sensación de que estaba más tranquilo de lo normal. Apenas tuvimos que hacer cola para entrar en sitios como la torre, y en general se veía poca gente por las calles, lo que hizo que la visita fuera aún más agradable.
+
 {{< recommendation >}}
-bicheando las recomendaciones en Google Maps fuimos a comer a la [**Osteria del Neni**](https://maps.app.goo.gl/U6MwatCnzBa7SRKD6), un restaurante con una decoración muy original y una carta con platos típicos de la región. Probamos unos _Coccoli_, unas bolas de masa de pan fritas que se suelen rellenar con ingredientes como jamón, queso o verduras, y estaban deliciosos. También pedimos unos _tagliatelle al ragú_ de cordero, que estaban muy sabrosos, y para terminar un tiramisú casero que estaba espectacular.
+bicheando las recomendaciones en Google Maps fuimos a comer a la [**Osteria del Neni**](https://maps.app.goo.gl/U6MwatCnzBa7SRKD6), un restaurante con una decoración muy original y una carta con platos típicos de la región. Probamos unos _Coccoli_, unas bolas de masa de pan fritas que se suelen rellenar con ingredientes como jamón, queso o verduras, y estaban bastante ricos. También pedimos unos _tagliatelle al ragú_ de cordero, que tenían un sabor muy potente, y para terminar un tiramisú casero que estaba espectacular.
 {{< /recommendation >}}
 
 <center>
@@ -50,7 +54,11 @@ bicheando las recomendaciones en Google Maps fuimos a comer a la [**Osteria del 
 
 ## Pisa
 
+{{< image classes="image lateral" src="/img/2025/08/Toscana-Pisa.jpg" title="No os lo vais a creer, pero sujeté la Torre de Pisa con un dedo" >}}
+
 En **Pisa** también hicimos una parada relativamente corta, y totalmente típica. Visitamos la famosa _Piazza dei Miracoli_, donde se encuentran la _Catredrale di Pisa_, el _Battisterio di San Giovanni_ y, por supuesto, la _Torre di Pisa_. La torre es uno de los monumentos más reconocibles del mundo debido a su inclinación, que se debe a un error en su construcción sobre un terreno inestable. A día de hoy la torre sigue aguantando para disfrute de miles de turistas que cada año se hacen allí la típica foto intentando sostenerla con las manos (o cosas mucho más imaginativas, no siempre para todos los públicos).
+
+Alrededor de la Torre hay algunos senderos delimitados con cuerdas y cadenas para evitar que la gente se metiera por cualquier parte. Por un lado eso despejaba un poco el entorno de la torre, pero por otro lado también hacía que el paseo por la plaza fuera un poco agobiante, con tanta gente y tan poco espacio para moverse. Aún así, es una visita imprescindible si estás por la zona.
 
 Un poco fuera del circuito más mainstream, nos dimos una vuelta por el centro de Pisa, que también tiene su encanto, con calles estrechas y edificios históricos. Visitamos entre otras la _Piazza dei Cavalieri_, que es una plaza histórica que alberga varios edificios importantes, como el _Palazzo della Carovana_ y la _Chiesa di Santo Stefano dei Cavalieri_.
 
@@ -63,14 +71,20 @@ Un poco fuera del circuito más mainstream, nos dimos una vuelta por el centro d
 Hicimos un par de noches en Pistoia, y la verdad es que me gustó bastante. No pudimos visitar casi nada porque solíamos llegar ya con todo cerrado pero con los paseos antes y después de cenar pudimos conocer un poco el centro y la verdad es que me pareció una ciudad con mucho encanto, con un centro histórico muy bien conservado y con una gran cantidad de iglesias y edificios históricos. La _Piazza del Duomo_ es el corazón de la ciudad, donde se encuentran la _Cattedrale di San Zeno_, el _Battistero di San Giovanni in Corte_ y el _Campanile di San Zeno_. Esta plaza nos pareció espectacular, con una arquitectura impresionante y un ambiente muy agradable.
 
 {{< recommendation >}}
-Muy cerca se encuentra también la _Piazza della Sala_, que es una plaza muy animada con muchos bares y restaurantes, ideal para tomar algo por la noche. Probamos varios pero si tuviera que recomendar uno me quedaría con el [**Ristorante Voronoi**](https://maps.app.goo.gl/qgv7Mvem4gXL8BC26), que nos preparó uno de los mejores tiramisús del viaje, no sólo por sabor sino porque además te lo terminan de preparar en la mesa delante tuya, lo que lo hace aún más especial.
+Muy cerca se encuentra también la _Piazza della Sala_, que es una plaza muy animada con muchos bares y restaurantes, ideal para tomar algo por la noche. Probamos varios pero si tuviera que recomendar uno me quedaría con el [**Ristorante Voronoi**](https://maps.app.goo.gl/qgv7Mvem4gXL8BC26), que nos preparó uno de los mejores tiramisús del viaje, no sólo por sabor sino porque además te lo terminan de preparar en la mesa, lo que lo hace aún más especial.
 {{< /recommendation >}}
+
+<center>
+  {{< youtube 4_JOLdh4jLI >}}
+</center>
 
 ## Cinque Terre
 
 Visitar esta zona era uno de los puntos fuertes del viaje, especialmente porque nos daban la logística basante resuelta y el tiempo en principio acompañaba. Al final resultó que hizo demasiado calor, lo que hizo que la ruta en barco fuera un poco agobiante, pero aún así disfrutamos mucho de las vistas y del paseo por el mar. La ruta en barco desde **La Spezia** es una de las mejores formas de disfrutar de los paisajes de las **Cinque Terre**, ya que permite ver los cinco pueblos desde una perspectiva diferente y apreciar la belleza de la costa.
 
 El barco va haciendo parada en todos los pueblos, pero nosotros no nos bajamos hasta el último, **Monterosso al Mare**, que es el más grande de los cinco y el que tiene la playa más amplia. En Monterosso al Mare pudimos pasear por sus calles estrechas y disfrutar de su ambiente. Nos hizo gracia que una de las recomendaciones para comer fuera la [Taverna Galin](https://maps.app.goo.gl/ff5RtJpCMas7T6Ws6), que se llama igual que un restaurante de mi pueblo, así que comimos allí y la verdad es que no estuvo nada mal, aunque el tiramisú no fue de los mejores del viaje.
+
+{{< image classes="image central" src="/img/2025/08/Toscana-Cinque-Terre.jpg" title="La abarrotada playa del Gigante, en Monterosso al Mare" >}}
 
 La mayor parte de la playa es privada, y hay que pagar para entrar. Es un modelo curioso que al menos a nosotros nos choca bastante acostumbrados al concepto de playas públicas que tenemos en España. Junto a la _Statua del Gigante_ hay un trozo de playa pública que por supuesto estaba abarrotado, pero aún así pudimos darnos un baño para refrescarnos un poco.
 
@@ -90,11 +104,15 @@ Uno de los sitios más pintorescos de Castellina in Chianti es el _Via delle Vol
 En Castellina in Chianti hay varias enotecas y bodegas que venden los vinos de la región. Comparé mínimamente precios entre varias de ellas y finalmente por su trato y amabilidad compré varias botellas en [**Pepe in Bottega**](https://maps.app.goo.gl/4NwWjcHc2hXvjqRK9), que me mandó los vinos por correo a casa sin ningún problema.
 {{< /recommendation >}}
 
+{{< image classes="image central" src="/img/2025/08/Toscana-Castellina-in-Chianti.jpg" title="La Chiesa di San Salvatore, en Castellina in Chianti" >}}
+
 ## Pienza
 
 La siguiente parada fue en el pueblo de **Pienza**, que es una joya del Renacimiento italiano. El centro histórico de Pienza es Patrimonio de la Humanidad por la UNESCO, y es fácil entender por qué. La plaza central, la _Piazza Pio II_, tiene una arquitectura impresionante y un ambiente muy agradable. En la plaza se encuentran varios edificios importantes, como el _Duomo di Pienza_, el _Palazzo Piccolomini_ y el _Palazzo Borgia_.
 
 En Pienza comimos también muy bien en el [Restaurante _Beccofino_](https://maps.app.goo.gl/cmhJjABJEimoiWz99), que se encuentra justo al lado de la plaza central. Probamos varios platos típicos de la región, como la _ribollita_ (un guiso de verduras) y el _pici_ (un tipo de pasta casera) _cacio e pepe_ (una salsa a base de mucho queso y mucha pimienta).
+
+{{< image classes="image central" src="/img/2025/08/Toscana-Pienza.jpg" title="¿Baco? intentando salir de la preciosa bodega subterránea del Restaurante Beccofino" >}}
 
 ## Montepulciano
 
@@ -110,11 +128,15 @@ Sin duda, la sorpresa positiva del viaje fue **Siena**. Tenía grandes expectati
 
 El Palio es una carrera de caballos que se celebra dos veces al año, el 2 de julio y el 16 de agosto, en la que compiten los representantes de las 17 _contrade_ (barrios) de Siena. Es un evento muy importante para los habitantes de la ciudad, y durante los días previos a la carrera se pueden ver desfiles, ensayos y otras actividades relacionadas con el Palio. Cada barrio lucía orgullosamente los colores y los símbolos de su contrada en todos los edificios, desde banderas hasta la forma y decoración de puertas, fachadas, farolas, ...
 
+{{< image classes="image central" src="/img/2025/08/Toscana-Siena-Catedral.jpg" title="Aficionados a la contrada de Valdimontone celebrando en la puerta de la Catedral de Siena" >}}
+
 Justo el día anterior a nuestra llegada (de hecho, hubo que alterar el plan del cirtuito para evitarlo por los precios) se celebró el Palio, así que pudimos ver un poco del ambiente festivo que se vive en la ciudad durante esos días. La contrada ganadora (**Valdimontone**, valle del carnero) estuvo desfilando día y noche por la ciudad, y se podían ver banderas y símbolos de la contrade por todas partes. Creo que Siena me habría gustado igualmente pero vivir el ambiente del Palio le dio un toque especial a la visita.
 
 Para que os hagáis una idea del nivel de locura que se vive durante el Palio, [la cantante **Madonna** alquiló toda una planta de uno de los Palazzos que rodean la plaza para poder celebrar su cumpleaños](https://www.cadena100.es/musica/noticias/madonna-celebra-67o-cumpleanos-historico-palio-siena-suenos-realidad-20250821_138790.html) allí durante este Palio de Agosto de 2025. Desde las ventanas del _Palazzo Pannocchieschi d'Elci_ ella y sus invitados tuvieron vistas privilegiadas de la línea de salida de la competición.
 
 En la misma Piazza del Campo se puede acceder al [_Palazzo Pubblico_](https://maps.app.goo.gl/XyqJhtff3sGLHRUp8), que además de ser el ayuntamiento de la ciudad también alberga el **Museo Civico**, donde se pueden ver muchísimas obras de arte, entre ellas los frescos de **Ambrogio Lorenzetti** que representan entre otras cosas el ["Buen Gobierno"](https://museocivico.comune.siena.it/opere/allegoria-del-buon-governo) y el ["Mal Gobierno"](https://museocivico.comune.siena.it/opere/allegoria-del-cattivo-governo), que son una crítica social y política de la época.
+
+{{< image classes="image central" src="/img/2025/08/Toscana-Siena-Biblioteca-Piccolomini.jpg" title="Un rincón de la increíble Biblioteca Piccolomini, en la Catedral de Siena" >}}
 
 {{< recommendation >}}
 También visitamos la _Cattedrale di Siena_, que se ha convertido en mi catedral favorita de todas las que he visitado. Es una obra maestra del arte gótico italiano, con una fachada impresionante y un interior decorado con mármoles de diferentes colores, frescos y esculturas. Todo en esta catedral, desde la fachada, tejado, las paredes, y hasta los suelos, son absolutas obras de arte. La catedral también alberga la impresionante [_Biblioteca Piccolomini_](https://es.wikipedia.org/wiki/Biblioteca_Piccolomini), que es una sala decorada con unos frescos increíbles que representan la vida de Papa Pío II, y que contiene una colección alucinante de manuscritos.
@@ -127,6 +149,8 @@ También visitamos la _Cattedrale di Siena_, que se ha convertido en mi catedral
 ## San Gimignano
 
 Tras el subidón de Siena, la siguiente parada fue en **San Gimignano**, un pueblo medieval conocido por sus altísimas torres que le han valido el apodo de "_la Manhattan medieval_". En su época de mayor esplendor llegó a tener hasta 72 torres, aunque hoy en día solo quedan 14. Estas torres fueron construidas por familias nobles como símbolo de su poder y riqueza, igual que pasó en Bolonia y en tantos otros sitios. La gran diferencia es que en San Gimignano la densidad de torres es mucho mayor, lo que hace que el paisaje sea muy característico y reconocible.
+
+{{< image classes="image central" src="/img/2025/08/Toscana-San-Gimignano.jpg" title="El skyline de San Gimignano desde el Parco della Rocca" >}}
 
 Además de las torres, el centro histórico de San Gimignano es muy pintoresco. Está lleno de restaurantes, tiendas y galerías de arte. Está quizá demasiado orientado al turismo, parece más un parque temático que un pueblo con vida propia.
 
@@ -144,11 +168,17 @@ Desde San Gimignano una parte del grupo nos fuimos a visitar la [**Fattoria Pogg
 
 Y qué decir sobre Florencia, es una ciudad que no necesita presentación. Es el lugar de nacimiento del Renacimiento, y eso se nota en cada rincón de la ciudad. El centro histórico de Florencia es Patrimonio de la Humanidad por la UNESCO, y es fácil entender por qué. Sólo hay que subir hasta la _Piazzale Michelangelo_ para disfrutar de unas vistas panorámicas de la ciudad y ver la cantidad de monumentos y edificios históricos que tiene.
 
+{{< image classes="image central" src="/img/2025/08/Toscana-Florencia-Piazzale-Michelangelo.jpg" title="Una vista panorámica de Florencia desde el Piazzale Michelangelo" >}}
+
 En la _Piazza del Duomo_ se encuentran la _Cattedrale di Santa Maria del Fiore_, el _Battistero di San Giovanni_ y el _Campanile di Giotto_. Me quedó pendiente entrar a la catedral y subir a su cúpula, no pude hacerlo por falta de tiempo. No me preocupa demasiado, porque así tengo un pretexto para volver.
+
+{{< image classes="image central" src="/img/2025/08/Toscana-Florencia-Duomo.jpg" title="La parte trasera del Duomo de Florencia, casi tan espectacular como la parte frontal" >}}
 
 En la _Piazza della Signoria_ se encuentran el _Palazzo Vecchio_, la _Loggia dei Lanzi_ y la _Fontana di Nettuno_. Junto a ella se encuentra también la _Galleria degli Uffizi_, que es uno de los museos más importantes del mundo, con una colección impresionante de arte renacentista. No estaba en los planes iniciales pero al final sí que pude entrar para disfrutar de las obras maestras de artistas como **Leonardo da Vinci**, **Michelangelo**, **Raffaello** y **Sandro Botticelli**, entre muchísimos otros.
 
 Otro sitio que nos gustó mucho fue el _Palazzo Pitti_, un palacio renacentista que alberga varias galerías de arte y un museo de moda. El palacio también tiene unos jardines impresionantes, los _Giardini di Boboli_, que son un lugar perfecto para pasear y disfrutar de las vistas de la ciudad.
+
+{{< image classes="image central" src="/img/2025/08/Toscana-Florencia-Palazzo-Pitti.jpg" title="Uno de los ligeramente sobrecargados salones del Palazzo Pitti, en Florencia" >}}
 
 Y por supuesto, no podemos olvidar el _Ponte Vecchio_, un puente medieval que cruza el río Arno y que está lleno de tiendas de joyería. El paseo desde el cercano _Ponte Santa Trinita_ hasta el _Ponte Vecchio_ por el _Borgo San Iacopo_ es uno de los más bonitos de la ciudad, con unas vistas impresionantes del río y de los edificios que lo rodean.
 
