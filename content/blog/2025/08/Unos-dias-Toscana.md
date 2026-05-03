@@ -6,8 +6,7 @@ type = "post"
 categories = ["Travel"]
 tags = ["Personal", "Tourism", "History"]
 status = "published"
-draft = true
-description = ""
+description = "Un resumen de mi viaje por la Toscana, con recomendaciones de sitios que visitar y restaurantes donde comer: Bolonia, Lucca, Pisa, Pistoia, Cinque Terre, Chianti, San Gimignano, Siena y Florencia."
 comments = true
 image = "/img/2025/08/Unos-dias-Toscana.webp"
 +++
