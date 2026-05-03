@@ -37,7 +37,7 @@ Me quedé con ganas de ver y comer más cosas. No descarto volver en cualquier e
 
 {{< image classes="image lateral" src="/img/2025/08/Toscana-Lucca.jpg" title="La Torre Guinigi en Lucca, con sus árboles en la parte superior" >}}
 
-**Lucca** fue una de las pequeñas joyas que visitamos durante nuestro recorrido. Tiene un centro medieval muy bien conservado, con una muralla que lo rodea completamente y que se puede recorrer a pie o en bicicleta. Nosotros no dimos por la vuelta completa a la muralla, pero sí pateamos bastante por el centro, visitando la pintoresca _Piazza dell'Anfiteatro_, la _Chiesa di San Michelle in Foro_, el _Duomo di San Martino_ y la _Basilica di San Frediano_.
+**Lucca** fue una de las pequeñas joyas que visitamos durante nuestro recorrido. Tiene un centro medieval muy bien conservado, con una muralla que lo rodea completamente y que se puede recorrer a pie o en bicicleta. Nosotros no dimos por la vuelta completa a la muralla, pero sí pateamos bastante por el centro, visitando la pintoresca _Piazza dell'Anfiteatro_, la _Chiesa di San Michele in Foro_, el _Duomo di San Martino_ y la _Basilica di San Frediano_.
 
 Si visitáis Lucca, no dejéis de subir a la [_Torre Guinigi_](https://maps.app.goo.gl/sydw5CduXHaHqd9o8), una torre del siglo XIV que es famosa por tener un jardín en su parte superior, con varios árboles que le dan un aspecto muy peculiar. Desde allí se pueden disfrutar de unas vistas impresionantes de la ciudad y sus alrededores.
 
@@ -55,7 +55,7 @@ bicheando las recomendaciones en Google Maps fuimos a comer a la [**Osteria del 
 
 {{< image classes="image lateral" src="/img/2025/08/Toscana-Pisa.jpg" title="No os lo vais a creer, pero sujeté la Torre de Pisa con un dedo" >}}
 
-En **Pisa** también hicimos una parada relativamente corta, y totalmente típica. Visitamos la famosa _Piazza dei Miracoli_, donde se encuentran la _Catredrale di Pisa_, el _Battisterio di San Giovanni_ y, por supuesto, la _Torre di Pisa_. La torre es uno de los monumentos más reconocibles del mundo debido a su inclinación, que se debe a un error en su construcción sobre un terreno inestable. A día de hoy la torre sigue aguantando para disfrute de miles de turistas que cada año se hacen allí la típica foto intentando sostenerla con las manos (o cosas mucho más imaginativas, no siempre para todos los públicos).
+En **Pisa** también hicimos una parada relativamente corta, y totalmente típica. Visitamos la famosa _Piazza dei Miracoli_, donde se encuentran la _Cattedrale di Pisa_, el _Battisterio di San Giovanni_ y, por supuesto, la _Torre di Pisa_. La torre es uno de los monumentos más reconocibles del mundo debido a su inclinación, que se debe a un error en su construcción sobre un terreno inestable. A día de hoy la torre sigue aguantando para disfrute de miles de turistas que cada año se hacen allí la típica foto intentando sostenerla con las manos (o cosas mucho más imaginativas, no siempre para todos los públicos).
 
 Alrededor de la Torre hay algunos senderos delimitados con cuerdas y cadenas para evitar que la gente se metiera por cualquier parte. Por un lado eso despejaba un poco el entorno de la torre, pero por otro lado también hacía que el paseo por la plaza fuera un poco agobiante, con tanta gente y tan poco espacio para moverse. Aún así, es una visita imprescindible si estás por la zona.
 
@@ -79,7 +79,7 @@ Muy cerca se encuentra también la _Piazza della Sala_, que es una plaza muy ani
 
 ## Cinque Terre
 
-Visitar esta zona era uno de los puntos fuertes del viaje, especialmente porque nos daban la logística basante resuelta y el tiempo en principio acompañaba. Al final resultó que hizo demasiado calor, lo que hizo que la ruta en barco fuera un poco agobiante, pero aún así disfrutamos mucho de las vistas y del paseo por el mar. La ruta en barco desde **La Spezia** es una de las mejores formas de disfrutar de los paisajes de las **Cinque Terre**, ya que permite ver los cinco pueblos desde una perspectiva diferente y apreciar la belleza de la costa.
+Visitar esta zona era uno de los puntos fuertes del viaje, especialmente porque nos daban la logística bastante resuelta y el tiempo en principio acompañaba. Al final resultó que hizo demasiado calor, lo que hizo que la ruta en barco fuera un poco agobiante, pero aún así disfrutamos mucho de las vistas y del paseo por el mar. La ruta en barco desde **La Spezia** es una de las mejores formas de disfrutar de los paisajes de las **Cinque Terre**, ya que permite ver los cinco pueblos desde una perspectiva diferente y apreciar la belleza de la costa.
 
 El barco va haciendo parada en todos los pueblos, pero nosotros no nos bajamos hasta el último, **Monterosso al Mare**, que es el más grande de los cinco y el que tiene la playa más amplia. En Monterosso al Mare pudimos pasear por sus calles estrechas y disfrutar de su ambiente. Nos hizo gracia que una de las recomendaciones para comer fuera la [Taverna Galin](https://maps.app.goo.gl/ff5RtJpCMas7T6Ws6), que se llama igual que un restaurante de mi pueblo, así que comimos allí y la verdad es que no estuvo nada mal, aunque el tiramisú no fue de los mejores del viaje.
 
@@ -129,7 +129,7 @@ El Palio es una carrera de caballos que se celebra dos veces al año, el 2 de ju
 
 {{< image classes="image central" src="/img/2025/08/Toscana-Siena-Catedral.jpg" title="Aficionados a la contrada de Valdimontone celebrando en la puerta de la Catedral de Siena" >}}
 
-Justo el día anterior a nuestra llegada (de hecho, hubo que alterar el plan del cirtuito para evitarlo por los precios) se celebró el Palio, así que pudimos ver un poco del ambiente festivo que se vive en la ciudad durante esos días. La contrada ganadora (**Valdimontone**, valle del carnero) estuvo desfilando día y noche por la ciudad, y se podían ver banderas y símbolos de la contrade por todas partes. Creo que Siena me habría gustado igualmente pero vivir el ambiente del Palio le dio un toque especial a la visita.
+Justo el día anterior a nuestra llegada (de hecho, hubo que alterar el plan del circuito para evitarlo por los precios) se celebró el Palio, así que pudimos ver un poco del ambiente festivo que se vive en la ciudad durante esos días. La contrada ganadora (**Valdimontone**, valle del carnero) estuvo desfilando día y noche por la ciudad, y se podían ver banderas y símbolos de la contrade por todas partes. Creo que Siena me habría gustado igualmente pero vivir el ambiente del Palio le dio un toque especial a la visita.
 
 Para que os hagáis una idea del nivel de locura que se vive durante el Palio, [la cantante **Madonna** alquiló toda una planta de uno de los Palazzos que rodean la plaza para poder celebrar su cumpleaños](https://www.cadena100.es/musica/noticias/madonna-celebra-67o-cumpleanos-historico-palio-siena-suenos-realidad-20250821_138790.html) allí durante este Palio de Agosto de 2025. Desde las ventanas del _Palazzo Pannocchieschi d'Elci_ ella y sus invitados tuvieron vistas privilegiadas de la línea de salida de la competición.
 
