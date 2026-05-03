@@ -1,19 +1,19 @@
 ---
 author: "LuisGC"
-title: "Principales charlas"
+title: "Main public talks"
 date: "2019-10-05"
 type: "page"
 categories: ["page"]
 status: "published"
 slug: "talks"
 menu:
-    main: 
+    main:
         weight: -50
         params:
             icon: speakerphone
 comments: false
 ---
 
-Lista de las principales charlas que he dado públicamente (en orden cronológico inverso):
+List of the main public talks I have humbly given (in reverse chronological order)
 
 {{< talks-list >}}
