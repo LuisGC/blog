@@ -165,7 +165,7 @@ Desde San Gimignano una parte del grupo nos fuimos a visitar la [**Fattoria Pogg
 
 ## Florencia
 
-Y qué decir sobre Florencia, es una ciudad que no necesita presentación. Es el lugar de nacimiento del Renacimiento, y eso se nota en cada rincón de la ciudad. El centro histórico de Florencia es Patrimonio de la Humanidad por la UNESCO, y es fácil entender por qué. Sólo hay que subir hasta la _Piazzale Michelangelo_ para disfrutar de unas vistas panorámicas de la ciudad y ver la cantidad de monumentos y edificios históricos que tiene.
+Y qué decir sobre Florencia, es una ciudad que no necesita presentación. Es el lugar de nacimiento del Renacimiento, y eso se nota en cada rincón de la ciudad. Sólo hay que subir hasta la _Piazzale Michelangelo_ para disfrutar de unas vistas panorámicas de la ciudad y ver la cantidad de monumentos y edificios históricos que tiene.
 
 {{< image classes="image central" src="/img/2025/08/Toscana-Florencia-Piazzale-Michelangelo.jpg" title="Una vista panorámica de Florencia desde el Piazzale Michelangelo" >}}
 
