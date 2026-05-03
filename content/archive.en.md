@@ -1,5 +1,5 @@
 ---
-title: "Archivo"
+title: "Archives"
 layout: "archives"
 slug: "archives"
 menu:

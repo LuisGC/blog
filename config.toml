@@ -1,15 +1,25 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
 baseurl                 = "https://luiyo.net/"
-DefaultContentLanguage  = "en"
+locale                  = "es-ES"
+defaultContentLanguage  = "es"
 title                   = "Luiyología"
 theme                   = "hugo-theme-stack"
 pagination.pagerSize    = 10
 disqusShortname         = "luiyologia"
 googleAnalytics         = "G-TNNXJ2MM8L"
 pluralizeListTitles     = false
-disableLanguages        = [""]
 ignoreErrors            = ["error-remote-getjson"]
+
+[languages]
+  [languages.es]
+    label        = "Español"
+    locale       = "es-ES"
+    weight = 1
+  [languages.en]
+    label        = "English"
+    locale       = "en-US"
+    weight = 2
 
 [markup.goldmark.renderer]
   unsafe                = true
@@ -45,7 +55,7 @@ ignoreErrors            = ["error-remote-getjson"]
 
   [params.meta]
     # Sets the meta tag description
-    description         = "The Science that studies my interests and concerns"
+    description         = "La ciencia que estudia mis intereses y preocupaciones"
     # Sets the meta tag author
     author              = "Luis García Castro"
     # If you would like to add more comprehensive favicon support passed root
@@ -65,7 +75,7 @@ ignoreErrors            = ["error-remote-getjson"]
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
-    languageMenu        = false
+    languageMenu        = true
 
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.

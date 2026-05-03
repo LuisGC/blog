@@ -1,6 +1,7 @@
 +++
 author = "LuisGC"
 title = "My Year 2020 in Games"
+description = "A retrospective of my gaming behavior during 2020, including boardgames, role-playing games and video games"
 date = "2021-01-10"
 type = "post"
 categories = ["Games"]
