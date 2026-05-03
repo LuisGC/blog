@@ -5,6 +5,7 @@ date: "2019-10-05"
 type: "page"
 categories: ["page"]
 status: "published"
+slug: "talks"
 menu:
     main: 
         weight: -50

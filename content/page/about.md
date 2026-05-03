@@ -5,6 +5,7 @@ date: "2003-10-07"
 type: "page"
 categories: ["page"]
 status: "published"
+slug: "about"
 menu:
     main: 
         weight: -90

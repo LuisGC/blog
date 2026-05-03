@@ -5,6 +5,7 @@ date: "2018-08-25"
 type: "page"
 categories: ["page"]
 status: "published"
+slug: "travel-cv"
 menu:
     main: 
         weight: -80
@@ -44,7 +45,7 @@ I have visited **26 out of 193** countries (among those [recognized by United Na
 | Poland | Austchwitz, Katowice (x2), Krakow, Wieliczka, Wroclaw & Zakopane | 18<sup>th</sup> |
 | Portugal | Amarante, Braga, Bragança, Évora, Guimarães, Lisboa, Porto, Póvoa de Varzim, Sintra, Tavira, Vila Real & Vila Real de Santo Antonio | 8<sup>th</sup> |
 | Romania | Bucharest | 19<sup>th</sup> |
-| Serbia | Belrade | 24<sup>th</sup> |
+| Serbia | Belgrade | 24<sup>th</sup> |
 | Slovakia | Bratislava | 16<sup>th</sup> |
 | Spain | _too many_ | 1<sup>st</sup> |
 | Switzerland | Aareschlucht, Almendhubel, CERN, Chillon, Geneve, Gruyeres, Interlaken, Jungfraujoch, Lausanne, Meiringen, Montreux, Mürren & Reichenbackfall | 12<sup>th</sup> |
