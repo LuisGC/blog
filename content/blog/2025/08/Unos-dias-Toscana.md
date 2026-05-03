@@ -9,7 +9,7 @@ status = "published"
 draft = true
 description = ""
 comments = true
-image = "https://picsum.photos/880/280?blur=3"
+image = "/img/2025/08/Unos-dias-Toscana.jpg"
 +++
 
 Llevaba tiempo queriendo visitar esta zona de **Italia**, y por fin este verano he podido hacerlo. Surgió la oportunidad de hacer un viaje con mi hermana y dos de mis sobrinos y no lo dudé ni un momento. Es la primera vez que participaba en un viaje organizado de este tipo, y aunque suelo preferir ir por mi cuenta esta vez nos vino bien que nos lo dieran todo resuelto.
