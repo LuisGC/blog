@@ -37,7 +37,7 @@ Me quedé con ganas de ver y comer más cosas. No descarto volver en cualquier e
 
 {{< image classes="image lateral" src="/img/2025/08/Toscana-Lucca.jpg" title="La Torre Guinigi en Lucca, con sus árboles en la parte superior" >}}
 
-**Lucca** fue una de las pequeñas joyas que visitamos durante nuestro recorrido. Tiene un centro medieval muy bien conservado, con una muralla que lo rodea completamente y que se puede recorrer a pie o en bicicleta. Nosotros no dimos por la vuelta completa a la muralla, pero sí pateamos bastante por el centro, visitando la pintoresca _Piazza dell'Anfiteatro_, la _Chiesa di San Michele in Foro_, el _Duomo di San Martino_ y la _Basilica di San Frediano_.
+**Lucca** fue una de las pequeñas joyas que visitamos durante nuestro recorrido. Tiene un centro medieval muy bien conservado, con una muralla que lo rodea completamente y que se puede recorrer a pie o en bicicleta. Nosotros no dimos la vuelta completa por la muralla, pero sí pateamos bastante por el centro, visitando la pintoresca _Piazza dell'Anfiteatro_, la _Chiesa di San Michele in Foro_, el _Duomo di San Martino_ y la _Basilica di San Frediano_.
 
 Si visitáis Lucca, no dejéis de subir a la [_Torre Guinigi_](https://maps.app.goo.gl/sydw5CduXHaHqd9o8), una torre del siglo XIV que es famosa por tener un jardín en su parte superior, con varios árboles que le dan un aspecto muy peculiar. Desde allí se pueden disfrutar de unas vistas impresionantes de la ciudad y sus alrededores.
 
