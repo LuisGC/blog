@@ -1,6 +1,6 @@
 ---
 author: "LuisGC"
-title: "About the author"
+title: "Acerca del autor"
 date: "2003-10-07"
 type: "page"
 categories: ["page"]

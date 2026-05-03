@@ -1,6 +1,6 @@
 ---
 author: "LuisGC"
-title: "Main public talks"
+title: "Principales charlas"
 date: "2019-10-05"
 type: "page"
 categories: ["page"]

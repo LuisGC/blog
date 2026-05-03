@@ -1,6 +1,6 @@
 ---
 author: "LuisGC"
-title: "My Curriculum Vitae as a traveler"
+title: "Mi Curriculum Vitae como viajero"
 date: "2018-08-25"
 type: "page"
 categories: ["page"]
