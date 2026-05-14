@@ -1,7 +1,7 @@
 ---
 title: "Archivo"
 layout: "archives"
-slug: "archives"
+slug: "archivo"
 menu:
     main:
         weight: -20
