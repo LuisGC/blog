@@ -61,6 +61,11 @@ I have visited **26 out of 193** countries (among those [recognized by United Na
 
 ### 2026
 
+* <span>JUN</span> <p>Guangxi Province (China)</p>
+  - Guilin, Longin Rice Terraces, Yangshuo
+* <span>MAY</span> <p>Beijing (China)</p>
+  - Beijing, Mutianyu Great Wall and East Qing Tombs
+* <span>APR</span> <p>Vitoria (Spain)</p>
 * <span>APR</span> <p>[Tunisia](/blog/2026/04/tunez-norte-sur/)</p>
   - Tunis, El Jem, Matmata, Tozeur, Sbeitla & Kairouan
 * <span>MAR</span> <p>Frankfurt am Main (Germany)</p>
@@ -73,13 +78,13 @@ I have visited **26 out of 193** countries (among those [recognized by United Na
 
 * <span>SEP</span> <p>Parc National des Pyrénees and Pays Basque (France)</p>
   - Gavarnie, Pont d'Espagne, Capbreton, Bayonne, Biarritz, Saint-Jean-de-Luz
-* <span>AUG</span> <p>Tuscany (Italy)</p>
+* <span>AUG</span> <p>[Tuscany (Italy)](/blog/2025/08/unos-dias-toscana/)</p>
   - Bologna, Firenze, Lucca, Pisa, Pistoia, Cinque Terre, Castellina in Chianti, Pienza, Montepulciano, Siena, San Gimignano
 * <span>MAY</span> <p>Current London 2025 - London (United Kingdom)</p>
 * <span>MAY</span> <p>Zona Lúdica 2025 - Málaga (Spain)</p>
 * <span>ABR</span> <p>[Algeria](/blog/2025/04/tassili-najjer-gran-sur-argelia/)</p>
   - Argel, Tamanrasset, Ahaggar National Park, Tassili N'Ajjer NAtional Park, Djanet
-* <span>MAR</span> <p>Belgrade, Serbia</p>
+* <span>MAR</span> <p>Belgrade (Serbia)</p>
 * <span>MAR</span> <p>Amsterdam (Netherlands)</p>
 
 ### 2024
