@@ -199,3 +199,8 @@ ignoreErrors            = ["error-remote-getjson"]
 
 [permalinks]
 page = "/:slug/"
+
+[security]
+  # Permitir tipos de contenido usados por las páginas (evita: security.allowContent error)
+  # Añade únicamente los tipos estrictamente necesarios por seguridad.
+  allowContent = ["text/html", "text/markdown"]

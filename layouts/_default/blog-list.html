@@ -11,8 +11,7 @@
         </div>
     </header>
 
-    {{- $pages := where (where .Site.RegularPages "Type" "post") "Section" "blog" -}}
-    {{- $pages := $pages | sort "Date" "desc" -}}
+    {{- $pages := .Site.RegularPages | where "Section" "blog" | where "Type" "post" | sort "Date" "desc" -}}
     
     {{- $paginator := $.Paginate $pages -}}
     
