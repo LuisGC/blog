@@ -71,7 +71,7 @@ I have visited **26 out of 193** countries (among those [recognized by United Na
 * <span>MAR</span> <p>Frankfurt am Main (Germany)</p>
 * <span>JAN</span> <p>Belgium</p>
   - Ghent, Bruges, Brussels, FOSDEM 2026
-* <span>JAN</span> <p>Tenerife</p>
+* <span>JAN</span> <p>Tenerife (Spain)</p>
   - Santa Cruz de Tenerife, Candelaria, San Cristóbal de La Laguna, Macizo de Anaga, Puerto de la Cruz, Masca, Los Gigantes, Puerto de Santiago, Playa de los Cristianos, El Médano, Vilaflor, Teno Rural Park and Teide National Park
 
 ### 2025
@@ -101,13 +101,13 @@ I have visited **26 out of 193** countries (among those [recognized by United Na
 * <span>JUN</span> <p>Amsterdam (Netherlands)</p>
 * <span>MAY</span> <p>IV Mereth de Ithilien - Barcelona (Spain)</p>
 * <span>APR</span> <p>Zaragoza (Spain)</p>
-* <span>MAR</span> <p>Guipúzcoa, Spain</p>
+* <span>MAR</span> <p>Guipúzcoa (Spain)</p>
   - San Sebastián, Hondarribia, Azcoitia, Zarautz, Zumaia
 
 ### 2023
 
 * <span>NOV</span> <p>Granada (Spain)</p>
-* <span>OCT</span> <p>Japan</p>
+* <span>OCT</span> <p>[Japan](/blog/2023/10/japon-1-paraiso-tradicion-modernidad-frikismo/)</p>
   - Nagoya, Takayama, Shirakawa-go, Kyoto, Osaka, Hiroshima, Itsukushima, Tokyo
 * <span>SEP</span> <p>Isla Canela in Ayamonte (Spain)</p>
 * <span>MAY</span> <p>Germany</p>
