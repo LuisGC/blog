@@ -9,7 +9,7 @@ status = "draft"
 draft = true
 description = "Guilin es una ciudad en la provincia de Guangxi, China, famosa por su paisaje natural único, caracterizado por montañas en forma de pila y ríos serpenteantes. Este resumen detalla la experiencia de un viaje a este increíble destino."
 comments = true
-image = "https://picsum.photos/880/280?blur=3"
+image = "/img/2026/06/Guilin-Pagodas-Sol-Luna.webp"
 +++
 
 ## Guilin
@@ -34,7 +34,7 @@ Terminamos el día paseando por el centro de la ciudad, donde nos encontramos co
 
 El día estaba lluvioso y no pudimos pasear todo lo que nos gustaría pero sí que pudimos al menos acercarnos a ver la estampa nocturna de las Pagodas del Sol y la Luna, que se encuentran en el centro de la ciudad y que son uno de los símbolos más reconocibles de Guilin. La Pagoda del Sol es una estructura de siete pisos construida en ladrillo y piedra, mientras que la Pagoda de la Luna es una estructura de nueve pisos construida en madera y piedra. Ambas pagodas están muy bien iluminadas por la noche, creando un efecto visual impresionante.
 
-{{< image classes="image central" src="/img/2026/06/Guilin-Pagodas-Sol-Luna.jpg" title="Las famosas Pagodas del Sol y la Luna, iconos de la ciudad" >}}
+{{< image classes="image central" src="/img/2026/06/Guilin-Pagodas-Sol-Luna-noche.jpg" title="Las famosas Pagodas del Sol y la Luna, iconos de la ciudad" >}}
 
 <center>
   {{< youtube xN1QJHYiu78 >}}
