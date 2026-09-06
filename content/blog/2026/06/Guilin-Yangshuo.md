@@ -5,9 +5,8 @@ date = 2026-06-21
 type = "post"
 categories = ["travel"]
 tags = ["Personal", "Tourism", "History"]
-status = "draft"
-draft = true
-description = "Guilin es una ciudad en la provincia de Guangxi, China, famosa por su paisaje natural único, caracterizado por montañas en forma de pila y ríos serpenteantes. Este resumen detalla la experiencia de un viaje a este increíble destino."
+status = "published"
+description = "Un viaje por Guilin y Yangshuo entre montañas kársticas, arrozales, pueblos étnicos y un clima de lluvia constante que no impidió disfrutar de uno de los paisajes más espectaculares de China."
 comments = true
 image = "/img/2026/06/Guilin-Pagodas-Sol-Luna.webp"
 +++
