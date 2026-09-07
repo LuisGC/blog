@@ -90,7 +90,7 @@ Al día siguiente la previsión daba unas pocas horas de margen con poca lluvia 
 El sitio es increíble y merece mucho la pena. Habríamos querido estar más tiempo si no fuera por la lluvia. El único inconveniente son los mosquitos y, en ocasiones, esquivar verdaderas caravanas de turistas en bicicletas o motillos pequeñas.
 
 <center>
-  {{< youtube qHMFPxdrVKM >}}
+  {{< youtube 2Xgr40po1BQ >}}
 </center>
 
 ## Xingping y el río Li
