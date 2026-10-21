@@ -140,7 +140,7 @@ ignoreErrors            = ["error-remote-getjson"]
   [[menu.main]]
     name              = "RSS"
     identifier        = "rss"
-    url               = "/feed.xml"
+    url               = "/index.xml"
     pre               = "<i class='fas fa-rss'></i>"
     weight            = 7
 
